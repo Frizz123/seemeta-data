@@ -1,0 +1,65 @@
+{
+  "fileName": "dead-island-2.json",
+  "title": "Dead Island 2 Tier List",
+  "description": "",
+  "heading": "Dead Island 2 Tier List",
+  "introText": "",
+  "datePublished": "2025-05-16",
+  "dateModified": "2025-05-16",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Dani",
+          "itemDescription": "",
+          "itemImage": "/games/images/dead-island-2/dani.webp",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Ryan",
+          "itemDescription": "",
+          "itemImage": "/games/images/dead-island-2/ryan.png",
+          "itemIcon": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Carla",
+          "itemDescription": "",
+          "itemImage": "/games/images/dead-island-2/carla.png",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Amy",
+          "itemDescription": "",
+          "itemImage": "/games/images/dead-island-2/amy.jpg",
+          "itemIcon": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Jacob",
+          "itemDescription": "",
+          "itemImage": "/games/images/dead-island-2/jacob.png",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Bruno",
+          "itemDescription": "",
+          "itemImage": "/games/images/dead-island-2/bruno.png",
+          "itemIcon": ""
+        }
+      ]
+    }
+  ]
+}
