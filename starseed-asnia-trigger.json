@@ -1,0 +1,77 @@
+{
+	"fileName": "starseed-asnia-trigger.json",
+	"title": "STARSEED Asnia Trigger Tier List",
+	"description": "Discover the best characters in STARSEED: Asnia Trigger with this detailed tier list. From S-Tier top performers to B-Tier alternatives, find out which characters to choose for an optimal gameplay experience. Maximize your power in battle with this comprehensive guide.",
+	"heading": "STARSEED Asnia Trigger Tier List",
+	"introText": "Discover the best characters in STARSEED: Asnia Trigger with this detailed tier list. From S-Tier top performers to B-Tier alternatives, find out which characters to choose for an optimal gameplay experience. Maximize your power in battle with this comprehensive guide.",
+	"datePublished": "2024-10-31",
+	"dateModified": "2024-10-31",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Eradica",
+					"itemDescription": "Ranger with powerful buffs and enemy control"
+				},
+				{
+					"itemName": "Leihou",
+					"itemDescription": "Supporter offering team invincibility and revives"
+				},
+				{
+					"itemName": "Thief El",
+					"itemDescription": "High damage dealer against targeted enemies"
+				},
+				{
+					"itemName": "Freya",
+					"itemDescription": "Ranged damage specialist assisting main attackers"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Lila",
+					"itemDescription": "Ranger whose skills are enhanced with certain team combos"
+				},
+				{
+					"itemName": "Pay",
+					"itemDescription": "Attacker providing debuffs in a wide range"
+				},
+				{
+					"itemName": "Verbeta",
+					"itemDescription": "Strong damage dealer with auxiliary skills"
+				},
+				{
+					"itemName": "Patricia",
+					"itemDescription": "Ranger specializing in continuous frostbite damage"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Crimson",
+					"itemDescription": "Ranger dealing damage and enemy debuffs"
+				},
+				{
+					"itemName": "Cleas",
+					"itemDescription": "Reliable attacker"
+				},
+				{
+					"itemName": "Merisha",
+					"itemDescription": "Tanking defender with taunt abilities"
+				},
+				{
+					"itemName": "Irene",
+					"itemDescription": "Attacker specialized for adventure battles"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,118 @@
+{
+    "fileName": "brown-dust-2.json",
+    "title": "Brown Dust 2 Tier List",
+    "description": "Discover the top characters in Brown Dust 2 with our comprehensive tier list, categorizing heroes from S Tier to C Tier based on their performance and utility in the game.",
+    "heading": "Brown Dust 2 Tier List",
+    "introText": "Discover the top characters in Brown Dust 2 with our comprehensive tier list, categorizing heroes from S Tier to C Tier based on their performance and utility in the game.",
+    "datePublished": "2024-05-17",
+    "dateModified": "2025-04-01",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Morpeah",
+                    "itemDescription": "A versatile character capable of summoning units for both offense and defense, delivering high DPS with her own attacks. She can attack before the fight starts and call friends to help her"
+                },
+                {
+                    "itemName": "Apostle Blade",
+                    "itemDescription": "She is renowned for her unique counterattack that damages all enemies, making her invaluable in fiend hunts and guild raids. However, her extremely low HP necessitates strong defensive support to ensure her survival. Costumes, such as \"Young Lady\" and \"Onsen\"  increase her survivability and versatility"
+                },
+                {
+                    "itemName": "Levia",
+                    "itemDescription": "She is a powerful mage specializing in single-target damage, with her \"Night of Jealousy\" costume significantly enhancing single-target attacks and her \"Track and Field Team Captain\" costume offering solid AoE damage and increased magic vulnerability, making both essential for optimal PvE performance"
+                },
+                {
+                    "itemName": "Sylvia",
+                    "itemDescription": "An exceptional attacker with high damage output and utility in various game modes"
+                },
+                {
+                    "itemName": "Loen",
+                    "itemDescription": "A top-tier attacker known for significant damage potential in various scenarios"
+                },
+                {
+                    "itemName": "Yuri",
+                    "itemDescription": "A strong character with high offensive capabilities, making her valuable in multiple game modes"
+                },
+                {
+                    "itemName": "Michaela",
+                    "itemDescription": "She is a formidable presence on the battlefield. Her magical attacks deal massive damage, especially when enhanced by a buff that increases her power by 200%. This makes her the game's top magic attacker, but there's a catch: using this strength greatly reduces her own health. Players should keep this drawback in mind"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Roxy (LC)",
+                    "itemDescription": "A limited collaboration character with strong offensive skills, valuable in various scenarios"
+                },
+                {
+                    "itemName": "Scheherazade",
+                    "itemDescription": "A versatile character with good offensive stats and high damage costumes, useful in late-game content. With her unique skill, she can strip Buff effects from three tiles in a row, turning the tide in your favor"
+                },
+                {
+                    "itemName": "Anastasia",
+                    "itemDescription": "A reliable attacker with good offensive stats and high damage potential"
+                },
+                {
+                    "itemName": "Liatris",
+                    "itemDescription": "An attacker with high damage costumes and good offensive stats, suitable for various content"
+                },
+                {
+                    "itemName": "Rubia",
+                    "itemDescription": "A character with strong offensive skills, contributing significantly in battles"
+                },
+                {
+                    "itemName": "Eclipse",
+                    "itemDescription": "A highly desirable character due to her abilities, the most significant of which stems from her default costume: she drains health from enemies to restore a significant portion of her own HP. Additionally, she depletes the enemy's SP gauge, preventing them from frequently using their special abilities"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Rafina",
+                    "itemDescription": "A character with moderate offensive capabilities, suitable for specific situations"
+                },
+                {
+                    "itemName": "Alec",
+                    "itemDescription": "An attacker with lower power offensive skills, not recommended as a main attacker in late-game content"
+                },
+                {
+                    "itemName": "Elise",
+                    "itemDescription": "A character with moderate offensive skills, suitable for specific scenarios"
+                },
+                {
+                    "itemName": "Lathel",
+                    "itemDescription": "An attacker with moderate damage potential, useful in certain contexts"
+                },
+                {
+                    "itemName": "Gray",
+                    "itemDescription": "A character with moderate offensive capabilities, suitable for specific situations"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Glacia",
+                    "itemDescription": "A character dealing low damage, primarily used for roles other than attacking"
+                },
+                {
+                    "itemName": "Zenith",
+                    "itemDescription": "A character with low offensive capabilities, not recommended for main attacking roles"
+                },
+                {
+                    "itemName": "Celia",
+                    "itemDescription": "A character dealing low damage, primarily used for support roles"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+	"fileName": "memento-mori.json",
+	"title": "Memento Mori Tier List",
+	"description": "Explore a tier list of the most iconic symbols and themes of memento mori—the reminder of mortality—ranked from S Tier to C Tier. Learn the significance behind each item, from skulls to clocks, and how they encourage reflection on the impermanence of life.\n",
+	"heading": "Memento Mori Tier List",
+	"introText": "Explore a tier list of the most iconic symbols and themes of memento mori—the reminder of mortality—ranked from S Tier to C Tier. Learn the significance behind each item, from skulls to clocks, and how they encourage reflection on the impermanence of life.\n",
+	"datePublished": "2024-09-22",
+	"dateModified": "2024-09-22",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Primavera",
+					"itemDescription": "Primavera is great to bring along because she can inflict the Faint debuff on enemies, effectively stunning them. This is on top of her high SPD stat, ensuring that she'll be one of the first witches in your party that will strike (and, hopefully, stun) your opponents. She also has a party-wide ATK buff and a potential 'Buff Immunity' debuff that keeps her enemies from getting their own buffs"
+				},
+				{
+					"itemName": "Mimi",
+					"itemDescription": "A good witch to bring along if you need a secondary attacker. Mimi works somewhat like Florence in that the number of her attacks increases the more enemies she defeats. Her true value, however, is in how she can inflict Resonance on enemies with the most DEF and the least DEF. If the enemy with the least DEF is attacked, the enemy with the most DEF takes 50% of the damage. This makes her great to bring along if you're up against enemy parties with tanky units"
+				},
+				{
+					"itemName": "Nina",
+					"itemDescription": "Nina is great in that she's hard to hit and can tank damage if she does get hit. She can also take debuffs inflicted on her and hurl them back at the enemy, and steal any buffs that the enemy has. Best to use her against enemies that like using buffs and debuffs. Otherwise, it would be better to bring units that can deal more damage or buff your party instead"
+				},
+				{
+					"itemName": "Merlyn",
+					"itemDescription": "Great support character whose prime use is to boost your main attacker's CRIT chance by 20%. Great to pair with Florence especially, but suitable for other attackers as well. Easy to level up because you can also get copies of her from the Shop with Space-Time coins"
+				},
+				{
+					"itemName": "Florence",
+					"itemDescription": "Florence's value is in the increasing number of attacks she makes the more critical hits she successfully does. This is why pairing her with Merlyn gives you one of the best attackers in the game for PvE. Like Cordie, she also has great CRIT and ATK self-buffs that are not dependent on how long she remains alive in battle. The issue in using her arises when she's matched against faster opponents who can outspeed her, as well as opponents with high EVD that can avoid her attacks"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Lunalynn",
+					"itemDescription": "Good buffer and debuffer who can poison enemies and keep them from using their skills with Silence debuffs, while increasing the P. DEF of her allies. She can also act as a tank with her last passive skill cutting the damage she takes on top of increasing her HP drain"
+				},
+				{
+					"itemName": "Natasha",
+					"itemDescription": "A very powerful attacker only limited by how hard it is to get copies of her and level up consistently for F2P players. You'll need to buff her STR stats with runes and equipment so that she can consistently inflict 'Faint' debuffs on her enemies while dealing massive damage with her attacks. Her ATK (and later CRIT damage) self-buff only makes her more powerful. She can also tank hits quite well with her ability to cut any damage she receives by 40%"
+				},
+				{
+					"itemName": "Soltina",
+					"itemDescription": "Soltina is a tanky unit that can take a lot of punishment. At the same time, she'll inflict Sleep and Faint debuffs on the enemy, opening them up to attacks from your main attacker"
+				},
+				{
+					"itemName": "Mertillier",
+					"itemDescription": "Mertillier is great to have if only because of her 'Maintenance' skill. Not only does it lower your main attacker's skill cooldown, but it also boosts their ATK by 65%. She can also be quite a tank with her Shield, healing, and Debuff RES-related abilities"
+				},
+				{
+					"itemName": "Dian",
+					"itemDescription": "Dian's primary use is to help your main attacker survive potentially devastating attacks by increasing their EVD with her passive skill 'Heart of Servitude'. She can also be a potent unit when paired with other witches that already have high EVD like Nina. She also becomes more useful in the later PvE stages where you'll want your main attacker to avoid getting hit for as long as possible before they wipe out the enemy party"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Illya",
+					"itemDescription": "Illya is useful only because of her ability to inflict the Faint debuff for 2 turns on a single enemy, making her useful for boss battles where keeping them fainted could spell the difference between winning the fight or not"
+				},
+				{
+					"itemName": "Iris",
+					"itemDescription": "Iris can serve as your main damage dealer for the very early game while you're still playing around with MementoMori's systems. Since she can hit multiple enemies in one turn, she'll most likely be the last R character you'll replace once you start using more and more SR characters"
+				},
+				{
+					"itemName": "Sabrina",
+					"itemDescription": "Sabrina could've been a good attacker, but she does not have any ATK self-buffs; instead, she has a DEF self-buff that depends on whether she makes 4 critical hits, on top of other skills that don't synergize well with what her role is supposed to be. However, she can deal SPD debuffs to enemies and still deal decent damage in the early game"
+				},
+				{
+					"itemName": "Freesia",
+					"itemDescription": "Freesia is a good healer that's supposed to keep your allies alive. However, with how fast battles in MementoMori's PvE can go, she is never alive long enough for the party to benefit from her EVD and DEF buffs and heals unless she's paired with tankier witches"
+				},
+				{
+					"itemName": "Olivia",
+					"itemDescription": "Olivia gives decent ATK buffs, but you'll have to make sure her own ATK stat is high with runes and equipment (since her buffs scale with her ATK stat). Olivia can also protect your allies with a Shield that cuts up to 40% of the damage she deals (again, scaling with her ATK stat). She also has a debuff ability that cuts an enemy's attack if she receives a critical hit from them"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Monica",
+					"itemDescription": "Aside from being an N rarity character, Monica is only good for healing. Her healing, however, scales with her ATK, which means you'll have to gear her up with equipment that could go to other witches instead"
+				},
+				{
+					"itemName": "Charlotte",
+					"itemDescription": "Debuffs her enemy's ATK by 20% for 2 turns on top of the damage she already deals with her attacks"
+				},
+				{
+					"itemName": "Garmr",
+					"itemDescription": "Her skills have low ATK value, though she can deal a 20% SPD debuff. Better to use Sabrina instead"
+				},
+				{
+					"itemName": "Shizu",
+					"itemDescription": "Very weak physical attacks"
+				},
+				{
+					"itemName": "Zara",
+					"itemDescription": "Zara is like a budget Sabrina in that she can deal decent damage and SPD debuffs. But that's on top of inflicting Faint on her enemies. Also gets a 20% damage cut when she goes below 30% HP, though depending on her build, she might end up straight-up getting defeated in 1 hit"
+				}
+			]
+		}
+	]
+}

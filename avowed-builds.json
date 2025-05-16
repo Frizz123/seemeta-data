@@ -1,0 +1,50 @@
+{
+  "fileName": "avowed-builds.json",
+  "title": "Avowed Builds Tier List",
+  "description": "Discover the top builds in Avowed, ranked from S to C Tier, to optimize your gameplay experience",
+  "heading": "Avowed Builds Tier List",
+  "introText": "Discover the top builds in Avowed, ranked from S to C Tier, to optimize your gameplay experience",
+  "datePublished": "2025-02-19",
+  "dateModified": "2025-02-19",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Ranger",
+          "itemDescription": "Emphasizes ranged combat and versatility. Key abilities include Tangleroot for crowd control, Steady Aim for enhanced ranged attacks, and Shadowing Beyond for stealth. This build excels in adaptability and sustained damage"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Wizard",
+          "itemDescription": "Focuses on powerful spellcasting with abilities like Minor Missiles for damage, Arcane Veil for damage reduction, and Grimoire Mastery for access to advanced spells. Ideal for players who prefer magical combat and area-of-effect damage"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Fighter",
+          "itemDescription": "Centers on melee combat and durability. Notable abilities include Charge for engaging enemies, Constant Recovery for health regeneration, and Armored Grace for reduced stamina penalties in heavy armor. Suited for players who favor close-quarters combat and resilience"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Spellblade",
+          "itemDescription": "A hybrid of melee and magic, utilizing abilities like Charge for mobility, Minor Missiles for ranged damage, and Grimoire Snap for area damage. While versatile, it may lack the specialization found in pure builds"
+        }
+      ]
+    }
+  ]
+}

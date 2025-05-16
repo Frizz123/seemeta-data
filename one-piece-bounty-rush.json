@@ -1,0 +1,130 @@
+{
+	"fileName": "one-piece-bounty-rush.json",
+	"title": "One Piece Bounty Rush Tier List",
+	"description": "Explore the best characters in One Piece Bounty Rush with this comprehensive 2024 tier list. Learn which S, A, B, and C tier characters dominate in various roles like Attackers, Defenders, and Runners. Plan your strategy effectively!",
+	"heading": "One Piece Bounty Rush Tier List",
+	"introText": "Explore the best characters in One Piece Bounty Rush with this comprehensive 2024 tier list. Learn which S, A, B, and C tier characters dominate in various roles like Attackers, Defenders, and Runners. Plan your strategy effectively!",
+	"datePublished": "2024-09-26",
+	"dateModified": "2024-09-26",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "CP9 Jabra",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "CP9 Blueno",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Animal Kingdom Pirates",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lead Performer King Kaidos Son Yamato",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Slicing Winds of Rommel Hakuba",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Battle of Monsters on Onigashima Olin the Oiran",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Don Quixote Pirates Officer Monet",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Animal Kingdom Pirates Lead Performer Queen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Billion-Fol World Trichiliocosm Roronoa Zoro",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Film Strong World Shiki",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fire Fist Portgaz D. Ace",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "CPO Rob Lucci",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Whole Cake Island Sanji",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Land of Wano Trafalgar Law",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Princess and Loyal Partner Vivi and Karoo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Savior God Usopp",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Land of Wano Franosuke",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Paramount War Gecko Moria",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Land of Wano X. Drake",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "King of the Night Cat Viper",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Amaru Eneru",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bikini Nami",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Impel Down Warden Mgellan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Revolutionary Army Chief of Staff Sabo",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,122 @@
+{
+  "fileName": "girls-frontline-2.json",
+  "title": "Girls' Frontline 2: Exilium Tier List",
+  "description": "Comprehensive tier list for Girls' Frontline 2: Exilium, categorizing characters from S to C Tier with detailed descriptions.",
+  "heading": "Girls' Frontline 2: Exilium Tier List",
+  "introText": "Comprehensive tier list for Girls' Frontline 2: Exilium, categorizing characters from S to C Tier with detailed descriptions.",
+  "datePublished": "2024-11-12",
+  "dateModified": "2025-03-22",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Suomi",
+          "itemDescription": "An exceptional support unit capable of providing robust shields and cleansing debuffs. She also contributes decent damage, especially when paired with Makiatto"
+        },
+        {
+          "itemName": "Makiatto",
+          "itemDescription": "A top-tier sniper specializing in high single-target damage with impressive range. Additionally, she can shield allies, offering both offensive and defensive support"
+        },
+        {
+          "itemName": "Qiongjiu",
+          "itemDescription": "A versatile assault rifle wielder known for delivering substantial damage rapidly. Her skill set synergizes well with various team compositions"
+        },
+        {
+          "itemName": "Klukai",
+          "itemDescription": "Ыру specializes in dealing high damage per second (DPS) and possesses high mobility, making her effective in various combat scenarios. Her skills can be enhanced through training and weapon customization. In battle, Klukai wields an assault rifle to deliver consistent damage, making her a valuable team member"
+        },
+        {
+          "itemName": "Tololo",
+          "itemDescription": "Gains lots of action points and can rival top damage dealers like Makiatto. Works especially well with Qiongjiu thanks to Action Support"
+        },
+        {
+          "itemName": "Dushevnaya",
+          "itemDescription": "An SSR Support Doll focused on Freeze buffs and AoE debuffs. Best used with the Eulogistic Verse rifle and allies like Makiatto, Suomi, and Qiongjiu"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Ksenia",
+          "itemDescription": "An SR support who provides solid heals and buffs, including a damage boost with Blazing Assault II. Very effective in most teams, especially with Qiongjiu"
+        },
+        {
+          "itemName": "Sabrina",
+          "itemDescription": "A tank with situational value. She can create or destroy cover, slow enemies, and has AoE abilities. While her damage is low, her utility makes her useful in the right setup"
+        },
+        {
+          "itemName": "Lotta",
+          "itemDescription": "A versatile sniper-type unit known for high single-target burst damage. She excels at picking off key enemies from a distance and works best when protected by tanks or supports. Her precision and critical hit potential make her a strong backline damage dealer"
+        },
+        {
+          "itemName": "Sharkry",
+          "itemDescription": "A melee-oriented frontline fighter with solid survivability. She can deal AoE damage and apply crowd control effects, making her effective at disrupting enemy lines. Best used in aggressive or balanced team comps to soak damage and initiate fights"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Mosin-Nagant",
+          "itemDescription": "An SSR rarity T-Doll wielding a sniper rifle, Mosin-Nagant specializes in dealing Electric damage. Her active skill, \"Target Victory,\" allows her to select an enemy within nine tiles, inflicting physical damage equal to 130% of her attack. Additionally, she applies \"Conductivity\" to the target for one turn, converting damage taken into Paralysis, effectively debuffing the enemy"
+        },
+        {
+          "itemName": "Nemesis",
+          "itemDescription": "An SR rarity T-Doll equipped with a sniper rifle, Nemesis deals Corrosion-type damage. Her active skill, \"Enlightened Star,\" enables her to target an enemy within nine tiles, dealing physical damage equal to 130% of her attack. When attacking near cover, she boosts her damage by 20% and gains 2 points on the Confectance Index, enhancing her offensive capabilities"
+        },
+        {
+          "itemName": "Papasha",
+          "itemDescription": "An SSR rarity T-Doll using an assault rifle, Papasha specializes in physical damage. She is categorized under the Support class, providing team buffs and debuffs to enemies, enhancing overall team performance"
+        },
+        {
+          "itemName": "Ullrid",
+          "itemDescription": "An SSR rarity T-Doll armed with a sword, Ullrid excels in melee combat, dealing physical damage. Her active skill, \"Hunter’s Sight,\" allows her to select a target within one tile, inflicting melee physical damage equal to 120% of her attack. She also gains six tiles of additional movement and, if the target survives, applies \"Mark of Prey\" for two turns, increasing damage taken by the marked enemy"
+        },
+        {
+          "itemName": "Cheeta",
+          "itemDescription": "An SR rarity T-Doll classified under the Support class, Cheeta specializes in Burn-type damage. She provides buffs to allies and can inflict burn effects on enemies, contributing to damage over time strategies"
+        },
+        {
+          "itemName": "Vepley",
+          "itemDescription": "An SSR rarity T-Doll wielding a shotgun, Vepley focuses on physical damage. Her active skill, \"All Out Performance,\" allows her to attack in a chosen direction, dealing physical damage equal to 75% of her attack to the first enemy in each line within a 3×5 area, knocking targets back by four tiles. She also destroys destructible cover within and outside the 3×3 tile region surrounding her, providing strategic advantages in battle"
+        },
+        {
+          "itemName": "Colphne",
+          "itemDescription": "An SR rarity T-Doll categorized under the Support class, Colphne specializes in Hydro-type damage. She offers healing and buffs to allies, enhancing team survivability and effectiveness"
+        },
+        {
+          "itemName": "Groza",
+          "itemDescription": "An SR rarity T-Doll using an assault rifle, Groza deals physical damage and is classified under the Bulwark class. Her active skill, \"Heavy Suppression,\" allows her to target an enemy within seven tiles, dealing physical damage equal to 130% of her attack while applying Movement Down II for one turn, reducing the enemy's mobility and hindering their tactical positioning"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Peritya",
+          "itemDescription": "An SSR-ranked DPS unit specializing in area-of-effect (AoE) damage. She excels in dealing significant damage to multiple enemies simultaneously but has low survivability. Her effectiveness increases when paired with characters like Klukai and Mechty, though these synergies may not yet be available in all game versions"
+        },
+        {
+          "itemName": "Littara",
+          "itemDescription": "An SR-ranked support unit who provides buffs to allies. While her utility is recognized, she is currently placed in the C-tier, indicating limited effectiveness compared to higher-tier units"
+        },
+        {
+          "itemName": "Nagant",
+          "itemDescription": "An SR-ranked support unit, formerly known as Mosin-Nagant, who offers buffs to the team. Similar to Littara, she is categorized in the C-tier, suggesting a more situational role in team compositions"
+        },
+        {
+          "itemName": "Krolik",
+          "itemDescription": "An SR-ranked DPS unit equipped with a melee blade. In addition to her combat duties, she serves as the team's de facto translator for Nemesis. Currently, she is placed in the D-tier, indicating challenges in her performance and effectiveness in combat scenarios"
+        }
+      ]
+    }
+  ]
+}

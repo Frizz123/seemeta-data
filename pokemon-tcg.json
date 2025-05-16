@@ -1,0 +1,82 @@
+{
+	"fileName": "pokemon-tcg.json",
+	"title": "Pokemon TCG Tier List",
+	"description": "Explore the best cards in Pokemon TCG with our tier list. Discover which Pokemon cards rank in S, A, B and C tiers to help build the strongest decks for competitive play.",
+	"heading": "Pokemon TCG Tier List",
+	"introText": "Explore the best cards in Pokemon TCG with our tier list. Discover which Pokemon cards rank in S, A, B and C tiers to help build the strongest decks for competitive play.",
+	"datePublished": "2024-10-01",
+	"dateModified": "2025-01-30",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Weavile ex Deck",
+					"itemDescription": "Strengths (Very Energy-efficient, being effective with only one Energy attachment. Darkrai ex and Spiritomb synergize with Cyrus, allowing you to gust out a damaged Pokemon for a decisive KO. Sufficiently speedy because Weavile ex is a Stage 1); Weaknesses (May struggle against Grass-types with low costing Attacks like Exeggutor ex)"
+				},
+				{
+					"itemName": "Gyarados ex and Greninja Deck",
+					"itemDescription": "Strengths (Gyarados ex's 180 HP can withstand heavy hits. Gyarados ex's Rampaging Whirlpool can discard Energy from the opponent's pokemon. Greninja can damage any of the opponent's Pokemon with Water Shuriken); Weaknesses (Weak against aggro Lightning decks.Takes time to set up)"
+				},
+				{
+					"itemName": "Pikachu ex Deck",
+					"itemDescription": "Strengths (Easy to set up and attack with. Efficient attack and retreat costs. Positive matchup against Starmie ex and Articuno ex decks); Weaknesses (Weak to Fighting-type decks. May lack the necessary damage output against high-HP Pokemon)"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Palkia ex Deck",
+					"itemDescription": "Strengths (Has access to Manaphy, which can set Palkia ex up for offense later in the game. Palkia ex is still great in the early game because of its 30 damage Slash. Has access to Misty, which may give it the capability to immediately attack after lucky flips); Weaknesses (May have difficulty taking on speedy Lightning decks. A Water deck that is not solely reliant on Misty for acceleration)"
+				},
+				{
+					"itemName": "Charizard ex Deck",
+					"itemDescription": "Strengths (Charizard can take multiple points once set up. Moltres ex is a great starter that can ramp Energy onto Benched Pokemon. Charizard ex and Moltres ex have different weaknesses); Weaknesses (Charizard ex requires setup with lots of Energy. Moltres ex is a mediocre attacker by itself)"
+				},
+				{
+					"itemName": "Vaporeon and Articuno ex Deck",
+					"itemDescription": "Strengths (Vaporeon and Leaf combo can keep the deck Energy-efficient, especially wtih Misty's acceleration. Articuno ex can be powered up quickly with minimal effort with lucky Misty flips); Weaknesses (Weak to Lightning-type Pokemon. Low damage output)"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Articuno ex Deck",
+					"itemDescription": "Strengths (Can sweep through teams after a successful Misty. Has access to all the best Trainer cards); Weaknesses (Weak to Lightning-type decks. Difficult to recover if Misty usage is unsuccessful)"
+				},
+				{
+					"itemName": "Venusaur ex Deck",
+					"itemDescription": "Strengths (Pokemon in the deck are incredibly tanky. Difficult to stop once set up. Exeggutor ex is easy to set up while setting up a Venusaur ex on the Bench); Weaknesses (Weak to Fire-type decks. Difficult to set up)"
+				},
+				{
+					"itemName": "Lapras ex Deck",
+					"itemDescription": "Strengths (Can keep itself healthy with its Bubble Drain Attack. Has a hefty 140 HP, making it difficult to KO. Can deal a sizeable 80 damage, allowing it to 2HKO most ex Pokemon, or OHKO most Basic non-exs); Weaknesses (Weak to Lightning-type decks. Reliant on lucky Misty flips)"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Arbok Lock Deck",
+					"itemDescription": "Strengths (Disruptive and dangerous. Can 2HKO most Pokemon); Weaknesses (May sometimes not get Ekans start. May sometimes not get Pidgeot when needed)"
+				},
+				{
+					"itemName": "Zapdos ex Deck",
+					"itemDescription": "Strengths (Can attack immediately with just 1 Energy. Has access to all the best Trainer cards. Can high roll with Thundering Hurricane and deal up to 150 to 200 damage); Weaknesses (Weak to Lightning-type decks.No access to any form of ramp and relies on manual Energy attachment)"
+				},
+				{
+					"itemName": "Blastoise ex Deck",
+					"itemDescription": "Strengths (Can be powered up with lucky Misty flips. Difficult to KO Blastoise ex with its high HP); Weaknesses (Slow to set up because it is a Stage 2 deck. Demands plenty of Energy for it to deal bigger damage. Weak to Lightning-type Pokemon)"
+				}
+			]
+		}
+	]
+}

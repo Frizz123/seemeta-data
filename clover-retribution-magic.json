@@ -1,0 +1,70 @@
+{
+	"fileName": "clover-retribution-magic.json",
+	"title": "Clover Retribution Magic Tier List",
+	"description": "Delve into the enchanting realm of Clover Retribution and uncover the ultimate tier list of magical prowess. Discover the strengths and weaknesses of each magical path, from the unparalleled might of World Tree Magic to the strategic versatility of Water Magic. Whether you're a seasoned sorcerer or an aspiring apprentice, this comprehensive guide will empower you to choose the magical discipline that aligns perfectly with your playstyle. Embrace the power of magic and embark on an unforgettable journey of mystical dominance!",
+	"heading": "Clover Retribution Magic Tier List",
+	"introText": "Delve into the enchanting realm of Clover Retribution and uncover the ultimate tier list of magical prowess. Discover the strengths and weaknesses of each magical path, from the unparalleled might of World Tree Magic to the strategic versatility of Water Magic. Whether you're a seasoned sorcerer or an aspiring apprentice, this comprehensive guide will empower you to choose the magical discipline that aligns perfectly with your playstyle. Embrace the power of magic and embark on an unforgettable journey of mystical dominance!",
+	"datePublished": "2024-06-28",
+	"dateModified": "2024-06-28",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "World Tree Magic",
+					"itemDescription": "This magic is known for its high damage output and versatility. It has a variety of moves that can be used to attack enemies from a distance or up close"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Lightning Magic",
+					"itemDescription": "This magic is another great option for dealing damage. It is also very fast-paced, making it a good choice for players who like to be on the offensive"
+				},
+				{
+					"itemName": "Time Magic",
+					"itemDescription": "This magic is unique in that it allows players to control time. This can be used to slow down enemies, speed up allies, or even reverse time altogether"
+				},
+				{
+					"itemName": "Water Magic",
+					"itemDescription": "This magic is a good choice for players who want to be able to both attack and defend. It has a variety of moves that can be used to deal damage, heal allies, or create shields"
+				},
+				{
+					"itemName": "Void Magic",
+					"itemDescription": "This magic is known for its ability to deal damage over time. It is also very effective against bosses"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Blood Magic",
+					"itemDescription": "This magic is a good choice for players who want to be able to deal damage and heal themselves at the same time. However, it can be difficult to master"
+				},
+				{
+					"itemName": "Fire Magic",
+					"itemDescription": "This magic is a classic choice for players who want to deal damage. However, it can be dangerous to use, as it can also damage the player"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Earth Magic",
+					"itemDescription": "This magic is limited in its moveset, but it can still be useful for players who want to be able to control the battlefield"
+				},
+				{
+					"itemName": "Melody Magic",
+					"itemDescription": "This magic is best used in a group setting, as it can buff allies and debuff enemies. However, it is not very effective on its own"
+				}
+			]
+		}
+	]
+}

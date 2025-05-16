@@ -1,0 +1,114 @@
+{
+	"fileName": "wilds-of-eldraine-draft.json",
+	"title": "Wilds of Eldraine Draft Tier List",
+	"description": "Wilds of Eldraine (WOE) is a Magic: the Gathering set that was released in 2019. It is a popular set for drafting, as it has a variety of interesting mechanics and powerful cards. This tier list is designed to help you make better choices when drafting WOE. It is based on the collective wisdom of experienced drafters, and it takes into account the power level of the cards, the synergies between them, and the metagame of the format.",
+	"heading": "Wilds of Eldraine Draft Tier List",
+	"introText": "Wilds of Eldraine (WOE) is a Magic: the Gathering set that was released in 2019. It is a popular set for drafting, as it has a variety of interesting mechanics and powerful cards. This tier list is designed to help you make better choices when drafting WOE. It is based on the collective wisdom of experienced drafters, and it takes into account the power level of the cards, the synergies between them, and the metagame of the format.",
+	"datePublished": "2024-06-05",
+	"dateModified": "2025-02-11",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Gilded Goose",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fae of Wishes",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Emergent Ultimatum",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Great Henge",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Escape to the Wilds",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Oko, Thief of Crowns",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fires of Invention",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cloverhulk",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Murderous Rider",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Wishclaw Troll",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Brazen Borrower",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Realm-Cloaked Giant",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Feasting Troll King",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Adamant Paladin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Charming Prince",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Escape from the Prefect",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lucky Clover",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Whistlebrim, Settlemender",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pounce Attack",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Migration Path",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

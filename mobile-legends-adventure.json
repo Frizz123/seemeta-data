@@ -1,0 +1,82 @@
+{
+	"fileName": "mobile-legends-adventure.json",
+	"title": "Mobile Legends Adventure Tier List",
+	"description": "Discover the best heroes in Mobile Legends Adventure with our comprehensive tier list. Find out which characters rank in S Tier, A Tier, B Tier, and C Tier to optimize your team and dominate the game.",
+	"heading": "Mobile Legends Adventure Tier List",
+	"introText": "Discover the best heroes in Mobile Legends Adventure with our comprehensive tier list. Find out which characters rank in S Tier, A Tier, B Tier, and C Tier to optimize your team and dominate the game.",
+	"datePublished": "2024-07-21",
+	"dateModified": "2024-07-21",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Odette",
+					"itemDescription": "Exceptional AoE damage and crowd control make her a top-tier hero"
+				},
+				{
+					"itemName": "Alice",
+					"itemDescription": "High survivability and powerful AoE skills that can turn the tide of battle"
+				},
+				{
+					"itemName": "Lunox",
+					"itemDescription": "Versatile with both offensive and defensive capabilities, making her a must-have hero"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Estes",
+					"itemDescription": "Excellent healing abilities that provide strong support to the team"
+				},
+				{
+					"itemName": "Karina",
+					"itemDescription": "High burst damage and evasion skills, ideal for quick eliminations"
+				},
+				{
+					"itemName": "Aurora",
+					"itemDescription": "Strong crowd control and AoE damage, great for controlling the battlefield"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Zilong",
+					"itemDescription": "Good single-target damage and mobility, but less effective in team fights"
+				},
+				{
+					"itemName": "Gatotkaca",
+					"itemDescription": "Decent tank with good crowd control, but lacking in damage output"
+				},
+				{
+					"itemName": "Hylos",
+					"itemDescription": "High health pool and utility, but suffers from low damage"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Franco",
+					"itemDescription": "Good crowd control but low damage and survivability make him less effective"
+				},
+				{
+					"itemName": "Layla",
+					"itemDescription": "Strong early game damage but falls off significantly in the late game"
+				},
+				{
+					"itemName": "Bane",
+					"itemDescription": "Decent AoE damage, but overall less effective compared to higher-tier heroes"
+				}
+			]
+		}
+	]
+}

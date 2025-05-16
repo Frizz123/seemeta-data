@@ -1,0 +1,98 @@
+{
+	"fileName": "ultimate-marvel-vs-capcom-3.json",
+	"title": "Ultimate Marvel vs. Capcom 3 (UMvC3) Tier List",
+	"description": "Discover the Ultimate Marvel vs. Capcom 3 (UMvC3) tier list with detailed descriptions of the best characters ranked from S Tier to C Tier. Find out which characters dominate the game and why they stand out.",
+	"heading": "Ultimate Marvel vs. Capcom 3 (UMvC3) Tier List",
+	"introText": "Discover the Ultimate Marvel vs. Capcom 3 (UMvC3) tier list with detailed descriptions of the best characters ranked from S Tier to C Tier. Find out which characters dominate the game and why they stand out.",
+	"datePublished": "2024-06-24",
+	"dateModified": "2024-06-24",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Vergil",
+					"itemDescription": "High damage output, excellent mix-ups, and strong hyper combos"
+				},
+				{
+					"itemName": "Zero",
+					"itemDescription": "Versatile moveset, powerful combos, and strong mix-up potential"
+				},
+				{
+					"itemName": "Dante",
+					"itemDescription": "Long-range attacks, high mobility, and versatile toolkit"
+				},
+				{
+					"itemName": "Dr. Doom",
+					"itemDescription": "Strong zoning capabilities, excellent assists, and high damage"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Magneto",
+					"itemDescription": "Great mobility, strong zoning, and powerful combos"
+				},
+				{
+					"itemName": "Spencer",
+					"itemDescription": "High damage output, great mobility with his grappling hook, and strong mix-ups"
+				},
+				{
+					"itemName": "Morrigan",
+					"itemDescription": "Powerful zoning with Soul Fist, strong meter building, and solid mix-ups"
+				},
+				{
+					"itemName": "Wolverine",
+					"itemDescription": "High-speed attacks, strong mix-ups, and good damage output"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Hawkeye",
+					"itemDescription": "Excellent zoning with arrows, good assists, and decent mobility"
+				},
+				{
+					"itemName": "Storm",
+					"itemDescription": "Good zoning, strong mobility, and decent damage output"
+				},
+				{
+					"itemName": "Taskmaster",
+					"itemDescription": "Versatile moveset, strong zoning, and good damage"
+				},
+				{
+					"itemName": "Trish",
+					"itemDescription": "Strong zoning with projectiles, good mobility, and decent mix-ups"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Iron Fist",
+					"itemDescription": "Strong melee attacks, decent damage output, but lacks good mobility"
+				},
+				{
+					"itemName": "Hulk",
+					"itemDescription": "High damage and durability, but slow and lacks strong zoning tools"
+				},
+				{
+					"itemName": "Thor",
+					"itemDescription": "High damage and health, but slow movement and limited combo potential"
+				},
+				{
+					"itemName": "Ghost Rider",
+					"itemDescription": "Long-range attacks, decent damage, but slow and lacks mix-up potential"
+				}
+			]
+		}
+	]
+}

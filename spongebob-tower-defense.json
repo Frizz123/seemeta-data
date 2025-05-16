@@ -1,0 +1,110 @@
+{
+  "fileName": "spongebob-tower-defense.json",
+  "title": "SpongeBob Tower Defense Tier List",
+  "description": "Explore the latest tier list for SpongeBob Tower Defense, ranking units from S to C Tier based on their performance and abilities.",
+  "heading": "SpongeBob Tower Defense Tier List",
+  "introText": "Explore the latest tier list for SpongeBob Tower Defense, ranking units from S to C Tier based on their performance and abilities.",
+  "datePublished": "2025-04-06",
+  "dateModified": "2025-04-06",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "SpongeHenge",
+          "itemDescription": "A secret unit known for its high damage output and resilience on the battlefield"
+        },
+        {
+          "itemName": "Sea Bear",
+          "itemDescription": "A secret unit that deals 7,000 splash damage with a 1-second attack speed and a range of 28, attacking by lunging at enemies entering its radius"
+        },
+        {
+          "itemName": "Cyborg Plankton",
+          "itemDescription": "A secret unit combines advanced weaponry with strategic abilities, making it a formidable presence"
+        },
+        {
+          "itemName": "Handsome Squidward",
+          "itemDescription": "A Legendary unit known for his area-of-effect attacks that slow down enemies, allowing other units to deal more damage effectively"
+        },
+        {
+          "itemName": "Hibernation Sandy",
+          "itemDescription": "A Mythic unit with high damage output and durability, making her a formidable presence on the battlefield"
+        },
+        {
+          "itemName": "Mermaid Man",
+          "itemDescription": "Another Mythic unit offering unique abilities that can significantly impact the course of battles"
+        },
+        {
+          "itemName": "Realistic Fish Head",
+          "itemDescription": "A Mythic unit that provides strong support capabilities, enhancing the effectiveness of other units"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Flying Dutchman",
+          "itemDescription": "A Legendary unit with solid offensive capabilities and decent support skills, making him a versatile choice for various strategies. Offers solid offensive capabilities with his ghostly attacks and can phase through obstacles"
+        },
+        {
+          "itemName": "King Neptune",
+          "itemDescription": "A Mythic unit known for his powerful attacks and commanding presence on the battlefield"
+        },
+        {
+          "itemName": "Man Ray",
+          "itemDescription": "A Mythic unit with balanced attributes, offering both offensive and defensive utilities"
+        },
+        {
+          "itemName": "Mr. Krabs",
+          "itemDescription": "A Legendary unit that brings a mix of attack power and resilience, suitable for various tactical approaches"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Larry the Lobster",
+          "itemDescription": "An Epic unit with moderate stats, providing reliable support in mid-game scenarios"
+        },
+        {
+          "itemName": "Pearl",
+          "itemDescription": "A Rare unit offering specific utilities that can be beneficial in certain situations"
+        },
+        {
+          "itemName": "Plankton",
+          "itemDescription": "A Legendary unit with unique abilities, though not as impactful as higher-tier units"
+        },
+        {
+          "itemName": "DoodleBob",
+          "itemDescription": "A Legendary unit with niche applications, effective when used strategically"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Bubble Buddy",
+          "itemDescription": "A Rare unit with limited effectiveness, best utilized in early-game stages"
+        },
+        {
+          "itemName": "Karen",
+          "itemDescription": "An Epic unit whose abilities are situational, making her less reliable in general gameplay"
+        },
+        {
+          "itemName": "Mrs. Puff",
+          "itemDescription": "A Rare unit with below-average performance, often outclassed by higher-tier units"
+        },
+        {
+          "itemName": "Old Man Jenkins",
+          "itemDescription": "A Rare unit with minimal impact, suitable primarily for collection purposes"
+        }
+      ]
+    }
+  ]
+}

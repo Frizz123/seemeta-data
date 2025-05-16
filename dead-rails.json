@@ -1,0 +1,82 @@
+{
+  "fileName": "dead-rails.json",
+  "title": "Dead Rails Tier List",
+  "description": "Discover the rankings of all classes in Dead Rails, from S to C Tier, to optimize your gameplay strategy.",
+  "heading": "Dead Rails Tier List",
+  "introText": "Discover the rankings of all classes in Dead Rails, from S to C Tier, to optimize your gameplay strategy.",
+  "datePublished": "2025-03-22",
+  "dateModified": "2025-03-22",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Doctor",
+          "itemDescription": "Equipped with a shovel, two bandages, and two snake oils, the Doctor class excels in healing and support, enhancing team survivability"
+        },
+        {
+          "itemName": "Alamao",
+          "itemDescription": "Comes with a helmet, three metal sheets, three barbed wires, and a shovel, offering strong defensive capabilities and crowd control"
+        },
+        {
+          "itemName": "Cowboy",
+          "itemDescription": "Armed with a revolver, two revolver ammo, a saddle, and a shovel, this class provides balanced offense and mobility"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Ironclad",
+          "itemDescription": "Features a helmet, chestplate, shoulder armor, and a shovel. While offering high defense, it reduces movement speed by 20%"
+        },
+        {
+          "itemName": "Vampire",
+          "itemDescription": "Equipped with a vampire knife and a shovel, this class specializes in life-stealing attacks, enhancing survivability"
+        },
+        {
+          "itemName": "Survivalist",
+          "itemDescription": "Comes with a tomahawk and a shovel, focusing on versatility and resourcefulness in various situations"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Arsonist",
+          "itemDescription": "Provides four molotovs and a shovel, ideal for area denial and dealing damage over time.​"
+        },
+        {
+          "itemName": "High Roller",
+          "itemDescription": "Starts with a shovel; its unique abilities or advantages are less defined, making it a moderate choice"
+        },
+        {
+          "itemName": "Priest",
+          "itemDescription": "Includes two crucifixes, two holy waters, and a shovel, offering support against supernatural threats"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Miner",
+          "itemDescription": "Equipped with a mining helmet, two coals, a pickaxe, and a shovel, this class is tailored for resource gathering rather than combat"
+        },
+        {
+          "itemName": "Conductor",
+          "itemDescription": "Starts with two coals and a shovel; its specialized role may not directly impact combat effectiveness"
+        },
+        {
+          "itemName": "Zombie",
+          "itemDescription": "Comes with a shovel; its unique traits are unconventional and may not suit all playstyles"
+        }
+      ]
+    }
+  ]
+}

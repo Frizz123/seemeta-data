@@ -1,0 +1,234 @@
+{
+  "fileName": "isekai-saga-awaken.json",
+  "title": "Isekai Saga: Awaken Tier List",
+  "description": "Discover the Isekai Saga: Awaken tier list ranking the best characters from S Tier to lower tiers. Find out which heroes dominate the game!",
+  "heading": "Isekai Saga: Awaken Tier List",
+  "introText": "Discover the Isekai Saga: Awaken tier list ranking the best characters from S Tier to lower tiers. Find out which heroes dominate the game!",
+  "datePublished": "2025-01-31",
+  "dateModified": "2025-01-31",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Aquarius",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ares",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Asclepois",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cyclops",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Guan Yu",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lamia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lu Bu",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Musashi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Yukihime",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Gilgamesh",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Great Adventurer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hades",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hera",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kongming",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Laplace",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Medusa",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Nikita",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Phoenix",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Pordobel",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shirley",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Abe no Seimei",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Alice",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cyangon",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Frostedge",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gio",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Haephestus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Igniscorpio",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Joan of Arc",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kengo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "King Arthur",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Laura",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Moon",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ninja",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Panda",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Potamus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ren",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Siren",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Spartacus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Taichi",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Adonis",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Adventurer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Alexander",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Angus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bard",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Flamerider",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ivar",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Moonbow",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Nekomaru",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shaman",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tsubaki",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

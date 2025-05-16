@@ -1,0 +1,78 @@
+{
+    "fileName": "project-mugetsu-clan.json",
+    "title": "Project Mugetsu Clan Tier List",
+    "description": "Unleash your inner Soul Reaper and conquer the world of Project Mugetsu with this comprehensive clan tier list. Discover the top-ranked clans, their strengths, and how to choose the perfect one for your playstyle.",
+    "heading": "Project Mugetsu Clan Tier List",
+    "introText": "Unleash your inner Soul Reaper and conquer the world of Project Mugetsu with this comprehensive clan tier list. Discover the top-ranked clans, their strengths, and how to choose the perfect one for your playstyle. Ascend to the ranks of the elite and dominate the Soul Society with strategic clan selection and mastery of their unique abilities.",
+    "datePublished": "2024-05-13",
+    "dateModified": "2024-05-13",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Estia Clan",
+                    "itemDescription": "The undisputed king of Project Mugetsu, the Estia Clan reigns supreme with its unparalleled versatility and power. Its passive buffs, coupled with its devastating skills, make it a force to be reckoned with in both PvE and PvP"
+                },
+                {
+                    "itemName": "Grimmjow Clan",
+                    "itemDescription": "Renowned for its raw damage output and relentless aggression, the Grimmjow Clan is a top choice for players who enjoy a fast-paced, offensive playstyle. Its emphasis on critical hits and attack speed ensures that enemies fall quickly under its relentless assault"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Quincy Clan",
+                    "itemDescription": "With its focus on long-range attacks and debuffs, the Quincy Clan excels in controlling the battlefield. Its abilities allow players to keep their opponents at bay while whittling them down from a safe distance"
+                },
+                {
+                    "itemName": "Hollow Clan",
+                    "itemDescription": "The Hollow Clan strikes a balance between offense and defense, making it a well-rounded choice for various playstyles. Its regenerative abilities and damage mitigation techniques provide excellent survivability, while its offensive skills pack a solid punch"
+                },
+                {
+                    "itemName": "Uryu Clan",
+                    "itemDescription": "This Quincy-based clan stands out for its unique ability to absorb energy from defeated enemies, empowering its attacks and fueling its dominance. The Uryu Clan is particularly effective in prolonged battles, where its energy-draining strikes can turn the tide"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Kurosaki Clan",
+                    "itemDescription": "Named after the iconic protagonist of Bleach, the Kurosaki Clan offers a mix of mobility and damage, making it a solid choice for general gameplay. Its abilities enhance movement speed and provide decent damage output, but it may struggle against top-tier clans in intense situations"
+                },
+                {
+                    "itemName": "Zaraki Clan",
+                    "itemDescription": "Inspired by the ferocious captain of the 11th Squad, the Zaraki Clan embodies raw power and resilience. Its Berserk mode grants a significant boost in attack and defense, but its reliance on close-quarters combat can make it vulnerable to ranged attacks"
+                },
+                {
+                    "itemName": "Sternritter Clan",
+                    "itemDescription": "Based on the elite Quincy units from Bleach, the Sternritter Clan specializes in weakening enemies and amplifying its own damage. Its abilities inflict debuffs and provide attack buffs, making it a valuable support option in team-based scenarios"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Mayuri Clan",
+                    "itemDescription": "Known for its unorthodox methods and unpredictable gameplay, the Mayuri Clan can be both effective and challenging to master. Its abilities focus on manipulating the battlefield and inflicting status effects, but its reliance on strategy and timing may not suit all players"
+                },
+                {
+                    "itemName": "Nel Clan",
+                    "itemDescription": "Inspired by the lovable Hollow Nel Tu, the Nel Clan offers a mix of support and damage-dealing capabilities. Its abilities provide healing and buffs, while its attacks deal decent damage. However, it may lack the raw power or specialized focus to excel in high-level content"
+                },
+                {
+                    "itemName": "Ishida Clan",
+                    "itemDescription": "Named after the Quincy archer Uryū Ishida, the Ishida Clan specializes in long-range attacks and debuffs. However, its damage output is generally lower compared to other Quincy clans, and its lack of unique mechanics may limit its effectiveness"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "fileName": "rabbit-and-steel.json",
+    "title": "Rabbit and Steel Tier List",
+    "description": "This is a tier list for the classes in the game Rabbit and Steel. The list is based on my own opinion and experience, and your mileage may vary.",
+    "heading": "Rabbit and Steel Tier List",
+    "introText": "This is a tier list for the classes in the game Rabbit and Steel. The list is based on my own opinion and experience, and your mileage may vary. I have also included some additional factors to consider when choosing a class. Ultimately, the best class for you is the one that you have the most fun playing.",
+    "datePublished": "2024-05-17",
+    "dateModified": "2024-05-17",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Dancer",
+                    "itemDescription": "The Dancer is one of the most powerful classes in the game, thanks to their ability to deal high damage and crowd control multiple enemies. Their ultimate ability, Encore, is a devastating attack that can wipe out entire rooms of enemies"
+                },
+                {
+                    "itemName": "Defender",
+                    "itemDescription": "The Defender is a tank class that can take a lot of punishment and protect their teammates. They also have a number of skills that can crowd control enemies, making them a valuable asset to any team"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Ancient",
+                    "itemDescription": "The Ancient is a versatile class that can deal damage, heal allies, and crowd control enemies. They are a good choice for players who want to be able to do a bit of everything"
+                },
+                {
+                    "itemName": "Druid",
+                    "itemDescription": "The Druid is a support class that can heal allies and provide buffs. They also have a number of skills that can crowd control enemies, making them a valuable asset to any team"
+                },
+                {
+                    "itemName": "Spellsword",
+                    "itemDescription": "The Spellsword is a hybrid class that can deal damage and cast spells. They are a good choice for players who want to be able to do both"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Bruiser",
+                    "itemDescription": "The Bruiser is a melee damage dealer that can deal a lot of damage up close. However, they are slow and squishy, making them easy targets for enemies"
+                },
+                {
+                    "itemName": "Sniper",
+                    "itemDescription": "The Sniper is a ranged damage dealer that can deal high damage from a distance. However, they are very fragile and need to be careful not to get caught out in the open"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Heavyblade",
+                    "itemDescription": "The Heavyblade is a melee damage dealer that can deal a lot of damage, but they are very slow and have short range"
+                },
+                {
+                    "itemName": "Assassin",
+                    "itemDescription": "The Assassin is a melee damage dealer that can deal high burst damage, but they are very fragile and have to get close to enemies to deal damage"
+                }
+            ]
+        }
+    ]
+}

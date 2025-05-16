@@ -1,0 +1,267 @@
+{
+  "fileName": "etheria-restart.json",
+  "title": "Etheria: Restart Tier List",
+  "description": "",
+  "heading": "Etheria: Restart Tier List",
+  "introText": "",
+  "datePublished": "2025-05-06",
+  "dateModified": "2025-05-06",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Heinrich",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "DokiDoki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Beyontin",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lily",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rosa",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Borgne",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Massiah",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chiaki (The Echo)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tiamat",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lingluo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Mia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Freya",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tsukiyo Mi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rilmocha",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sania",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rahu",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Hoyan",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lilith",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Helkid",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rin (The Unbowed)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Marvel",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Veronika",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Viper",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Khloros",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Celince",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dorothy (The Wisher)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chiaki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Valeria",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lian",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kloss",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Valerian",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Xiada",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Obol",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gray",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Kraken",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Yang",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Diting",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cachi (The Guard)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "No. 41",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rin",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kazuyo (The Reverie)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sania (Withered Shadow)",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Dinah",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Turandot",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dorothy",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Victor",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Oboro",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Fangus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kazami Kazuyo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tsutomo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "RC-77",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Asshu",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Andrew (Odd)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Andrew (Reason)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Vice",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cachi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sybil",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

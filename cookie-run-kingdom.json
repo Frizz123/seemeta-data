@@ -1,0 +1,170 @@
+{
+	"fileName": "cookie-run-kingdom.json",
+	"title": "Cookie Run: Kingdom Tier List",
+	"description": "Discover the top Cookies in Cookie Run: Kingdom as of March 2025. Explore our comprehensive tier list to optimize your team with the best characters in the game.",
+	"heading": "Cookie Run: Kingdom Tier List",
+	"introText": "Discover the top Cookies in Cookie Run: Kingdom as of March 2025. Explore our comprehensive tier list to optimize your team with the best characters in the game.",
+	"datePublished": "2024-05-22",
+	"dateModified": "2025-03-13",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Burning Spice Cookie",
+					"itemDescription": "Exceptional damage dealer with area-of-effect attacks, making them invaluable in both PvE and PvP scenarios"
+				},
+				{
+					"itemName": "Wind Archer Cookie",
+					"itemDescription": "High single-target damage and speed, excelling in boss battles and arena matches"
+				},
+				{
+					"itemName": "Shadow Milk Cookie",
+					"itemDescription": "Combines offensive prowess with defensive buffs, offering versatility across multiple game modes"
+				},
+				{
+					"itemName": "Pure Vanilla Cookie (Compassionate)",
+					"itemDescription": "Provides substantial healing and shields, ensuring team survivability in challenging content"
+				},
+				{
+					"itemName": "Mystic Flour Cookie",
+					"itemDescription": "Utilizes magic-based attacks that debilitate enemies, reducing their effectiveness in battle"
+				},
+				{
+					"itemName": "Dark Cacao Cookie (Dragon Lord)",
+					"itemDescription": "Boasts high durability and damage, serving as a frontline tank with offensive capabilities"
+				},
+				{
+					"itemName": "Black Lemonade Cookie",
+					"itemDescription": "Delivers consistent damage with debuff potential, useful in various team compositions"
+				},
+				{
+					"itemName": "Twizzly Gummy Cookie",
+					"itemDescription": "Specializes in disrupting enemy formations with electric-based attacks, suitable for both offense and defense"
+				},
+				{
+					"itemName": "Rebel Cookie",
+					"itemDescription": "Offers unique mechanics that counter specific meta strategies, adding strategic depth to team setups"
+				},
+				{
+					"itemName": "Captain Caviar Cookie",
+					"itemDescription": "Provides area damage and buffs allies, enhancing overall team performance"
+				},
+				{
+					"itemName": "Star Coral Cookie",
+					"itemDescription": "Balances offense and support, offering healing alongside respectable damage output"
+				},
+				{
+					"itemName": "Cream Ferret Cookie",
+					"itemDescription": "Acts as a versatile support with crowd control abilities, aiding in managing difficult encounters"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Cream Puff Cookie",
+					"itemDescription": "A Magic-type Cookie positioned in the middle; she casts powerful spells to deal area-of-effect damage to enemies"
+				},
+				{
+					"itemName": "Rockstar Cookie",
+					"itemDescription": "A Healing-type Cookie positioned in the middle; he uses his musical talents to heal allies and provide supportive buffs during battles"
+				},
+				{
+					"itemName": "Shining Glitter Cookie",
+					"itemDescription": "A Bomber-type Cookie positioned in the rear; she delivers dazzling performances that inflict area-of-effect damage and debuffs on enemies"
+				},
+				{
+					"itemName": "Dark Choco Cookie",
+					"itemDescription": "A Charge-type Cookie positioned at the front; he wields his sword to deliver heavy damage and can inflict debuffs, reducing enemy defenses"
+				},
+				{
+					"itemName": "Black Raisin Cookie",
+					"itemDescription": "An Ambush-type Cookie positioned in the middle; she strikes swiftly from the shadows, dealing high burst damage to multiple enemies"
+				},
+				{
+					"itemName": "Pinecone Cookie",
+					"itemDescription": "A Charge-type Cookie positioned at the front; she charges into battle, dealing significant damage and disrupting enemy formations"
+				},
+				{
+					"itemName": "Caramel Arrow Cookie",
+					"itemDescription": "A Ranged-type Cookie positioned in the rear; she uses her archery skills to deal consistent damage to enemies from a distance"
+				},
+				{
+					"itemName": "Frilled Jellyfish Cookie",
+					"itemDescription": "A Support-type Cookie positioned in the middle; she provides buffs to allies and can debilitate enemies with her jellyfish-themed abilities"
+				},
+				{
+					"itemName": "Macaron Cookie",
+					"itemDescription": "A Support-type Cookie positioned in the middle; she boosts allies' morale with rhythmic performances, providing buffs and minor healing"
+				},
+				{
+					"itemName": "Cream Unicorn Cookie",
+					"itemDescription": "A Healing-type Cookie positioned in the rear; they offer substantial healing to allies and can cleanse debuffs, enhancing team survivability"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Licorice Cookie",
+					"itemDescription": "Summons minions to aid in battle, providing additional targets and moderate damage"
+				},
+				{
+					"itemName": "Kouign-Amann Cookie",
+					"itemDescription": "Features balanced stats with abilities that boost team defense, suitable for early to mid-game content"
+				},
+				{
+					"itemName": "Red Osmanthus Cookie",
+					"itemDescription": "Excels in specific scenarios with abilities that exploit enemy weaknesses, though situational in broader applications"
+				},
+				{
+					"itemName": "Pomegranate Cookie",
+					"itemDescription": "Offers healing and attack buffs, serving as a supportive role in various team"
+				},
+				{
+					"itemName": "Crunchy Chip Cookie",
+					"itemDescription": "Provides consistent damage with a focus on critical hits, beneficial in sustained fights"
+				},
+				{
+					"itemName": "Sorbet Shark Cookie",
+					"itemDescription": "Deals true damage that ignores defenses, effective against high-HP enemies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Purple Yam Cookie",
+					"itemDescription": "Functions as a tank with limited utility, overshadowed by more versatile frontliners"
+				},
+				{
+					"itemName": "Latte Cookie",
+					"itemDescription": "Offers area control with moderate damage, but lacks impact in higher-tier content"
+				},
+				{
+					"itemName": "Tiger Lily Cookie",
+					"itemDescription": "Provides stun abilities with average damage, often outclassed by other crowd controllers"
+				},
+				{
+					"itemName": "Prophet Cookie",
+					"itemDescription": "Features random skill effects, leading to inconsistent performance in battles"
+				},
+				{
+					"itemName": "Moon Rabbit Cookie",
+					"itemDescription": "Combines healing with damage, but falls short compared to dedicated healers or damage dealers"
+				},
+				{
+					"itemName": "Olive Cookie",
+					"itemDescription": "Offers niche abilities with limited applicability in current meta scenarios"
+				}
+			]
+		}
+	]
+}

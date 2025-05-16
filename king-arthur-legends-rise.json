@@ -1,0 +1,77 @@
+{
+	"fileName": "king-arthur-legends-rise.json",
+	"title": "King Arthur Legends Rise Tier List",
+	"description": "Discover the top-ranked characters in King Arthur Legends Rise with our tier list. Dive into the S, A, and B tiers to find out who performs best and make your choices wisely.",
+	"heading": "King Arthur Legends Rise Tier List",
+	"introText": "Discover the top-ranked characters in King Arthur Legends Rise with our tier list. Dive into the S, A, and B tiers to find out who performs best and make your choices wisely.",
+	"datePublished": "2024-10-30",
+	"dateModified": "2024-10-30",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Merlin",
+					"itemDescription": "Can Freeze and deals good damage to single targets and his S2 has massive Vigor recharge and with his S3 revive he is easily the best hero in King Arthur Legends Rise right now"
+				},
+				{
+					"itemName": "Guinevere",
+					"itemDescription": "Attacks single targets with a high chance to remove all of targets buffs, but his shielding is the main reason why this hero works so well right now"
+				},
+				{
+					"itemName": "Gawain",
+					"itemDescription": "Great AoE damage dealer overall and self-buffs ATK and ne of my favorite damage dealers in the game right now"
+				},
+				{
+					"itemName": "Claudas",
+					"itemDescription": "Buffs all ally attack speed (already nice) and also deals AoE damage to all enemies. Just a round and useful package to run in King Arthur Legends Rise, espcially when you can make the Confusion effect work well and is easily one of my favorites right now"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Bedivere",
+					"itemDescription": "Attacks single targets and buffs up his own Critical Strike rate. Overall quite a selfish character and takes investment to be useful and early game you will find this hero quite lackluster"
+				},
+				{
+					"itemName": "Morgan",
+					"itemDescription": "Attacks single targets with a chance to sleep them to postpone their skills and synergy disruption. Can work well when you can archestrate it well in PvE and has great potential in PvP as well but that depends more on the setup you're facing"
+				},
+				{
+					"itemName": "Aine",
+					"itemDescription": "Abnormal Status Immunity which can be incredibly powerful but based on RNG. Still seems like on of the stronger heroes (if not even better)"
+				},
+				{
+					"itemName": "Sigrun",
+					"itemDescription": "Attacks single target and apply Marking (which decrease Defense) - great for Nest of Yshgari with the marking but in general with damage based on DEF I'm not the biggest fan in general"
+				},
+				{
+					"itemName": "Gillien",
+					"itemDescription": "Attacks single targets but the more important thing is that she heals the ally with the lowest HP based on max HP, which will be one of your bread-and-butter characters for Story Mode in King Arthur Legends Rise + the turn meter reduction can find her good spots in several setups"
+				},
+				{
+					"itemName": "Lancelot",
+					"itemDescription": "Single target attacka and stacks burn on them that deals damage over time but also depends more on weather conditions that I appreciate sometimes"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Clarisin",
+					"itemDescription": "Critical strikes will lower her passive and deal additional damage on skills. Was a rare before and needs a ton of crit to work well and overall I personally find Bedivere just better"
+				},
+				{
+					"itemName": "Tristan",
+					"itemDescription": "Attacks single targets and can reduce their attack speed. I feel like he is squishy so I am not sure if he is that strong at the end of the day and I also am not a big fan of his Leader Skill"
+				}
+			]
+		}
+	]
+}

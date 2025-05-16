@@ -1,0 +1,130 @@
+{
+	"fileName": "rise-of-eros.json",
+	"title": "Rise of Eros Tier List",
+	"description": "Rise of Eros is a turn-based strategy game with a gacha system where players can collect characters. Each character has different skills and abilities, so it's important to choose the right ones for your team. Here is a tier list of the best characters in Rise of Eros.",
+	"heading": "Rise of Eros Tier List",
+	"introText": "Rise of Eros is a turn-based strategy game with a gacha system where players can collect characters. Each character has different skills and abilities, so it's important to choose the right ones for your team. Here is a tier list of the best characters in Rise of Eros.",
+	"datePublished": "2024-09-24",
+	"dateModified": "2024-12-28",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Cheesecake",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Midsummer",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tempting Tidings",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Steelhare",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Flame Falcon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shadowswift",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Bunny Hop",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dragons Cry",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Harvest Moon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Super Moon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Blood Moon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Enchantress",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Tigerstripe",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Harvest Maiden",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Madmoiself",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Red Rider",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Chaos Flame",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Frothing Fantasy",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Pink Kong",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Pale Angel",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Riot Guard",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Heavenhound",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dark Countess",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Chaste Justice",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

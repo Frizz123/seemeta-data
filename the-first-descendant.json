@@ -1,0 +1,82 @@
+{
+	"fileName": "the-first-descendant.json",
+	"title": "The First Descendant Tier List",
+	"description": "This is a tier list for the game The First Descendant. The list is based on my opinion and experience, and the best character for you will depend on your playstyle and the specific content you are playing. The tier list is divided into S Tier, A Tier, B Tier, and C Tier. S Tier characters are the most powerful characters in the game, while C Tier characters are the weakest.",
+	"heading": "The First Descendant Tier List",
+	"introText": "This is a tier list for the game The First Descendant. The list is based on my opinion and experience, and the best character for you will depend on your playstyle and the specific content you are playing. The tier list is divided into S Tier, A Tier, B Tier, and C Tier. S Tier characters are the most powerful characters in the game, while C Tier characters are the weakest.",
+	"datePublished": "2024-05-25",
+	"dateModified": "2024-05-25",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Lepic",
+					"itemDescription": "Lepic is one of the most powerful damage dealers in the game. He is able to deal massive amounts of damage to both single targets and groups of enemies. His abilities are also very versatile, making him a great choice for both PvE and PvP"
+				},
+				{
+					"itemName": "Etinne",
+					"itemDescription": "Etinne is another excellent damage dealer. She is known for her ability to melt bosses with her high burst damage. She is also a very mobile character, making her difficult to pin down"
+				},
+				{
+					"itemName": "Kira",
+					"itemDescription": "Kira is a versatile character who can be played as either a damage dealer or a support character. She is very good at applying debuffs to enemies, which can make her a valuable asset to any team"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Betty",
+					"itemDescription": "Betty is a solid all-around character who is good at both damage and support. She is also very tanky, making her a good choice for players who want to be able to take a hit"
+				},
+				{
+					"itemName": "Raven",
+					"itemDescription": "Raven is a high-risk, high-reward character. She is able to deal massive amounts of damage, but she is also very fragile. She is a good choice for players who are skilled at dodging enemy attacks"
+				},
+				{
+					"itemName": "Adriana",
+					"itemDescription": "Adriana is a support character who is known for her ability to heal and buff her teammates. She is also a good crowd control character, with abilities that can stun and slow enemies"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Ajax",
+					"itemDescription": "Ajax is a tank character who is good at protecting his teammates. He is also a decent damage dealer, but he is not as powerful as some of the other characters in this tier"
+				},
+				{
+					"itemName": "Viessa",
+					"itemDescription": "Viessa is a damage dealer who is known for her ability to deal damage over time. She is also a good crowd control character, with abilities that can freeze and slow enemies"
+				},
+				{
+					"itemName": "Haru",
+					"itemDescription": "Haru is a support character who is known for her ability to debuff enemies. She is also a decent damage dealer, but she is not as powerful as some of the other characters in this tier"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Lepic",
+					"itemDescription": "Lepic is a damage dealer who is known for his ability to deal damage over time. He is also a good crowd control character, with abilities that can freeze and slow enemies"
+				},
+				{
+					"itemName": "Etinne",
+					"itemDescription": "Etinne is a versatile character who can be played as either a damage dealer or a support character. She is very good at applying debuffs to enemies, which can make her a valuable asset to any team"
+				},
+				{
+					"itemName": "Kira",
+					"itemDescription": "Kira is a solid all-around character who is good at both damage and support. She is also very tanky, making her a good choice for players who want to be able to take a hit"
+				}
+			]
+		}
+	]
+}

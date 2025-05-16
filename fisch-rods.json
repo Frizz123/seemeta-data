@@ -1,0 +1,130 @@
+{
+  "fileName": "fisch-rods.json",
+  "title": "Fisch Tier List",
+  "description": "Discover the ultimate tier list for fishing rods in Roblox Fisch, detailing the top choices from S Tier to C Tier to enhance your fishing experience.",
+  "heading": "Fisch Tier List",
+  "introText": "Discover the ultimate tier list for fishing rods in Roblox Fisch, detailing the top choices from S Tier to C Tier to enhance your fishing experience.",
+  "datePublished": "2024-11-15",
+  "dateModified": "2025-04-02",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Ethereal Prism Rod",
+          "itemDescription": "Has a 50% chance to apply an 8x multiplier to the value of caught fish, making it one of the most profitable rods in the game"
+        },
+        {
+          "itemName": "Rod of the Eternal King",
+          "itemDescription": "Increases luck by 150% every 30 seconds and has a 20% chance to catch fish with a 4x value multiplier"
+        },
+        {
+          "itemName": "No-Life Rod",
+          "itemDescription": "Available for free upon reaching level 500; has a high chance of catching fish with a mutation that increases their value by 1.5 times"
+        },
+        {
+          "itemName": "Trident Rod",
+          "itemDescription": "Has the chance to pierce and stun fish during capture; requires 100% Bestiary completion and 150,000C$"
+        },
+        {
+          "itemName": "Destiny Rod",
+          "itemDescription": "Applies a permanent and substantial luck boost to catches; available via Caleia for 190,000"
+        },
+        {
+          "itemName": "Kings Rod",
+          "itemDescription": "All fish caught are 10% larger; acquired through the Enchanted Alter for 120,000"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Reinforced Rod",
+          "itemDescription": "The only rod capable of withstanding the Brine Pools; costs 20,000C$ from the Desolate Deep"
+        },
+        {
+          "itemName": "Nocturnal Rod",
+          "itemDescription": "Catches diurnal and nocturnal fish at any time; purchased at Vertigo for 11,000"
+        },
+        {
+          "itemName": "Fungal Rod",
+          "itemDescription": "70% chance to spout spores that apply a Luck IV for 45 seconds; obtained by showing Agaric an Alligator within the Mushroom Swamp"
+        },
+        {
+          "itemName": "Steady Rod",
+          "itemDescription": "Withstands oceanic pressure for deeper-found fish; bought from Roslit for 7,000"
+        },
+        {
+          "itemName": "Mythical Rod",
+          "itemDescription": "Provides a 20% chance for caught fish to be Rainbow; obtainable from the Travelling Merchant for 110,000"
+        },
+        {
+          "itemName": "Fortune Rod",
+          "itemDescription": "Stronger than the Lucky Rod and has a higher chance to catch rarer fish; obtained from Roslit for 12,750"
+        },
+        {
+          "itemName": "Haunted Rod",
+          "itemDescription": "Increases luck by 50%; obtained via the 2024 Halloween Event"
+        },
+        {
+          "itemName": "Sunken Rod",
+          "itemDescription": "Every 10 catches, the player has a 25% chance to find a Treasure Map on their next catch; obtained from Treasure Chests"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Magnet Rod",
+          "itemDescription": "Attracts crates and drops; bought from Terrapin for 15,000"
+        },
+        {
+          "itemName": "Rapid Rod",
+          "itemDescription": "Quicker than the Fast Rod, catches fish swiftly; bought from Roslit for 14,000"
+        },
+        {
+          "itemName": "Magma Rod",
+          "itemDescription": "Capable of fishing in lava; obtained by giving an Orc a Pufferfish"
+        },
+        {
+          "itemName": "Lucky Rod",
+          "itemDescription": "Increased chance of catching rare fish; bought from Starter Island/Moosewood for 5,250"
+        },
+        {
+          "itemName": "Carbon Rod",
+          "itemDescription": "Easy to hold but with shorter range; bought from Starter Island/Moosewood for 2,000"
+        },
+        {
+          "itemName": "Midas Rod",
+          "itemDescription": "60% chance all caught fish will be golden; obtained via Travelling Merchant for 55,000"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Long Rod",
+          "itemDescription": "Not strong but has the furthest reach in Fisch; obtained for 4,500"
+        },
+        {
+          "itemName": "Fast Rod",
+          "itemDescription": "Catches fish more quickly; bought from Starter Island/Moosewood for 5,500"
+        },
+        {
+          "itemName": "Plastic Rod",
+          "itemDescription": "Simple but gets the job done; bought from Moosewood for 900"
+        },
+        {
+          "itemName": "Training Rod",
+          "itemDescription": "Slightly more sturdy compared to the beginner’s rod; bought from Moosewood for 300"
+        }
+      ]
+    }
+  ]
+}

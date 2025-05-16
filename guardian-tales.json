@@ -1,0 +1,138 @@
+{
+	"fileName": "guardian-tales.json",
+	"title": "Guardian Tales Tier List",
+	"description": "Guardian Tales is a popular action RPG with a vast cast of characters to choose from. With so many options, it can be tough to decide which ones are the best. That's where tier lists come in.",
+	"heading": "Guardian Tales Tier List",
+	"introText": "Guardian Tales is a popular action RPG with a vast cast of characters to choose from. With so many options, it can be tough to decide which ones are the best. That's where tier lists come in.",
+	"datePublished": "2024-06-11",
+	"dateModified": "2024-06-11",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Future Princess",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Demon Queen Lilith",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "God of Harvest Kamael",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kunoichi Sumire",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sea Vendor Sia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dark Magician Beth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Archangel Gabriel",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Half-Vampire Priscilla",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "FP's Knight",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lorraine",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Aoba",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Raven",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bari",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mayreel",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Refiner",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Grandeur",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Noxia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mk99",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Craig",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Scarlet",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marina",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Lynn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Erina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Parvati",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Carol",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sohee",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

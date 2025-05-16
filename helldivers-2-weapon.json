@@ -1,0 +1,114 @@
+{
+	"fileName": "helldivers-2-weapon.json",
+	"title": "Helldivers 2 Weapon Tier List",
+	"description": "This is a tier list for the weapons in Helldivers 2. The weapons are ranked from S Tier to C Tier, based on their overall effectiveness. This tier list is based on my own personal experience and opinions, so your mileage may vary. I hope this helps!",
+	"heading": "Helldivers 2 Weapon Tier List",
+	"introText": "This is a tier list for the weapons in Helldivers 2. The weapons are ranked from S Tier to C Tier, based on their overall effectiveness. This tier list is based on my own personal experience and opinions, so your mileage may vary. I hope this helps!",
+	"datePublished": "2024-06-14",
+	"dateModified": "2024-06-14",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Quasar Cannon (Stratagem)",
+					"itemDescription": "This energy weapon fires a massive laser blast that can decimate enemies with ease. It is perfect for taking out large groups of enemies or destroying strong fortifications"
+				},
+				{
+					"itemName": "Railgun (Stratagem)",
+					"itemDescription": "This single-shot weapon can be charged up for a devastating attack that can one-shot most enemies. It is a bit slow to fire and reload, but it is worth the wait"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "SG-8S Slugger",
+					"itemDescription": "This shotgun is a classic for a reason. It is powerful and versatile, and can be used effectively at both short and medium ranges"
+				},
+				{
+					"itemName": "SG-8P Punisher Plasma",
+					"itemDescription": "This plasma shotgun is a more specialized weapon than the Slugger, but it is even more powerful against armored enemies"
+				},
+				{
+					"itemName": "LAS-5 Scythe",
+					"itemDescription": "This laser rifle is a great all-around weapon that is effective against all types of enemies"
+				},
+				{
+					"itemName": "CB-9 Explosive Crossbow",
+					"itemDescription": "This crossbow fires explosive bolts that are perfect for taking out groups of enemies or destroying structures"
+				},
+				{
+					"itemName": "AR-23P Liberator Penetrator",
+					"itemDescription": "This assault rifle is a great choice for long-range engagements. It is accurate and powerful, and can even penetrate some armor"
+				},
+				{
+					"itemName": "AR-23C Liberator Concussive",
+					"itemDescription": "This assault rifle fires concussive rounds that can stun enemies, making them easy targets. It is a good choice for crowd control"
+				},
+				{
+					"itemName": "PLAS-101 Purifier",
+					"itemDescription": "This flamethrower is perfect for clearing out areas of enemies. It is also effective against some types of structures"
+				},
+				{
+					"itemName": "SG-225 Breaker",
+					"itemDescription": "This grenade launcher is a great all-around weapon that can be used to attack enemies at all ranges. It is also effective against structures"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "R-36 Eruptor",
+					"itemDescription": "This bolt-action rifle fires explosive rounds that are perfect for taking out large groups of enemies or destroying structures"
+				},
+				{
+					"itemName": "R-63 Diligence",
+					"itemDescription": "This semi-automatic rifle is a good all-around weapon that is effective against most enemies"
+				},
+				{
+					"itemName": "BR-14 Adjudicator",
+					"itemDescription": "This burst-fire rifle is a good choice for medium-range engagements. It is accurate and powerful, but it can be a bit difficult to control"
+				},
+				{
+					"itemName": "SMG-72 Pummeler",
+					"itemDescription": "This SMG is a good choice for close-quarters combat. It is powerful and has a high rate of fire, but it is not very accurate"
+				},
+				{
+					"itemName": "SMG-37 Defender",
+					"itemDescription": "This SMG is a more versatile option than the Pummeler. It is not as powerful, but it is more accurate and has a longer range"
+				},
+				{
+					"itemName": "AR-23P Liberator Penetrator",
+					"itemDescription": "This assault rifle is a good choice for long-range engagements. It is accurate and powerful, and can even penetrate some armor"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Knight",
+					"itemDescription": "This melee weapon is only useful in very specific situations. It is powerful, but it is very slow and difficult to use"
+				},
+				{
+					"itemName": "Sickle",
+					"itemDescription": "This melee weapon is similar to the Knight, but it is even slower and more difficult to use"
+				},
+				{
+					"itemName": "Scorcher",
+					"itemDescription": "This flamethrower is less effective than the Purifier. It is still a good weapon for clearing out areas of enemies, but it is not as versatile"
+				},
+				{
+					"itemName": "Arc Blitzer",
+					"itemDescription": "This plasma weapon is not very effective against most enemies. It is only useful against certain types of structures"
+				}
+			]
+		}
+	]
+}

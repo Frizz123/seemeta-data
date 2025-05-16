@@ -1,0 +1,98 @@
+{
+  "fileName": "odin-valhalla-rising.json",
+  "title": "Odin: Valhalla Rising Tier List",
+  "description": "",
+  "heading": "Odin: Valhalla Rising Tier List",
+  "introText": "",
+  "datePublished": "2025-05-01",
+  "dateModified": "2025-05-01",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Sniper (PvE)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Archmage (PvE)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dark Wizard (PvP)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Assassin (PvP)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sniper (PvP)",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Assassin (PvE)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Paladin (PvE)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Paladin (PvP)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Archmage (PvP)",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Berserker (PvE)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dark Wizard (PvE)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Saint (PvE)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Defender (PvP)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Berserker (PvP)",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Defender (PvE)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Saint (PvP)",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+	"fileName": "once-human-weapon.json",
+	"title": "Once Human Weapon Tier List",
+	"description": "This is an article about ranking weapons in the video game Once Human. It discusses the strengths and weaknesses of different weapon types. Some of the best weapons are sniper rifles and crossbows, while submachine guns and shotguns are considered the worst.",
+	"heading": "Once Human Weapon Tier List",
+	"introText": "This is an article about ranking weapons in the video game Once Human. It discusses the strengths and weaknesses of different weapon types. Some of the best weapons are sniper rifles and crossbows, while submachine guns and shotguns are considered the worst.",
+	"datePublished": "2024-07-15",
+	"dateModified": "2024-07-15",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Compound Bow",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "HAMR Brahminy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "KVD Boom Boom",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "KAM - Abyss Glance",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "DE-50 Jaws",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "AWS.338-Bingo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Frozen Northern Pike",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "MG4 Predator",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kam Abyss Glance",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,714 @@
+{
+	"fileName": "wild-rift.json",
+	"title": "Wild Rift Tier List",
+	"description": "This tier list ranks all of the champions in Wild Rift from best to worst, based on the current meta. It is intended to help players choose champions to climb the ranked ladder. The tier list is divided into five tiers: S Tier, A Tier, B Tier and C Tier.",
+	"heading": "Wild Rift Tier List",
+	"introText": "This tier list ranks all of the champions in Wild Rift from best to worst, based on the current meta. It is intended to help players choose champions to climb the ranked ladder. The tier list is divided into five tiers: S Tier, A Tier, B Tier and C Tier.",
+	"datePublished": "2024-07-10",
+	"dateModified": "2025-04-08",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Wukong (Baron)",
+					"itemDescription": "A fighter with stealth abilities and strong area damage, effective in team fights"
+				},
+				{
+					"itemName": "Dr. Mundo (Baron)",
+					"itemDescription": "A tank with high health regeneration, making him difficult to kill"
+				},
+				{
+					"itemName": "Singed (Baron)",
+					"itemDescription": "A durable and disruptive champion who excels in the Baron lane by poisoning enemies with his trail, grounding them with adhesive, and flinging key targets into his team"
+				},
+				{
+					"itemName": "Shen (Baron)",
+					"itemDescription": "A tanky support or top laner with global presence through his ultimate"
+				},
+				{
+					"itemName": "Malphite (Baron)",
+					"itemDescription": "A tank with a powerful initiation ultimate and area damage"
+				},
+				{
+					"itemName": "Camille (Baron)",
+					"itemDescription": "A mobile fighter with true damage and strong dueling capabilities"
+				},
+				{
+					"itemName": "Renekton (Baron)",
+					"itemDescription": "A dominant laner with sustain and crowd control"
+				},
+				{
+					"itemName": "Gwen (Baron)",
+					"itemDescription": "A skirmisher dealing true damage and possessing immunity zones"
+				},
+				{
+					"itemName": "Aatrox (Baron)",
+					"itemDescription": "A fighter with sustain and area damage, excelling in extended fights"
+				},
+				{
+					"itemName": "Jax (Baron)",
+					"itemDescription": "A duelist excelling in extended fights with scaling damage"
+				},
+				{
+					"itemName": "Warwick (Baron)",
+					"itemDescription": "A versatile fighter who can be played in the Baron lane, Warwick utilizes his self-healing and crowd control abilities to sustain through trades and suppress key targets during skirmishes"
+				},
+				{
+					"itemName": "Mordekaiser (Baron)",
+					"itemDescription": "A juggernaut with strong dueling capabilities and the ability to isolate enemies"
+				},
+				{
+					"itemName": "Rumble (Baron)",
+					"itemDescription": "A mage and fighter hybrid with area damage and crowd control"
+				},
+				{
+					"itemName": "Gnar (Baron)",
+					"itemDescription": "A transforming champion switching between ranged poke and melee tank forms"
+				},
+				{
+					"itemName": "Ornn (Baron)",
+					"itemDescription": "A durable tank offering team utility through item upgrades and crowd control"
+				},
+				{
+					"itemName": "Amumu (Jungle)",
+					"itemDescription": "A tank jungler with strong team fight tools but weak early game and clear speed"
+				},
+				{
+					"itemName": "Vi (Jungle)",
+					"itemDescription": "A versatile jungler known for her strong initiation and crowd control abilities"
+				},
+				{
+					"itemName": "Riven (Jungle)",
+					"itemDescription": "A mobile fighter with high damage output and multiple crowd control abilities"
+				},
+				{
+					"itemName": "Jarvan IV (Jungle)",
+					"itemDescription": "A tanky jungler with strong initiation tools and area damage"
+				},
+				{
+					"itemName": "Hecarim (Jungle)",
+					"itemDescription": "A fast jungler with strong initiation and sustained damage"
+				},
+				{
+					"itemName": "Lillia (Jungle)",
+					"itemDescription": "A mobile jungler dealing damage over time and applying crowd control effects"
+				},
+				{
+					"itemName": "Rammus (Jungle)",
+					"itemDescription": "A tanky jungler excelling against auto-attack-based champions with his defensive capabilities"
+				},
+				{
+					"itemName": "Warwick (Jungle)",
+					"itemDescription": "A durable jungler who excels at tracking low-health enemies with enhanced movement and attack speed, sustaining through fights with self-healing, and suppressing key targets with his ultimate"
+				},
+				{
+					"itemName": "Ambessa (Jungle)",
+					"itemDescription": "A versatile champion with a mix of damage and utility, effective in various roles"
+				},
+				{
+					"itemName": "Shyvana (Jungle)",
+					"itemDescription": "A jungler capable of transforming into a dragon, dealing significant area damage"
+				},
+				{
+					"itemName": "Nilah (Jungle)",
+					"itemDescription": "A melee marksman excelling in close combat with high damage output"
+				},
+				{
+					"itemName": "Olaf (Jungle)",
+					"itemDescription": "A formidable jungle fighter in Wild Rift, renowned for his rapid jungle clear, exceptional dueling capabilities, and his ultimate ability, Ragnarok, which grants him immunity to crowd control effects, allowing him to relentlessly pursue and eliminate priority targets"
+				},
+				{
+					"itemName": "Ekko (Jungle)",
+					"itemDescription": "A mobile assassin with time-rewinding abilities and burst damage"
+				},
+				{
+					"itemName": "Lee Sin (Jungle)",
+					"itemDescription": "A high-skill jungler with excellent mobility, early-game pressure, and powerful playmaking potential.\nNunu & Willump (Jungle): A tank jungler with strong objective control but limited damage"
+				},
+				{
+					"itemName": "Viktor (Mid)",
+					"itemDescription": "A high-scaling mage in Wild Rift who excels in area-of-effect damage, zone control, and mobility through his upgraded abilities"
+				},
+				{
+					"itemName": "Zoe (Mid)",
+					"itemDescription": "A burst mage capable of dealing significant damage from a distance and disrupting enemies"
+				},
+				{
+					"itemName": "Morgana (Mid)",
+					"itemDescription": "A mage and support hybrid known for her spell shield and area-of-effect crowd control"
+				},
+				{
+					"itemName": "Ahri (Mid)",
+					"itemDescription": "A mobile mage assassin with charm abilities and burst damage"
+				},
+				{
+					"itemName": "Orianna (Mid)",
+					"itemDescription": "A control mage offering utility and area damage with her ball mechanics"
+				},
+				{
+					"itemName": "Heimerdinger (Mid)",
+					"itemDescription": "A control mage placing turrets to zone and damage enemies"
+				},
+				{
+					"itemName": "Swain (Mid)",
+					"itemDescription": "A battlemage with crowd control and area damage, excelling in team fights"
+				},
+				{
+					"itemName": "Syndra (Mid)",
+					"itemDescription": "A long-range mid-lane mage in Wild Rift who manipulates Dark Spheres to deal damage and control enemies"
+				},
+				{
+					"itemName": "Corki (Mid)",
+					"itemDescription": "A versatile mid-lane marksman who deals a mix of physical and true damage, excelling in poke and burst damage with abilities like Phosphorus Bomb and Missile Barrage"
+				},
+				{
+					"itemName": "Veigar (Mid)",
+					"itemDescription": "A scaling mage with powerful crowd control and burst when farmed up"
+				},
+				{
+					"itemName": "Silvir (Duo)",
+					"itemDescription": "A versatile marksman in Wild Rift, known for her exceptional wave-clearing abilities and team utility through area-of-effect damage and movement speed boosts"
+				},
+				{
+					"itemName": "Varus (Duo)",
+					"itemDescription": "A versatile marksman with poke or on-hit builds depending on the situation"
+				},
+				{
+					"itemName": "Miss Fortune (Duo)",
+					"itemDescription": "A marksman dealing high area-of-effect damage, especially effective in team fights"
+				},
+				{
+					"itemName": "Jhin (Duo)",
+					"itemDescription": "A marksman with a unique four-shot mechanic, dealing high burst damage"
+				},
+				{
+					"itemName": "Ezreal (Duo)",
+					"itemDescription": "A mobile marksman with skill-shot-based damage and kiting potential"
+				},
+				{
+					"itemName": "Xayah (Duo)",
+					"itemDescription": "A marksman with area damage and self-peel through her feather mechanics"
+				},
+				{
+					"itemName": "Corki (Duo)",
+					"itemDescription": "A versatile marksman who excels in the duo lane with his mixed physical and magic damage, offering strong poke and mobility to pressure opponents and scale effectively into the late game"
+				},
+				{
+					"itemName": "Blitzcrank (Support)",
+					"itemDescription": "A tanky support in Wild Rift, renowned for his Rocket Grab ability that pulls enemies, enabling game-changing engagements"
+				},
+				{
+					"itemName": "Milio (Support)",
+					"itemDescription": "An enchanter support who utilizes soothing fire to heal allies and enhance their abilities, providing significant utility in team fights"
+				},
+				{
+					"itemName": "Braum (Support)",
+					"itemDescription": "A support champion excelling in protecting allies with his shield and crowd control skills"
+				},
+				{
+					"itemName": "Nautilus (Support)",
+					"itemDescription": "A support tank with multiple crowd control abilities and strong initiation"
+				},
+				{
+					"itemName": "Lulu (Support)",
+					"itemDescription": "A support champion providing buffs, crowd control, and polymorph effects to disrupt enemies"
+				},
+				{
+					"itemName": "Janna (Support)",
+					"itemDescription": "A support champion specializing in healing, shielding, and disengaging fights"
+				},
+				{
+					"itemName": "Maokai (Support)",
+					"itemDescription": "A tanky support or top laner with crowd control and sustain"
+				},
+				{
+					"itemName": "Pyke (Support)",
+					"itemDescription": "An assassin support capable of executing low-health enemies and providing gold to allies"
+				},
+				{
+					"itemName": "Soraka (Support)",
+					"itemDescription": "A healing support capable of sustaining her team through significant heals"
+				},
+				{
+					"itemName": "Nami (Support)",
+					"itemDescription": "A support champion offering healing, crowd control, and buffs to allies"
+				},
+				{
+					"itemName": "Thresh (Support)",
+					"itemDescription": "A support with hooks and lanterns, providing crowd control and utility"
+				},
+				{
+					"itemName": "Seraphine (Support)",
+					"itemDescription": "A mage and support hybrid offering healing, crowd control, and area damage"
+				},
+				{
+					"itemName": "Lux (Support)",
+					"itemDescription": "A long-range mage with crowd control and burst damage"
+				},
+				{
+					"itemName": "Sona (Support)",
+					"itemDescription": "A support providing auras that heal, speed up, and empower allies"
+				},
+				{
+					"itemName": "Singed (Support)",
+					"itemDescription": "A disruptive support who uses poison trails and crowd control to harass enemies and control the battlefield"
+				},
+				{
+					"itemName": "Ornn (Support)",
+					"itemDescription": "A tanky support who excels in crowd control and can forge items anywhere on the map, enhancing both his and his team's capabilities"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Teemo (Baron)",
+					"itemDescription": "A poke-based champion that relies on map control and blinds"
+				},
+				{
+					"itemName": "Sion (Baron)",
+					"itemDescription": "A versatile tank in Wild Rift's Baron Lane, known for his crowd control abilities and passive that allows him to continue fighting briefly after death"
+				},
+				{
+					"itemName": "Yasuo (Baron)",
+					"itemDescription": "A melee carry who thrives on critical strikes and synergy with knock-ups"
+				},
+				{
+					"itemName": "Kennen (Baron)",
+					"itemDescription": "A mage with consistent area-of-effect crowd control and damage"
+				},
+				{
+					"itemName": "Akali (Baron)",
+					"itemDescription": "A high-mobility assassin with strong burst damage and elusive movement"
+				},
+				{
+					"itemName": "Fiora (Baron)",
+					"itemDescription": "A top lane duelist with true damage and strong 1v1 potential"
+				},
+				{
+					"itemName": "Tryndamere (Baron)",
+					"itemDescription": "A melee champion who excels in split pushing and critical strikes"
+				},
+				{
+					"itemName": "Tristana (Baron)",
+					"itemDescription": "A scaling marksman with a strong late game but weaker early presence"
+				},
+				{
+					"itemName": "Yone (Baron)",
+					"itemDescription": "A versatile melee champion excelling in the Baron Lane, Yone combines swift mobility with potent damage, making him effective in both duels and team fights"
+				},
+				{
+					"itemName": "Volibear (Baron)",
+					"itemDescription": "A formidable fighter, Volibear boasts rapid jungle clear speeds and impactful ganking potential, especially upon reaching Level 5 with his Stormbringer ability"
+				},
+				{
+					"itemName": "Jayce (Baron)",
+					"itemDescription": "A dynamic champion capable of switching between ranged and melee forms, Jayce offers strong early-game aggression and versatile playstyles in the Baron Lane"
+				},
+				{
+					"itemName": "Urgot (Baron)",
+					"itemDescription": "A durable and damage-dealing champion, Urgot thrives in the Baron Lane by utilizing his ranged attacks and crowd control to dominate opponents"
+				},
+				{
+					"itemName": "Garen (Baron)",
+					"itemDescription": "A tanky champion with straightforward mechanics, Garen excels in sustaining through fights and delivering consistent damage in the Baron Lane"
+				},
+				{
+					"itemName": "Sett (Baron)",
+					"itemDescription": "A powerful fighter known for his crowd control and durability, Sett can initiate fights and absorb significant damage, making him a strong presence in the Baron Lane"
+				},
+				{
+					"itemName": "Maokai (Baron)",
+					"itemDescription": "An AP tank jungler offering substantial crowd control, Maokai's abilities allow him to lock down enemies and engage effectively in team fights"
+				},
+				{
+					"itemName": "Poppy (Baron)",
+					"itemDescription": "A versatile champion with strong defensive capabilities, Poppy can control engagements and disrupt enemy movements in the Baron Lane"
+				},
+				{
+					"itemName": "Nasus (Baron)",
+					"itemDescription": "A scaling champion who becomes a late-game powerhouse by farming his Siphoning Strike, Nasus can dominate the Baron Lane if left unchecked"
+				},
+				{
+					"itemName": "Darius (Baron)",
+					"itemDescription": "A formidable fighter with high damage output and the ability to reset his ultimate, Darius can snowball leads and control the Baron Lane effectively"
+				},
+				{
+					"itemName": "Riven (Baron)",
+					"itemDescription": "A mobile and combo-intensive champion, Riven offers high burst damage and outplay potential in the Baron Lane"
+				},
+				{
+					"itemName": "Olaf (Baron)",
+					"itemDescription": "A relentless fighter with strong early-game dueling potential, Olaf can sustain through fights and chase down targets effectively in the Baron Lane"
+				},
+				{
+					"itemName": "Pantheon (Jungle)",
+					"itemDescription": "An early-game powerhouse who tends to fall off in the late game"
+				},
+				{
+					"itemName": "Gragas (Jungle)",
+					"itemDescription": "A flexible champion who can be played in multiple roles with strong initiation and sustain.\nKha’Zix (Jungle): A stealthy assassin jungler who excels at isolating and eliminating targets"
+				},
+				{
+					"itemName": "Zed (Jungle)",
+					"itemDescription": "A mobile assassin with strong burst damage and outplay potential"
+				},
+				{
+					"itemName": "Kindred (Jungle)",
+					"itemDescription": "A ranged jungler excelling in duels and scaling through passive marks to enhance abilities"
+				},
+				{
+					"itemName": "Master Yi (Jungle)",
+					"itemDescription": "An AD fighter jungler with a weak early game but becomes powerful after level 5 with Highlander, excelling in running down enemies and dealing significant damage"
+				},
+				{
+					"itemName": "Viego (Jungle)",
+					"itemDescription": "A versatile jungler with a fast early clear, utilizing double auto attacks and attack speed boosts to play aggressively"
+				},
+				{
+					"itemName": "Yone (Jungle)",
+					"itemDescription": "A melee champion typically played in Baron or Mid Lane, known for high mobility and outplay potential"
+				},
+				{
+					"itemName": "Kayle (Jungle)",
+					"itemDescription": "A scaling champion who becomes a ranged damage dealer at higher levels, often played in top or mid lanes"
+				},
+				{
+					"itemName": "Morgana (Jungle)",
+					"itemDescription": "A mage with high crowd control and fast jungle clear speeds, offering excellent teamfight potential"
+				},
+				{
+					"itemName": "Aatrox (Jungle)",
+					"itemDescription": "A strong champion playable in Solo Lane or Jungle, effective when landing sweet spot hits on abilities"
+				},
+				{
+					"itemName": "Talon (Jungle)",
+					"itemDescription": "An AD assassin effective in Mid Lane or Jungle, known for exceptional roaming capabilities using wall-jumping abilities"
+				},
+				{
+					"itemName": "Rengar (Jungle)",
+					"itemDescription": "An AD assassin jungler with a strong early game, fast clear, and sustain through healing abilities"
+				},
+				{
+					"itemName": "Diana (Jungle)",
+					"itemDescription": "An assassin playable in Mid Lane or Jungle, capable of initiating teamfights with area-of-effect abilities and gap-closing"
+				},
+				{
+					"itemName": "Fizz (Jungle)",
+					"itemDescription": "An assassin playable in Mid Lane or Jungle, known for mobility and burst potential to dive in and out of fights"
+				},
+				{
+					"itemName": "Graves (Jungle)",
+					"itemDescription": "A ranged AD jungler with strong dueling capabilities and unique mechanics, effective in controlling jungle objectives"
+				},
+				{
+					"itemName": "Kayn (Jungle)",
+					"itemDescription": "A versatile jungler who can transform into different forms to adapt to team needs, offering varied playstyles"
+				},
+				{
+					"itemName": "Xin Zhao (Jungle)",
+					"itemDescription": "A fighter jungler with a strong early game, fast clear, and potent ganking potential to snowball lanes"
+				},
+				{
+					"itemName": "Tryndamere (Jungle)",
+					"itemDescription": "A melee champion with strong scaling, often played in top lane, known for high damage output and survivability"
+				},
+				{
+					"itemName": "Twisted Fate (Mid)",
+					"itemDescription": "A versatile mid-lane mage known for his global presence and crowd control abilities"
+				},
+				{
+					"itemName": "Zyra (Mid)",
+					"itemDescription": "A mage with strong area control, utilizing plants to deal sustained damage and zone enemies"
+				},
+				{
+					"itemName": "Fizz (Mid)",
+					"itemDescription": "A slippery assassin excelling in burst damage and mobility, capable of diving in and out of fights"
+				},
+				{
+					"itemName": "Kennen (Mid)",
+					"itemDescription": "A teamfight-oriented mage with strong crowd control, effective in both mid and top lanes"
+				},
+				{
+					"itemName": "Vex (Mid)",
+					"itemDescription": "A mid-lane mage who punishes dashes and engages with fear effects and burst damage"
+				},
+				{
+					"itemName": "Zed (Mid)",
+					"itemDescription": "A high-mobility assassin specializing in single-target elimination and outplay potential"
+				},
+				{
+					"itemName": "Akshan (Mid)",
+					"itemDescription": "A mid-lane marksman with mobility and revive mechanics, adept at skirmishing and roaming"
+				},
+				{
+					"itemName": "Annie (Mid)",
+					"itemDescription": "A burst mage with reliable crowd control, known for summoning Tibbers to assist in combat"
+				},
+				{
+					"itemName": "Kayle (Mid)",
+					"itemDescription": "A scaling champion who transitions from melee to ranged, becoming a late-game powerhouse"
+				},
+				{
+					"itemName": "Akali (Mid)",
+					"itemDescription": "A stealthy assassin with high mobility and burst potential, excelling in isolated duels"
+				},
+				{
+					"itemName": "Ziggs (Mid)",
+					"itemDescription": "A control mage specializing in long-range poke and objective control with explosive abilities"
+				},
+				{
+					"itemName": "Aurelion Sol (Mid)",
+					"itemDescription": "A scaling mage who controls the battlefield with star-based abilities and global presence"
+				},
+				{
+					"itemName": "Brand (Mid)",
+					"itemDescription": "A mage with potent area damage and crowd control, excelling in team fights through his ablaze mechanic"
+				},
+				{
+					"itemName": "Jayce (Mid)",
+					"itemDescription": "A versatile champion capable of switching between ranged and melee forms, offering flexibility in combat"
+				},
+				{
+					"itemName": "Lissandra (Mid)",
+					"itemDescription": "A control mage with strong crowd control and self-peeling abilities, effective in initiating fights"
+				},
+				{
+					"itemName": "Galio (Mid)",
+					"itemDescription": "A tanky mage with anti-magic capabilities and a global ultimate, excelling in counter-engages"
+				},
+				{
+					"itemName": "Kassadin (Mid)",
+					"itemDescription": "A scaling anti-mage assassin who becomes highly mobile and lethal against magic users in the late game"
+				},
+				{
+					"itemName": "Ekko (Mid)",
+					"itemDescription": "A time-bending assassin with strong engage and disengage tools, capable of reversing unfavorable situations"
+				},
+				{
+					"itemName": "Lux (Mid)",
+					"itemDescription": "A long-range mage with crowd control and burst damage, effective in poking and zoning enemies"
+				},
+				{
+					"itemName": "Yone (Mid)",
+					"itemDescription": "A melee skirmisher with high mobility and mixed damage, excelling in extended trades"
+				},
+				{
+					"itemName": "Yasuo (Mid)",
+					"itemDescription": "A melee champion with critical strike synergy and mobility, reliant on landing skill shots and chaining abilities"
+				},
+				{
+					"itemName": "Ashe (Duo)",
+					"itemDescription": "A utility-focused marksman with long-range attacks and crowd control abilities, excelling in initiating fights and providing vision"
+				},
+				{
+					"itemName": "Tristana (Duo)",
+					"itemDescription": "A scaling marksman with high mobility and attack range, becoming increasingly potent as the game progresses"
+				},
+				{
+					"itemName": "Zeri (Duo)",
+					"itemDescription": "An agile marksman known for her mobility and sustained damage output, capable of electrifying team fights with her area-of-effect abilities"
+				},
+				{
+					"itemName": "Jinx (Duo)",
+					"itemDescription": "A hyper-carry marksman who thrives in the late game, utilizing her versatile weaponry to deal massive damage from a distance"
+				},
+				{
+					"itemName": "Caitlyn (Duo)",
+					"itemDescription": "A lane-dominant marksman with the highest base attack range, excelling in early to mid-game engagements and objective control"
+				},
+				{
+					"itemName": "Kai'Sa (Duo)",
+					"itemDescription": "A versatile marksman capable of adapting her build and playstyle, excelling in both burst and sustained damage roles"
+				},
+				{
+					"itemName": "Lucian (Duo)",
+					"itemDescription": "A mobile marksman with strong early-game presence, utilizing his abilities for quick trades and aggressive plays"
+				},
+				{
+					"itemName": "Vayne (Duo)",
+					"itemDescription": "A late-game hyper-carry marksman specializing in dueling and shredding tanky opponents with true damage"
+				},
+				{
+					"itemName": "Yuumi (Support)",
+					"itemDescription": "A magical cat that attaches to allies to heal and poke enemies from safety"
+				},
+				{
+					"itemName": "Rakan (Support)",
+					"itemDescription": "A flashy enchanter who excels at quick engages and charming multiple foes"
+				},
+				{
+					"itemName": "Karma (Support)",
+					"itemDescription": "A versatile mage support with strong poke, shielding, and utility"
+				},
+				{
+					"itemName": "Zyra (Support)",
+					"itemDescription": "A control-heavy mage who overwhelms enemies with plants and crowd control"
+				},
+				{
+					"itemName": "Leona (Support)",
+					"itemDescription": "A tanky initiator who locks down enemies with stuns and solar flares"
+				},
+				{
+					"itemName": "Galio (Support)",
+					"itemDescription": "A magic-resistant tank with global presence and powerful AoE taunts"
+				},
+				{
+					"itemName": "Alistar (Support)",
+					"itemDescription": "A durable crowd control tank who disrupts fights with headbutts and knock-ups"
+				},
+				{
+					"itemName": "Senna (Support)",
+					"itemDescription": "A long-range support marksman who heals allies and deals significant damage"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Pantheon (Baron)",
+					"itemDescription": "A versatile fighter excelling in early-game trades and map presence, capable of snowballing leads through aggressive play and global pressure"
+				},
+				{
+					"itemName": "Irelia (Baron)",
+					"itemDescription": "A highly mobile duelist who thrives on quick engagements, utilizing her dash resets and crowd control to outmaneuver opponents"
+				},
+				{
+					"itemName": "Vladimir (Baron)",
+					"itemDescription": "A scaling mage with exceptional sustain, leveraging his health-based abilities to endure laning phases and become a formidable presence in team fights"
+				},
+				{
+					"itemName": "Ambessa Medarda (Baron)",
+					"itemDescription": "A character from the \"Arcane\" series, not currently available as a playable champion in Wild Rift"
+				},
+				{
+					"itemName": "Fiora (Jungle)",
+					"itemDescription": "A mobile duelist who can clear jungle camps efficiently and excels in isolating and eliminating priority targets with her precision strikes"
+				},
+				{
+					"itemName": "Jayce (Jungle)",
+					"itemDescription": "A versatile fighter capable of switching between ranged and melee attacks, offering flexible jungle clears and strong poke damage"
+				},
+				{
+					"itemName": "Gwen (Jungle)",
+					"itemDescription": "An AP skirmisher with high sustain and true damage, effective in extended fights and capable of shredding through tanky opponents"
+				},
+				{
+					"itemName": "Evelynn (Jungle)",
+					"itemDescription": "A stealthy assassin who becomes invisible after level 5, enabling her to roam and ambush enemies with high burst damage"
+				},
+				{
+					"itemName": "Darius (Jungle)",
+					"itemDescription": "A juggernaut with strong dueling capabilities, utilizing his bleed effects and ultimate resets to dominate skirmishes"
+				},
+				{
+					"itemName": "Fiddlesticks (Jungle)",
+					"itemDescription": "A mage specializing in area-of-effect damage and crowd control, excelling in ambushes and teamfight disruption"
+				},
+				{
+					"itemName": "Volibear (Jungle)",
+					"itemDescription": "A durable fighter with fast jungle clears, capable of initiating fights and diving under turrets using his ultimate"
+				},
+				{
+					"itemName": "Maokai (Jungle)",
+					"itemDescription": "A tanky jungler with reliable crowd control, adept at setting up ganks and controlling objectives with his saplings"
+				},
+				{
+					"itemName": "Nautilus (Jungle)",
+					"itemDescription": "A crowd control-heavy tank who can lock down multiple enemies, providing strong engage and peel for his team"
+				},
+				{
+					"itemName": "Gnar (Jungle)",
+					"itemDescription": "A dynamic champion who switches between ranged poke and melee tank forms, offering versatility in jungle skirmishes and teamfights"
+				},
+				{
+					"itemName": "Seraphine (Mid)",
+					"itemDescription": "A mage with long-range abilities and team-wide utility, excelling in poking enemies and providing shields and heals to allies"
+				},
+				{
+					"itemName": "Karma (Mid)",
+					"itemDescription": "A versatile mage offering strong poke, shields, and movement speed boosts, enhancing both her survivability and that of her team"
+				},
+				{
+					"itemName": "Irelia (Mid)",
+					"itemDescription": "A mobile melee fighter who thrives on quick engagements, utilizing her dash resets and crowd control to outmaneuver opponents"
+				},
+				{
+					"itemName": "Pyke (Mid)",
+					"itemDescription": "An aggressive assassin support capable of executing low-health enemies and snowballing leads through roaming and ambushes"
+				},
+				{
+					"itemName": "Talon (Mid)",
+					"itemDescription": "An AD assassin with exceptional roaming capabilities, leveraging his wall-jumping ability to swiftly navigate the map and eliminate targets"
+				},
+				{
+					"itemName": "Lucian (Mid)",
+					"itemDescription": "A high-mobility marksman who can dominate the mid lane with aggressive play, utilizing his dual-shot passive and dash to outtrade opponents"
+				},
+				{
+					"itemName": "Vladimir (Mid)",
+					"itemDescription": "A scaling mage with significant sustain, using his health-draining abilities to outlast opponents and become a late-game powerhouse"
+				},
+				{
+					"itemName": "Gragas (Mid)",
+					"itemDescription": "A flexible champion with crowd control and burst damage, capable of initiating fights and disrupting enemy formations with his explosive cask"
+				},
+				{
+					"itemName": "Diana (Mid)",
+					"itemDescription": "An AP assassin who excels in diving onto backlines, combining her shield and dash to engage and burst down multiple enemies"
+				},
+				{
+					"itemName": "Katarina (Mid)",
+					"itemDescription": "A reset-based assassin who thrives in chaotic fights, dealing massive area damage with her daggers and capitalizing on takedowns to continue her assault"
+				},
+				{
+					"itemName": "Twitch (Duo)",
+					"itemDescription": "A stealthy marksman who excels at ambushing enemies with area-of-effect damage, scaling into a potent late-game threat"
+				},
+				{
+					"itemName": "Draven (Duo)",
+					"itemDescription": "An aggressive marksman renowned for high early-game damage through Spinning Axes, capable of snowballing leads via his Adoration stacks"
+				},
+				{
+					"itemName": "Samira (Duo)",
+					"itemDescription": "A dynamic marksman-assassin hybrid who thrives on chaining abilities and attacks to unleash devastating combos, excelling in close-range combat"
+				},
+				{
+					"itemName": "Swain (Support)",
+					"itemDescription": "A durable mage support who excels in crowd control and area-of-effect damage, capable of sustaining through fights with his healing abilities"
+				},
+				{
+					"itemName": "Brand (Support)",
+					"itemDescription": "A high-damage mage support known for his potent area-of-effect abilities and crowd control, capable of zoning enemies and excelling in team fights"
+				},
+				{
+					"itemName": "Poppy (Support)",
+					"itemDescription": "A tanky support with strong crowd control, adept at disrupting enemy movements and protecting allies by blocking dashes and repositioning foes"
+				},
+				{
+					"itemName": "Morgana (Support)",
+					"itemDescription": "A mage support specializing in crowd control and spell negation, utilizing her bindings and shields to control enemies and safeguard teammates"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Kalista (Duo)",
+					"itemDescription": "A mobile marksman emphasizing kiting and synergy with her support, utilizing her Oathsworn bond to reposition allies and engage or disengage fights"
+				},
+				{
+					"itemName": "Nilah (Duo)",
+					"itemDescription": "A melee skirmisher who benefits from critical strikes and thrives in extended fights, offering substantial area damage and sustain but requiring careful positioning due to her short range"
+				}
+			]
+		}
+	]
+}

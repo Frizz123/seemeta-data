@@ -1,0 +1,93 @@
+{
+    "fileName": "granblue-fantasy.json",
+    "title": "Granblue Fantasy Tier List",
+    "description": "This is a tier list for the characters in the popular mobile game Granblue Fantasy. The list is based on the current meta and is updated regularly as the game changes.",
+    "heading": "Granblue Fantasy Tier List",
+    "introText": "This is a tier list for the characters in the popular mobile game Granblue Fantasy. The list is based on the current meta and is updated regularly as the game changes. The characters are ranked from S Tier (the best) to B Tier. The tier list is a useful resource for players who want to know which characters to focus on. However, it is important to remember that tier lists are not always the be-all, end-all. The best character for you will depend on your playstyle and the specific content you are trying to clear.",
+    "datePublished": "2024-05-15",
+    "dateModified": "2024-05-15",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Lancelot",
+                    "itemDescription": "The king of Granblue Fantasy, Lancelot is a powerful attacker with a variety of skills that make him useful in a variety of situations"
+                },
+                {
+                    "itemName": "Vaseraga",
+                    "itemDescription": "Another top-tier attacker, Vaseraga is known for his ability to dish out massive damage with his charge attacks"
+                },
+                {
+                    "itemName": "Io",
+                    "itemDescription": "A versatile character who can excel in both offense and defense, Io is a must-have for any team"
+                },
+                {
+                    "itemName": "Metera",
+                    "itemDescription": "A powerful wind attacker with a focus on debuffs, Metera is a great choice for taking down tough bosses"
+                },
+                {
+                    "itemName": "Anthuria",
+                    "itemDescription": "A fire attacker with a unique skillset that allows her to dodge enemy attacks, Anthuria is a valuable asset to any team"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Grimnir",
+                    "itemDescription": "A dark attacker with a focus on debuffs, Grimnir is a great choice for taking down tough bosses"
+                },
+                {
+                    "itemName": "Vikala",
+                    "itemDescription": "A earth attacker with a unique skillset that allows her to counter enemy attacks, Vikala is a valuable asset to any team"
+                },
+                {
+                    "itemName": "Mahira",
+                    "itemDescription": "A water attacker with a focus on healing and support, Mahira is a great choice for keeping your team alive"
+                },
+                {
+                    "itemName": "Anila",
+                    "itemDescription": "A wind attacker with a focus on debuffs and support, Anila is a great choice for controlling the battlefield"
+                },
+                {
+                    "itemName": "Lucio",
+                    "itemDescription": "A fire attacker with a focus on buffs and support, Lucio is a great choice for boosting your team's damage output"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Sturm",
+                    "itemDescription": "A earth attacker with a focus on damage, Sturm is a solid choice for dealing damage"
+                },
+                {
+                    "itemName": "Pengy & Renie",
+                    "itemDescription": "A wind attacker with a focus on debuffs, Pengy & Renie are a solid choice for controlling the battlefield"
+                },
+                {
+                    "itemName": "Monika",
+                    "itemDescription": "A fire attacker with a focus on support, Monika is a solid choice for boosting your team's survivability"
+                },
+                {
+                    "itemName": "Robomi",
+                    "itemDescription": "A earth attacker with a focus on damage, Robomi is a solid choice for dealing damage"
+                },
+                {
+                    "itemName": "Wulf & Renie",
+                    "itemDescription": "A water attacker with a focus on damage, Wulf & Renie are a solid choice for dealing damage"
+                },
+                {
+                    "itemName": "Carrot (One Piece)",
+                    "itemDescription": "Carrot is a melee unit that deals moderate damage and can jump over enemies. She also has a passive ability that increases her movement speed when she is attacking multiple enemies"
+                }
+            ]
+        }
+    ]
+}

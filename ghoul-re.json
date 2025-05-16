@@ -1,0 +1,118 @@
+{
+  "fileName": "ghoul-re.json",
+  "title": "GHOUL://RE Tier List",
+  "description": "Discover the rankings of Kagune in GHOUL://RE, categorized from S to C Tier, to enhance your gameplay strategy.",
+  "heading": "GHOUL://RE Tier List",
+  "introText": "Discover the rankings of Kagune in GHOUL://RE, categorized from S to C Tier, to enhance your gameplay strategy.",
+  "datePublished": "2025-03-17",
+  "dateModified": "2025-03-17",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Ken/Kagune",
+          "itemDescription": "A highly powerful Kagune with multiple stages and unique abilities. He boasts some of the highest damage in the game and possesses strong stun abilities. Easy to use"
+        },
+        {
+          "itemName": "Eto/Kagune",
+          "itemDescription": "A lightning-fast Kagune specializing in mobility and range. Exceptional at chasing down enemies and eliminating them with overwhelming offensive power. Offers both ranged and melee options for optimal damage output"
+        },
+        {
+          "itemName": "Mayu/Kagune",
+          "itemDescription": "A relentless Kagune built for keeping enemies locked in place while dealing massive damage. Best suited for close-range combat with rapid attacks. Also features trapping abilities to slow down enemies and set up easy kills"
+        },
+        {
+          "itemName": "Takizawa/Kagune",
+          "itemDescription": "A fast and versatile Kagune designed for handling multiple enemies simultaneously, ideal for escaping group chases"
+        },
+        {
+          "itemName": "IXA/Quinque",
+          "itemDescription": "IXA excels in delivering high DPS with long-range attacks, allowing for versatile combat strategies"
+        },
+        {
+          "itemName": "Narukami/Quinque",
+          "itemDescription": "Narukami specializes in swift strikes and possesses significant area-of-effect damage, making it effective against multiple opponents"
+        },
+        {
+          "itemName": "Serrate/Quinque",
+          "itemDescription": "Quinque is renowned for its rapid, precise strikes and exceptional mobility. Its design facilitates swift, small-scale attacks, complemented by numerous movement abilities that enhance agility. This combination makes Serrate particularly effective in aerial combat scenarios, allowing users to maintain pressure on opponents from various angles"
+        },
+        {
+          "itemName": "13 Jason/Quinque",
+          "itemDescription": "This quinque excels in immobilizing melee rush tactics, featuring moves like dashing thrusts, enemy immobilization, and ranged attacks. Notably, it offers enhanced dash distance and speed, and its attacks can induce a bleed effect on targets"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Yomo/Kagune",
+          "itemDescription": "A single-target powerhouse with explosive damage and high mobility, excelling in one-on-one combat"
+        },
+        {
+          "itemName": "Noro/Kagune",
+          "itemDescription": "A control-focused Kagune that specializes in incapacitating enemies, allowing for uninterrupted damage"
+        },
+        {
+          "itemName": "Tsukimiya/Kagune",
+          "itemDescription": "A swift Kagune with rapid attack combos, ensuring continuous offensive pressure"
+        },
+        {
+          "itemName": "Demon Yamada/Quinque",
+          "itemDescription": "Quinque is a durable weapon known for its slow melee burst playstyle. It features a single stage resembling a long, sharp meat cleaver with distinctive lines reflecting the user's secondary color. The quinque offers various attacks, including quick slashes, dashes, lunges with stun effects, and powerful ranged slashes, making it effective in close-quarters combat"
+        },
+        {
+          "itemName": "Ginkui/Quinque",
+          "itemDescription": "Ginkui's combat style emphasizes immobilizing melee rush tactics, featuring moves such as dashing thrusts, enemy immobilization, and ranged attacks"
+        },
+        {
+          "itemName": "Nutcracker/Quinque",
+          "itemDescription": "It features charge and lunge attacks, allowing players to engage enemies swiftly and efficiently. The trap mechanic adds a strategic layer to combat, enabling users to immobilize opponents and capitalize on their vulnerabilities"
+        },
+        {
+          "itemName": "Scorpion/Quinque",
+          "itemDescription": "Weapon known for its fast charge attacks, effective ranged skills, and impressive area-of-effect (AoE) capabilities. This combination makes it versatile for both close-quarters and mid-range combat scenarios"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Yamori/Kagune",
+          "itemDescription": "A slow but lethal Kagune that delivers devastating, high-damage attacks with powerful wind-ups"
+        },
+        {
+          "itemName": "Wing/Kagune",
+          "itemDescription": "A balanced Kagune suitable for beginners, offering both melee and ranged combat options"
+        },
+        {
+          "itemName": "AUS/Quinque",
+          "itemDescription": "It offers a versatile fighting style, suitable for both close-quarters and mid-range engagements. AUS is recognized for its reliable performance, making it a solid choice for players seeking a dependable weapon in various combat scenarios"
+        },
+        {
+          "itemName": "Yukimura/Quinque",
+          "itemDescription": "Weapon featuring a long, tapered blade similar to a sword. Quinque, offering decent area-of-effect attacks, making it effective in group brawls and easy to use for players"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Beaked/Kagune",
+          "itemDescription": "A heavy-hitting Kagune featuring massive sword-like attacks and strong combo potential"
+        },
+        {
+          "itemName": "Nishio/Kagune",
+          "itemDescription": "A simple and limited Kagune with short range and low utility, offering a basic combat experience"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+	"fileName": "summoners-war.json",
+	"title": "Summoners War Tier List",
+	"description": "This tier list is based on the opinions of experienced players and may not reflect everyone's experiences. The metagame is constantly evolving, so this list may not be accurate in the future.",
+	"heading": "Summoners War Tier List",
+	"introText": "This tier list is based on the opinions of experienced players and may not reflect everyone's experiences. The metagame is constantly evolving, so this list may not be accurate in the future.",
+	"datePublished": "2024-06-12",
+	"dateModified": "2024-06-12",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Oliver",
+					"itemDescription": "Oliver is a must-have for any PvP team. His ability to reset cooldowns can completely disrupt the enemy's strategy"
+				},
+				{
+					"itemName": "Kaki",
+					"itemDescription": "Kaki is a nuker who can deal massive damage to a single target. He is especially effective against teams that rely on a single damage dealer"
+				},
+				{
+					"itemName": "Arta",
+					"itemDescription": "Arta is a support monster who can provide buffs and debuffs that can turn the tide of battle. He is especially effective in RTA"
+				},
+				{
+					"itemName": "Savannah",
+					"itemDescription": "Savannah is a bruiser who can deal damage and take a hit. She is a great all-around monster who can be used in a variety of teams"
+				},
+				{
+					"itemName": "Daphnis",
+					"itemDescription": "Daphnis is a nuker who can deal massive damage to all enemies. He is especially effective against teams that are grouped together"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Jeanne",
+					"itemDescription": "Jeanne is a support monster who can provide shields and immunity. She is a great counter to Oliver"
+				},
+				{
+					"itemName": "Bolverk",
+					"itemDescription": "Bolverk is a bruiser who can deal damage and take a hit. He is a great all-around monster who can be used in a variety of teams"
+				},
+				{
+					"itemName": "Ragdoll",
+					"itemDescription": "Ragdoll is a support monster who can strip buffs and debuffs. He is a great counter to teams that rely on buffs"
+				},
+				{
+					"itemName": "Triana",
+					"itemDescription": "Triana is a support monster who can provide invincibility. She is a great counter to nukers"
+				},
+				{
+					"itemName": "Veromos",
+					"itemDescription": "Veromos is a support monster who can crowd control the enemy team. He is a great choice for PvE content"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Loren",
+					"itemDescription": "Loren is a support monster who can break down the enemy's defense. She is a good choice for teams that rely on nukers"
+				},
+				{
+					"itemName": "Fran",
+					"itemDescription": "Fran is a support monster who can provide healing and immunity. She is a good choice for PvE content"
+				},
+				{
+					"itemName": "Maruna",
+					"itemDescription": "Maruna is a nuker who can deal damage to all enemies. She is a good choice for teams that need to clear waves quickly"
+				},
+				{
+					"itemName": "Ganymede",
+					"itemDescription": "Ganymede is a support monster who can strip buffs and debuffs. He is a good choice for teams that need to control the enemy team"
+				},
+				{
+					"itemName": "Xing Zhe",
+					"itemDescription": "Xing Zhe is a bruiser who can deal damage and take a hit. He is a good all-around monster who can be used in a variety of teams"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Bael",
+					"itemDescription": "Bael is a nuker who can deal massive damage to a single target. However, he is very squishy and can be easily killed"
+				},
+				{
+					"itemName": "Tiana",
+					"itemDescription": "Tiana is a support monster who can strip buffs and debuffs. However, she is very unreliable and can often miss her skills"
+				},
+				{
+					"itemName": "Poseidon",
+					"itemDescription": "Poseidon is a nuker who can deal damage to all enemies. However, he is very slow and can be easily outsped"
+				},
+				{
+					"itemName": "Juno",
+					"itemDescription": "Juno is a support monster who can provide immunity. However, she is very niche and is only useful in specific teams"
+				}
+			]
+		}
+	]
+}

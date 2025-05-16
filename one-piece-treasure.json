@@ -1,0 +1,82 @@
+{
+    "fileName": "one-piece-treasure.json",
+    "title": "One Piece Treasure Cruise Tier List",
+    "description": "Navigate the ever-evolving world of One Piece Treasure Cruise with this comprehensive tier list. Discover the top-rated Legends and units, categorized into S Tier, A Tier, B Tier, and C Tier, to help you build powerful teams and conquer challenging content.",
+    "heading": "One Piece Treasure Cruise Tier List",
+    "introText": "Navigate the ever-evolving world of One Piece Treasure Cruise with this comprehensive tier list. Discover the top-rated Legends and units, categorized into S Tier, A Tier, B Tier, and C Tier, to help you build powerful teams and conquer challenging content. Whether you're a seasoned veteran or a new adventurer, this tier list will provide valuable insights into the current meta and guide you towards making informed decisions to enhance your Treasure Cruise experience.",
+    "datePublished": "2024-05-13",
+    "dateModified": "2024-05-13",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Luffy & Hancock",
+                    "itemDescription": "This dual Legend boasts incredible damage output, amazing support capabilities, and a versatile special that makes them a force to be reckoned with"
+                },
+                {
+                    "itemName": "Roger & Oden",
+                    "itemDescription": "A powerhouse duo that combines Roger's devastating attacks with Oden's resilience and support, making them a formidable team for any content"
+                },
+                {
+                    "itemName": "S-Shanks",
+                    "itemDescription": "With his ability to negate buffs and debuffs, S-Shanks is a game-changer in many situations, providing both offensive and defensive utility"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Yamato",
+                    "itemDescription": "A versatile Legend who shines as both a captain and a support unit, providing damage, orb manipulation, and HP recovery"
+                },
+                {
+                    "itemName": "Zoro & Sanji",
+                    "itemDescription": "The iconic duo brings their signature teamwork to the game, delivering high damage, defense boosts, and special attack reduction"
+                },
+                {
+                    "itemName": "Blackbeard",
+                    "itemDescription": "A formidable Legend with a unique mechanic that allows him to absorb buffs and debuffs, making him a powerful attacker and disrupter"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Raizo & Shinobu",
+                    "itemDescription": "A support duo that excels at manipulating orbs, reducing damage, and providing additional effects"
+                },
+                {
+                    "itemName": "Greenbull",
+                    "itemDescription": "A versatile Legend who offers damage, defense, and the ability to change enemy teams orbs"
+                },
+                {
+                    "itemName": "Otama",
+                    "itemDescription": "A supportive Legend who provides HP recovery, orb manipulation, and the chance to paralyze enemies"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "V2 Shanks 6+",
+                    "itemDescription": "An older Legend who still packs a punch with his damage output and special that reduces enemy defense"
+                },
+                {
+                    "itemName": "Ace Exchange",
+                    "itemDescription": "A support unit that provides orb manipulation, defense boosts, and the chance to despair enemies"
+                },
+                {
+                    "itemName": "Final Tap Law 6+",
+                    "itemDescription": "A versatile Legend who offers damage, orb manipulation, and the ability to silence enemies"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+	"fileName": "maplestory-soul.json",
+	"title": "MapleStory Soul Tier List",
+	"description": "Soul Weapons were introduced in the Black Heaven update and have become an essential part of the game for both bossing and mobbing. They provide a significant boost in damage and other stats, and can even grant unique skills. However, not all Soul Weapons are created equal. Some are far more powerful than others, and can make a big difference in your performance. This tier list is based on the overall effectiveness of Soul Weapons in both solo and party play. It takes into account factors such as damage output, utility, and survivability.",
+	"heading": "MapleStory Soul Tier List",
+	"introText": "Soul Weapons were introduced in the Black Heaven update and have become an essential part of the game for both bossing and mobbing. They provide a significant boost in damage and other stats, and can even grant unique skills. However, not all Soul Weapons are created equal. Some are far more powerful than others, and can make a big difference in your performance. This tier list is based on the overall effectiveness of Soul Weapons in both solo and party play. It takes into account factors such as damage output, utility, and survivability.",
+	"datePublished": "2024-05-26",
+	"dateModified": "2024-05-26",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Cygnus",
+					"itemDescription": "The best Soul Weapon in the game, Cygnus provides a massive boost in damage and has a powerful summon skill that can clear entire rooms of enemies"
+				},
+				{
+					"itemName": "Damien",
+					"itemDescription": "Another excellent Soul Weapon, Damien is particularly strong for bossing thanks to its high damage and Ignore Defense bonus"
+				},
+				{
+					"itemName": "Will",
+					"itemDescription": "A versatile Soul Weapon that is good for both bossing and mobbing, Will offers a balance of damage, utility, and survivability"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Lotus",
+					"itemDescription": "A solid choice for bossing, Lotus provides a high damage output and a useful debuff skill"
+				},
+				{
+					"itemName": "Horus",
+					"itemDescription": "A good all-around Soul Weapon, Horus is decent for both bossing and mobbing"
+				},
+				{
+					"itemName": "Hilla",
+					"itemDescription": "A unique Soul Weapon that grants a powerful self-buff, Hilla is particularly strong for solo play"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Ark",
+					"itemDescription": "A decent Soul Weapon for bossing, Ark's damage is held back by its low uptime"
+				},
+				{
+					"itemName": "Luminous",
+					"itemDescription": "A versatile Soul Weapon that is good for both bossing and mobbing, Luminous is not as strong as some of the other options in this tier"
+				},
+				{
+					"itemName": "Nova",
+					"itemDescription": "A unique Soul Weapon that grants a powerful summon skill, Nova is best used for mobbing"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Chaos",
+					"itemDescription": "A situational Soul Weapon that is only useful in certain boss fights"
+				},
+				{
+					"itemName": "Pink Bean",
+					"itemDescription": "A weak Soul Weapon that is not worth using in most cases"
+				},
+				{
+					"itemName": "Lucid",
+					"itemDescription": "A unique Soul Weapon that grants a powerful self-buff, Lucid is too difficult to maintain to be practical"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"fileName": "battle-crush.json",
+	"title": "Battle Crush Tier List",
+	"description": "Discover the ultimate Battle Crush tier list, ranking characters from S to C tier. Learn which heroes dominate the battlefield with top-tier abilities and strategies. Dive into detailed rankings and find out who excels in various combat scenarios. Perfect for both beginners and seasoned players looking to enhance their gameplay.",
+	"heading": "Battle Crush Tier List",
+	"introText": "Discover the ultimate Battle Crush tier list, ranking characters from S to C tier. Learn which heroes dominate the battlefield with top-tier abilities and strategies. Dive into detailed rankings and find out who excels in various combat scenarios. Perfect for both beginners and seasoned players looking to enhance their gameplay.",
+	"datePublished": "2024-06-27",
+	"dateModified": "2024-06-27",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Seri",
+					"itemDescription": "A baseball-playing dinosaur, Seri is a ranged character whose special ability zooms out the view, providing a wider field of vision and highlighting enemies in stealth mode"
+				},
+				{
+					"itemName": "Diana",
+					"itemDescription": "As the default unlocked character, Diana excels with her movement abilities and ranged attacks. Her ultimate does not require line-of-sight on opponents, making her very versatile"
+				},
+				{
+					"itemName": "Nyx",
+					"itemDescription": "Nyx has excellent movement options and can enter stealth without being in specific terrain. She is strong in both close combat and stealthy approaches"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Medusa",
+					"itemDescription": "Medusa's projectiles are powerful, but she lacks a diverse set of abilities, making her more challenging to play effectively"
+				},
+				{
+					"itemName": "Dandi",
+					"itemDescription": "Dandi's unique ability to swim more easily provides strategic advantages in water areas, though this is situational"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Lancelot",
+					"itemDescription": "A specialist character with a parry instead of a heavy attack, making him difficult to master and less effective in group brawls"
+				},
+				{
+					"itemName": "Hercules",
+					"itemDescription": "Known for his iconic lion’s pelt look, Hercules is visually appealing but not particularly powerful"
+				},
+				{
+					"itemName": "Hades",
+					"itemDescription": "Features a unique skeleton look but lacks the gravitas of more traditional mythological depictions"
+				},
+				{
+					"itemName": "Lops",
+					"itemDescription": "Often seen as the game's poster child, Lops has a goofy aesthetic but is still popular"
+				},
+				{
+					"itemName": "King Arthur",
+					"itemDescription": "While not necessarily from mythology, King Arthur is a fun addition with a distinct style"
+				},
+				{
+					"itemName": "Poseidon",
+					"itemDescription": "A mascot character with significant reach and attack size, though his moves are highly telegraphed"
+				},
+				{
+					"itemName": "Ares",
+					"itemDescription": "A stylish take on the Greek god of war, reminiscent of Dante from Devil May Cry"
+				},
+				{
+					"itemName": "Freyja",
+					"itemDescription": "Popular in team compositions but not yet thoroughly explored"
+				},
+				{
+					"itemName": "Hermes",
+					"itemDescription": "Another interesting character from mythology, but not widely chosen for team play"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Urus",
+					"itemDescription": "Lacks a dodge move, which is crucial for avoiding projectiles. His heavy hitting does not compensate for his slowness, making him reliant on good team coordination"
+				}
+			]
+		}
+	]
+}

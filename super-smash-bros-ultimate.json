@@ -1,0 +1,324 @@
+{
+	"fileName": "super-smash-bros-ultimate.json",
+	"title": "Super Smash Bros. Ultimate Tier List",
+	"description": "With such a large and diverse cast of characters, it's no wonder that the game has a thriving competitive scene. Players from all over the world compete to see who is the best at the game, and there are many different tier lists that rank the characters based on their strength.",
+	"heading": "Super Smash Bros. Ultimate Tier List",
+	"introText": "With such a large and diverse cast of characters, it's no wonder that the game has a thriving competitive scene. Players from all over the world compete to see who is the best at the game, and there are many different tier lists that rank the characters based on their strength.",
+	"datePublished": "2024-06-14",
+	"dateModified": "2024-06-14",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Steve",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sonic",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Kazuya",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Min Min",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cloud",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yoshi",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Pikachu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Joker",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pyra/Mythra",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sheik",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Peach",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Daisy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Zero Suit Samus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Wario",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Snake",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Wolf",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lucina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Palutena",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Greninja",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shulk",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Chrom",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Link",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lucario",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bowser Jr.",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Piranha Plant",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Banjo & Kazooie",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Terry",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hero",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Richter",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Chrom",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Incineroar",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Pichu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ice Climbers",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Luigi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bowser",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jigglypuff",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dr. Mario",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ganondorf",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ridley",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dark Samus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mewtwo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lucas",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ness",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Captain Falcon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Corrin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Robin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Wii Fit Trainer",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rosalina & Luma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pac-Man",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Duck Hunt",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Isabelle",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pichu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dark Pit",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Olimar",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Little Mac",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Meta Knight",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pit",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "King K. Rool",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Isabelle",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Piranha Plant",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Game & Watch",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "ROB",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mii Gunner",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mii Swordfighter",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mii Brawler",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Falco",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mr. Game & Watch",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "E Tier",
+			"data": [
+				{
+					"itemName": "Ganondorf",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Little Mac",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

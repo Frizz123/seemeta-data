@@ -1,0 +1,66 @@
+{
+	"fileName": "attack-on-titan-evolution-family.json",
+	"title": "Attack on Titan Evolution Family Tier List",
+	"description": "This tier list ranks the different families in Attack on Titan Evolution from best to worst, so you can make sure you're using the strongest ones possible. The list is based on the author's opinion and experience, so your mileage may vary. Factors to consider when choosing a family include your playstyle, the game mode you are playing, and your personal preferences.",
+	"heading": "Attack on Titan Evolution Family Tier List",
+	"introText": "This tier list ranks the different families in Attack on Titan Evolution from best to worst, so you can make sure you're using the strongest ones possible. The list is based on the author's opinion and experience, so your mileage may vary. Factors to consider when choosing a family include your playstyle, the game mode you are playing, and your personal preferences.",
+	"datePublished": "2024-05-19",
+	"dateModified": "2024-05-19",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Ackerman",
+					"itemDescription": "The Ackerman family is the undisputed best family in the game. They have a variety of powerful buffs and abilities, including increased damage, speed, and health, as well as the ability to revive upon death"
+				},
+				{
+					"itemName": "Reiss",
+					"itemDescription": "The Reiss family is another very strong family, with buffs that increase their attack, defense, and ODM gear efficiency. They also have the ability to transform into Titans, which can be very powerful in certain situations"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Yeager",
+					"itemDescription": "The Yeager family is a good all-around family with buffs that increase their damage, health, and ODM gear range. They also have the ability to deal bonus damage to Titans while in Titan form"
+				},
+				{
+					"itemName": "Fritz",
+					"itemDescription": "The Fritz family is a defensive family with buffs that increase their health, defense, and ODM gear durability. They also have the ability to heal themselves and their allies"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Asia",
+					"itemDescription": "The Asia family is a balanced family with buffs that increase their damage, speed, and ODM gear gas capacity. They also have the ability to deal bonus damage to Titans while grappling"
+				},
+				{
+					"itemName": "Waldian",
+					"itemDescription": "The Waldian family is a support family with buffs that increase their ODM gear range, gas capacity, and durability. They also have the ability to revive their allies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Braus",
+					"itemDescription": "The Braus family is a family with buffs that increase their health, defense, and ODM gear efficiency. However, their buffs are not as strong as those of other families"
+				},
+				{
+					"itemName": "Arlert",
+					"itemDescription": "The Arlert family is a family with buffs that increase their damage, speed, and ODM gear range. However, their buffs are not as strong as those of other families"
+				}
+			]
+		}
+	]
+}

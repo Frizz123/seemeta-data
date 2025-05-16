@@ -1,0 +1,207 @@
+{
+  "fileName": "fire-force-reignition.json",
+  "title": "Fire Force Reignition Tier List",
+  "description": "Explore the ultimate Fire Force Reignition tier list, featuring top clans and abilities curated from community votes to enhance your gameplay experience.",
+  "heading": "Fire Force Reignition Tier List",
+  "introText": "Explore the ultimate Fire Force Reignition tier list, featuring top clans and abilities curated from community votes to enhance your gameplay experience.",
+  "datePublished": "2025-05-08",
+  "dateModified": "2025-05-08",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Berserker (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Spitter (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Priest (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dragon (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Burns (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Obi (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Liberation Fists (Ability)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Grand Hands (Ability)",
+          "itemDescription": "Devil’s Footprint (Ability):"
+        },
+        {
+          "itemName": "Sakura (Ability)",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Reaper (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Windwalker (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Wing (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shinmon (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Boyle (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kakame (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gun (Ability)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ice (Ability)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Pike (Ability)",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Partial Infernalization (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Scientist (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Beam (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kusakabe (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Oze (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sagamiya (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Mori (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Pile Bunker (Ability)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lightning (Ability)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Excalibur (Ability)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Explosion (Ability)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shield (Ability)",
+          "itemDescription": "Axe n’ Gun (Ability):"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Engineer (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tail (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Oji (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "DFlesh (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sickle (Ability)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Suggestion (Ability)",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Assassin (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Blitz (Subclass)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Son (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Montgomery (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kotatsu (Clan)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sputter (Ability)",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+	"fileName": "supervive.json",
+	"title": "SUPERVIVE Tier List",
+	"description": "Conquer the battleground with this comprehensive SUPERVIVE tier list. Discover the top-tier characters, their strengths, and strategies to dominate the arena.",
+	"heading": "SUPERVIVE Tier List",
+	"introText": "Conquer the battleground with this comprehensive SUPERVIVE tier list. Discover the top-tier characters, their strengths, and strategies to dominate the arena.",
+	"datePublished": "2024-10-16",
+	"dateModified": "2024-12-28",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Shiv",
+					"itemDescription": "Shiv is a melee fighter who specializes in close-quarters combat. His abilities grant him increased attack speed, movement speed, and damage output, making him a threat in melee engagements"
+				},
+				{
+					"itemName": "Felix",
+					"itemDescription": "Felix is a ranged damage dealer who excels at dealing consistent damage from a distance. His abilities allow him to slow enemies, apply area-of-effect damage, and attack multiple targets simultaneously"
+				},
+				{
+					"itemName": "Brall",
+					"itemDescription": "Brall is a melee fighter who focuses on dealing burst damage. His abilities grant him increased movement speed and attack damage, but he lacks the sustain and versatility of other melee characters"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Oath",
+					"itemDescription": "Oath is a tank character who can provide damage mitigation and crowd control. His abilities enable him to stun enemies, reduce incoming damage, and deal area-of-effect damage"
+				},
+				{
+					"itemName": "Celeste",
+					"itemDescription": "Celeste is a ranged damage dealer who specializes in dealing high damage over time. Her abilities allow her to apply debuffs, summon damaging projectiles, and deal area-of-effect damage"
+				},
+				{
+					"itemName": "Zeph",
+					"itemDescription": "Zeph is a ranged damage dealer who specializes in dealing damage over time. His abilities allow him to spread debuffs, summon damaging projectiles, and deal area-of-effect damage"
+				},
+				{
+					"itemName": "Joule",
+					"itemDescription": "Joule is a support character who provides healing and buffs to her teammates. Her abilities enable her to sustain allies, enhance their damage, and protect them from harm"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Kingpin",
+					"itemDescription": "Kingpin is a tanky character who can absorb substantial damage and protect his allies. His abilities provide crowd control, damage mitigation, and area-of-effect damage"
+				},
+				{
+					"itemName": "Bishop",
+					"itemDescription": "Bishop is a support character who can control the battlefield and manipulate enemy positions. His abilities enable him to teleport allies, create barriers, and deal damage to nearby opponents"
+				},
+				{
+					"itemName": "Hudson",
+					"itemDescription": "Needs improvement"
+				},
+				{
+					"itemName": "Myth",
+					"itemDescription": "Myth is an exceptional character who excels in both offense and defense. His abilities allow him to control the battlefield, deal significant damage, and protect his teammates"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Void",
+					"itemDescription": "Void is a support character who can disrupt enemies and provide minor healing to allies. His abilities enable him to silence enemies, slow their movement, and heal nearby teammates"
+				},
+				{
+					"itemName": "Elluna",
+					"itemDescription": "Elluna is a ranged damage dealer who excels at dealing damage to single targets. Her abilities allow her to mark enemies, deal bonus damage to marked targets, and execute them under certain conditions"
+				},
+				{
+					"itemName": "Ghost",
+					"itemDescription": "Ghost is a highly mobile assassin capable of eliminating opponents quickly and efficiently. His invisibility and teleporting skills make him a formidable adversary"
+				},
+				{
+					"itemName": "Shrike",
+					"itemDescription": "Shriek is a versatile character who can adapt to various situations. Her abilities enable her to deal sustained damage, disrupt enemies, and heal herself"
+				}
+			]
+		}
+	]
+}

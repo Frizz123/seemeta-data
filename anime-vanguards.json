@@ -1,0 +1,266 @@
+{
+  "fileName": "anime-vanguards.json",
+  "title": "Anime Vanguards Tier List",
+  "description": "Discover the latest Anime Vanguards tier list, ranking the best characters from S Tier to C Tier. Optimize your team with top-tier units and dominate the game!",
+  "heading": "Anime Vanguards Tier List",
+  "introText": "Discover the latest Anime Vanguards tier list, ranking the best characters from S Tier to C Tier. Optimize your team with top-tier units and dominate the game!",
+  "datePublished": "2024-10-22",
+  "dateModified": "2025-03-01",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Eizan (Aura)",
+          "itemDescription": "A Secret unit introduced in the 4.0 update, Eizan possesses powerful abilities like Complete Hypnosis, causing enemies to retreat, and Aura, which inflicts passive damage and grants immunity to status ailments"
+        },
+        {
+          "itemName": "Yehowach (Almighty)",
+          "itemDescription": "Obtainable through the Rifts mode, Yehowach excels with multi-target attacks and range enhancements. His ability, The Almighty, provides immunity to negative effects and boosts damage with each dodged attack"
+        },
+        {
+          "itemName": "Haruka Rin (Dancer)",
+          "itemDescription": "A top-tier support unit, Haruka Rin enhances the attack power of nearby units and improves their performance consistency, making her invaluable in various game modes"
+        },
+        {
+          "itemName": "Yomomata (Captain)",
+          "itemDescription": "Yomomata (Captain) is a Secret unit in Anime Vanguards 4.0 that deals burn damage and can revive defeated enemies as skeletons, enhancing his damage by up to 30%"
+        },
+        {
+          "itemName": "Rogita (Super 4)",
+          "itemDescription": "Сapable of inflicting the Slow status on enemies, boosting his damage up to 50%, and spawning clones that double his attack output. He can also teleport around the map at the cost of a temporary 20% increase in SPA, making him versatile in both offense and defense"
+        },
+        {
+          "itemName": "Alucard (Vampire King)",
+          "itemDescription": "Evo Alocard is one of the strongest units in the game. He has full AoE, bleed, insane range, relatively low SPA, and high base damage. Plus, he can summon units, which are by far better than SJW’s"
+        },
+        {
+          "itemName": "Vogita Super (Awakened)",
+          "itemDescription": "Evo Vogita Super has been buffed and is now among the best mythics. Mostly because he is cheap to place and upgrade, and his multi-hit is excellent for dealing with shields. Plus, his passive makes him extra useful against bosses"
+        },
+        {
+          "itemName": "Igros (Elite Knight)",
+          "itemDescription": "When combined with Evo SJW, Evo Igros comes really close to being one of the strongest secret units in Anime Vanguards. The buffs he gets from SJW are insane, and he buffs SJW, too! Plus, he is full AoE, multi-hit, immune to stun, and has good stats"
+        },
+        {
+          "itemName": "Cha-In (Blade Dancer)",
+          "itemDescription": "Evo Cha-In is one of the best mythics in the game. She dodges and counters enemy attacks, has increased crit, and her DPS and range are excellent. Plus, she outperforms Evo Igros and Evo Alocard in all short modes"
+        },
+        {
+          "itemName": "Tuji (Sorcerer Killer)",
+          "itemDescription": "Evo Toji’s passive allows him to take down shields and gain increased damage right after that. Plus, all of his stats are extremely good, and he has two abilities you can switch between depending on whether you’re fighting a boss or clearing mobs. He is really meta"
+        },
+        {
+          "itemName": "Julias (Eisplosion)",
+          "itemDescription": "Julias (Eisplosion) is the most meta support in the game right now. His attacks are multi-hit and freeze enemies in a big AoE, and his stats are all pretty good"
+        },
+        {
+          "itemName": "Jag-o (Volcanic)",
+          "itemDescription": "Evo Jag-o has much better stats than the regular version and an active that increases his stats and turns him into full AoE for 15 seconds. He is pretty solid for Infinite"
+        },
+        {
+          "itemName": "Sosuke (Storm)",
+          "itemDescription": "Evo Sosuke is a pretty good support mythic. He can stun enemies and deal increased damage to them. His stun also got a buff recently, making him extra viable"
+        },
+        {
+          "itemName": "Obita (Awakened)",
+          "itemDescription": "Evo Obita has solid DPS and burn but doesn’t have the utility to match SJW or Cha-In. Still, he is pretty strong as a pure DPS and shield breaker"
+        },
+        {
+          "itemName": "Renguko (Purgatory)",
+          "itemDescription": "Renguko (Purgatory) is arguably the weakest exclusive in Anime Vanguards right now. His passive does give him increased DMG if attacking the same enemy, and further buffs burn damage against already burning targets. However, he isn’t full AoE"
+        },
+        {
+          "itemName": "Akazo (Destructive)",
+          "itemDescription": "Akazo (Destructive)’s active gives him stun immunity and increased stats, which is really useful on some stages. Also, he has a line attack that triggers at range and okayish DPS. Still, other mythics seem to outperform it"
+        },
+        {
+          "itemName": "Akazo",
+          "itemDescription": "Akazo has a line AoE attack when maxed out, multi-hit on placement, very good range, and solid DPS. His passive reduces stun duration and other debuffs applied by enemies by 33%, which isn’t that useful. However, it also increases his DMG when he receives an attack"
+        },
+        {
+          "itemName": "Tengon (Flashiness)",
+          "itemDescription": "Tengon (Flashiness) has a very good passive that increases DMG and lowers SPA. Plus, he is full AoE, has insane DPS, and a multi-hit attack. He is by far the best mythic in AV"
+        },
+        {
+          "itemName": "Song Jinwu (Monarch)",
+          "itemDescription": "Evo SJW’s is still one of the best mythics. He can summon units, has amazing DPS, and has an OP synergy with Igris. Plus, like all other units with 3 max placements and an active, he is amazing with Monarch"
+        },
+        {
+          "itemName": "Chaso (Blood Curse)",
+          "itemDescription": "Evo Chaso gets a full AoE attack and an extra passive that gives him more DMG as he attacks bleeding enemies. Plus, he has 4 max placements, making him extremely valuable for Infinite runs"
+        },
+        {
+          "itemName": "Jag-o",
+          "itemDescription": "Unevo Jag-o feels like a nerfed version of Renguko. His burn can be useful ffor breaking shields but his upgrades are really expensive, and outside of Infinite, he isn’t that good"
+        },
+        {
+          "itemName": "Itaduri",
+          "itemDescription": "Itaduri is garbage. The only upside is that he is useful for the Sukuna Boss Rush event. Also, his evo is OP, and the Monarch trait is literally made for him"
+        },
+        {
+          "itemName": "Todu (Unleashed)",
+          "itemDescription": "Evolved Todu gets more stats and another attack when maxed out. His evo passive isn’t that great, and if you do end up using him, it will mostly be because of his active ability"
+        },
+        {
+          "itemName": "Gujo (Infinity)",
+          "itemDescription": "Gujo (Infinity) is definetly the most meta unit in the game right now. His DPS is simply insane. Plus, he has full AoE when maxed out and an OP ability that has a fairly low cooldown and can wipe and stun the whole map (excluding bosses)"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Agony",
+          "itemDescription": "Agony is a pretty solid support. He has full AoE on placement and knockback on his attacks. However, you need to invest in him a lot to take his SPA down"
+        },
+        {
+          "itemName": "Sosuke (Hebi)",
+          "itemDescription": "Sosuke is among the worst non-evo mythics. His SPA, DMG, and range are all pretty meh"
+        },
+        {
+          "itemName": "Tengon",
+          "itemDescription": "Tengon has a cone AoE multi-hit attach and okayish DPS. He also gets dodge in its passive, which is useful against bosses that can stun"
+        },
+        {
+          "itemName": "Igros",
+          "itemDescription": "Non-evo Igros is pretty strong as a stat stick, but you’ll really need to evolve him to make him OP"
+        },
+        {
+          "itemName": "Renguko",
+          "itemDescription": "Renguko has burn on placement, which is extremely useful against shields. He also gets a cone AoE attack on upgrade 2. He is pretty good as a starter unit or shield shredder"
+        },
+        {
+          "itemName": "Cha-In",
+          "itemDescription": "Cha-In is among the best non-evo mythics. Her crit passive and cone AoE attack that shreds shields are simply amazing for any game mode"
+        },
+        {
+          "itemName": "Song Jinwu",
+          "itemDescription": "Non-evo Song Jinwu is pretty mediocre stats-wise, but his passive is good, and he has multi-hit on placement. Plus, his evolution is one of the most meta units in Anime Vanguards"
+        },
+        {
+          "itemName": "Gujo",
+          "itemDescription": "Unevolved Gujo is relatively underwhelming for a mythic unit. He doesn’t have multihit on any of his attacks, and his range is mediocre. The only redeeming quality is his somewhat good DPS"
+        },
+        {
+          "itemName": "Noruto (Sage)",
+          "itemDescription": "The correct placement of Noruto (Sage) is super important if you want to make use of his passive. However, even with it active, he is pretty mediocre compared to other mythics"
+        },
+        {
+          "itemName": "Obita",
+          "itemDescription": "Obita has a somewhat weak passive for a mythic. Plus, his placement and upgrade costs are really high, making him a suboptimal choice compared to other non-evo mythics"
+        },
+        {
+          "itemName": "Takaroda",
+          "itemDescription": "Takaroda is the meta legendary farm unit. He is a huge upgrade over Sprintwagon, but Sprintwagon is still better for shorter modes"
+        },
+        {
+          "itemName": "Noruto (Six Tails)",
+          "itemDescription": "Evo Naruto is among the worst Evo mythic, mostly because of its trash passives. However, it’s still a solid pick due to its high raw stats, and it even got buffed recently"
+        },
+        {
+          "itemName": "Chaso",
+          "itemDescription": "Unevo Chaso applies bleed with his attacks and is a pretty solid shield-breaker. However, if you don’t need his bleed, there are better units you can use both for DPS and shields"
+        },
+        {
+          "itemName": "Todu",
+          "itemDescription": "Todu has an active ability that allows you to swap places with another unit, which is useful for tournaments and Shibuya Infinite. Otherwise, his stats and attacks aren’t that great"
+        },
+        {
+          "itemName": "Inamuki",
+          "itemDescription": "Inamuki is similar to Agony, though he draws the enemies towards him. He is a pretty solid support unit early on"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Itochi",
+          "itemDescription": "Itochi has the best burn of all sub-mythic units, and his DPS is really solid. You can use him to deal with shields if you’ve got nothing else"
+        },
+        {
+          "itemName": "Alligator",
+          "itemDescription": "Alligator is probably the strongest epic support unit. He applies a virtually permanent 50% slow debuff on enemies, which is huge, especially against bosses. Plus, he doesn’t require much investment compared to Agony"
+        },
+        {
+          "itemName": "Goi",
+          "itemDescription": "All legendaries have their use, and Goi’s is pure DPS. He gets increased DMG the more enemies are in his range, and he can also dodge enemy attacks, which is useful against bosses"
+        },
+        {
+          "itemName": "Pickleo",
+          "itemDescription": "Pickleo is one of the best epic DPSs and his range is amazing. Plus, he can take down shields with his multihit attack"
+        },
+        {
+          "itemName": "Shinzi",
+          "itemDescription": "Shinzi has very good DPS due to his passive. However, he doesn’t have any other useful bonuses"
+        },
+        {
+          "itemName": "Roku (Dark)",
+          "itemDescription": "Roku (Dark) is a pretty solid legendary. His passive allows him to execute non-boss enemies, which makes him useful even on zero upgrades and harder difficulties. Plus, his DPS is really good"
+        },
+        {
+          "itemName": "Genas",
+          "itemDescription": "Genas deals solid burn damage, and his passive allows him to attack much faster. He is the ultimate epic shield shredder"
+        },
+        {
+          "itemName": "Kokashi",
+          "itemDescription": "Kokashi can stun enemies and deal pretty solid damage. However, his attack’s stun is pretty short"
+        },
+        {
+          "itemName": "Kinaru",
+          "itemDescription": "Kinaru’s passive might seem like it’s more of a debuff than a buff, but the stun immunity part is OP against some story bosses. Plus, he has multi-hit on placement, and his overall DPS isn’t bad at all"
+        },
+        {
+          "itemName": "Sprintwagon",
+          "itemDescription": "Sprintwagon is the best farm unit for short modes. He is simply indispensable on any squad"
+        },
+        {
+          "itemName": "Blossom",
+          "itemDescription": "Blossom cleanses units of debuffs in her range with a 100s cooldown. If you’ve got no units that can sustain stuns on the DD Legend Stages or the Rengoku raid, she can be extremely useful"
+        },
+        {
+          "itemName": "Nobaba",
+          "itemDescription": "Nobaba is a bleed unit with a cone AoE attack and a pretty respectable DPS and range. However, you’ll get better units before you start needing her bleed"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Sanjo",
+          "itemDescription": "Sanjo is one of the worst rare units. Both his stats and his passive are just bad"
+        },
+        {
+          "itemName": "Vogita",
+          "itemDescription": "Vogita is mediocre, even among rare units. There are better rares you can use"
+        },
+        {
+          "itemName": "Ichiga",
+          "itemDescription": "Ichiga has a pretty weak attack and a fairly bad passive that just gives him a 20% DMG increase"
+        },
+        {
+          "itemName": "Inosake",
+          "itemDescription": "Inosake has bleed and fairly low SPA, making him a viable pick if you’ve got nothing else that can deal with shields"
+        },
+        {
+          "itemName": "Sosuke",
+          "itemDescription": "Sosuke can apply a pretty solid burn and is good even on zero upgrades. He is probably the only rare unit worth using"
+        },
+        {
+          "itemName": "Kinnua",
+          "itemDescription": "Kinnua knockbacks and stuns enemies with his attacks. He is a bit better than Kokashi but worse than Alligator"
+        },
+        {
+          "itemName": "Genitsu",
+          "itemDescription": "Genitsu is by far the worst epic unit. He doesn’t have enough DPS or utility to compete with the others"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "fileName": "anime-adventures.json",
+  "title": "Anime Adventures Tier List",
+  "description": "Explore the ultimate Anime Adventures Tier List ranking characters from S Tier to C Tier. Find out who stands out as the strongest and who needs improvement.",
+  "heading": "Anime Adventures Tier List",
+  "introText": "Explore the ultimate Anime Adventures Tier List ranking characters from S Tier to C Tier. Find out who stands out as the strongest and who needs improvement.",
+  "datePublished": "2024-12-26",
+  "dateModified": "2025-02-11",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Dazai",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Arlem",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bulby",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Jio",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Idol",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Thunder Maid",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sepsis",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dreamer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hubris (Night)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Priest",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kisoko",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Captain (Timeskip)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lulu",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Agony (Divine)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Vego (Mage)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Byu",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tamiki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gilgamesh",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Spirit Reaper (Dusk)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Zid",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Calm Killer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Poseidon",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Gene (Adult)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Crush",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Devil Boss",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Roger",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lucifer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shade Sorceror",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Faker",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cherub",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gravity Navy",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Paradox",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Delinquent (Serious)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Iceclaw (Rebirth)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Skull Knight",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Mochi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Illusionist",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Carrot (Super III)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ghost-kun",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Itukoda",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bloodcry",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Silent",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Flamingo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Merlyn",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Origami",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tango (Score)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Golden Tyrant",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Time Wizard",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lilia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Spearer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Honey",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sword Queen",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Operator (Heart)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Blackhair",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Commander",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Agony",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Magician",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Snow Reaper",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "C.E.O.",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "ron Knight",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Jose (Shining Gem)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Toad Sensei",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hex",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Mochi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Delinquent",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

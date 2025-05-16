@@ -1,0 +1,106 @@
+{
+	"fileName": "seven-deadly-sins-grand-cross.json",
+	"title": "Seven Deadly Sins Grand Cross Tier List",
+	"description": "Explore the latest tier list for \"The Seven Deadly Sins: Grand Cross,\" updated as of December 2024, ranking characters from S Tier to C Tier to help you build the most effective team.",
+	"heading": "Seven Deadly Sins Grand Cross Tier List",
+	"introText": "Explore the latest tier list for \"The Seven Deadly Sins: Grand Cross,\" updated as of December 2024, ranking characters from S Tier to C Tier to help you build the most effective team.",
+	"datePublished": "2024-05-28",
+	"dateModified": "2024-12-23",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "(The Seven Deadly Sins) Transcendent Ban",
+					"itemDescription": "An overpowered unit excelling in both PvP and PvE, known for high damage output and versatility"
+				},
+				{
+					"itemName": "(The Four Archangels) Mael of Sunshine",
+					"itemDescription": "A top-tier DPS character with exceptional attack stats and powerful skills.\n(Fire of Life) \"Ultimate\" Escanor: Boasts immense power and durability, making him a formidable force in battles"
+				},
+				{
+					"itemName": "(Cursed Shackles) Purgatory Meliodas",
+					"itemDescription": "A dark-element hero with high damage and unique abilities, effective in various game modes"
+				},
+				{
+					"itemName": "(Last Philosopher) Mage of Infinity Merlin",
+					"itemDescription": "A versatile unit with strong offensive and supportive capabilities"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "(Summer Mirage) Goddess of Beauty Freyja",
+					"itemDescription": "A strong unit with high value, effective in multiple content types"
+				},
+				{
+					"itemName": "(Indomitable Will) God of War Tyr",
+					"itemDescription": "Offers solid performance with a balance of offense and defense"
+				},
+				{
+					"itemName": "(Will of the Holy Sword) Excalibur Arthur",
+					"itemDescription": "A versatile character useful in various team compositions.\n(Immortal’s Return) Purgatory Ban: A reliable unit with good damage and survivability"
+				},
+				{
+					"itemName": "(Protector King) Fairy King Harlequin",
+					"itemDescription": "Provides excellent support with healing and protective abilities"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "(Hunting Hero) Kazayama Kizuna",
+					"itemDescription": "A niche character with specific uses in certain game modes"
+				},
+				{
+					"itemName": "(Elite Demon) Derieri of Purity",
+					"itemDescription": "Offers decent performance but outclassed by higher-tier units"
+				},
+				{
+					"itemName": "(Shield Hero) Iwatani Naofumi",
+					"itemDescription": "A tanky unit with limited utility outside specific scenarios"
+				},
+				{
+					"itemName": "(Battlefield Guardian) Princess Brunhild",
+					"itemDescription": "A situational character with moderate effectiveness"
+				},
+				{
+					"itemName": "(Halloween) Holy Knight Gowther",
+					"itemDescription": "Provides support but lacks the impact of top-tier units"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "(Nunchaku) Ban",
+					"itemDescription": "Limited use in the current meta, with lower performance compared to others"
+				},
+				{
+					"itemName": "(Beast Heart) Guardian Deity Camila",
+					"itemDescription": "Rarely utilized due to underwhelming abilities"
+				},
+				{
+					"itemName": "(Burning Ember) Knight of Danafor Cain",
+					"itemDescription": "Offers minimal impact in most game content"
+				},
+				{
+					"itemName": "(Elite Demon) Estarossa of Love",
+					"itemDescription": "Outdated unit with limited effectiveness"
+				},
+				{
+					"itemName": "(Sweet Temptation) Druid Zaneri",
+					"itemDescription": "Low utility and overshadowed by superior characters"
+				}
+			]
+		}
+	]
+}

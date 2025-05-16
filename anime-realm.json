@@ -1,0 +1,166 @@
+{
+  "fileName": "anime-realm.json",
+  "title": "Anime Realm Tier List",
+  "description": "Explore our comprehensive ranking of iconic anime realms, categorized from S to C Tier. Discover what makes each world unique and how they contribute to their respective series.",
+  "heading": "Anime Realm Tier List",
+  "introText": "Explore our comprehensive ranking of iconic anime realms, categorized from S to C Tier. Discover what makes each world unique and how they contribute to their respective series.",
+  "datePublished": "2024-12-08",
+  "dateModified": "2024-12-08",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Lao",
+          "itemDescription": "Strong ground DPS. Great range. Good ATK Speed, and decent upgrade cost"
+        },
+        {
+          "itemName": "Brulo",
+          "itemDescription": "Highest DPS in the Anime Realms, an extremely good option. Great range, and AoE potential"
+        },
+        {
+          "itemName": "Goko (Super III)",
+          "itemDescription": "Hill Unit with a ton of range and AoE damage. Good DPS scaling into later rounds"
+        },
+        {
+          "itemName": "Sosuke",
+          "itemDescription": "Ground DPS with Fire elemental damage. Can inflict burn. Decent range, and overall good damage dealer"
+        },
+        {
+          "itemName": "Toju",
+          "itemDescription": "Arguably one of the best DPS Mythic units. Excels against bosses. Great DPS, Range, and gets decent AoE with upgrades"
+        },
+        {
+          "itemName": "Shunks",
+          "itemDescription": "One of the best AoE units. Good range, and exceptional CC ability to stun"
+        },
+        {
+          "itemName": "Al",
+          "itemDescription": "Strongest Support unit for any mode. Increases damage and decreases upgrade costs significantly"
+        },
+        {
+          "itemName": "Goju",
+          "itemDescription": "Jack of all trades, with scaling DPS and AoE potential. Also provides decent support and stuns enemies"
+        },
+        {
+          "itemName": "Speedcart",
+          "itemDescription": "Great support unit, especially on Story stages. Provides extra cash with every round. Scales with upgrades"
+        },
+        {
+          "itemName": "Getu",
+          "itemDescription": "Can summon units, providing good DPS. Decent in most modes, excels in Story stages"
+        },
+        {
+          "itemName": "Aizo",
+          "itemDescription": "Great for AoE, decent DPS. Range is decent and so is the scaling"
+        },
+        {
+          "itemName": "Jiro",
+          "itemDescription": "Good DPS unit, with AoE potential on skill casts. Can also inflict burn debuffs when damaging"
+        },
+        {
+          "itemName": "Yuji",
+          "itemDescription": "DPS is decent, with good scaling in later stages. Good range as well as AoE damage. Upgrades are expensive"
+        },
+        {
+          "itemName": "Golden Freezo",
+          "itemDescription": "Great range, and deals AoE damage. Inflicts burn buffs, great for clearing hordes. Can only be placed on hills"
+        },
+        {
+          "itemName": "Ichi",
+          "itemDescription": "Decent DPS and range with good scaling. Also has AoE potential"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Rose",
+          "itemDescription": "Decent range, but good DPS. Great AoE on attacks, with decent scaling. Upgrades are expensive"
+        },
+        {
+          "itemName": "Ureo",
+          "itemDescription": "DPS is relatively high with a good range. Upgrades are cheap. Can only be placed on hills. Outclassed by higher tiers"
+        },
+        {
+          "itemName": "Enol",
+          "itemDescription": "Cheap to upgrade. Good range, but lacks CC or debuffs. DPS is subpar, and doesn't scale too high"
+        },
+        {
+          "itemName": "Ukia",
+          "itemDescription": "Provides decent support to other units. Deals AoE damage with freeze debuffs. Upgrades are expensive. Better support units are available"
+        },
+        {
+          "itemName": "Koichy",
+          "itemDescription": "Decent Range, along with AoE attacks. Inflicts slow debuff on attacking. Expensive to upgrade. DPS is subpar"
+        },
+        {
+          "itemName": "Kiloa",
+          "itemDescription": "Good lighting type DPS. Great AoE range, especially after upgrades. Slow attack speed. Not good against bosses"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "GreyBeard",
+          "itemDescription": "Overall decent AoE attacks, but short range. Weakest Legendary, subpar DPS. Outclasses by every other Legendary"
+        },
+        {
+          "itemName": "Makunouchi",
+          "itemDescription": "Decent DPS in comparison to other Epic units. AoE has a short range. Needs proper placement to be useful"
+        },
+        {
+          "itemName": "Stork",
+          "itemDescription": "AoE and Range is decent. Damage is very low, with not much scaling"
+        },
+        {
+          "itemName": "Utuhime",
+          "itemDescription": "Decent support unit increases the damage of nearby units. Can't be sold after placed. Support range is relatively short. Not worth it most of the time"
+        },
+        {
+          "itemName": "Gone",
+          "itemDescription": "DPS is decent, and scales into later stages. Almost no AoE and slow ATK speed. Upgrades are expensive"
+        },
+        {
+          "itemName": "Gahan",
+          "itemDescription": "DPS is arguably the highest DPS among Rare units. Attacks have some AoE. Doesn't scale well in later stages"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Luffie",
+          "itemDescription": "Lowest DPS and range among Epic units. Upgrades are not worth the cost. AoE is also weaker"
+        },
+        {
+          "itemName": "Vegtiable",
+          "itemDescription": "DPS is subpar. AoE is almost nonexistent. Negligible scaling with upgrades"
+        },
+        {
+          "itemName": "Goko",
+          "itemDescription": "Decent range, but lacks DPS. Can only be placed on hills"
+        },
+        {
+          "itemName": "Pikoko",
+          "itemDescription": "Decent DPS, but extremely slow ATK Speed. Can only be placed on hills"
+        },
+        {
+          "itemName": "Krillo",
+          "itemDescription": "Subpar DPS, range, and AoE. Doesn't scale well"
+        },
+        {
+          "itemName": "Ichigoat",
+          "itemDescription": "Good DPS in comparison to other Rares. Can inflict slow. Lacks AoE, and stats don't scale much"
+        }
+      ]
+    }
+  ]
+}

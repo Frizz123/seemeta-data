@@ -1,0 +1,139 @@
+{
+	"fileName": "heroes-of-crown-legends.json",
+	"title": "Heroes of Crown Legends Tier List",
+	"description": "Conquer the battlefield with our comprehensive Heroes of Crown Legends tier list, ranking the top champions based on their skills, damage output, and overall effectiveness in various game modes. Whether you're a seasoned veteran or a fresh recruit, this guide will help you assemble the ultimate team to reign supreme in the world of HOC Legends.",
+	"heading": "Heroes of Crown Legends Tier List",
+	"introText": "Conquer the battlefield with our comprehensive Heroes of Crown Legends tier list, ranking the top champions based on their skills, damage output, and overall effectiveness in various game modes. Whether you're a seasoned veteran or a fresh recruit, this guide will help you assemble the ultimate team to reign supreme in the world of HOC Legends.",
+	"datePublished": "2024-06-27",
+	"dateModified": "2024-06-27",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Wu Zetian",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lian",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Reinhardt",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bai Suzhen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tang Sanzang",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Orion",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yasmine",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Galahad",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dorian",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Helios",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Jandro",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Celeste",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marcus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Karkh",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nebula",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Astaroth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Artemis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Faceless",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rufus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dorian",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "F Tier",
+			"data": [
+				{
+					"itemName": "Sophia & Monica",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nightingale",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Alicia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Julius",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Aigre",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

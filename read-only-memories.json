@@ -1,0 +1,78 @@
+{
+    "fileName": "read-only-memories.json",
+    "title": "Read Only Memories: Neurodiver Tier List",
+    "description": "In this Read Only Memories: Neurodiver tier list, we will rank the characters from the game from S Tier to C Tier. This list is based on our own opinion and the opinions of others who have played the game.",
+    "heading": "Read Only Memories: Neurodiver Tier List",
+    "introText": "In this Read Only Memories: Neurodiver tier list, we will rank the characters from the game from S Tier to C Tier. This list is based on our own opinion and the opinions of others who have played the game. Your own opinion may differ, and that is perfectly okay. The important thing is that you have fun playing the game and that you find your own way to enjoy it.",
+    "datePublished": "2024-05-12",
+    "dateModified": "2024-05-12",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "ES88",
+                    "itemDescription": "The protagonist of the game, ES88 is a skilled esper with a strong sense of justice. She is also a kind and compassionate person who cares deeply for her friends"
+                },
+                {
+                    "itemName": "NEURODIVER",
+                    "itemDescription": "ES88's partner, NEURODIVER is a powerful esper that can help ES88 dive into the memories of others. NEURODIVER is also a loyal and protective friend"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Jansen",
+                    "itemDescription": "The head of MINERVA, Jansen is a wise and experienced esper who mentors ES88. He is also a father figure to ES88 and cares deeply for her well-being"
+                },
+                {
+                    "itemName": "DENNIS",
+                    "itemDescription": "A hacker and friend of ES88, DENNIS is a skilled programmer who can help ES88 access information. DENNIS is also a kind and caring person who is always willing to help ES88"
+                },
+                {
+                    "itemName": "MIA",
+                    "itemDescription": "A mysterious esper who works for MINERVA, MIA is a skilled fighter who can help ES88 in combat. MIA is also a complex and enigmatic character who has her own motivations"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "GATE",
+                    "itemDescription": "A security guard at MINERVA, GATE is a loyal and dedicated employee. He is also a bit of a pushover and can be easily manipulated"
+                },
+                {
+                    "itemName": "IVAN",
+                    "itemDescription": "A scientist at MINERVA, IVAN is a brilliant but eccentric researcher. He is also a bit of a mad scientist who is willing to do whatever it takes to achieve his goals"
+                },
+                {
+                    "itemName": "GOLDEN BUTTERFLY",
+                    "itemDescription": "The main antagonist of the game, GOLDEN BUTTERFLY is a mysterious esper who is hiding in the memories of others. GOLDEN BUTTERFLY is a powerful and dangerous entity with its own motivations"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "THE MEMORY POLICE",
+                    "itemDescription": "The MEMORY POLICE are a corrupt organization that is tasked with policing the use of esper powers. The MEMORY POLICE are brutal and ruthless, and they will stop at nothing to get their way"
+                },
+                {
+                    "itemName": "THE CORPORATIONS",
+                    "itemDescription": "The CORPORATIONS are the powerful companies that control Neo-San Francisco. The CORPORATIONS are greedy and exploitative, and they will do whatever it takes to make a profit"
+                },
+                {
+                    "itemName": "THE CITIZENS OF NEO-SAN FRANCISCO",
+                    "itemDescription": "The CITIZENS OF NEO-SAN FRANCISCO are a diverse group of people who are just trying to get by in a tough city. Some of the CITIZENS are friendly and helpful, while others are suspicious and hostile"
+                }
+            ]
+        }
+    ]
+}

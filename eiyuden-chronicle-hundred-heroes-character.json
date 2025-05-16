@@ -1,0 +1,90 @@
+{
+	"fileName": "eiyuden-chronicle-hundred-heroes-character.json",
+	"title": "Eiyuden Chronicle: Hundred Heroes - Character Tier List",
+	"description": "This is a tier list for the characters in Eiyuden Chronicle: Hundred Heroes. The list is divided into S Tier, A Tier, B Tier, and C Tier. The characters in S Tier are the most powerful, while the characters in C Tier are the least powerful. The tier list is based on the characters overall strength, usefulness, and versatility. However, it is important to note that this is just a general tier list, and the best characters for you will depend on your playstyle and team composition.",
+	"heading": "Eiyuden Chronicle: Hundred Heroes - Character Tier List",
+	"introText": "This is a tier list for the characters in Eiyuden Chronicle: Hundred Heroes. The list is divided into S Tier, A Tier, B Tier, and C Tier. The characters in S Tier are the most powerful, while the characters in C Tier are the least powerful. The tier list is based on the characters overall strength, usefulness, and versatility. However, it is important to note that this is just a general tier list, and the best characters for you will depend on your playstyle and team composition.",
+	"datePublished": "2024-05-19",
+	"dateModified": "2024-05-19",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Yusuke",
+					"itemDescription": "A frontline unit with exceptional defense and offensive capabilities"
+				},
+				{
+					"itemName": "Seign",
+					"itemDescription": "A powerful mage with high damage output and access to powerful runes"
+				},
+				{
+					"itemName": "Momo",
+					"itemDescription": "A versatile support unit that excels in healing, buffing, and debuffing"
+				},
+				{
+					"itemName": "Milana",
+					"itemDescription": "A hybrid unit that combines offensive magic with supportive capabilities"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Nowa",
+					"itemDescription": "A versatile mage with a mix of offensive and supportive spells"
+				},
+				{
+					"itemName": "Iugo",
+					"itemDescription": "A frontline unit with good defense and physical damage output"
+				},
+				{
+					"itemName": "Falward",
+					"itemDescription": "A dedicated healer with access to various healing and buffing runes"
+				},
+				{
+					"itemName": "Francesca",
+					"itemDescription": "A powerful archer with high attack power and long range"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Reyna",
+					"itemDescription": "A frontline unit with decent defense and counterattack capabilities"
+				},
+				{
+					"itemName": "Yusferius",
+					"itemDescription": "A frontline unit with high defense and a powerful charge attack"
+				},
+				{
+					"itemName": "Lam",
+					"itemDescription": "A long-range attacker with decent damage output but low defense"
+				},
+				{
+					"itemName": "Isha",
+					"itemDescription": "A mage with access to a variety of offensive and supportive spells"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Kuroto",
+					"itemDescription": "A hybrid unit with a mix of physical and magical attacks"
+				},
+				{
+					"itemName": "Mellore",
+					"itemDescription": "A mage with access to powerful runes but limited spell selection"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"fileName": "cookie-run-tower-of-adventure.json",
+	"title": "Cookie Run: Tower of Adventure Tier List",
+	"description": "Discover the ultimate tier list for Cookie Run: Tower of Adventure. Find out which cookies belong in the S Tier, A Tier, B Tier, and C Tier to optimize your team and conquer every challenge.",
+	"heading": "Cookie Run: Tower of Adventure Tier List",
+	"introText": "Discover the ultimate tier list for Cookie Run: Tower of Adventure. Find out which cookies belong in the S Tier, A Tier, B Tier, and C Tier to optimize your team and conquer every challenge.",
+	"datePublished": "2024-06-26",
+	"dateModified": "2024-06-26",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Pure Vanilla Cookie",
+					"itemDescription": "Exceptional healing capabilities and essential for most team compositions"
+				},
+				{
+					"itemName": "Sea Fairy Cookie",
+					"itemDescription": "High damage output with crowd control, making it invaluable in battles"
+				},
+				{
+					"itemName": "Hollyberry Cookie",
+					"itemDescription": "Outstanding tank with high survivability and protection for the team"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Licorice Cookie",
+					"itemDescription": "Provides useful minions and shields, making it a strong support character"
+				},
+				{
+					"itemName": "Espresso Cookie",
+					"itemDescription": "Delivers high area damage, great for clearing waves of enemies"
+				},
+				{
+					"itemName": "Dark Choco Cookie",
+					"itemDescription": "Effective tank with decent damage output and defense reduction for enemies"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Milk Cookie",
+					"itemDescription": "Good tank with decent survivability, but lacks the versatility of higher-tier tanks"
+				},
+				{
+					"itemName": "Vampire Cookie",
+					"itemDescription": "Strong single-target damage, but limited by cooldowns and situational use"
+				},
+				{
+					"itemName": "Squid Ink Cookie",
+					"itemDescription": "Decent area damage but less effective compared to higher-tier damage dealers"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Tiger Lily Cookie",
+					"itemDescription": "Average damage and crowd control, outclassed by other characters"
+				},
+				{
+					"itemName": "Cherry Blossom Cookie",
+					"itemDescription": "Limited utility and lower damage output make it less viable in tougher stages"
+				},
+				{
+					"itemName": "Carrot Cookie",
+					"itemDescription": "Provides some healing and buffs, but not as impactful as other support characters"
+				}
+			]
+		}
+	]
+}

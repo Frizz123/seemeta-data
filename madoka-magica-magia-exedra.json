@@ -1,0 +1,214 @@
+{
+  "fileName": "madoka-magica-magia-exedra.json",
+  "title": "Puella Magi Madoka Magica: Magia Exedra Tier List",
+  "description": "Comprehensive tier list for Puella Magi Madoka Magica: Magia Exedra characters, featuring S, A, B, and C tier rankings with detailed descriptions for each character.",
+  "heading": "Puella Magi Madoka Magica: Magia Exedra Tier List",
+  "introText": "Comprehensive tier list for Puella Magi Madoka Magica: Magia Exedra characters, featuring S, A, B, and C tier rankings with detailed descriptions for each character.",
+  "datePublished": "2025-03-29",
+  "dateModified": "2025-03-29",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Madoka Kaname (Lux Magika)",
+          "itemDescription": "A versatile Breaker with commendable area damage capabilities, obtainable early in the game"
+        },
+        {
+          "itemName": "Homura Akemi (Concentrated Missile Fire)",
+          "itemDescription": "Specializes in precise, high-damage attacks targeting single enemies, ideal for boss encounters"
+        },
+        {
+          "itemName": "Iroha Tamaki (Strada Futuro)",
+          "itemDescription": "Excels in breaking enemy defenses and enhancing team critical hits, beneficial in both wave clearing and boss battles"
+        },
+        {
+          "itemName": "Oriko Mikuni (Oracle Ray)",
+          "itemDescription": "A high-damage Breaker known for stacking buffs and effective area damage, making her a top choice for wave clearing"
+        },
+        {
+          "itemName": "Felicia Mitsuki (Ultra Great Big Hammer)",
+          "itemDescription": "Combines strong break abilities with area damage and debuffs, including stuns, facilitating high-damage team setups"
+        },
+        {
+          "itemName": "Madoka Kaname (Pluvia Magica)",
+          "itemDescription": "Offers exceptional break potential while restoring MP and HP to the team, valuable in challenging wave scenarios and boss fights"
+        },
+        {
+          "itemName": "Yachiyo Nanami (Absolute Rain)",
+          "itemDescription": "A reliable character with balanced offensive and defensive skills, suitable for various combat situations"
+        },
+        {
+          "itemName": "Tsuruno Yui (Flame Waltz)",
+          "itemDescription": "Delivers consistent fire-based attacks, effective against enemies vulnerable to flame elements"
+        },
+        {
+          "itemName": "Ren Isuzu (Soul Salvation)",
+          "itemDescription": "Provides supportive abilities that enhance team survivability and combat effectiveness"
+        },
+        {
+          "itemName": "Kikira Kure (Vampire Fang)",
+          "itemDescription": "Utilizes life-stealing techniques to sustain herself while dealing damage to opponents"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Circle of Fire",
+          "itemDescription": "Offers moderate area damage with fire attributes, useful in specific battle scenarios"
+        },
+        {
+          "itemName": "Yummy Hunter",
+          "itemDescription": "A character with balanced attack and support skills, adaptable to various team compositions"
+        },
+        {
+          "itemName": "Glittering Hurricane",
+          "itemDescription": "Delivers wind-based attacks with a chance to disorient enemies, providing strategic advantages"
+        },
+        {
+          "itemName": "Seraphic Trial",
+          "itemDescription": "Focuses on light-based abilities that can weaken dark-aligned opponents"
+        },
+        {
+          "itemName": "Unknown Flying Fire",
+          "itemDescription": "A mysterious entity with unpredictable attack patterns, offering unique tactical opportunities"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Surging Laser",
+          "itemDescription": "Provides consistent laser attacks with moderate damage output"
+        },
+        {
+          "itemName": "Nightmare Stinger",
+          "itemDescription": "Utilizes poison-based attacks to inflict damage over time on enemies"
+        },
+        {
+          "itemName": "Meteor Punch",
+          "itemDescription": "Delivers powerful melee strikes with a chance to stun opponents"
+        },
+        {
+          "itemName": "Thunder Torrent",
+          "itemDescription": "Unleashes electric attacks effective against water-aligned foes"
+        },
+        {
+          "itemName": "Invisible Assassin",
+          "itemDescription": "Specializes in stealth attacks, dealing increased damage when undetected"
+        },
+        {
+          "itemName": "Brilliant Beam",
+          "itemDescription": "Emits light-based energy beams, useful against dark creatures"
+        },
+        {
+          "itemName": "Lynx Impact",
+          "itemDescription": "Combines agility and strength to perform swift, impactful strikes"
+        },
+        {
+          "itemName": "Diamond Splash",
+          "itemDescription": "Executes water-based attacks with a chance to slow enemy movements"
+        },
+        {
+          "itemName": "Verdant Shower",
+          "itemDescription": "Harnesses nature energy to heal allies and damage enemies simultaneously"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Karin’s Kioku",
+          "itemDescription": "A character with limited combat effectiveness, suitable for early-game scenarios"
+        },
+        {
+          "itemName": "Asuka’s Kioku",
+          "itemDescription": "Offers basic support abilities without significant impact in advanced battles"
+        },
+        {
+          "itemName": "Nanaka’s Kioku",
+          "itemDescription": "Provides minimal offensive capabilities, often outperformed by higher-tier characters"
+        },
+        {
+          "itemName": "Reira’s Kioku",
+          "itemDescription": "A healer with limited healing capacity, requiring strategic use"
+        },
+        {
+          "itemName": "Seika’s Kioku",
+          "itemDescription": "Delivers weak attacks with low critical hit rates"
+        },
+        {
+          "itemName": "Mito’s Kioku",
+          "itemDescription": "Focuses on defense but lacks offensive prowess"
+        },
+        {
+          "itemName": "Kokoro’s Kioku",
+          "itemDescription": "Offers balanced stats without excelling in any particular area"
+        },
+        {
+          "itemName": "Hanna’s Kioku",
+          "itemDescription": "A character with niche abilities, effective only in specific situations"
+        },
+        {
+          "itemName": "Himika’s Kioku",
+          "itemDescription": "Utilizes fire-based attacks with limited damage output"
+        },
+        {
+          "itemName": "Hazuki’s Kioku",
+          "itemDescription": "Provides support skills that are overshadowed by higher-tier characters"
+        },
+        {
+          "itemName": "Ayame’s Kioku",
+          "itemDescription": "A speed-focused character lacking substantial attack power"
+        },
+        {
+          "itemName": "Masara’s Kioku",
+          "itemDescription": "Delivers dark-based attacks with inconsistent effectiveness"
+        },
+        {
+          "itemName": "Rika’s Kioku",
+          "itemDescription": "Specializes in ranged attacks with moderate accuracy"
+        },
+        {
+          "itemName": "Riko’s Kioku",
+          "itemDescription": "Offers healing abilities that are less potent compared to top-tier healers"
+        },
+        {
+          "itemName": "Ashley’s Kioku",
+          "itemDescription": "A character with unique mechanics but limited overall utility"
+        },
+        {
+          "itemName": "Kush’s Kioku",
+          "itemDescription": "Focuses on debuffing enemies with minimal impact"
+        },
+        {
+          "itemName": "Yuma’s Kioku",
+          "itemDescription": "Provides area damage with low effectiveness"
+        },
+        {
+          "itemName": "Natsuki’s Kioku",
+          "itemDescription": "A balanced character without standout features"
+        },
+        {
+          "itemName": "Kako’s Kioku",
+          "itemDescription": "Utilizes water-based attacks with limited strategic value"
+        },
+        {
+          "itemName": "Meiyui’s Kioku",
+          "itemDescription": "Offers melee attacks with average damage output"
+        },
+        {
+          "itemName": "Konoha’s Kioku",
+          "itemDescription": "A support character with abilities that are situational at best"
+        }
+      ]
+    }
+  ]
+}

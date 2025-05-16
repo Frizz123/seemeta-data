@@ -1,0 +1,170 @@
+{
+	"fileName": "fortress-saga.json",
+	"title": "Fortress Saga Tier List",
+	"description": "Discover the best heroes in Fortress Saga with our detailed tier list. From the powerful S-tier characters like Zelos and Annie to more situational heroes, learn who you need to dominate the game.",
+	"heading": "Fortress Saga Tier List",
+	"introText": "Discover the best heroes in Fortress Saga with our detailed tier list. From the powerful S-tier characters like Zelos and Annie to more situational heroes, learn who you need to dominate the game.",
+	"datePublished": "2024-07-21",
+	"dateModified": "2024-07-21",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Zelos",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Annie",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Elrond",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Elizabeth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Solum",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bjorn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ravia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sonic",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shadow",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Winter",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ruingaladh",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bernhard",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Amber",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nox",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Monica",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cynthia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Waldeck",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lilith",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Knuckles",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tails",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "MK-31",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Scarecrow",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bruce",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Isaac",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Howling",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Antiope",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Zibril",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Loxia",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Gildong",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jose",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Calvin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Brook",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Osu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Levis",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

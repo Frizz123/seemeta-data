@@ -1,0 +1,114 @@
+{
+	"fileName": "infinite-magicraid.json",
+	"title": "Infinite Magicraid Tier List",
+	"description": "This is a tier list for the game Infinite Magicraid. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best heroes and C Tier being the worst. The list is based on the heroes overall performance in all game modes, but it is important to consider your playstyle and team composition when choosing heroes. Please note that this is just a general tier list and the best heroes for you may vary.",
+	"heading": "Infinite Magicraid Tier List",
+	"introText": "This is a tier list for the game Infinite Magicraid. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best heroes and C Tier being the worst. The list is based on the heroes overall performance in all game modes, but it is important to consider your playstyle and team composition when choosing heroes. Please note that this is just a general tier list and the best heroes for you may vary.",
+	"datePublished": "2024-05-21",
+	"dateModified": "2024-05-21",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Reeves",
+					"itemDescription": "A powerful nuker who can deal massive damage to single targets"
+				},
+				{
+					"itemName": "Elen",
+					"itemDescription": "A versatile hero who can heal, buff, and debuff"
+				},
+				{
+					"itemName": "Gandalf",
+					"itemDescription": "A strong support hero who can provide crowd control and protection"
+				},
+				{
+					"itemName": "Uriel",
+					"itemDescription": "A powerful DPS hero who can deal damage to multiple enemies"
+				},
+				{
+					"itemName": "Mackin",
+					"itemDescription": "A strong tank hero who can protect your team from harm"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Maya",
+					"itemDescription": "A strong DPS hero who can deal damage to multiple enemies"
+				},
+				{
+					"itemName": "Phobos",
+					"itemDescription": "A powerful nuker who can deal massive damage to single targets"
+				},
+				{
+					"itemName": "Martha",
+					"itemDescription": "A versatile hero who can heal, buff, and debuff"
+				},
+				{
+					"itemName": "Sebastian",
+					"itemDescription": "A strong support hero who can provide crowd control and protection"
+				},
+				{
+					"itemName": "Corvus",
+					"itemDescription": "A powerful DPS hero who can deal damage to multiple enemies"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Yasmine",
+					"itemDescription": "A strong DPS hero who can deal damage to multiple enemies"
+				},
+				{
+					"itemName": "Celeste",
+					"itemDescription": "A powerful nuker who can deal massive damage to single targets"
+				},
+				{
+					"itemName": "Jorgen",
+					"itemDescription": "A versatile hero who can heal, buff, and debuff"
+				},
+				{
+					"itemName": "Asta",
+					"itemDescription": "A strong support hero who can provide crowd control and protection"
+				},
+				{
+					"itemName": "K'arkh",
+					"itemDescription": "A powerful DPS hero who can deal damage to multiple enemies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Aurora",
+					"itemDescription": "A weak DPS hero who cannot deal much damage"
+				},
+				{
+					"itemName": "Ginger",
+					"itemDescription": "A weak tank hero who cannot protect your team well"
+				},
+				{
+					"itemName": "Satori",
+					"itemDescription": "A situational hero who is only useful in certain teams"
+				},
+				{
+					"itemName": "Orion",
+					"itemDescription": "A weak DPS hero who cannot deal much damage"
+				},
+				{
+					"itemName": "Markus",
+					"itemDescription": "A weak support hero who does not provide much utility"
+				}
+			]
+		}
+	]
+}

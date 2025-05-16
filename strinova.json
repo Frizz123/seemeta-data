@@ -1,0 +1,94 @@
+{
+  "fileName": "strinova.json",
+  "title": "Strinova Tier List",
+  "description": "Comprehensive ranking of Strinova characters from S to C Tier, detailing their abilities and strategic advantages.",
+  "heading": "Strinova Tier List",
+  "introText": "Comprehensive ranking of Strinova characters from S to C Tier, detailing their abilities and strategic advantages.",
+  "datePublished": "2024-11-22",
+  "dateModified": "2024-11-22",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Celestia",
+          "itemDescription": "Utilizes assault rifles with exceptional efficiency; her shield regeneration ability is invaluable, and her second Awakening is particularly powerful"
+        },
+        {
+          "itemName": "Ming",
+          "itemDescription": "Excels in disrupting entrenched enemies with her Plasma Ball ability; gains armor regeneration from her Awakenings, synergizing well with Celestia's skills"
+        },
+        {
+          "itemName": "Michele",
+          "itemDescription": "Deploys turrets that force enemies to engage, providing opportunities for ambushes and area control; a master of map dominance"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Kokona",
+          "itemDescription": "Offers healing abilities beneficial across all game modes; her sniper rifle delivers consistent damage, even without headshots"
+        },
+        {
+          "itemName": "Reiichi",
+          "itemDescription": "Possesses strong map control utilities and robust weaponry; however, his long cooldowns can be a disadvantage"
+        },
+        {
+          "itemName": "Nobunaga",
+          "itemDescription": "Features survivability against snipers and a teleportation ability in his third Awakening; requires skill to utilize effectively"
+        },
+        {
+          "itemName": "Maddelena",
+          "itemDescription": "Her abilities can disable opponents' Paper mode, making her highly effective in competitive play; may seem less impactful to casual players"
+        },
+        {
+          "itemName": "Fuchsia",
+          "itemDescription": "Capable of detecting enemies, gaining movement speed, and self-regenerating; her self-resurrection ability adds to her clutch potential, though she demands a high skill level"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Meredith",
+          "itemDescription": "Offers impressive map control, which becomes more potent after her third Awakening; early-game performance may require strategic sacrifices"
+        },
+        {
+          "itemName": "Bai Mo",
+          "itemDescription": "Can be formidable against less experienced players; however, higher-level opponents can effectively counter him by managing his cooldowns"
+        },
+        {
+          "itemName": "Audrey",
+          "itemDescription": "Beginner-friendly and excels at holding positions; her stationary nature can be a liability in a game that favors mobility"
+        },
+        {
+          "itemName": "Flavia",
+          "itemDescription": "Offers high rewards for skilled play; her invincibility mechanic requires cautious use, and missing shots can lead to unnecessary deaths"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Yvette",
+          "itemDescription": "Her mechanics encourage periods of inactivity, which can be detrimental in a fast-paced game; many of her attributes are underutilized"
+        },
+        {
+          "itemName": "Lawine",
+          "itemDescription": "Possesses abilities beneficial for map control; however, she requires Awakenings to be effective, making her early-game performance underwhelming"
+        },
+        {
+          "itemName": "Kanami",
+          "itemDescription": "Offers utility similar to Lawine, with better Awakenings; still, there are superior options available for players seeking a sniper role"
+        }
+      ]
+    }
+  ]
+}

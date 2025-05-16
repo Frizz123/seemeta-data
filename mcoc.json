@@ -1,0 +1,102 @@
+{
+	"fileName": "mcoc.json",
+	"title": "MCoC Tier List",
+	"description": "This is a MCoC tier list that ranks the best champions in the game. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best and C Tier being the worst. The tier list is based on the opinions of several experienced MCoC players and YouTubers. It is important to note that this is just a general guideline, and the best champion for you will depend on your playstyle and the specific content you are trying to complete.",
+	"heading": "MCoC Tier List",
+	"introText": "This is a MCoC tier list that ranks the best champions in the game. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best and C Tier being the worst. The tier list is based on the opinions of several experienced MCoC players and YouTubers. It is important to note that this is just a general guideline, and the best champion for you will depend on your playstyle and the specific content you are trying to complete.",
+	"datePublished": "2024-05-30",
+	"dateModified": "2024-05-30",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Archangel",
+					"itemDescription": "Archangel is a fantastic champion for both offensive and defensive play. He has great damage output, regeneration, and the ability to evade attacks"
+				},
+				{
+					"itemName": "Kitty Pryde",
+					"itemDescription": "Kitty Pryde is one of the most versatile champions in the game. She can phase through attacks, nullify debuffs, and has a very high critical hit rate"
+				},
+				{
+					"itemName": "Domino",
+					"itemDescription": "Domino is a great all-around champion with a mix of damage, utility, and survivability. She can also be very effective against robots"
+				},
+				{
+					"itemName": "Wolverine",
+					"itemDescription": "Wolverine is a classic choice for a reason. He has great regeneration, damage output, and bleed immunity"
+				},
+				{
+					"itemName": "Weapon X",
+					"itemDescription": "Weapon X is a newer champion who has quickly become one of the best in the game. He has a unique ability that allows him to copy the abilities of other champions, which makes him very adaptable to different situations"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Apocalypse",
+					"itemDescription": "Apocalypse is a powerful mutant with great damage output and the ability to nullify debuffs"
+				},
+				{
+					"itemName": "Bishop",
+					"itemDescription": "Bishop is a fantastic counter to mystics with his ability to neutralize their abilities. He also has great damage output and regeneration"
+				},
+				{
+					"itemName": "Colossus",
+					"itemDescription": "Colossus is a tank who can shrug off a ton of damage. He also has great damage output and the ability to heal himself"
+				},
+				{
+					"itemName": "Magneto OG",
+					"itemDescription": "Magneto OG is a classic choice for a reason. He has great crowd control abilities and can dish out a lot of damage"
+				},
+				{
+					"itemName": "Omega Red",
+					"itemDescription": "Omega Red is a newer champion who has quickly become one of the best in the game. He has a unique ability that allows him to inflict a permanent passive damage debuff on his opponents"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Namor",
+					"itemDescription": "Namor is a great counter to skill champions with his ability to nullify their abilities. He also has great damage output and regeneration"
+				},
+				{
+					"itemName": "Havoc",
+					"itemDescription": "Havoc is a fantastic champion for dealing damage to bleed immune opponents. He also has great synergy with other mutants"
+				},
+				{
+					"itemName": "Storm",
+					"itemDescription": "Storm is a versatile champion who can be used in a variety of situations. She has great damage output, crowd control abilities, and the ability to purify debuffs"
+				},
+				{
+					"itemName": "Stryfe",
+					"itemDescription": "Stryfe is a newer champion who has a unique ability that allows him to steal the abilities of his opponents. He also has great damage output"
+				},
+				{
+					"itemName": "Sunspot",
+					"itemDescription": "Sunspot is a great champion for dealing damage to incinerate immune opponents. He also has great synergy with other science champions"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Dani Moonstar",
+					"itemDescription": "Dani Moonstar is a newer champion who has a unique ability that allows her to mark her opponents and then deal bonus damage to them. She also has great synergy with other mutants"
+				},
+				{
+					"itemName": "Dust",
+					"itemDescription": "Dust is a great champion for dealing damage to evade immune opponents. She also has great synergy with other cosmic champions"
+				}
+			]
+		}
+	]
+}

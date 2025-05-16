@@ -1,0 +1,138 @@
+{
+	"fileName": "fruit-battlegrounds.json",
+	"title": "Fruit Battlegrounds Tier List",
+	"description": "Discover the latest tier list for Fruit Battlegrounds as of March 2025, categorizing fruits into S, A, B, and C tiers based on their performance in PvP and farming scenarios.",
+	"heading": "Fruit Battlegrounds Tier List",
+	"introText": "Discover the latest tier list for Fruit Battlegrounds as of March 2025, categorizing fruits into S, A, B, and C tiers based on their performance in PvP and farming scenarios.",
+	"datePublished": "2024-05-19",
+	"dateModified": "2025-03-18",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Nika",
+					"itemDescription": "Also known as the Sun God, is currently the most powerful fruit in the game, dealing massive area-of-effect (AoE) damage, inflicting burn damage, stunning enemies, and possessing shield-breaking abilities"
+				},
+				{
+					"itemName": "Dragon V2",
+					"itemDescription": "Despite a recent nerf, remains formidable due to its quick skill recharge, special weapon combos, and spammable attacks"
+				},
+				{
+					"itemName": "Venom",
+					"itemDescription": "Legendary fruit that inflicts poison damage over time, features block-breaking moves, and provides decent stun capabilities"
+				},
+				{
+					"itemName": "IceV2",
+					"itemDescription": "The awakened form of Ice, excels in all game modes due to its user-friendly nature and comprehensive performance"
+				},
+				{
+					"itemName": "MagmaV2",
+					"itemDescription": "Also an awakened form, performs admirably in both Bounty Hunting and PvP battles, making it a formidable contender against some Mythical fruits"
+				},
+				{
+					"itemName": "Ope-Ope",
+					"itemDescription": "Mythical fruit, enabling the user to create a \"ROOM\" where they can manipulate objects and opponents, offering high combo potential and mobility, though it requires substantial energy and skill to master"
+				},
+				{
+					"itemName": "Lightning",
+					"itemDescription": "Boasts seven skills with significant stun potential, facilitating easy combo chains"
+				},
+				{
+					"itemName": "Leopard",
+					"itemDescription": "Offers a balanced experience, allowing players to transform into a leopard and inflict substantial damage across various game modes"
+				},
+				{
+					"itemName": "Dough",
+					"itemDescription": "Enables players to create and manipulate dough, facilitating straightforward combos and delivering high damage output"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "MagmaV2",
+					"itemDescription": "The awakened form of the original Magma fruit, offers high initial and burn damage but may struggle against fast opponents"
+				},
+				{
+					"itemName": "Dragon",
+					"itemDescription": "Boasts massive area-of-effect (AoE) attacks, decent stuns, and excellent combo potential, making it ideal for boss farming and bounty hunting; however, it faces challenges in player-versus-player (PvP) scenarios"
+				},
+				{
+					"itemName": "FlameV2",
+					"itemDescription": "Allows users to generate and manipulate fire, featuring six spammable moves that inflict burn damage over time, making it versatile across various game modes"
+				},
+				{
+					"itemName": "Quake",
+					"itemDescription": "While not as overpowered remains a decent Legendary fruit with abilities like causing tsunamis, though its damage output could be higher"
+				},
+				{
+					"itemName": "Magnet",
+					"itemDescription": "Enables control over metals and delivers significant damage; however, some moves are easily blockable, and it has limited combo potential"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Darkness",
+					"itemDescription": "Possesses powerful moves but is hindered by the blockability of four out of its six abilities and limited mobility, placing it in a lower tier. While the move \"Kurozo\" is potent, its susceptibility to blocking diminishes its effectiveness. Despite these limitations, Darkness can suppress other fruits effectively, especially when all its moves are unlocked and mastered"
+				},
+				{
+					"itemName": "Gravity",
+					"itemDescription": "Allows users to manipulate gravitational forces, enabling area-of-effect attacks that can immobilize opponents and deal substantial damage. However, its abilities often have longer cooldowns and can be challenging to land against agile adversaries"
+				},
+				{
+					"itemName": "Phoenix",
+					"itemDescription": "Offers exceptional healing capabilities and mobility through flight, allowing users to transform into a phoenix. While its damage output is moderate, its regenerative abilities make it highly durable in prolonged battles"
+				},
+				{
+					"itemName": "TS Rubber",
+					"itemDescription": "Provides enhanced melee combat abilities with extended range and powerful transformations. Notably, its \"Gear 4\" form significantly boosts damage and speed, but mastering its combos requires practice"
+				},
+				{
+					"itemName": "Paw",
+					"itemDescription": "Enables users to repel objects and attacks, offering both offensive and defensive options. Its abilities can deal significant knockback and damage, making it effective for controlling battlefield positioning"
+				},
+				{
+					"itemName": "String",
+					"itemDescription": "Allows users to manipulate strings for versatile attacks, including binding opponents and creating clones. Its \"Skywalk\" move enhances mobility, and its combo potential makes it formidable in skilled hands"
+				},
+				{
+					"itemName": "Light",
+					"itemDescription": "Stands out as one of the fastest fruits, though its vulnerability to airborne enemies prevents it from reaching higher tiers"
+				},
+				{
+					"itemName": "Falcon",
+					"itemDescription": "It is notable for its decent combo potential, swift flight, and multi-hit attacks, making it an excellent choice for beginners"
+				},
+				{
+					"itemName": "Ice",
+					"itemDescription": "Beginner-friendly, providing above-average damage; however, its limited skill set and poor performance against airborne enemies affect its overall reputation"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Bomb",
+					"itemDescription": "Allows players to generate explosions, featuring four area-of-effect (AoE) moves. However, many of these are charge moves, potentially leaving users vulnerable to enemy attacks"
+				},
+				{
+					"itemName": "Gas",
+					"itemDescription": "Offers high damage output but suffers from rapid stamina depletion, limited mobility, and short range, making it less effective in PVP scenarios"
+				},
+				{
+					"itemName": "Smoke",
+					"itemDescription": "Possesses moves that can stun the user rather than the enemy, coupled with low range and easily dodgeable attacks, leading to subpar performance in battles"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,226 @@
+{
+    "fileName": "last-cloudia.json",
+    "title": "Last Cloudia Tier List",
+    "description": "Discover the latest Last Cloudia Tier List for 2024, featuring the top S, A, B, and C Tier characters. Learn which units to pull and reroll for optimal performance in PvE and PvP.",
+    "heading": "Last Cloudia Tier List",
+    "introText": "Discover the latest Last Cloudia Tier List for 2024, featuring the top S, A, B, and C Tier characters. Learn which units to pull and reroll for optimal performance in PvE and PvP.",
+    "datePublished": "2024-10-11",
+    "dateModified": "2025-02-14",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Goddess Lilaha",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Great Hero Adel",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Rena Landford",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Divine Beast Thouzer",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Lelouch",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Saintly Mia",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Alphen",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Ryu",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Determined Soldier Mikasa",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Megius",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Goddess Lilaha",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Advocate of God Labyreth",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Kynei",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Zekus Forgate",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Knuckless",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Saintly Graphel",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Assassin's Heir Logia",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Emerald Arrowslinger Phal",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Shalltear Bloodfallen",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Albeldo",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Suzaku",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Lenneth Valkyrie",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Guile",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Freya",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Ice Emperor Seilios",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Gallant Flame Vaughn",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Eliza",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Rimuru Tempest",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Lanceveil",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Sonic",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Princess Lilah",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Phantom Thief Robin",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Saintly Theria",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Popoi",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Tales",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Gobl",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Summoner Leena",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Zleorg the Heathen",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Luger King of Destruction",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Romel the War God",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Soul Reaper Melza",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Lukiel",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "White Knight Melza",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Genius Archer Phal",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Godhunter Shin",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Blood Rose",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Steel Wall Maddine",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Goroth the Giant",
+                    "itemDescription": ""
+                }
+            ]
+        }
+    ]
+}

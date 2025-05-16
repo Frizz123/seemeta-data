@@ -1,0 +1,81 @@
+{
+	"fileName": "afk-journey.json",
+	"title": "AFK Journey Tier List",
+	"description": "AFK Journey is an idle RPG game that has taken the mobile gaming world by storm. With its simple yet addictive gameplay, AFK Journey has amassed a large player base. However, like any other game, AFK Journey has a meta, and some heroes are simply better than others. This tier list will help you navigate the ever-changing AFK Journey meta and build the best team possible.",
+	"heading": "AFK Journey Tier List",
+	"introText": "AFK Journey is an idle RPG game that has taken the mobile gaming world by storm. With its simple yet addictive gameplay, AFK Journey has amassed a large player base. However, like any other game, AFK Journey has a meta, and some heroes are simply better than others. This tier list will help you navigate the ever-changing AFK Journey meta and build the best team possible.",
+	"datePublished": "2024-05-31",
+	"dateModified": "2025-01-13",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Meerky",
+					"itemDescription": "This duo is one of the best damage dealers in the game. They are also very versatile and can fit into a variety of team comps"
+				},
+				{
+					"itemName": "Reinier",
+					"itemDescription": "Reinier is a tank who can also deal a lot of damage. He is a great choice for teams that need a bit of both offense and defense"
+				},
+				{
+					"itemName": "Cecilia",
+					"itemDescription": "Cecilia is a support hero who can provide your team with shields, heals, and buffs. She is essential for any team that wants to survive tough battles"
+				},
+				{
+					"itemName": "Antandra",
+					"itemDescription": "Antandra is a damage dealer who excels at taking down multiple enemies at once. She is a great choice for teams that need to clear waves quickly"
+				},
+				{
+					"itemName": "Thoran",
+					"itemDescription": "Thoran is a tank who can cheese his way to victory. His ultimate ability makes him invincible, and he can deal a lot of damage while he is invulnerable"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Rhys",
+					"itemDescription": "Rhys is a support hero who can provide your team with shields and buffs. He is a good choice for teams that need a bit more survivability"
+				},
+				{
+					"itemName": "Odie",
+					"itemDescription": "Odie is a damage dealer who is known for his high burst damage. He is a great choice for teams that need to take down enemies quickly"
+				},
+				{
+					"itemName": "Koko",
+					"itemDescription": "Koko is a support hero who can provide your team with heals and buffs. She is a good choice for teams that need a bit more sustain"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Wilder",
+					"itemDescription": "Wilder is a damage dealer who is known for his consistent damage. He is a good choice for teams that need a reliable source of damage"
+				},
+				{
+					"itemName": "Mauler",
+					"itemDescription": "Mauler is a tank who is known for his high health pool. He is a good choice for teams that need a frontline tank"
+				},
+				{
+					"itemName": "Lightbearer",
+					"itemDescription": "Lightbearer is a support hero who can provide your team with heals and buffs. She is a good choice for teams that need a bit more support"
+				},
+				{
+					"itemName": "Celestial",
+					"itemDescription": "Celestial is a damage dealer who is known for his AoE damage. He is a good choice for teams that need to clear waves quickly"
+				},
+				{
+					"itemName": "Hypogean",
+					"itemDescription": "Hypogean is a tank who is known for his crowd control abilities. He is a good choice for teams that need to control the battlefield"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,122 @@
+{
+    "fileName": "astra-knights-of-veda.json",
+    "title": "Astra: Knights of Veda Tier List",
+    "description": "This tier list ranks all of the characters in Astra: Knights of Veda from best to worst. It is based on my own opinion and experience, but I have also taken into account factors such as the game mode, team composition, and playstyle.",
+    "heading": "Astra: Knights of Veda Tier List",
+    "introText": "This tier list ranks all of the characters in Astra: Knights of Veda from best to worst. It is based on my own opinion and experience, but I have also taken into account factors such as the game mode, team composition, and playstyle.",
+    "datePublished": "2024-05-16",
+    "dateModified": "2025-03-21",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Archer of Antlers Eliyar",
+                    "itemDescription": "Eliyar is a Blood-type ranged DPS character in \"ASTRA: Knights of Veda.\" She excels at inflicting Bleed and Wound effects on enemies, both of which scale with her Attack (ATK) stat. By combining her Trap skill with these bleed effects, Eliyar can efficiently handle large groups of enemies. At Fate level 7 and with an appropriate build, she can perform a powerful arrow attack that hits up to seven times, dealing substantial damage"
+                },
+                {
+                    "itemName": "White Molar Sansar",
+                    "itemDescription": "Sansar is a Light-attribute melee supporter in \"ASTRA: Knights of Veda,\" capable of summoning a wolf companion, Nami, to assist in battle. Nami's attacks reduce enemy resistances, amplifying the damage they receive. Sansar's high HP enhances both her survivability and Nami's effectiveness, making her a valuable asset in various team compositions"
+                },
+                {
+                    "itemName": "Asha",
+                    "itemDescription": "A powerful DPS capable of both ranged attacks and teleporting for close combat, though she lacks invincibility during teleportation"
+                },
+                {
+                    "itemName": "Lightning-fast Arrow Aurora",
+                    "itemDescription": "Aurora is a high-damage Crit-based archer who excels at Dodging. Her Signature skill boosts Retribution stacks, enhancing her Crit and ATK"
+                },
+                {
+                    "itemName": "Prayer of Life Saeya",
+                    "itemDescription": "A tank that heals herself, controls enemies, and reduces damage taken with her passive Shield of Justice"
+                },
+                {
+                    "itemName": "Black Prince Edward",
+                    "itemDescription": "A straightforward Fire-type warrior focused on Burn. While simple, he deals high damage, especially with Harbinger of Flames active"
+                },
+                {
+                    "itemName": "Black Sun Xanthia",
+                    "itemDescription": "Xanthia lowers enemies' Darkness RES and has strong crowd control with Event Horizon, making her ideal for Darkness teams and wave clearing"
+                },
+                {
+                    "itemName": "Magnificence of Light Lucian",
+                    "itemDescription": "Hero deals solid damage and heals allies with his Signature skill — a reliable mix of support and offense"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Black Wolf Liam",
+                    "itemDescription": "Warrior with high damage output, especially with his Signature skill. Great for late game, but lacks versatility"
+                },
+                {
+                    "itemName": "Gifted Doctor Veleno",
+                    "itemDescription": "A Poison-focused DPS who excels against large groups. Her Poison Fog follows enemies, dealing constant damage. Despite her name, she’s not a healer"
+                },
+                {
+                    "itemName": "Amor Loverace",
+                    "itemDescription": "Character who wields a sword and shield. She is known for her defensive capabilities and her ability to protect allies in battle"
+                },
+                {
+                    "itemName": "Golden Lion Albert",
+                    "itemDescription": "Albert is an Earth-attribute tank wielding a mace and shield. His high defense and disruption abilities allow him to withstand enemy attacks effectively. His normal skill, \"Sacred Hammer,\" stuns enemies and reduces their attack power. His signature skill, \"The Roar of the Golden Lion,\" summons a lion spirit effigy that taunts enemies and shares damage received by allies, providing them with protection"
+                },
+                {
+                    "itemName": "Prideful Child - Iris",
+                    "itemDescription": "Iris is an Earth-type ranged supporter wielding a wand and orb. She summons Dekania to provoke enemies, reducing their attack power. Her normal skill, \"Summon Dekania,\" taunts enemies, increasing the damage they receive. Her signature skill, \"Grasp of Desire,\" raises a giant stone hand to bind enemies, which explodes upon disappearing, dealing additional damage"
+                },
+                {
+                    "itemName": "Nec",
+                    "itemDescription": "Nec is a Darkness-type ranged supporter wielding a wand and orb. Her normal skill, \"Bansch's Dance,\" generates a black orb that reacts to attacks, dealing additional damage to enemies while aiding allies. Her signature skill, \"The Dark Sign of Love,\" summons \"Roderick,\" the Knight of Darkness, to provoke and attack enemies while supporting allies in battle"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Arrows of Storm Ardor",
+                    "itemDescription": "Ardor is a Fire-attribute archer who, despite his elemental alignment, lacks the ability to inflict Burn status on enemies. His damage output is moderate, and his skill set is considered underwhelming, placing him in the B tier"
+                },
+                {
+                    "itemName": "Electric Butcher Elias",
+                    "itemDescription": "Elias is an Electric-type warrior who can inflict Shock on enemies, making him a decent addition to teams focusing on Electric damage. However, his overall damage output is lacking, preventing him from ranking higher"
+                },
+                {
+                    "itemName": "Shikh",
+                    "itemDescription": "Light-attribute ranged support character who wields a small bow. He is known for his honorable warrior spirit and serves as a good Light DPS and support unit"
+                },
+                {
+                    "itemName": "Girl at Noon Rani",
+                    "itemDescription": "Rani is a Light-attribute ranged damage dealer who uses a staff to unleash powerful area-of-effect attacks. Her normal skill, \"Flash Blast,\" creates a dome of powerful light to damage enemies. Her signature skill, \"Influx of Light,\" launches a damaging beam of light towards enemies, atomizing all enemies within its powerful blast"
+                },
+                {
+                    "itemName": "Noxious Gas Capecchi",
+                    "itemDescription": "Capecchi is a Poison-attribute character who wields a wand and orb. He specializes in poison damage and, at Fate Level 6, can increase the poison damage that enemies receive by 50%, making him a valuable support unit for poison-focused teams, especially against bosses"
+                },
+                {
+                    "itemName": "Strong Conviction Leon",
+                    "itemDescription": "Leon is a Blood-attribute melee tank who wields a sword and shield. His \"Guard\" function, combined with his quick attack speed, allows him to withstand enemy attacks, showcasing high durability in battles. His normal skill, \"Strong Beliefs,\" generates a shield proportional to his defense, providing protection for his allies. His signature skill, \"Indomitable Will,\" charges him towards enemies with his shield raised, pushing back foes and attacking head-on"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Mechanic Yanko",
+                    "itemDescription": "Yanko is an Earth-attribute support character who wields a small bow. His Signature Skill, \"Complete the Bond!\", restrains enemies, providing crowd control. However, his overall skill set is considered underwhelming, placing him at the bottom of the tier list"
+                },
+                {
+                    "itemName": "Red Duke Andrei",
+                    "itemDescription": "Andrei is a Fire-attribute character who uses a staff. His Signature Skill summons a pillar of fire onto the battlefield, dealing area-of-effect damage. Despite this, his overall kit lacks both direct damage and damage-over-time effects, making him less viable in combat situations"
+                }
+            ]
+        }
+    ]
+}

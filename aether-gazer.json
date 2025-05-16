@@ -1,0 +1,246 @@
+{
+	"fileName": "aether-gazer.json",
+	"title": "Aether Gazer Tier List",
+	"description": "Discover the top characters in Aether Gazer, ranked from S to C Tier, to optimize your gameplay and dominate battles.",
+	"heading": "Aether Gazer Tier List",
+	"introText": "Discover the top characters in Aether Gazer, ranked from S to C Tier, to optimize your gameplay and dominate battles.",
+	"datePublished": "2024-05-18",
+	"dateModified": "2025-01-13",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Madoibi Scorched - Kagutsuchi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Living Soul - Osiris",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dimglare - Verthandi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shinri - Tsukuyomi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tenblaze - Jinwu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Somezakura - Buzenbo Tengu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Arctic Abyss - Poseidon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Puppet Master - Hades",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gray Ibis - Thoth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "AblaZe - Tyr",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kuramitsuha - So-ei",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Untainted Heart - Lingguang",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Phantasmal Dawn - Hera",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "TaiYi - Gengche",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rahu - Asura",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Azure Lord - Mengzhang",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jackal - Anubis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Early Sakura - Ookuninushi",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "The Lioness - Sekhmet",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Chord of Convallaria - Athena",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Drowsie - Oneiroi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tenblaze - Jinwu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nine-Tailed Guardian - Luwu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ludmila",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cleansing Wind - Enlil",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Backflowing - Oceanus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Innocence - Osiris",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Windwalker - Hermes",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Darkstar - Hel",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jin-ei - Kuninotokotachi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ailuros – Bastet",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Roaring Thunder - Thor",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gusty Lance - Shu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Thundertusk - Kali",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Waverender - Skadi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dark Mistletoe - Hodur",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Frost Fang - Vidar",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Enlightening - Heimdall",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Flowfly Mist - Shu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ryugiri - Kagutsuchi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sakubo - Tsukuyomi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tidal Song - Poseidon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Drifting Flurry - Leviathan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Airgetlam - Nuadha",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shinku - Buzenbo Tengu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Archaic Oath - Verthandi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Countertide - Leviathan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Radiant Feather - Hera",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "New Pact - Verthandi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Surefire - Zenkibo Tengu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Comet Ray - Zenkibo Tengu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Croc Rage - Sobek",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Glare - Apollo",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

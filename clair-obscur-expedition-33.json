@@ -1,0 +1,66 @@
+{
+  "fileName": "clair-obscur-expedition-33.json",
+  "title": "Clair Obscur: Expedition 33 Tier List",
+  "description": "",
+  "heading": "Clair Obscur: Expedition 33 Tier List",
+  "introText": "",
+  "datePublished": "2025-04-15",
+  "dateModified": "2025-04-15",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Gustave",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Maelle",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Lune",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sciel",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Renoir",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Verso",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Monoco",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Esquie",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+    "fileName": "homeworld-3.json",
+    "title": "Homeworld 3 Ship Tier List: The Ultimate Guide",
+    "description": "Dominate the galaxy with the ultimate Homeworld 3 ship tier list. Conquer your foes with the best ships, from the mighty Mothership to the versatile Strike Cruiser. Learn which ships reign supreme and which ones to leave behind. Ascend to victory with this comprehensive guide to Homeworld 3's naval forces.",
+    "heading": "Homeworld 3 Tier List",
+    "introText": "Homeworld 3 is a real-time strategy game that puts you in command of a fleet of starships. With a variety of ships to choose from, it can be tough to figure out which ones are the best. Here's a tier list of all the ships in Homeworld 3, from S-Tier to C-Tier.",
+    "datePublished": "2024-05-12",
+    "dateModified": "2024-05-12",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Mothership",
+                    "itemDescription": "The Mothership is the heart of your fleet, and it's essential for both offense and defense. It has a powerful shield generator and can repair other ships, making it a priority target for your enemies"
+                },
+                {
+                    "itemName": "Strike Cruiser",
+                    "itemDescription": "Strike Cruisers are versatile ships that can be used for a variety of purposes. They're armed with both anti-ship and anti-fighter weapons, and they can also carry a squadron of fighters"
+                },
+                {
+                    "itemName": "Repair Frigate",
+                    "itemDescription": "Repair Frigates are essential for keeping your fleet in fighting condition. They can repair other ships, and they can also provide a boost to your fleet's morale"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Support Frigate",
+                    "itemDescription": "Support Frigates provide a variety of buffs to your fleet, such as increased damage, improved defense, and faster repairs"
+                },
+                {
+                    "itemName": "Missile Frigate",
+                    "itemDescription": "Missile Frigates are armed with powerful missiles that can deal a lot of damage to enemy ships"
+                },
+                {
+                    "itemName": "Carrier",
+                    "itemDescription": "Carriers can carry a squadron of fighters, which can be used to harass enemy ships or take out key targets"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Frigate",
+                    "itemDescription": "Frigates are cheap and versatile ships that can be used for a variety of purposes. They're not as powerful as other ships, but they can be a valuable addition to your fleet in the early game"
+                },
+                {
+                    "itemName": "Destroyer",
+                    "itemDescription": "Destroyers are armed with anti-ship weapons, making them effective against capital ships. However, they're vulnerable to fighter attacks"
+                },
+                {
+                    "itemName": "Interceptor",
+                    "itemDescription": "Interceptors are small, agile ships that are effective against fighters. However, they're not as powerful as other ships against capital ships"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Corvette",
+                    "itemDescription": "Corvettes are the smallest and weakest ships in the game. They're not very useful in most situations, but they can be helpful for scouting and harassing enemy ships"
+                },
+                {
+                    "itemName": "Bomber",
+                    "itemDescription": "Bombers are slow and vulnerable, but they can deal a lot of damage to capital ships"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+  "fileName": "dandys-world.json",
+  "title": "Dandy's World Tier List",
+  "description": "Explore the latest tier list for Dandy's World characters, detailing rankings and insights from S to C Tier based on community feedback and game performance.",
+  "heading": "Dandy's World Tier List",
+  "introText": "Explore the latest tier list for Dandy's World characters, detailing rankings and insights from S to C Tier based on community feedback and game performance.",
+  "datePublished": "2025-04-11",
+  "dateModified": "2025-04-11",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Pebble",
+          "itemDescription": "Exceptional distractor with top-tier movement speed, allowing for versatile gameplay and effective extraction capabilities"
+        },
+        {
+          "itemName": "Yatta",
+          "itemDescription": "Versatile character with outstanding extraction speed and movement, capable of generating consumables to aid survival"
+        },
+        {
+          "itemName": "Looey",
+          "itemDescription": "All-rounder excelling in both distraction and extraction roles, especially effective when at one heart due to enhanced speed"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Shelly",
+          "itemDescription": "Strong extractor and support character, offering team boosts and maintaining decent survivability"
+        },
+        {
+          "itemName": "Sprout",
+          "itemDescription": "Vital for longer runs with the ability to generate health items, complemented by solid survival stats"
+        },
+        {
+          "itemName": "Tisha",
+          "itemDescription": "Balanced all-rounder with capabilities in extraction, survival, and team support through speed enhancements"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Astro",
+          "itemDescription": "Excellent support character with high stealth, adept at assisting teammates in critical situations"
+        },
+        {
+          "itemName": "Goob",
+          "itemDescription": "Reliable distractor and support, with commendable movement and stamina for effective twisted engagement"
+        },
+        {
+          "itemName": "Glisten",
+          "itemDescription": "Capable extractor with decent survivability, offering teleportation abilities to evade threats"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Vee",
+          "itemDescription": "Top-tier extractor with unparalleled speed but hindered by low survivability, making strategic play essential"
+        },
+        {
+          "itemName": "Brightney",
+          "itemDescription": "Good extraction and stamina stats, but low stealth can attract unwanted attention from twisteds"
+        },
+        {
+          "itemName": "Teagan",
+          "itemDescription": "Average stats with a beneficial ability to heal using in-game currency, though this may impact team resources"
+        }
+      ]
+    }
+  ]
+}

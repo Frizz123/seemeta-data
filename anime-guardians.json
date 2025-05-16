@@ -1,0 +1,138 @@
+{
+  "fileName": "anime-guardians.json",
+  "title": "Anime Guardians Tier List",
+  "description": "Discover the top-ranked units in Anime Guardians as of February 2025. Our comprehensive tier list categorizes characters from S to С Tier, helping you build the ultimate team.",
+  "heading": "Anime Guardians Tier List",
+  "introText": "Discover the top-ranked units in Anime Guardians as of February 2025. Our comprehensive tier list categorizes characters from S to С Tier, helping you build the ultimate team.",
+  "datePublished": "2025-02-11",
+  "dateModified": "2025-02-11",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Aozort (Lord Arc)",
+          "itemDescription": "Lord Aizen is the meta slow unit right now. Plus, his DPS is solid, and he is also a hybrid"
+        },
+        {
+          "itemName": "Aozort (Hollow Form)",
+          "itemDescription": "Hollow Aizen is a full AoE DPS monster. He is one of the best mythic units in Anime Guardians right now"
+        },
+        {
+          "itemName": "Ichongo (Vasto Lorde)",
+          "itemDescription": "Excels in handling shielded enemies with multi-hit attacks, though limited to two attacks; still a meta-relevant unit"
+        },
+        {
+          "itemName": "Ichongo (True Bankai)",
+          "itemDescription": "Offers higher DPS compared to Vasto Lorde but is less effective against shields; suitable for teams needing damage output"
+        },
+        {
+          "itemName": "Alon (Demon Lord)",
+          "itemDescription": "Boasts high damage, reasonably low SPA (Seconds Per Attack), and multi-hit abilities; his only drawback is limited range"
+        },
+        {
+          "itemName": "Kafla (Overpower)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sung (Shadow Monarch)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rimosu",
+          "itemDescription": "Effective against shields due to multi-hit attacks; however, the absence of an evolution makes him less desirable for long-term use"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Ichongo (Bankai)",
+          "itemDescription": "An upgraded version of the epic Ichigo, with both evolutions being highly effective; a must-have mythic unit"
+        },
+        {
+          "itemName": "Kafla",
+          "itemDescription": "Possesses an almost map-wide multi-hit AoE attack, ideal for solo play; evolution further enhances his strength, though he cannot target flying enemies"
+        },
+        {
+          "itemName": "Aozort",
+          "itemDescription": "A non-evolved mythic capable of stunning enemies, providing additional time for other units to deal damage; both evolutions are currently meta"
+        },
+        {
+          "itemName": "Sung",
+          "itemDescription": "A high-DPS summon unit; his evolution significantly enhances his capabilities, making him a valuable addition to any team"
+        },
+        {
+          "itemName": "Bolm",
+          "itemDescription": "The premier farm unit, surpassing others in accelerating resource accumulation, essential for progressing through challenging stages"
+        },
+        {
+          "itemName": "Susuna",
+          "itemDescription": "Applies burn effects to enemies; lacks an evolution, making him a less optimal investment currently"
+        },
+        {
+          "itemName": "Gogo",
+          "itemDescription": "A good starting unit with low cost and full AoE; fully upgraded, he offers low cooldowns, high base damage, and high range, with hybrid capabilities"
+        },
+        {
+          "itemName": "Miwalk",
+          "itemDescription": "Can target flying units when upgraded; serves as a solid, low-cost unit for early waves"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Fleeren",
+          "itemDescription": "A competent hill unit with solid damage and the ability to target flying enemies upon deployment; may be redundant due to newer hybrid units"
+        },
+        {
+          "itemName": "Beauty",
+          "itemDescription": "One of the few hill units available; necessary for countering flying enemies but otherwise outclassed by higher-tier units"
+        },
+        {
+          "itemName": "Rudy",
+          "itemDescription": "Despite being a hill unit, cannot target flying enemies; his stats are superior to lower-rarity units but still underwhelming"
+        },
+        {
+          "itemName": "Osto",
+          "itemDescription": "A farm unit effective at the second upgrade level, aiding in accelerating upgrades and easing progression through tougher story missions"
+        },
+        {
+          "itemName": "Mish",
+          "itemDescription": "Inferior to Rom but still a mythic; should be used only if no better options are available"
+        },
+        {
+          "itemName": "Satalan",
+          "itemDescription": "Features high damage and low cooldown AoE attacks; lacks an evolution, which limits her potential compared to evolved units"
+        },
+        {
+          "itemName": "Ichongo",
+          "itemDescription": "An epic unit with full AoE and solid DPS; considered the best starter unit"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Rom",
+          "itemDescription": "Despite frequent banner appearances, she is one of the weaker mythics, with low range and damage on her AoE skill"
+        },
+        {
+          "itemName": "Emilian",
+          "itemDescription": "Capable of slowing enemies and offers full AoE when upgraded; a solid starter unit overall"
+        },
+        {
+          "itemName": "Kilu",
+          "itemDescription": "A top-tier rare unit with high-damage attacks and massive AoE when fully upgraded; features a low cooldown ability"
+        }
+      ]
+    }
+  ]
+}

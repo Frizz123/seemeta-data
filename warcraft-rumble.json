@@ -1,0 +1,66 @@
+{
+	"fileName": "warcraft-rumble.json",
+	"title": "Warcraft Rumble Tier List",
+	"description": "Warcraft Rumble is a fast-paced auto-battler game where players build teams of iconic Warcraft characters and minions to battle it out. The game features a variety of game modes, including PvP, PvE, and co-op. A tier list is a ranking of the best characters and minions in a game. It is based on the performance of the characters and minions in different game modes.",
+	"heading": "Warcraft Rumble Tier List",
+	"introText": "Warcraft Rumble is a fast-paced auto-battler game where players build teams of iconic Warcraft characters and minions to battle it out. The game features a variety of game modes, including PvP, PvE, and co-op. A tier list is a ranking of the best characters and minions in a game. It is based on the performance of the characters and minions in different game modes.",
+	"datePublished": "2024-06-14",
+	"dateModified": "2025-02-11",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Minions",
+					"itemDescription": "Huntress, Quilboar, Defias Bandits, Harpies, Darkspear Troll"
+				},
+				{
+					"itemName": "Leaders",
+					"itemDescription": "General Drakkisath, Grommash Hellscream, Baron Rivendare"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Minions",
+					"itemDescription": "Blizzard, Gargoyle"
+				},
+				{
+					"itemName": "Leaders",
+					"itemDescription": "Bloodmage Thalnos, Sylvanas Windrunner"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Minions",
+					"itemDescription": "Murloc Raider, Mechanoegg, Zombeast, Kobold Illusionist, Leeroy Jenkins"
+				},
+				{
+					"itemName": "Leaders",
+					"itemDescription": "Jaina Proudmoore, Uther the Lightbringer, Garrosh Hellscream"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Minions",
+					"itemDescription": "Dire Wolf, Acolyte of Pain, Stonetusk Boar, Netherborn Felbat, Faerie Dragon"
+				},
+				{
+					"itemName": "Leaders",
+					"itemDescription": "Gul'dan, Malfurion Stormrage, Thrall"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,146 @@
+{
+	"fileName": "brawl-stars.json",
+	"title": "Brawl Stars Tier List",
+	"description": "This tier list ranks the best brawlers in Brawl Stars. The list is divided into S Tier, A Tier, B Tier, and C Tier. S Tier brawlers are the best in the game, while C Tier brawlers are the worst. The tier list is based on the brawlers current power levels and the meta. Please note that this tier list is based on my opinion and your experience with brawlers may vary.",
+	"heading": "Brawl Stars Tier List",
+	"introText": "This tier list ranks the best brawlers in Brawl Stars. The list is divided into S Tier, A Tier, B Tier, and C Tier. S Tier brawlers are the best in the game, while C Tier brawlers are the worst. The tier list is based on the brawlers current power levels and the meta. Please note that this tier list is based on my opinion and your experience with brawlers may vary.",
+	"datePublished": "2024-07-06",
+	"dateModified": "2025-02-14",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Mortis",
+					"itemDescription": "An Assassin known for his mobility, using a shovel to dash and attack enemies. His Super summons bats that damage enemies and heal him"
+				},
+				{
+					"itemName": "Rico",
+					"itemDescription": "A Damage Dealer whose attacks and Super fire bouncing bullets, allowing him to hit enemies behind walls. His Bouncy Castle gadget heals him when his bullets bounce off walls"
+				},
+				{
+					"itemName": "Piper",
+					"itemDescription": "A Marksman with a low health pool but high long-range attack power. Her attacks deal more damage the further they travel, and her gadgets enhance her sniping capabilities"
+				},
+				{
+					"itemName": "Stu",
+					"itemDescription": "An Assassin with versatile mobility. His Super allows him to dash across the map, leaving a damaging trail. It charges quickly, enabling frequent use"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Surge",
+					"itemDescription": "A Damage Dealer who has become more formidable with his recent Hypercharge, allowing him to upgrade to a fourth stage, enhancing his attack range and power"
+				},
+				{
+					"itemName": "Max",
+					"itemDescription": "A Support Brawler who boosts her and her allies' movement speeds with her Super. Her first Star Power charges her Super as she moves, making her effective in enhancing team mobility"
+				},
+				{
+					"itemName": "Belle",
+					"itemDescription": "A Marksman with long-range attacks that bounce between enemies, making her effective against grouped foes. Her Super marks a target, increasing the damage they take until defeated"
+				},
+				{
+					"itemName": "Gus",
+					"itemDescription": "A Support Brawler with unique healing abilities, using a balloon attack to summon Spirits that heal him or his teammates"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Frank",
+					"itemDescription": "A Tank with the highest health pool in the game. He deals significant damage with his shockwave attacks and can charge his Super by taking damage"
+				},
+				{
+					"itemName": "Juju",
+					"itemDescription": "An Artillery Brawler introduced in October 2024, Juju can traverse water and utilize her basic attack and Elementalist gadget to create various environmental buffs, such as increased range and slowing enemies in water"
+				},
+				{
+					"itemName": "Byron",
+					"itemDescription": "A versatile Support Brawler capable of inflicting significant damage to enemies while consistently healing allies. His long-range attacks allow him to maintain distance, compensating for his lower health pool"
+				},
+				{
+					"itemName": "Darryl",
+					"itemDescription": "A Tank Brawler with a substantial health pool. His Super charges automatically over time, enabling him to perform powerful barrel rolls that can be used consecutively when fully charged"
+				},
+				{
+					"itemName": "Ash",
+					"itemDescription": "A Tank Brawler who has risen in the meta due to his new Hypercharge, which spawns additional robotic rats to attack enemies. His Rage bar boosts his speed and damage"
+				},
+				{
+					"itemName": "Penny",
+					"itemDescription": "A Controller with a long-range attack and a Super that deploys a cannon, providing area control. Recent buffs have increased her effectiveness"
+				},
+				{
+					"itemName": "Berry",
+					"itemDescription": "An Epic-rated Support Brawler who can deal significant damage to enemies and heal allies using his Meltdown ability"
+				},
+				{
+					"itemName": "8-Bit",
+					"itemDescription": "A Damage Dealer with slow movement but a powerful Super that deploys a turret, increasing damage for him and allies within its radius"
+				},
+				{
+					"itemName": "Pearl",
+					"itemDescription": "A Damage Dealer with a Heat Bar that charges over time, increasing her damage output. Her gadgets allow her to deal damage over time and heal allies"
+				},
+				{
+					"itemName": "Gale",
+					"itemDescription": "A Controller with consistent damage output, using waves of snowballs to attack. His Super pushes enemies back, and his gadgets create obstacles to control enemy movement"
+				},
+				{
+					"itemName": "Colette",
+					"itemDescription": "A Damage Dealer whose attacks deal more damage based on the enemy's health, making her effective against Tank Brawlers"
+				},
+				{
+					"itemName": "Amber",
+					"itemDescription": "A Controller with fire-based abilities, capable of damaging enemies over time and controlling areas with her Super and gadgets"
+				},
+				{
+					"itemName": "Sandy",
+					"itemDescription": "A Controller who throws sand that pierces enemies. His Super creates a sandstorm that makes allies invisible and can heal them with the appropriate Star Power"
+				},
+				{
+					"itemName": "Chester",
+					"itemDescription": "A Damage Dealer with a Super that can manifest as one of five different attacks, offering versatility in combat. His gadgets and Star Powers enhance his unpredictability"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Angelo",
+					"itemDescription": "An Epic-rated Marksman capable of dealing massive bursts of damage from long distances. His Welcome to the Swamp ability adds poison to his attacks, causing heavy damage over time"
+				},
+				{
+					"itemName": "Kenji",
+					"itemDescription": "An Assassin Brawler suitable for players of all levels. His Hosomaki Heal Gadget restores a significant portion of his health, and his second Star Power provides a shield that reduces incoming damage"
+				},
+				{
+					"itemName": "Larry & Lawrie",
+					"itemDescription": "An Artillery duo with low health but high damage output. They throw tickets that explode in two stages, and activating their Super spawns Lawrie to assist in battle"
+				},
+				{
+					"itemName": "Barley",
+					"itemDescription": "An Artillery Brawler who throws projectiles that create damaging puddles on the ground. He excels at area control and can slow enemies, heal allies, and destroy bushes with his Hypercharge"
+				},
+				{
+					"itemName": "Moe",
+					"itemDescription": "A Damage Dealer with a solid health pool, swift movement, and powerful attacks. He excels at wall-peeking, allowing him to snipe enemies from behind cover"
+				},
+				{
+					"itemName": "Draco",
+					"itemDescription": "A Tank Brawler capable of withstanding significant damage and disrupting enemies with his Lance Stab and Dragon Solo abilities. He is particularly effective against Brawlers like Bo, Squeak, Gale, and Hank"
+				}
+			]
+		}
+	]
+}

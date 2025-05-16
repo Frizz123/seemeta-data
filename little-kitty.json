@@ -1,0 +1,66 @@
+{
+    "fileName": "little-kitty.json",
+    "title": "Little Kitty, Big City: The Ultimate Tier List",
+    "description": "In this comprehensive guide, we rank all of the items in Little Kitty, Big City from S Tier to C Tier. Whether you're a seasoned player or just starting out, this tier list will help you determine which items are worth your time and effort.",
+    "heading": "Little Kitty, Big City: A Complete Tier List",
+    "introText": "In this tier list, we will rank all of the items in Little Kitty, Big City from S Tier to C Tier. We will consider their usefulness, rarity, and overall impact on the game.",
+    "datePublished": "2024-05-12",
+    "dateModified": "2024-05-12",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Fish",
+                    "itemDescription": "Fish is the most valuable item in the game. It can be used to purchase food, hats, and other items from vendors. Fish can also be used to heal your cat if it is injured"
+                },
+                {
+                    "itemName": "Golden Coins",
+                    "itemDescription": "Golden Coins are a rare currency that can be used to purchase special items from vendors. Golden Coins can also be used to unlock new areas of the game"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Yarn Balls",
+                    "itemDescription": "Yarn Balls can be used to distract mice and other enemies. This can be helpful when you are trying to explore new areas or complete quests"
+                },
+                {
+                    "itemName": "Hats",
+                    "itemDescription": "Hats are not only stylish, but they can also provide some special benefits. For example, some hats can protect your cat from the cold, while others can give you extra stamina"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Food",
+                    "itemDescription": "Food is important for keeping your cat's energy levels up. However, there are many ways to get food in the game, so it is not as essential as some of the other items"
+                },
+                {
+                    "itemName": "Toys",
+                    "itemDescription": "Toys are not essential for completing the game, but they can be fun to play with. Toys can also help you to earn friendship points with other animals"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Boxes",
+                    "itemDescription": "Boxes can be used to climb on top of objects. However, there are many other ways to climb in the game, so boxes are not essential"
+                },
+                {
+                    "itemName": "Leaves",
+                    "itemDescription": "Leaves can be used to distract mice. However, Yarn Balls are a more effective way to do this"
+                }
+            ]
+        }
+    ]
+}

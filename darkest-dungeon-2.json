@@ -1,0 +1,86 @@
+{
+  "fileName": "darkest-dungeon-2.json",
+  "title": "Darkest Dungeon 2 Tier List",
+  "description": "Discover the top heroes in Darkest Dungeon 2 with our comprehensive tier list, detailing strengths and optimal team roles.",
+  "heading": "Darkest Dungeon 2 Tier List",
+  "introText": "Discover the top heroes in Darkest Dungeon 2 with our comprehensive tier list, detailing strengths and optimal team roles.",
+  "datePublished": "2025-01-30",
+  "dateModified": "2025-01-30",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Plague Doctor",
+          "itemDescription": "The Resident Healer. Serving as a reliable backline support, the Plague Doctor specializes in applying blight damage and healing allies. Her ability to cure ailments and provide area-of-effect attacks makes her a valuable asset"
+        },
+        {
+          "itemName": "Flagellant",
+          "itemDescription": "Hurt Through Getting Hurt. A resilient hero who thrives under pressure. The Flagellant can endure significant damage, heal himself and allies, and inflict bleed effects on enemies. His potential shines in prolonged battles"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Man-At-Arms",
+          "itemDescription": "The Universal Frontlin Tank. An exceptionally versatile hero with a robust skill set. He can deal significant damage, protect allies, and has self-sustain capabilities. His adaptability makes him invaluable in various team compositions"
+        },
+        {
+          "itemName": "Highwayman",
+          "itemDescription": "Set Up Combos From Any Position. A dynamic damage dealer proficient in both melee and ranged attacks. The Highwayman offers strong offensive capabilities and can adapt to different combat scenarios with ease"
+        },
+        {
+          "itemName": "Crusader",
+          "itemDescription": "Flexible Tank For Plugging Gaps In Offense, Defense"
+        },
+        {
+          "itemName": "Grave Robber",
+          "itemDescription": "Flexible Kit Needs Support To Perform. A nimble and versatile hero capable of inflicting blight damage and utilizing stealth. The Grave Robber excels in critical strikes and can target enemies in various positions, making her a flexible choice"
+        },
+        {
+          "itemName": "Occultist",
+          "itemDescription": "Deal Damage Through Self-Harm. A hero with a mix of offensive and support abilities, including debuffs and healing. The Occultist's performance can be unpredictable due to variable healing outcomes and reliance on specific conditions"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Hellion",
+          "itemDescription": "A Literal Stress Relief Tank. A formidable frontliner known for her high damage output. The Hellion can target multiple ranks, including backline enemies, and possesses self-buffing abilities to enhance her combat effectiveness"
+        },
+        {
+          "itemName": "Duelist",
+          "itemDescription": "Decent Performer When Combo Tempo Is Understood"
+        },
+        {
+          "itemName": "Bounty Hunter",
+          "itemDescription": "A Temporary Powerhouse"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Vestal",
+          "itemDescription": "An Extremely Flexible Buffer, Debuffer. A dedicated healer with abilities to support and sustain the team. The Vestal offers direct healing, defensive buffs, and can illuminate enemies, reducing their resistances"
+        },
+        {
+          "itemName": "Leper",
+          "itemDescription": "A Tank With Decent Survivability. A powerful melee combatant with high health and damage potential. The Leper can withstand substantial damage and deliver devastating blows, though he may require support to manage his accuracy and debuffs"
+        },
+        {
+          "itemName": "Runaway",
+          "itemDescription": "Deal Stealthy Damage Over Time. A character focusing on burn damage and mobility. The Runaway can apply fire-based attacks and reposition herself, but may struggle with consistency and overall impact compared to other heroes"
+        }
+      ]
+    }
+  ]
+}

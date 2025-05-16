@@ -1,0 +1,114 @@
+{
+	"fileName": "alchemy-stars.json",
+	"title": "Alchemy Stars Tier List",
+	"description": "Alchemy Stars is a gacha game with a vast cast of characters, and it can be tough to figure out which ones are worth investing in. This tier list will help you sort through the noise and identify the best characters in the game.",
+	"heading": "Alchemy Stars Tier List",
+	"introText": "Alchemy Stars is a gacha game with a vast cast of characters, and it can be tough to figure out which ones are worth investing in. This tier list will help you sort through the noise and identify the best characters in the game.",
+	"datePublished": "2024-06-12",
+	"dateModified": "2024-06-12",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Fire",
+					"itemDescription": "Mia (Lustrous Soul), Hati, Jona"
+				},
+				{
+					"itemName": "Forest",
+					"itemDescription": "Hiiro, Minos"
+				},
+				{
+					"itemName": "Water",
+					"itemDescription": "Carleen (Smoldering Soul), Eirene"
+				},
+				{
+					"itemName": "Thunder",
+					"itemDescription": "Uriel, Elizabeth"
+				},
+				{
+					"itemName": "Dark",
+					"itemDescription": "Nadine (Shadow Seeker), Bethlehem"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Fire",
+					"itemDescription": "Giles, Lorelei, Maggie, Lilica, Dantang"
+				},
+				{
+					"itemName": "Forest",
+					"itemDescription": "Jeriah, Siobhan, Sikare, Hedy, Goldie"
+				},
+				{
+					"itemName": "Water",
+					"itemDescription": "Fleur, Tessa, Narra, Corvus"
+				},
+				{
+					"itemName": "Thunder",
+					"itemDescription": "Donar,  Nikolai,  Zoya"
+				},
+				{
+					"itemName": "Dark",
+					"itemDescription": "Regal,  Nox"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Fire",
+					"itemDescription": "Victoria,  Charon,  Nephilim"
+				},
+				{
+					"itemName": "Forest",
+					"itemDescription": "Barton,  Michenny,  Etinne"
+				},
+				{
+					"itemName": "Water",
+					"itemDescription": "Dylan,  Vivienne,  Chelsea"
+				},
+				{
+					"itemName": "Thunder",
+					"itemDescription": "Michael,  Dove,  Eren"
+				},
+				{
+					"itemName": "Dark",
+					"itemDescription": "Victoria,  Tetis"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Fire",
+					"itemDescription": "Ruby,  Cinnamon,  Smokey"
+				},
+				{
+					"itemName": "Forest",
+					"itemDescription": "Gronru,  Shea,  Karina"
+				},
+				{
+					"itemName": "Water",
+					"itemDescription": "Nadine (Blooming Tide),  Gabrielle,  Monica"
+				},
+				{
+					"itemName": "Thunder",
+					"itemDescription": "Diana,  Clara,  Amy"
+				},
+				{
+					"itemName": "Dark",
+					"itemDescription": "Uriel,  Diana,  Gabriel"
+				}
+			]
+		}
+	]
+}

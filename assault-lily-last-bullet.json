@@ -1,0 +1,74 @@
+{
+	"fileName": "assault-lily-last-bullet.json",
+	"title": "Assault Lily Last Bullet Tier List",
+	"description": "This is a tier list for the mobile game Assault Lily Last Bullet. The list is based on the characters overall power and usefulness. The tier list is divided into S, A, B, and C tiers, with S tier being the best and C tier being the worst. The list also includes factors to consider when creating a tier list, as well as a description of each tier.",
+	"heading": "Assault Lily Last Bullet Tier List",
+	"introText": "This is a tier list for the mobile game Assault Lily Last Bullet. The list is based on the characters overall power and usefulness. The tier list is divided into S, A, B, and C tiers, with S tier being the best and C tier being the worst. The list also includes factors to consider when creating a tier list, as well as a description of each tier.",
+	"datePublished": "2024-05-27",
+	"dateModified": "2024-05-27",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Rico Amita",
+					"itemDescription": "An all-around powerful character with great offense and defense. Her Lily Burst is also very powerful, making her a great choice for any team"
+				},
+				{
+					"itemName": "Yuyu Shirakawa",
+					"itemDescription": "A high-damage dealer with a focus on single-target attacks. Her Lily Burst can deal massive damage to a single enemy, making her great for taking down bosses"
+				},
+				{
+					"itemName": "Tsubaki Ran",
+					"itemDescription": "A versatile character who can both deal damage and support her allies. Her Lily Burst can heal allies and buff their attack, making her a valuable asset to any team"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Juria Kanzaki",
+					"itemDescription": "A tank character who can take a lot of punishment. Her Lily Burst can taunt enemies and draw their attacks away from her allies, making her a great protector"
+				},
+				{
+					"itemName": "Momiji Takane",
+					"itemDescription": "A fast and agile character who can deal damage and dodge enemy attacks. Her Lily Burst can stun enemies, making her great for disrupting enemy teams"
+				},
+				{
+					"itemName": "Elena Miyafuji",
+					"itemDescription": "A support character who can heal allies and buff their defense. Her Lily Burst can create a barrier that protects allies from damage, making her a great choice for survival-focused teams"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Kaoru Tani",
+					"itemDescription": "A decent all-around character who can deal damage and support her allies. However, she doesn't excel in either area, making her a bit of a jack-of-all-trades, master-of-none"
+				},
+				{
+					"itemName": "Shirako Sakuragawa",
+					"itemDescription": "A high-damage dealer with a focus on AoE attacks. However, she is very fragile and can be easily taken down"
+				},
+				{
+					"itemName": "Sayuri Tachibana",
+					"itemDescription": "A support character who can buff her allies' attack and speed. However, her Lily Burst is not very powerful, making her a bit underwhelming"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Rei Mikazuki",
+					"itemDescription": "A low-damage dealer with poor defense. Her Lily Burst is also not very powerful, making her the weakest character in the game"
+				}
+			]
+		}
+	]
+}

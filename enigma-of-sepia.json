@@ -1,0 +1,210 @@
+{
+  "fileName": "enigma-of-sepia.json",
+  "title": "Enigma of Sepia Tier List",
+  "description": "Discover the latest Enigma of Sepia character rankings for February 2025. Our comprehensive tier list categorizes characters from S Tier to C Tier, providing detailed insights into each character's strengths and abilities to help you build the most effective team.",
+  "heading": "Enigma of Sepia Tier List",
+  "introText": "Discover the latest Enigma of Sepia character rankings for February 2025. Our comprehensive tier list categorizes characters from S Tier to C Tier, providing detailed insights into each character's strengths and abilities to help you build the most effective team.",
+  "datePublished": "2025-02-16",
+  "dateModified": "2025-02-16",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Chronis",
+          "itemDescription": "A powerful character from the Zenith Guild, known for inflicting significant magical damage and applying the \"Time Stop\" effect, which clears the target's rage and prevents rage accumulation"
+        },
+        {
+          "itemName": "Satoria",
+          "itemDescription": "Hailing from the Mastery Guild, Satoria deals area-of-effect magical damage and reduces enemy speed with her \"Azure\" effect"
+        },
+        {
+          "itemName": "Sanguina",
+          "itemDescription": "A top-tier character recognized for her formidable abilities in various combat situations"
+        },
+        {
+          "itemName": "Yukari",
+          "itemDescription": "A healer from the Mastery Guild, providing area-of-effect damage, counterattacks, healing, and damage resistance, making her a versatile asset in any team"
+        },
+        {
+          "itemName": "Sepia",
+          "itemDescription": "A legendary figure from the Legend Guild, known for her exceptional skills and leadership in combat"
+        },
+        {
+          "itemName": "Eclipsea",
+          "itemDescription": "A prominent member of the Mastery Guild, known for her powerful skills and contributions in battles"
+        },
+        {
+          "itemName": "Erenor",
+          "itemDescription": "A distinguished character from the Swords faction, recognized for her combat prowess"
+        },
+        {
+          "itemName": "Celestia",
+          "itemDescription": "Another key member of the Swords faction, valued for her strong abilities in combat scenarios"
+        },
+        {
+          "itemName": "Morgana",
+          "itemDescription": "A notable character from the Swords faction, appreciated for her effectiveness in battles"
+        },
+        {
+          "itemName": "Vespera",
+          "itemDescription": "A UR-grade member of the Zenith Guild, recognized for her exceptional abilities in combat"
+        },
+        {
+          "itemName": "Sandra",
+          "itemDescription": "A top-tier character from the Zenith Guild, valued for her strong performance in battles"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Carmilla",
+          "itemDescription": "A strong contender from the Zenith Guild, offering reliable performance in battles"
+        },
+        {
+          "itemName": "Lumina",
+          "itemDescription": "A member of the Mastery Guild, known for her good abilities and support in combat"
+        },
+        {
+          "itemName": "Giselle",
+          "itemDescription": "Part of the Mastery Guild, Giselle provides decent support and damage in various scenarios"
+        },
+        {
+          "itemName": "Denise",
+          "itemDescription": "A character from the Swords faction, recognized for her balanced skills and contributions in battles"
+        },
+        {
+          "itemName": "Nora Zorana",
+          "itemDescription": "Hailing from the Swords faction, Nora offers good performance and versatility in combat"
+        },
+        {
+          "itemName": "Ginara",
+          "itemDescription": "A member of the Swords faction, known for her solid abilities and support in various situations"
+        },
+        {
+          "itemName": "Caelestis",
+          "itemDescription": "Part of the Swords faction, Caelestis provides reliable performance and contributes effectively in battles"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Nova",
+          "itemDescription": "A character offering decent abilities and support in various combat scenarios"
+        },
+        {
+          "itemName": "Little Sai",
+          "itemDescription": "Known for her balanced skills, providing moderate support and damage"
+        },
+        {
+          "itemName": "Yurina",
+          "itemDescription": "Offers decent performance with a balance of offensive and defensive capabilities"
+        },
+        {
+          "itemName": "Crimson",
+          "itemDescription": "A member of the Zenith Guild, providing decent support and damage in battles"
+        },
+        {
+          "itemName": "Bipolaris",
+          "itemDescription": "Part of the Zenith Guild, known for her balanced abilities and contributions in combat"
+        },
+        {
+          "itemName": "Ivy Lynn",
+          "itemDescription": "Offers decent performance with a focus on support roles"
+        },
+        {
+          "itemName": "Mentora",
+          "itemDescription": "A member of the Zenith Guild, providing balanced support and damage in various scenarios"
+        },
+        {
+          "itemName": "Scientia",
+          "itemDescription": "Part of the Mastery Guild, known for her decent abilities and support in battles"
+        },
+        {
+          "itemName": "Sylphyra",
+          "itemDescription": "Offers balanced performance with a mix of offensive and defensive skills"
+        },
+        {
+          "itemName": "Royelle",
+          "itemDescription": "Provides decent support and contributes effectively in various combat situations"
+        },
+        {
+          "itemName": "Naldra",
+          "itemDescription": "Known for her balanced abilities, offering moderate support and damage"
+        },
+        {
+          "itemName": "Little Rasi",
+          "itemDescription": "Offers decent performance with a focus on support roles"
+        },
+        {
+          "itemName": "Sylvia",
+          "itemDescription": "Provides balanced support and contributes effectively in battles"
+        },
+        {
+          "itemName": "Eldwyn",
+          "itemDescription": "Known for her decent abilities, offering moderate support and damage"
+        },
+        {
+          "itemName": "Lena Frost",
+          "itemDescription": "Offers balanced performance with a mix of offensive and defensive skills"
+        },
+        {
+          "itemName": "Aqua Sera",
+          "itemDescription": "Provides decent support and contributes effectively in various combat situations"
+        },
+        {
+          "itemName": "Levia",
+          "itemDescription": "Known for her balanced abilities, offering moderate support and damage"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Elysia",
+          "itemDescription": "A character with limited effectiveness in higher-level content, suitable for early stages"
+        },
+        {
+          "itemName": "Alfyria",
+          "itemDescription": "Offers basic abilities, primarily useful in the initial phases of the game"
+        },
+        {
+          "itemName": "Cheshire",
+          "itemDescription": "Provides minimal impact in advanced battles, best used during early progression"
+        },
+        {
+          "itemName": "Eliza Thorn",
+          "itemDescription": "A character with limited utility in higher-level content, suitable for early stages"
+        },
+        {
+          "itemName": "Dr. Lorena",
+          "itemDescription": "Offers basic support abilities, primarily useful in the initial phases of the game"
+        },
+        {
+          "itemName": "Ayame",
+          "itemDescription": "Provides minimal impact in advanced battles, best used during early progression"
+        },
+        {
+          "itemName": "Aurora",
+          "itemDescription": "A character with limited effectiveness in higher-level content, suitable for early stages"
+        },
+        {
+          "itemName": "Lyra",
+          "itemDescription": "Offers basic abilities, primarily useful in the initial phases of the game"
+        },
+        {
+          "itemName": "Mirage",
+          "itemDescription": "Provides minimal impact in advanced battles, best used during early progression"
+        }
+      ]
+    }
+  ]
+}

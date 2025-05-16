@@ -1,0 +1,74 @@
+{
+	"fileName": "baldur-gate-3-class.json",
+	"title": "Baldur's Gate 3 Class Tier List",
+	"description": "This tier list ranks the classes in Baldur's Gate 3 from best to worst, taking into account their overall effectiveness in combat, utility, and versatility.",
+	"heading": "Baldur's Gate 3 Class Tier List",
+	"introText": "This tier list ranks the classes in Baldur's Gate 3 from best to worst, taking into account their overall effectiveness in combat, utility, and versatility.",
+	"datePublished": "2024-05-19",
+	"dateModified": "2024-05-19",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Paladin",
+					"itemDescription": "Paladins are one of the most powerful classes in the game, thanks to their high damage output, excellent durability, and strong support abilities. They are also proficient in Persuasion, making them valuable members of any party"
+				},
+				{
+					"itemName": "Cleric",
+					"itemDescription": "Clerics are another versatile class that can excel in both combat and healing. They have a wide range of spells that can be used to buff allies, debuff enemies, and control the battlefield"
+				},
+				{
+					"itemName": "Fighter",
+					"itemDescription": "Fighters are the ultimate damage dealers in the game. They have a large pool of hit points and can wield a variety of weapons, making them a force to be reckoned with in melee combat"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Sorcerer",
+					"itemDescription": "Sorcerers are powerful spellcasters with access to a variety of destructive spells. They are also very versatile, as they can learn spells from other classes"
+				},
+				{
+					"itemName": "Monk",
+					"itemDescription": "Monks are fast, agile, and deadly in close quarters combat. They also have a number of ki abilities that can be used to stun enemies, dodge attacks, and teleport around the battlefield"
+				},
+				{
+					"itemName": "Ranger",
+					"itemDescription": "Rangers are skilled archers and trackers who are also proficient in melee combat. They are a good choice for players who want a versatile character that can excel in a variety of situations"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Bard",
+					"itemDescription": "Bards are jack-of-all-trades, capable of combat, spellcasting, and support. However, they are not as specialized as some of the other classes, so they may not excel in any one area"
+				},
+				{
+					"itemName": "Rogue",
+					"itemDescription": "Rogues are experts in stealth and trickery. They can deal high damage with sneak attacks, and they are also skilled at disarming traps and picking locks"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Warlock",
+					"itemDescription": "Warlocks are powerful spellcasters, but they come at a price. They must make a pact with a powerful otherworldly being, which can give them access to incredible power but also comes with a number of risks"
+				},
+				{
+					"itemName": "Druid",
+					"itemDescription": "Druids are versatile spellcasters who can transform into animals and summon powerful allies. However, their spells tend to be less powerful than those of other spellcasters"
+				}
+			]
+		}
+	]
+}

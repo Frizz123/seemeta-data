@@ -1,0 +1,82 @@
+{
+	"fileName": "lethal-league-blaze.json",
+	"title": "Lethal League Blaze Tier List",
+	"description": "This is a tier list for the characters in the game Lethal League Blaze. The list is based on the opinions of the top Lethal League Blaze players and is intended to help players choose which characters to play. The characters are ranked from S Tier (the best) to C Tier (the worst).",
+	"heading": "Lethal League Blaze Tier List",
+	"introText": "This is a tier list for the characters in the game Lethal League Blaze. The list is based on the opinions of the top Lethal League Blaze players and is intended to help players choose which characters to play. The characters are ranked from S Tier (the best) to C Tier (the worst).",
+	"datePublished": "2024-07-07",
+	"dateModified": "2024-07-07",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Candyman",
+					"itemDescription": "Candyman is one of the most well-rounded characters in the game. He has a great mix of speed, power, and utility. His hook can be used to grab opponents and pull them towards him, which can be used to set up easy kills. His candy can also be used to reflect projectiles and create platforms"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Switch",
+					"itemDescription": "Switch is a very versatile character who can be played in a variety of ways. He has a great neutral game with his boomerang and can also be very effective at edgeguarding. His special move allows him to switch places with the ball, which can be used to create some very mind-games"
+				},
+				{
+					"itemName": "Sonata",
+					"itemDescription": "Sonata is a very fast character who can be difficult to keep up with. She has a great approach game with her daggers and can also be very effective at combos. Her special move allows her to teleport a short distance, which can be used to get out of trouble or to surprise opponents"
+				},
+				{
+					"itemName": "Raptor",
+					"itemDescription": "Raptor is a very powerful character who can deal a lot of damage in a short amount of time. He has a great combo game with his claws and can also be very effective at edgeguarding. His special move allows him to charge forward with a powerful attack, which can be used to kill opponents off the edge"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Doombox",
+					"itemDescription": "Doombox is a very unique character who can control the ball with his speakers. He can use this to set up easy kills and to control the space around him. However, he is a very slow character and can be easily punished if he is not careful"
+				},
+				{
+					"itemName": "Grid",
+					"itemDescription": "Grid is a very defensive character who is difficult to kill. He has a great neutral game with his lasers and can also be very effective at edgeguarding. However, he can be a bit boring to play and can struggle to open up his opponents"
+				},
+				{
+					"itemName": "Dice",
+					"itemDescription": "Dice is a very risky character who can be very rewarding if played correctly. He has a great combo game with his dice and can also be very effective at edgeguarding. However, he is a very glass cannon and can be easily killed if he is not careful"
+				},
+				{
+					"itemName": "Nitro",
+					"itemDescription": "Nitro is a very fast character who can be difficult to keep up with. He has a great approach game with his bombs and can also be very effective at combos. However, he is a very self-destructive character and can easily kill himself if he is not careful"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Toxic",
+					"itemDescription": "Toxic is a very slow character who can be easily punished if he is not careful. He has a decent neutral game with his gas and can also be effective at edgeguarding. However, he struggles to open up his opponents and can be easily outplayed"
+				},
+				{
+					"itemName": "Jet",
+					"itemDescription": "Jet is a very unique character who can fly around the stage. He has a decent neutral game with his jetpack and can also be effective at edgeguarding. However, he is a very difficult character to learn and can be easily punished if he is not careful"
+				},
+				{
+					"itemName": "Dust",
+					"itemDescription": "Dust is a very defensive character who is difficult to kill. He has a decent neutral game with his sand and can also be effective at edgeguarding. However, he can be a bit boring to play and can struggle to open up his opponents"
+				},
+				{
+					"itemName": "Latch",
+					"itemDescription": "Latch is a very risky character who can be very rewarding if played correctly. He has a great combo game with his hookshot and can also be effective at edgeguarding. However, he is a very glass cannon and can be easily killed if he is not careful"
+				}
+			]
+		}
+	]
+}

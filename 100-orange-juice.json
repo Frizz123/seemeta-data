@@ -1,0 +1,114 @@
+{
+	"fileName": "100-orange-juice.json",
+	"title": "100% Orange Juice Tier List",
+	"description": "This is a tier list for the characters in the game 100% Orange Juice. The characters are ranked from S Tier to С Tier, with S Tier being the best and С Tier being the worst.",
+	"heading": "100% Orange Juice Tier List",
+	"introText": "This is a tier list for the characters in the game 100% Orange Juice. The characters are ranked from S Tier to С Tier, with S Tier being the best and С Tier being the worst.",
+	"datePublished": "2024-05-17",
+	"dateModified": "2025-01-13",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Marc",
+					"itemDescription": "Good combat stats. Can KO most of the cast with her hyper in late game. Hyper can earn Wins indirectly"
+				},
+				{
+					"itemName": "Sham",
+					"itemDescription": "Powerful Hyper. Above average defensive stat line"
+				},
+				{
+					"itemName": "Sora",
+					"itemDescription": "Good blend of offense and defense stats. Strong Hyper that enables guaranteed high rolls"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Kyousuke",
+					"itemDescription": "Great survivability. Powerful Hyper that can enable KO'ing players in order to gain stars. Strong stats both with and without Cast Off"
+				},
+				{
+					"itemName": "Marie Poppo",
+					"itemDescription": "Very high HP makes her deceptively bulky. Excellent Hyper that can easily turn the tide of a match"
+				},
+				{
+					"itemName": "Marie Poppo (Mixed)",
+					"itemDescription": "Very high HP makes her deceptively bulky. Great benefits from Reverse Attribute Field. Has an easy escape option available in form of her hyper"
+				},
+				{
+					"itemName": "Sherry",
+					"itemDescription": "Very strong base stats. Can always use defensive battle cards, as a result of passive ability. Not Hyper reliant"
+				},
+				{
+					"itemName": "Sora (Military)",
+					"itemDescription": "Good blend of offense and defense stats. Strong Hyper that enables guaranteed high rolls and is dual-purpose. Passive enables the player to keep on pursuing a target"
+				},
+				{
+					"itemName": "Yuki",
+					"itemDescription": "One of the best ATK stats in game. Hyper can be used to self KO, preventing star loss. Hyper effect will always KO regardless of HP or card effect. Good HP and REC stat for combat"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Kai",
+					"itemDescription": "Great statline"
+				},
+				{
+					"itemName": "Peat",
+					"itemDescription": "Good combat stats. Powerful Hyper. Quick revives from low REC stat"
+				},
+				{
+					"itemName": "QP",
+					"itemDescription": "Powerful and diverse Hyper. Decent overall defensive stats"
+				},
+				{
+					"itemName": "QP (Dangerous)",
+					"itemDescription": "Her passive gives her great stat flexibility, allowing her to fit any playstyle. Her Hyper allows her to get \"pudding\" cards in her hand quickly to activate her passive"
+				},
+				{
+					"itemName": "Sweet Breaker",
+					"itemDescription": "Balanced stats and high HP. Strong and disruptive Hyper, which can be used to gather intelligence, confuse opponents, and bolster her stats. Hyper's effect only directly benefits herself. Strong late-game presence. Though not specialized, she is very versatile and works with a variety of card builds"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Hime",
+					"itemDescription": "Higher HP than her counterparts. Disruptive hyper can delay opponent victory. Very low Hyper card costs"
+				},
+				{
+					"itemName": "Fernet",
+					"itemDescription": "Excellent survivability. Can disrupt combat-oriented opponents. Plays at her own pace (Passive playstyle)"
+				},
+				{
+					"itemName": "Kae",
+					"itemDescription": "Very powerful Hyper if used properly. Capable of acquiring a high ATK stat with common low level battle cards. 2 ATK if she attacks first. 4 REC allows her to revive very quickly"
+				},
+				{
+					"itemName": "Kyoko",
+					"itemDescription": "Highest DEF stat in the game. Hyper allows her to KO herself and keep her stars. Hyper allows her to negate Drop panels and traps"
+				},
+				{
+					"itemName": "Suguri",
+					"itemDescription": "Positive ATK and very high EVD. Hyper is good at securing KOs and also has great utility"
+				},
+				{
+					"itemName": "Star Breaker",
+					"itemDescription": "One of the best ATK stats in game. Passive enables the use of expensive/powerful cards. Less stat drawbacks than most bullies. Hyper can create chaos among other players"
+				}
+			]
+		}
+	]
+}

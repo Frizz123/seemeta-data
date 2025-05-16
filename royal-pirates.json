@@ -1,0 +1,82 @@
+{
+    "fileName": "royal-pirates.json",
+    "title": "Royal Pirates Tier List",
+    "description": "This tier list ranks the Royal Pirates characters based on their overall strength and usefulness. The list is divided into tiers, with S Tier being the highest and C Tier being the lowest.",
+    "heading": "Royal Pirates Tier List",
+    "introText": "This tier list ranks the Royal Pirates characters based on their overall strength and usefulness. The list is divided into tiers, with S Tier being the highest and C Tier being the lowest. The factors considered when creating this tier list include character stats, special abilities, and team synergy. Please note that this tier list is based on my own opinion and experience. Your mileage may vary.",
+    "datePublished": "2024-05-13",
+    "dateModified": "2024-05-13",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Blackbeard",
+                    "itemDescription": "The most powerful character in the game, Blackbeard is a must-have for any team. He has high attack, defense, and health, and his special ability can deal massive damage to all enemies"
+                },
+                {
+                    "itemName": "Anne Bonny",
+                    "itemDescription": "Another top-tier character, Anne Bonny is a powerful attacker with a unique ability that allows her to ignore the defense of her enemies"
+                },
+                {
+                    "itemName": "Calico Jack",
+                    "itemDescription": "A versatile character that can be used as both an attacker and a defender, Calico Jack is a valuable asset to any team"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Bartholomew Roberts",
+                    "itemDescription": "A strong attacker with a good special ability, Bartholomew Roberts is a solid choice for any team"
+                },
+                {
+                    "itemName": "Edward Teach",
+                    "itemDescription": "A more balanced character than Blackbeard, Edward Teach is still a powerful force to be reckoned with"
+                },
+                {
+                    "itemName": "Mary Read",
+                    "itemDescription": "A great support character with a healing ability that can keep your team alive, Mary Read is a valuable asset to any team"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Charles Vane",
+                    "itemDescription": "A decent attacker with a unique ability that allows him to poison his enemies, Charles Vane is a solid choice for mid-game teams"
+                },
+                {
+                    "itemName": "Benjamin Hornigold",
+                    "itemDescription": "A good support character with a buffing ability that can increase the attack of your team, Benjamin Hornigold is a valuable asset to any team"
+                },
+                {
+                    "itemName": "Edward Low",
+                    "itemDescription": "A decent attacker with a good special ability, Edward Low is a solid choice for mid-game teams"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Major Stede Bonnet",
+                    "itemDescription": "A weak attacker with a poor special ability, Major Stede Bonnet is not recommended for most teams"
+                },
+                {
+                    "itemName": "Jack Rackham",
+                    "itemDescription": "A decent support character with a healing ability, Jack Rackham is outclassed by Mary Read"
+                },
+                {
+                    "itemName": "Woodes Rogers",
+                    "itemDescription": "A weak attacker with a poor special ability, Woodes Rogers is not recommended for most teams"
+                }
+            ]
+        }
+    ]
+}

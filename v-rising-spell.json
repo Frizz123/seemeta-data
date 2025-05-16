@@ -1,0 +1,82 @@
+{
+    "fileName": "v-rising-spell.json",
+    "title": "V Rising Spell Tier List",
+    "description": "Master the arcane arts and dominate the world of V Rising with this comprehensive spell tier list.",
+    "heading": "V Rising Spell Tier List",
+    "introText": "V Rising offers a diverse range of spells for players to utilize, categorized into various schools of magic: Blood, Chaos, Unholy, Illusion, and Frost. With such a vast assortment of abilities, it can be challenging to determine which ones are the most effective. This tier list will provide a comprehensive overview of V Rising's spells, ranking them from S Tier to C Tier based on their overall usefulness and impact in various gameplay scenarios.",
+    "datePublished": "2024-05-09",
+    "dateModified": "2024-05-09",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Sanguine Coil (Blood)",
+                    "itemDescription": "Sanguine Coil stands as a top-tier spell due to its exceptional damage output, healing capabilities, and crowd control potential. It unleashes a wave of blood projectiles that inflict significant damage to enemies while simultaneously healing allies and the caster"
+                },
+                {
+                    "itemName": "Chaos Volley (Chaos)",
+                    "itemDescription": "Chaos Volley reigns supreme as an offensive spell, unleashing a barrage of chaotic energy bolts that rain down upon foes, causing substantial damage and knocking them back. Its high damage output and area-of-effect make it ideal for clearing groups of enemies"
+                },
+                {
+                    "itemName": "Raise Dead (Unholy)",
+                    "itemDescription": "Raise Dead proves to be an invaluable utility spell, resurrecting fallen allies to aid in battle. This ability can turn the tide of combat, especially in boss encounters or when outnumbered"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Frost Ward (Frost)",
+                    "itemDescription": "Frost Ward provides exceptional defensive utility, creating a protective barrier that absorbs a significant amount of damage and slows approaching enemies. It's particularly effective against bosses and large groups of foes"
+                },
+                {
+                    "itemName": "Veil of Illusion (Illusion)",
+                    "itemDescription": "Veil of Illusion offers a powerful escape mechanism, rendering the caster temporarily invisible and granting increased movement speed. This ability proves crucial for evading attacks, repositioning, or escaping dangerous situations"
+                },
+                {
+                    "itemName": "Crimson Aegis (Blood)",
+                    "itemDescription": "Crimson Aegis serves as a formidable defensive spell, granting a temporary shield that absorbs a substantial amount of damage. It's particularly useful for mitigating burst damage or surviving enemy onslaught"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Shadow Veil (Illusion)",
+                    "itemDescription": "Shadow Veil provides a decent crowd control effect, slowing enemies and reducing their damage output. While not as potent as other crowd control spells, it can still be effective in certain situations"
+                },
+                {
+                    "itemName": "Will-o-the-Wisp (Chaos)",
+                    "itemDescription": "Will-o-the-Wisp offers a unique utility spell, creating an illusionary orb that distracts enemies and draws their attention. It can be used to manipulate enemy behavior or create openings for attacks"
+                },
+                {
+                    "itemName": "Blood Snare (Blood)",
+                    "itemDescription": "Blood Snare provides a decent crowd control effect, rooting enemies in place and slowing their movement speed. It's particularly useful for controlling groups of enemies or preventing them from escaping"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Phase Shift (Frost)",
+                    "itemDescription": "Phase Shift offers a situational mobility spell, allowing the caster to phase through walls and obstacles. While it can be useful for traversing certain areas, its limited range and cooldown make it less versatile compared to other mobility options"
+                },
+                {
+                    "itemName": "Moonglow (Frost)",
+                    "itemDescription": "Moonglow provides a temporary damage boost and movement speed increase. However, the self-inflicted frostbite debuff can be detrimental, especially in situations where healing is limited"
+                },
+                {
+                    "itemName": "Verdant Corruption (Unholy)",
+                    "itemDescription": "Verdant Corruption offers a niche area-of-effect damage and healing spell. While it can be effective in specific situations, its overall impact is somewhat limited compared to other spells"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+	"fileName": "realm-of-gods.json",
+	"title": "Realm of Gods Tier List",
+	"description": "Discover the definitive tier list for Realm of Gods characters, ranked from S Tier to C Tier. Find out which divine beings reign supreme in the pantheon and which ones need divine intervention.",
+	"heading": "Realm of Gods Tier List",
+	"introText": "Discover the definitive tier list for Realm of Gods characters, ranked from S Tier to C Tier. Find out which divine beings reign supreme in the pantheon and which ones need divine intervention.",
+	"datePublished": "2024-07-22",
+	"dateModified": "2024-07-22",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Zeus",
+					"itemDescription": "The king of the gods, with unmatched control over lightning and sky, making him a formidable opponent"
+				},
+				{
+					"itemName": "Odin",
+					"itemDescription": "The all-father who possesses immense wisdom and magical prowess, excelling in both offense and defense"
+				},
+				{
+					"itemName": "Ra",
+					"itemDescription": "The sun god, whose power and influence are unparalleled, providing extraordinary support and damage"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Hera",
+					"itemDescription": "Queen of the gods, with powerful abilities that can turn the tide of battle"
+				},
+				{
+					"itemName": "Thor",
+					"itemDescription": "God of thunder, known for his brute strength and combat skills"
+				},
+				{
+					"itemName": "Athena",
+					"itemDescription": "Goddess of wisdom and war, offering strategic advantages and solid performance in battle"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Hades",
+					"itemDescription": "God of the underworld, with strong defensive capabilities and situational power"
+				},
+				{
+					"itemName": "Aphrodite",
+					"itemDescription": "Goddess of love, providing good support and healing abilities"
+				},
+				{
+					"itemName": "Poseidon",
+					"itemDescription": "God of the sea, with strong area-of-effect attacks but limited in versatility"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Dionysus",
+					"itemDescription": "God of wine, with abilities that are more situational and less impactful"
+				},
+				{
+					"itemName": "Hermes",
+					"itemDescription": "Messenger of the gods, fast and agile but lacking in significant offensive or defensive capabilities"
+				},
+				{
+					"itemName": "Hephaestus",
+					"itemDescription": "God of fire and forge, with crafting skills but limited combat effectiveness"
+				}
+			]
+		}
+	]
+}

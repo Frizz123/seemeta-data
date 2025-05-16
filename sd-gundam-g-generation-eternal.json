@@ -1,0 +1,90 @@
+{
+  "fileName": "sd-gundam-g-generation-eternal.json",
+  "title": "SD Gundam G Generation ETERNAL Tier List",
+  "description": "",
+  "heading": "SD Gundam G Generation ETERNAL Tier List",
+  "introText": "",
+  "datePublished": "2025-04-16",
+  "dateModified": "2025-04-16",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Sazabi (EX)",
+          "itemDescription": "A UR Attacker known for ignoring defense and possessing fast movement. Best paired with Char Aznable (EX) for critical hits and evasion"
+        },
+        {
+          "itemName": "Gundam Exia (EX)",
+          "itemDescription": "A UR Attacker featuring high-speed melee attacks and critical hits. Optimal with Setsuna F. Seiei, enhancing attack speed and Trans-Am boosts"
+        },
+        {
+          "itemName": "Phoenix Gundam",
+          "itemDescription": "A UR Supporter that debuffs enemies and heals allies. Amuro Ray (EX) is the ideal pilot, providing barriers and additional support"
+        },
+        {
+          "itemName": "Zeta Gundam",
+          "itemDescription": "A UR Supporter that buffs team attack and offers long-range capabilities. Best utilized with Kamille Bidan for morale boosts and extended range"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Prototype Kampfer",
+          "itemDescription": "An SSR Attacker delivering burst damage at short range. Edward Haro enhances mobility"
+        },
+        {
+          "itemName": "Gundam (EX)",
+          "itemDescription": "A UR Defender boasting high HP and damage absorption. Amuro Ray (non-EX) maintains shield uptime"
+        },
+        {
+          "itemName": "Zaku II FZ",
+          "itemDescription": "An SSR Defender serving as a budget tank, effective in early-game scenarios. Bernie Wiseman increases counterattack chances"
+        },
+        {
+          "itemName": "Psycho Gundam",
+          "itemDescription": "An SSR Defender with area-of-effect attacks and substantial bulk, albeit slow. Four Murasame boosts AoE capabilities"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Nu Gundam",
+          "itemDescription": "An SSR Supporter providing solid buffs and favored for its lore significance. Paired with standard Amuro Ray"
+        },
+        {
+          "itemName": "Wing Gundam",
+          "itemDescription": "An SSR Attacker with balanced stats, useful in early-game stages. Heero Yuy enhances precision"
+        },
+        {
+          "itemName": "GM Sniper II",
+          "itemDescription": "An SR Attacker offering long-range attacks as a budget-friendly choice. Shiro Amada improves accuracy"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Tragos",
+          "itemDescription": "An R Defender serving as a basic tank with low scalability. Suitable for any R-rank pilot"
+        },
+        {
+          "itemName": "GM Early Type",
+          "itemDescription": "An R Attacker characterized by slow speed and weak damage. Utilizes a starter pilot"
+        },
+        {
+          "itemName": "AEU Hellion",
+          "itemDescription": "An R Supporter offering minimal support capabilities. Assigned to a generic AEU pilot"
+        }
+      ]
+    }
+  ]
+}

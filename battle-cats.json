@@ -1,0 +1,98 @@
+{
+	"fileName": "battle-cats.json",
+	"title": "Battle Cats Tier List",
+	"description": "This is the ultimate Battle Cats tier list. It includes the best cats in every rarity, from S Tier to C Tier. Whether you're a beginner or a pro, this tier list will help you choose the right cats for your needs.",
+	"heading": "Battle Cats Tier List",
+	"introText": "This is the ultimate Battle Cats tier list. It includes the best cats in every rarity, from S Tier to C Tier. Whether you're a beginner or a pro, this tier list will help you choose the right cats for your needs.",
+	"datePublished": "2024-05-31",
+	"dateModified": "2024-05-31",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Mitama",
+					"itemDescription": "Mitama is a powerful anti-alien Uber that can deal massive damage to all Alien enemies. She is also immune to Alien shockwaves, making her a valuable asset in any Alien stage"
+				},
+				{
+					"itemName": "Jizo",
+					"itemDescription": "Jizo is a spammable anti-red Uber that can quickly overwhelm red enemies. He is also very cheap, making him a great choice for early game and midgame players"
+				},
+				{
+					"itemName": "Gabriel",
+					"itemDescription": "Gabriel is a powerful anti-angel Uber that can deal massive damage to all Angel enemies. He is also immune to Angel shockwaves, making him a valuable asset in any Angel stage"
+				},
+				{
+					"itemName": "Amaterasu",
+					"itemDescription": "Amaterasu is a powerful anti-traitless Uber that can deal massive damage to all traitless enemies. She is also immune to traitless shockwaves, making her a valuable asset in any traitless stage"
+				},
+				{
+					"itemName": "Zeus",
+					"itemDescription": "Zeus is a powerful anti-floating Uber that can deal massive damage to all floating enemies. He is also immune to floating shockwaves, making him a valuable asset in any floating stage"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Ururun",
+					"itemDescription": "Ururun is a powerful anti-black Uber that can deal massive damage to all black enemies. She is also immune to black shockwaves, making her a valuable asset in any black stage"
+				},
+				{
+					"itemName": "Hades",
+					"itemDescription": "Hades is a powerful anti-metal Uber that can deal massive damage to all metal enemies. He is also immune to metal shockwaves, making him a valuable asset in any metal stage"
+				},
+				{
+					"itemName": "Poseidon",
+					"itemDescription": "Poseidon is a powerful anti-zombie Uber that can deal massive damage to all zombie enemies. He is also immune to zombie shockwaves, making him a valuable asset in any zombie stage"
+				},
+				{
+					"itemName": "Shishiguma",
+					"itemDescription": "Shishiguma is a powerful anti-red Uber that can deal massive damage to all red enemies. He is also immune to red shockwaves, making him a valuable asset in any red stage"
+				},
+				{
+					"itemName": "Kintaro",
+					"itemDescription": "Kintaro is a powerful anti-alien Uber that can deal massive damage to all Alien enemies. He is also immune to Alien shockwaves, making him a valuable asset in any Alien stage"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Cupid",
+					"itemDescription": "Cupid is a powerful anti-red Uber that can deal massive damage to all red enemies. He is also immune to red shockwaves, making him a valuable asset in any red stage"
+				},
+				{
+					"itemName": "Balrog",
+					"itemDescription": "Balrog is a powerful anti-black Uber that can deal massive damage to all black enemies. He is also immune to black shockwaves, making him a valuable asset in any black stage"
+				},
+				{
+					"itemName": "Zeus",
+					"itemDescription": "Zeus is a powerful anti-floating Uber that can deal massive damage to all floating enemies. He is also immune to floating shockwaves, making him a valuable asset in any floating stage"
+				},
+				{
+					"itemName": "Amaterasu",
+					"itemDescription": "Amaterasu is a powerful anti-traitless Uber that can deal massive damage to all traitless enemies. She is also immune to traitless shockwaves, making her a valuable asset in any traitless stage"
+				},
+				{
+					"itemName": "Gabriel",
+					"itemDescription": "Gabriel is a powerful anti-angel Uber that can deal massive damage to all Angel enemies. He is also immune to Angel shockwaves, making him a valuable asset in any Angel stage"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Cat God",
+					"itemDescription": "Cat God is the weakest Uber in the game. He has low stats and a weak ability. He should not be used under any circumstances"
+				}
+			]
+		}
+	]
+}

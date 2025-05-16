@@ -1,0 +1,99 @@
+{
+	"fileName": "king-legacy-fruit.json",
+	"title": "King Legacy Fruit Tier List",
+	"description": "This tier list is based on the opinions of experienced King Legacy players and may not reflect everyone's views. It is also important to remember that the best fruit for you will depend on your playstyle and preferences.",
+	"heading": "King Legacy Fruit Tier List",
+	"introText": "This tier list is based on the opinions of experienced King Legacy players and may not reflect everyone's views. It is also important to remember that the best fruit for you will depend on your playstyle and preferences.",
+	"datePublished": "2024-05-18",
+	"dateModified": "2024-05-18",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Buddha",
+					"itemDescription": "The Buddha fruit is one of the most popular fruits in King Legacy for a reason. It has high HP, defense, and regeneration, making it very tanky. The Buddha fruit also has a number of powerful moves, including a stun, a knockback, and a large AoE attack."
+				},
+				{
+					"itemName": "Venom",
+					"itemDescription": "The Venom fruit is another very popular fruit for PvP. It has a long range and a number of powerful poison-based attacks. The Venom fruit is also very effective at crowd control, as its poison can damage multiple enemies at once."
+				},
+				{
+					"itemName": "Leopard",
+					"itemDescription": "The Leopard fruit is a great all-around fruit that is good for both PvP and PvE. It has high damage, mobility, and stun capabilities. The Leopard fruit is also one of the few fruits that can be used to dodge attacks."
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Quake",
+					"itemDescription": "The Quake fruit is a powerful AoE fruit that is great for both PvP and PvE. It has a number of moves that can deal damage to multiple enemies at once, and it can also be used to stun and knockback enemies."
+				},
+				{
+					"itemName": "Rumble",
+					"itemDescription": "The Rumble fruit is a lightning-based fruit that is great for both PvP and PvE. It has a long range and a number of powerful attacks that can deal high damage. The Rumble fruit is also very effective at crowd control, as its lightning can stun and knockback enemies."
+				},
+				{
+					"itemName": "Flame",
+					"itemDescription": "The Flame fruit is a fire-based fruit that is great for both PvP and PvE. It has a long range and a number of powerful attacks that can deal high damage. The Flame fruit is also very effective at crowd control, as its fire can burn and stun enemies."
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Phoenix",
+					"itemDescription": "The Phoenix fruit is a great fruit for PvE, but it is not as good for PvP. It has high HP and regeneration, and it can also revive itself after death. However, the Phoenix fruit's moves are slow and easy to dodge."
+				},
+				{
+					"itemName": "Dough",
+					"itemDescription": "The Dough fruit is a versatile fruit that can be used for both PvP and PvE. It has a number of moves that can be used to trap and control enemies, and it can also deal decent damage. However, the Dough fruit is not as powerful as some of the other fruits on this list."
+				},
+				{
+					"itemName": "Ice",
+					"itemDescription": "The Ice fruit is a great fruit for crowd control, but it is not as good for dealing damage. It has a number of moves that can freeze and slow enemies, but its damage output is relatively low."
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Sand",
+					"itemDescription": "The Sand fruit is a decent fruit for PvE, but it is not as good for PvP. It has a number of moves that can deal damage and knockback enemies, but it is slow and easy to dodge."
+				},
+				{
+					"itemName": "Gravity",
+					"itemDescription": "The Gravity fruit is a versatile fruit that can be used for both PvP and PvE. It has a number of moves that can pull enemies towards you and trap them in place, but its damage output is relatively low."
+				},
+				{
+					"itemName": "Dark",
+					"itemDescription": "The Dark fruit is a powerful fruit for PvP, but it is difficult to use effectively. It has a number of moves that can deal high damage and stun enemies, but it is also very short-range."
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Human",
+					"itemDescription": "The Human fruit is the weakest fruit in the game. It has no special abilities and is not good for either PvP or PvE."
+				},
+				{
+					"itemName": "Bomb",
+					"itemDescription": "The Bomb fruit is a powerful fruit for PvE, but it is not as good for PvP. It has a number of moves that can deal high damage, but it is also very self-destructive."
+				},
+				{
+					"itemName": "Paw",
+					"itemDescription": "The Paw fruit is a versatile fruit that can be used for both PvP and PvE. It has a number of moves that can be used to grab and throw enemies, but it is not as powerful as some of the other fruits on this list."
+				}
+			]
+		}
+	]
+}

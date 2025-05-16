@@ -1,0 +1,138 @@
+{
+    "fileName": "solo-leveling.json",
+    "title": "Solo Leveling Arise Tier List",
+    "description": "Conquer the world of Solo Leveling Arise with this comprehensive tier list of the game's top hunters. Learn about the strengths and weaknesses of each character to build the ultimate team and dominate the competition.",
+    "heading": "Solo Leveling Arise Tier List",
+    "introText": "Conquer the world of Solo Leveling Arise with this comprehensive tier list of the game's top hunters. Learn about the strengths and weaknesses of each character to build the ultimate team and dominate the competition.",
+    "datePublished": "2024-05-21",
+    "dateModified": "2025-03-23",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Tawata Kanae",
+                    "itemDescription": "A hunter from Japan's Blade Guild, specializing in fire-elemental attacks with swift dual-sword techniques that inflict significant damage and crowd control effects. High critical rates and excels against enemies in Break State; requires careful MP management"
+                },
+                {
+                    "itemName": "Thomas Andre",
+                    "itemDescription": "Known as \"Goliath,\" this American Hunter leads the Scavenger Guild, utilizing immense strength and brutal combat skills to dominate opponents. Versatile as both tank and support with substantial damage output; possesses decent MP sustainability"
+                },
+                {
+                    "itemName": "Sung Jinwoo",
+                    "itemDescription": "The protagonist renowned for his Shadow Monarch abilities, allowing him to control shadows and exhibit unparalleled combat prowess"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Amamiya Mirei",
+                    "itemDescription": "High damage output with self-sufficient abilities, including MP recovery and cooldown reduction"
+                },
+                {
+                    "itemName": "Go Gunhee",
+                    "itemDescription": "Multiple Break-applying skills; provides buffs enhancing team survivability and damage, especially with Light-element allies"
+                },
+                {
+                    "itemName": "Goto Ryuji",
+                    "itemDescription": "Massive DPS with high critical rates and powerful Break skills; maintains effective MP management"
+                },
+                {
+                    "itemName": "Esil Radiru",
+                    "itemDescription": "Efficient at applying Break with the right combos; strong against single targets and decent against groups; possesses good mobility"
+                },
+                {
+                    "itemName": "Han Se-Mi",
+                    "itemDescription": "Provides healing, MP recovery, and multiple Airborne effects; buffs enhance team longevity in battles"
+                },
+                {
+                    "itemName": "Isla Wright",
+                    "itemDescription": "Provides a variety of buffs and significantly reduces cooldowns for allies' Ultimate skills, especially effective with Dark-element hunters"
+                },
+                {
+                    "itemName": "Gina",
+                    "itemDescription": "Generates Mana for increased damage over prolonged battles; requires a top-tier Fire element team to reach full potential; overall DPS is lackluster"
+                },
+                {
+                    "itemName": "Yoo Soohyun",
+                    "itemDescription": "Provides consistent DPS regardless of enemy elemental weaknesses; applies defense penetration to weaken bosses; increases Fire elemental damage using Magic Reaction"
+                },
+                {
+                    "itemName": "Charlotte",
+                    "itemDescription": "Offers multiple crowd-control abilities and excels at delivering burst AoE damage"
+                },
+                {
+                    "itemName": "Harper",
+                    "itemDescription": "High damage output with multiple Break skills; offers buffs to Dark-element hunters"
+                },
+                {
+                    "itemName": "Min Byung-Gu",
+                    "itemDescription": "Premier healer with excellent support capabilities, including team buffs and enemy debuffs"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Silver Mane Baek Yoonho",
+                    "itemDescription": "Deals greater damage as HP decreases; paired with Bleed, damage increases significantly; requires careful HP management"
+                },
+                {
+                    "itemName": "Choi Jong-In",
+                    "itemDescription": "Delivers significant Fire damage at range with effective burn effects; offers valuable enemy debuffs"
+                },
+                {
+                    "itemName": "Lee Bora",
+                    "itemDescription": "Provides decent Dark damage; effective against bosses by debuffing attack and movement speed; increases damage output with Charm"
+                },
+                {
+                    "itemName": "Alicia Blanche",
+                    "itemDescription": "Top Water DPS with strong crowd control through Freeze abilities; provides team protection with her Basic Skill shield"
+                },
+                {
+                    "itemName": "Meilin Fisher",
+                    "itemDescription": "Competent healer with strong attacks when HP is high; excels in supporting the team with buffs and can remove enemy shields"
+                },
+                {
+                    "itemName": "Cha Hae-In",
+                    "itemDescription": "Exceptional damage dealer capable of preventing enemy healing; excels in rapid stage clearance"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Woo Jinchul",
+                    "itemDescription": "Free character offering great mobility and evasion; however, damage output is mediocre"
+                },
+                {
+                    "itemName": "Shimizu Akari",
+                    "itemDescription": "Well-rounded support character, more effective within a light-element team"
+                },
+                {
+                    "itemName": "Lim Tae-Gyu",
+                    "itemDescription": "Offers satisfactory Dark damage and excellent Break damage; Ultimate Skill is highly effective against bosses"
+                },
+                {
+                    "itemName": "Baek Yoonho",
+                    "itemDescription": "Strong Break capabilities with skills centered around that playstyle; tank-type with decent damage output; applies defense debuffs to enemies"
+                },
+                {
+                    "itemName": "Seo Jiwoo",
+                    "itemDescription": "Exceptional at applying Break, beneficial against bosses; offers team shields and bonus Break damage"
+                },
+                {
+                    "itemName": "Emma Laurent",
+                    "itemDescription": "Well-rounded with excellent Break and AoE damage; enhances Fire damage and defense penetration for the team"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+	"fileName": "world-of-warcraft-classic-cataclysm-dps.json",
+	"title": "World of Warcraft Classic: Cataclysm DPS Tier List",
+	"description": "This is a tier list of the best DPS classes and specs for World of Warcraft Classic: Cataclysm. The list is based on a variety of factors, including single-target damage, AoE damage, survivability, utility, and overall performance.",
+	"heading": "World of Warcraft Classic: Cataclysm DPS Tier List",
+	"introText": "This is a tier list of the best DPS classes and specs for World of Warcraft Classic: Cataclysm. The list is based on a variety of factors, including single-target damage, AoE damage, survivability, utility, and overall performance.",
+	"datePublished": "2024-05-18",
+	"dateModified": "2025-02-11",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Fire Mage",
+					"itemDescription": "Fire Mages are the kings of single-target damage in Cataclysm, with incredible burst and sustained damage. They also have excellent mobility and utility, making them a top choice for both PvE and PvP"
+				},
+				{
+					"itemName": "Shadow Priest",
+					"itemDescription": "Shadow Priests are another top-tier DPS class in Cataclysm, with strong single-target and AoE damage. They also have good self-healing and utility, making them a versatile choice for any raid or group"
+				},
+				{
+					"itemName": "Affliction Warlock",
+					"itemDescription": "Affliction Warlocks are the masters of DoT (damage over time) in Cataclysm, with the ability to spread their debuffs to multiple enemies and deal massive damage over time. They also have good survivability and utility"
+				},
+				{
+					"itemName": "Survival Hunter",
+					"itemDescription": "Survival Hunters are a unique and powerful DPS class in Cataclysm, with a focus on pet damage and utility. They are also very mobile and have excellent burst damage"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Demonology Warlock",
+					"itemDescription": "Demonology Warlocks are a strong AoE DPS class in Cataclysm, with the ability to summon powerful demons to do their bidding. They also have good survivability and utility"
+				},
+				{
+					"itemName": "Retribution Paladin",
+					"itemDescription": "Retribution Paladins are a versatile DPS class in Cataclysm, with good single-target and AoE damage. They also have excellent survivability and utility, making them a great choice for both PvE and PvP"
+				},
+				{
+					"itemName": "Balance Druid",
+					"itemDescription": "Balance Druids are a unique and powerful DPS class in Cataclysm, with the ability to switch between Moonkin (ranged magic) and Cat (melee) forms. They also have good healing and utility"
+				},
+				{
+					"itemName": "Unholy Death Knight",
+					"itemDescription": "Unholy Death Knights are a strong AoE DPS class in Cataclysm, with the ability to summon powerful ghouls to do their bidding. They also have good survivability and utility"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Arms Warrior",
+					"itemDescription": "Arms Warriors are a solid melee DPS class in Cataclysm, with good single-target and AoE damage. They also have excellent survivability and utility"
+				},
+				{
+					"itemName": "Marksmanship Hunter",
+					"itemDescription": "Marksmanship Hunters are a ranged DPS class in Cataclysm, with good single-target and AoE damage. They also have excellent mobility and utility"
+				},
+				{
+					"itemName": "Elemental Shaman",
+					"itemDescription": "Elemental Shamans are a hybrid DPS/healer class in Cataclysm, with good AoE damage and decent healing capabilities. They also have good utility"
+				},
+				{
+					"itemName": "Feral Druid",
+					"itemDescription": "Feral Druids are a melee DPS class in Cataclysm, with good single-target and AoE damage. They also have good survivability and utility"
+				},
+				{
+					"itemName": "Enhancement Shaman",
+					"itemDescription": "Enhancement Shamans are a hybrid DPS/healer class in Cataclysm, with decent single-target and AoE damage and good healing capabilities. They also have good utility"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Assassination Rogue",
+					"itemDescription": "Assassination Rogues are a melee DPS class in Cataclysm, with good single-target damage but poor AoE damage. They also have poor survivability and utility"
+				},
+				{
+					"itemName": "Subtlety Rogue",
+					"itemDescription": "Subtlety Rogues are a melee DPS class in Cataclysm, with good single-target damage but poor AoE damage. They also have poor survivability and utility"
+				},
+				{
+					"itemName": "Frost Death Knight",
+					"itemDescription": "Frost Death Knights are a melee DPS class in Cataclysm, with good single-target damage but poor AoE damage. They also have poor survivability and utility"
+				}
+			]
+		}
+	]
+}

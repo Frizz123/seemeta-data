@@ -1,0 +1,101 @@
+{
+	"fileName": "pokemon-sleep.json",
+	"title": "Pokemon Sleep Tier List",
+	"description": "This is a tier list for the mobile game Pokémon Sleep. The list is based on the overall usefulness of each Pokémon in the game. Pokémon are ranked from S Tier (the best) to B Tier (the worst). The tier list is based on my opinion and the opinions of other players. Your own tier list may vary depending on your playstyle and preferences.",
+	"heading": "Pokemon Sleep Tier List",
+	"introText": "This is a tier list for the mobile game Pokémon Sleep. The list is based on the overall usefulness of each Pokémon in the game. Pokémon are ranked from S Tier (the best) to B Tier (the worst). The tier list is based on my opinion and the opinions of other players. Your own tier list may vary depending on your playstyle and preferences.",
+	"datePublished": "2024-06-03",
+	"dateModified": "2024-06-03",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Dragonite",
+					"itemDescription": "Dragonite is the best overall Pokémon in Pokémon Sleep. It has high berry and ingredient capacity, as well as a great skill that increases the amount of Fiery Herbs you get"
+				},
+				{
+					"itemName": "Magnezone",
+					"itemDescription": "Magnezone is another great all-around Pokémon. It has high berry and ingredient capacity, and its skill increases the amount of Pure Oil you get"
+				},
+				{
+					"itemName": "Feraligatr",
+					"itemDescription": "Feraligatr is the best Pokémon for Cyan Beach. It has a high berry capacity and a skill that doubles the amount of Oran Berries you get"
+				},
+				{
+					"itemName": "Typhlosion",
+					"itemDescription": "Typhlosion is the best Pokémon for Taupe Hollow. It has a high ingredient capacity and a skill that doubles the amount of Lava Stones you get"
+				},
+				{
+					"itemName": "Walrein",
+					"itemDescription": "Walrein is the best Pokémon for Snowdrop Tundra. It has a high berry capacity and a skill that doubles the amount of Icicle Berries you get"
+				},
+				{
+					"itemName": "Meganium",
+					"itemDescription": "Meganium is the best Pokémon for Lapis Lakeside. It has a high ingredient capacity and a skill that doubles the amount of Water Bubbles you get"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Venusaur",
+					"itemDescription": "Venusaur is a great all-around Pokémon with a high berry capacity and a skill that increases the amount of Green Grass Corn you get"
+				},
+				{
+					"itemName": "Charizard",
+					"itemDescription": "Charizard is another great all-around Pokémon with a high ingredient capacity and a skill that increases the amount of Fiery Herbs you get"
+				},
+				{
+					"itemName": "Butterfree",
+					"itemDescription": "Butterfree is a good Pokémon for early game progression. It has a high sleep score and a skill that increases the amount of EXP you get"
+				},
+				{
+					"itemName": "Primeape",
+					"itemDescription": "Primeape is a good Pokémon for gathering ingredients. It has a high ingredient capacity and a skill that increases the amount of Honey you get"
+				},
+				{
+					"itemName": "Dodrio",
+					"itemDescription": "Dodrio is a good Pokémon for gathering berries. It has a high berry capacity and a skill that increases the amount of Cheri Berries you get"
+				},
+				{
+					"itemName": "Kangaskhan",
+					"itemDescription": "Kangaskhan is a good Pokémon for both gathering berries and ingredients. It has high berry and ingredient capacity, and a skill that increases the amount of Pinap Berries you get"
+				},
+				{
+					"itemName": "Ampharos",
+					"itemDescription": "Ampharos is a good Pokémon for late game progression. It has a high sleep score and a skill that increases the amount of EXP you get from other Pokémon"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Snorlax",
+					"itemDescription": "Snorlax is a good Pokémon for early game progression. It has a high sleep score and a skill that increases the amount of time you spend sleeping"
+				},
+				{
+					"itemName": "Jigglypuff",
+					"itemDescription": "Jigglypuff is another good Pokémon for early game progression. It has a high sleep score and a skill that increases the amount of coins you get"
+				},
+				{
+					"itemName": "Meowth",
+					"itemDescription": "Meowth is a good Pokémon for gathering coins. It has a skill that increases the amount of coins you get from sleeping"
+				},
+				{
+					"itemName": "Lucario",
+					"itemDescription": "Lucario is a good Pokémon for battling. It has a high attack stat and a skill that increases the amount of damage you deal"
+				},
+				{
+					"itemName": "Garchomp",
+					"itemDescription": "Garchomp is another good Pokémon for battling. It has a high speed stat and a skill that increases the chance of you getting a critical hit"
+				}
+			]
+		}
+	]
+}

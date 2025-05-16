@@ -1,0 +1,82 @@
+{
+	"fileName": "star-wars-hunters.json",
+	"title": "Star Wars Hunters Tier List",
+	"description": "Dive into the arena and learn which characters reign supreme in our Star Wars Hunters tier list. We break down the top contenders from S to C tier, ranking them based on their abilities, strengths, and overall effectiveness in combat. Whether you're a seasoned veteran or a new recruit, this guide will help you choose the right Hunters to dominate your opponents and claim victory.",
+	"heading": "Star Wars Hunters Tier List",
+	"introText": "Dive into the arena and learn which characters reign supreme in our Star Wars Hunters tier list. We break down the top contenders from S to C tier, ranking them based on their abilities, strengths, and overall effectiveness in combat. Whether you're a seasoned veteran or a new recruit, this guide will help you choose the right Hunters to dominate your opponents and claim victory.",
+	"datePublished": "2024-06-05",
+	"dateModified": "2024-06-05",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Rieve",
+					"itemDescription": "Rieve is a melee powerhouse with incredible damage output and mobility"
+				},
+				{
+					"itemName": "Sprocket",
+					"itemDescription": "Sprocket is a must-have support character with excellent healing and buffing abilities"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Zaina",
+					"itemDescription": "Zaina is a versatile support character with a variety of healing and damage-dealing abilities"
+				},
+				{
+					"itemName": "Grozz",
+					"itemDescription": "Grozz is a tanky Wookiee with great crowd control abilities"
+				},
+				{
+					"itemName": "Slingshot",
+					"itemDescription": "Slingshot is a unique tank character who rolls around in a droid, offering protection and disruption"
+				},
+				{
+					"itemName": "Zaalbar",
+					"itemDescription": "Zaalbar is a durable Imperial heavy gunner with strong offensive and defensive skills"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Jango Fett",
+					"itemDescription": "Jango Fett is a versatile ranged character with good damage output and utility"
+				},
+				{
+					"itemName": "Visas Marr",
+					"itemDescription": "Visas Marr is a Force-wielding character with a mix of offensive and defensive abilities"
+				},
+				{
+					"itemName": "Greef Karga",
+					"itemDescription": "Greef Karga is a support character who can heal and buff allies, but he is not as effective as Sprocket or Zaina"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "IG-88",
+					"itemDescription": "IG-88 is a ranged character with a focus on area damage, but he is outclassed by other ranged characters"
+				},
+				{
+					"itemName": "Bossk",
+					"itemDescription": "Bossk is a bounty hunter with a mix of ranged and melee abilities, but he is not as well-rounded as other characters"
+				},
+				{
+					"itemName": "Den",
+					"itemDescription": "Den is a support character who can heal and revive allies, but he is not as effective as Sprocket or Zaina"
+				}
+			]
+		}
+	]
+}

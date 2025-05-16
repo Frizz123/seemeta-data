@@ -1,0 +1,118 @@
+{
+	"fileName": "astd.json",
+	"title": "All Star Tower Defense (ASTD) Tier List",
+	"description": "This tier list ranks the best units in the game All Star Tower Defense (ASTD). The list is divided into S Tier, A Tier, B Tier, and C Tier. The units in S Tier are considered to be the best in the game, while the units in C Tier are considered to be the worst. The tier list is based on the opinions of several players and may vary depending on your playstyle.",
+	"heading": "All Star Tower Defense (ASTD) Tier List",
+	"introText": "This tier list ranks the best units in the game All Star Tower Defense (ASTD). The list is divided into S Tier, A Tier, B Tier, and C Tier. The units in S Tier are considered to be the best in the game, while the units in C Tier are considered to be the worst. The tier list is based on the opinions of several players and may vary depending on your playstyle.",
+	"datePublished": "2024-05-23",
+	"dateModified": "2025-04-07",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Madara (7 Star)",
+					"itemDescription": "The best unit in the game, with incredible damage and survivability"
+				},
+				{
+					"itemName": "Super Mugen (Legendary)",
+					"itemDescription": "Another top-tier unit, with high damage and a powerful area-of-effect attack"
+				},
+				{
+					"itemName": "Benimaru (7 Star)",
+					"itemDescription": "The best fire unit in the game, with high damage and a strong defense"
+				},
+				{
+					"itemName": "Trunks (7 Star)",
+					"itemDescription": "A versatile unit that can be used for both offense and defense"
+				},
+				{
+					"itemName": "Gojo (6 Star)",
+					"itemDescription": "The best time stop unit in the game, with a long-lasting time stop and high damage"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Escanor (7 Star)",
+					"itemDescription": "A powerful damage dealer with a high damage output"
+				},
+				{
+					"itemName": "Tengen (7 Star)",
+					"itemDescription": "A tanky unit with a strong defense and a support ability"
+				},
+				{
+					"itemName": "Patchi Face (6 Star)",
+					"itemDescription": "A budget option for a strong DPS unit"
+				},
+				{
+					"itemName": "Master X (6 Star)",
+					"itemDescription": "A solid all-around unit with good damage and defense"
+				},
+				{
+					"itemName": "Pulmonary (6 Star)",
+					"itemDescription": "A support unit with a powerful ability that buffs allies"
+				},
+				{
+					"itemName": "Zai (7 Star)",
+					"itemDescription": "A unique unit with an ability that cuts all enemies on the map to half health"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Gon (6 Star)",
+					"itemDescription": "A good damage dealer with a focus on single-target attacks"
+				},
+				{
+					"itemName": "Killua (6 Star)",
+					"itemDescription": "A versatile unit that can be used for both offense and support"
+				},
+				{
+					"itemName": "Meruem (6 Star)",
+					"itemDescription": "A tanky unit with a strong defense"
+				},
+				{
+					"itemName": "Boa Hancock (6 Star)",
+					"itemDescription": "A support unit with an ability that stuns enemies"
+				},
+				{
+					"itemName": "Kakashi (6 Star)",
+					"itemDescription": "A good damage dealer with a focus on area-of-effect attacks"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Naruto (6 Star)",
+					"itemDescription": "A decent damage dealer, but outclassed by other units"
+				},
+				{
+					"itemName": "Sasuke (6 Star)",
+					"itemDescription": "A versatile unit, but not as good as other options"
+				},
+				{
+					"itemName": "Luffy (6 Star)",
+					"itemDescription": "A tanky unit, but not as strong as other tanks"
+				},
+				{
+					"itemName": "Zoro (6 Star)",
+					"itemDescription": "A damage dealer with a focus on single-target attacks, but not as powerful as other options"
+				},
+				{
+					"itemName": "Sanji (6 Star)",
+					"itemDescription": "A support unit with an ability that buffs allies, but not as strong as other support units"
+				}
+			]
+		}
+	]
+}

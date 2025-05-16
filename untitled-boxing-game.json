@@ -1,0 +1,86 @@
+{
+  "fileName": "untitled-boxing-game.json",
+  "title": "Untitled Boxing Game Tier List",
+  "description": "Discover the latest tier list for Untitled Boxing Game as of February 2025, highlighting the strengths and weaknesses of each fighting style to help you choose the best fit for your gameplay.",
+  "heading": "Untitled Boxing Game Tier List",
+  "introText": "Discover the latest tier list for Untitled Boxing Game as of February 2025, highlighting the strengths and weaknesses of each fighting style to help you choose the best fit for your gameplay.",
+  "datePublished": "2025-02-13",
+  "dateModified": "2025-02-19",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Ghost",
+          "itemDescription": "A Legendary style that allows players to execute near-instant, unreadable punches, making it difficult for opponents to anticipate attacks. However, missing or having these punches blocked can result in the user being stunned"
+        },
+        {
+          "itemName": "Hawk",
+          "itemDescription": "Renowned for its exceptional range and damage, Hawk offers players a balanced and powerful fighting style, making it a top choice for many"
+        },
+        {
+          "itemName": "Hitman",
+          "itemDescription": "With the fastest attack speed and impressive damage output, Hitman excels in offensive strategies, allowing players to maintain pressure on opponents"
+        },
+        {
+          "itemName": "Slugger",
+          "itemDescription": "Emphasizing heavy hits, Slugger is ideal for players who prefer a more deliberate and powerful approach, though it may lack speed"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Bullet",
+          "itemDescription": "Despite its high damage potential, Bullet's slower attack speed necessitates strategic planning and precise execution to be effective"
+        },
+        {
+          "itemName": "Hands Low",
+          "itemDescription": "A Mythic style characterized by fast, sharp, and technical movements. While it offers great dash speed and quick attack initiation, keeping hands low increases the risk of taking more counter damage"
+        },
+        {
+          "itemName": "Ippo",
+          "itemDescription": "Inspired by the famous boxing manga, Ippo provides strong close-range attacks, rewarding players who can manage distance effectively"
+        },
+        {
+          "itemName": "Trickster",
+          "itemDescription": "A Rare style that emphasizes unpredictable movements and fast dash cancels, making the user hard to hit. It provides great mobility but comes with a weaker block"
+        },
+        {
+          "itemName": "Wolf",
+          "itemDescription": "Offering a blend of speed and power, Wolf is versatile, catering to players who adapt their strategies dynamically during matches"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Corkscrew",
+          "itemDescription": "This style boasts quick recovery and consistent damage, making it a reliable choice for players who favor agility and sustained offense"
+        },
+        {
+          "itemName": "Kimura",
+          "itemDescription": "A Rare style where the user's body shots can slow down opponents, providing an advantage to land finishing moves. However, it is noted that this style may have reduced damage output"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Long Guard",
+          "itemDescription": "Focusing on defense, Long Guard is suitable for players who prioritize blocking and countering but may struggle against more aggressive styles"
+        },
+        {
+          "itemName": "Smash",
+          "itemDescription": "An Uncommon style featuring a signature attack called the Smash Punch—a half-hook, half-uppercut that deals high damage, especially effective against blocking opponents. This punch is hard to land and follow up with"
+        }
+      ]
+    }
+  ]
+}

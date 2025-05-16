@@ -1,0 +1,197 @@
+{
+  "fileName": "ete-chronicle.json",
+  "title": "E.T.E Chronicle Tier List",
+  "description": "Explore the detailed tier list for 'E.T.E Chronicle,' featuring mecha rankings from S to B Tier to optimize your team strategy.",
+  "heading": "E.T.E Chronicle Tier List",
+  "introText": "Explore the detailed tier list for 'E.T.E Chronicle,' featuring mecha rankings from S to B Tier to optimize your team strategy.",
+  "datePublished": "2025-03-14",
+  "dateModified": "2025-03-14",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Schmelzfeuer",
+          "itemDescription": "A special-type unit excelling in gun attacks, capable of applying a melt effect to targets, boasting high durability, and reducing enemies' critical hit rates. She can inflict substantial physical damage to all enemies within range but lacks strong damage resistance"
+        },
+        {
+          "itemName": "Bolt",
+          "itemDescription": "A special-type unit effective in naval battles, serving as a debuffer specializing in armor reduction. She possesses considerable durability with strong armor and synergizes well with White Swan. However, her effectiveness diminishes in the later stages of the game"
+        },
+        {
+          "itemName": "White Swan",
+          "itemDescription": "A firepower unit optimal for air combat, excelling in back-row deployment. She launches effective AOE attacks against back-row enemies, possesses powerful critical attacks, and can debuff enemy armor. However, she has weak armor and is vulnerable to enemy attacks unless enhanced"
+        },
+        {
+          "itemName": "Char Mk5",
+          "itemDescription": "A firepower-type unit with high durability, capable of self-recovery and executing combo skills targeting enemies with the lowest HP. Her ultimate skill delivers multiplied damage to all enemies. However, she is vulnerable to physical damage, especially from units like Izumo Prototype"
+        },
+        {
+          "itemName": "Caspimore Type III",
+          "itemDescription": "A heavy-type unit suited for naval battles, capable of increasing her own armor with attacks, reducing target armor, and engaging multiple enemies simultaneously. She can shield herself from additional physical damage and has high durability, though her armor is initially low in early gameplay stages"
+        },
+        {
+          "itemName": "Izumo Prototype",
+          "itemDescription": "A heavy armor-type character ideal for naval battles, acting as a powerful tank. She deals heavy damage, shields all allies, enhances her own durability through self-recovery, and provides buffs that nullify enemy debuffs. She exhibits great accuracy and versatility, suitable for both PVP and PVE battles, but is susceptible to heavy physical damage"
+        },
+        {
+          "itemName": "Iwato",
+          "itemDescription": "A special attacker ideal for land warfare battles, boasting great durability, capable of inflicting electric damage and stunning targets. Nonetheless, her armor is not particularly strong"
+        },
+        {
+          "itemName": "Sea Blade",
+          "itemDescription": "A firepower-type character perfect for naval battles, effective against multiple front-row enemies, capable of increasing arithmetic damage and launching high firepower attacks. However, she has weak armor and durability"
+        },
+        {
+          "itemName": "Sentinel",
+          "itemDescription": "A support unit suitable for air combat, capable of reducing AOE damage, providing shields to heal her party, boosting allies' morale, and protecting two weak allies from attacks. She is useful for clearing normal stages, tactical training, and competitive battles but has low durability and armor"
+        },
+        {
+          "itemName": "Avenger",
+          "itemDescription": "A firepower unit effective in naval battles, capable of attacking primary targets with powerful damage, dealing with front-row enemies, and executing attacks with explosive effects. However, she has low durability"
+        },
+        {
+          "itemName": "Waveless",
+          "itemDescription": "An offensive buffer suitable for land warfare battles, bringing high firepower, critical rates, and single-target damage, while enhancing allies' power. She lacks additional damage or skills in her attacks"
+        },
+        {
+          "itemName": "Zephyr",
+          "itemDescription": "A heavy armor unit ideal for air combat, dealing heavy physical damage, capable of self-healing, and possessing strong attack and defense capabilities. However, her armor is weak"
+        },
+        {
+          "itemName": "Thunder FX",
+          "itemDescription": "A heavy armor unit suitable for air combat, possessing high durability, effective against front-row enemies with heavy damage, and capable of increasing physical damage reduction in battles. Nonetheless, her armor stats are not particularly strong"
+        },
+        {
+          "itemName": "Centaur Type II",
+          "itemDescription": "A firepower unit ideal for land warfare battles, boasting high durability and capable of applying pierce effects on enemies. However, her armor is very low.​"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Dragon",
+          "itemDescription": "A heavy armor unit for naval battles"
+        },
+        {
+          "itemName": "Dawnbreaker",
+          "itemDescription": "A support unit effective in land warfare"
+        },
+        {
+          "itemName": "Caesar",
+          "itemDescription": "A support unit suitable for naval battles"
+        },
+        {
+          "itemName": "Kotetsu Kai",
+          "itemDescription": "A firepower unit ideal for land warfare"
+        },
+        {
+          "itemName": "Leo Hunter",
+          "itemDescription": "A heavy armor unit optimal for air combat"
+        },
+        {
+          "itemName": "Strike",
+          "itemDescription": "A special unit effective in land warfare"
+        },
+        {
+          "itemName": "Saxony",
+          "itemDescription": "A special unit suitable for naval battles"
+        },
+        {
+          "itemName": "Longbow",
+          "itemDescription": "A firepower unit ideal for air combat"
+        },
+        {
+          "itemName": "Stacker Wind",
+          "itemDescription": "A special unit effective in air combat"
+        },
+        {
+          "itemName": "Fortress",
+          "itemDescription": "A heavy armor unit suitable for naval battles"
+        },
+        {
+          "itemName": "Morning Mist",
+          "itemDescription": "A firepower unit optimal for naval battles"
+        },
+        {
+          "itemName": "Raikiri 16th Type",
+          "itemDescription": "A firepower unit effective in land warfare"
+        },
+        {
+          "itemName": "Wasp",
+          "itemDescription": "A firepower unit suitable for air combat"
+        },
+        {
+          "itemName": "White Hawk",
+          "itemDescription": "A special unit ideal for air combat"
+        },
+        {
+          "itemName": "August",
+          "itemDescription": "A firepower unit effective in land warfare"
+        },
+        {
+          "itemName": "Kirishima",
+          "itemDescription": "A special unit suitable for naval battles"
+        },
+        {
+          "itemName": "Jotun",
+          "itemDescription": "A firepower unit ideal for land warfare"
+        },
+        {
+          "itemName": "Rams",
+          "itemDescription": "A heavy armor unit effective in land warfare"
+        },
+        {
+          "itemName": "Apocalypse",
+          "itemDescription": "A special unit suitable for land warfare"
+        },
+        {
+          "itemName": "Split Key",
+          "itemDescription": "A special unit effective in land warfare"
+        },
+        {
+          "itemName": "Tornado IS",
+          "itemDescription": "A firepower unit suitable for air combat"
+        },
+        {
+          "itemName": "Flying Shark",
+          "itemDescription": "A firepower unit ideal for air combat"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Lyre MX",
+          "itemDescription": "A special unit for land warfare"
+        },
+        {
+          "itemName": "Zero Wing",
+          "itemDescription": "A special unit suitable for air combat"
+        },
+        {
+          "itemName": "Unite",
+          "itemDescription": "A support unit effective in air combat"
+        },
+        {
+          "itemName": "Silver Bat",
+          "itemDescription": "A firepower unit suitable for air combat"
+        },
+        {
+          "itemName": "Chieftain",
+          "itemDescription": "A special unit ideal for land warfare"
+        },
+        {
+          "itemName": "Osafune Type 90",
+          "itemDescription": "A heavy armor unit effective in land warfare"
+        }
+      ]
+    }
+  ]
+}

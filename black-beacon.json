@@ -1,0 +1,102 @@
+{
+  "fileName": "black-beacon.json",
+  "title": "Black Beacon Tier List",
+  "description": "Discover the top characters in Black Beacon with our comprehensive tier list, ranking heroes from S to C tier based on their abilities and roles.",
+  "heading": "Black Beacon Tier List",
+  "introText": "Discover the top characters in Black Beacon with our comprehensive tier list, ranking heroes from S to C tier based on their abilities and roles.",
+  "datePublished": "2025-04-08",
+  "dateModified": "2025-04-10",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Ereshan",
+          "itemDescription": "A 5-star character. Darkness element DPS. Specializes in strong single-target and AoE charged damage. Her attacks apply Phantom Mark, increasing damage dealt. Ultimate: multiple charges towards enemies, pulling in up to four and dealing massive damage"
+        },
+        {
+          "itemName": "Li Chi",
+          "itemDescription": "A 5-star character. Single Target DPS (Thunder). Berserker playstyle, generating Battle Will while gradually losing HP until 55%. At 100 Battle Will, enters enhanced mode with speed boost and AoE Charged damage. Ultimate: summons afterimages attacking enemies, each hit restoring 10% HP"
+        },
+        {
+          "itemName": "Zero",
+          "itemDescription": "A 4-star character. Light element Assist. Boosts team attack for 20 seconds. Ultimate: leaps upward, delivering AoE impact damage"
+        },
+        {
+          "itemName": "Viola",
+          "itemDescription": "A 5-star character. Thunder element AoE Breaker. Generates electric nets for continuous AoE damage. Ultimate: summons two electric nets, ensnaring enemies and dealing massive damage "
+        },
+        {
+          "itemName": "Nanna",
+          "itemDescription": "A 5-star character. Darkness element AoE Breaker. Switches between Full Moon and New Moon phases, altering abilities. In Full Moon, her AoE damage increases. Ultimate: throws a blade causing spatial distortion, dealing significant damage to all enemies in its path"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Qing",
+          "itemDescription": "A 5-star character. AoE DPS (Water). Wields a large, long-bladed weapon for powerful attacks. Her skills enhance normal attacks, leading to Wave Slash for significant damage. Ultimate: leaps and slashes downward, releasing a water wave that deals substantial damage"
+        },
+        {
+          "itemName": "Florence",
+          "itemDescription": "A 5-star character. AoE/DoT/DPS (Fire). Performs spinning slashes for massive AoE damage, throws her greatsword to knock back enemies, and lunges forward, penetrating targets. Ultimate: swings her sword, delivering three powerful area slashes"
+        },
+        {
+          "itemName": "Asti",
+          "itemDescription": "A 4-star character. Healer/Supporter (Water). Uses her umbrella for AoE attacks, generating Rainwave points to enhance abilities. Healing scales with max HP; creates a 20-second Rainfall Zone healing allies every 2 seconds. Ultimate: summons a forward-moving tornado dealing substantial damage"
+        },
+        {
+          "itemName": "Ming",
+          "itemDescription": "A 4-star character. AoE Breaker (Fire). Generates Candle Shadows during attacks; consuming them summons flames dealing Chase damage every 0.5 seconds. Links enemies with Soul Thread to share damage. Ultimate: summons a Lamp Ghost damaging enemies in front"
+        },
+        {
+          "itemName": "Logos",
+          "itemDescription": "A 5-star character. DoT Healer (Light). Summons Notes that follow allies, dealing Chase damage to enemies and healing allies every 0.5 seconds. Ultimate: delivers significant damage while moving across the battlefield"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Shamash",
+          "itemDescription": "A 4-star character. DPS/Tank (Light). Blocks incoming attacks with his stone tablet, generating rage to unleash Enhanced damage. Can throw his weapon, running through enemies and dealing damage. Ultimate: summons a radiant ring causing a massive explosion, dealing significant area damage"
+        },
+        {
+          "itemName": "Ninsar",
+          "itemDescription": "A 4-star character. Support/Shielder (Darkness). Utilizes her Golem for AoE damage. Activates a 15-second barrier granting allies a shield based on her max HP, refreshing every 2 seconds. Ultimate: commands Golem to unleash a Charged strike, dealing massive wide-area damage"
+        },
+        {
+          "itemName": "Hephae",
+          "itemDescription": "A 4-star character. Anomaly/Support/Shielder (Fire). High mobility, deals damage upon landing. Sets up a Forging Zone, increasing party's damage resistance for 20 seconds, stackable up to 5 times. Ultimate: swings hammer, followed by a charged strike dealing significant damage"
+        },
+        {
+          "itemName": "Enki",
+          "itemDescription": "A 4-star character. Debuffer/Breaker (Water). Launches Energy Orbs with a chance to explode for AoE damage. Ultimate: sends a larger Energy Orb, then leaps to cause an explosion, dealing additional area damage"
+        },
+        {
+          "itemName": "Azi",
+          "itemDescription": "A 4-star character. Support/Debuffer (Darkness). Uses a rocket launcher to mark enemies, doubling the damage they receive. Deploys drones for area bombardment, causing enhanced damage and explosions. Ultimate: summons an orbital cannon for significant area damage"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Wushi",
+          "itemDescription": "A 4-star character. Single Target DPS (Darkness). A nimble ninja who uses teleportation to position above a single enemy, inflicting Dark Scar. Enhances his own attacks and unleashes AoE Chase Damage through his Dark Blade effect. Ultimate: releases 8 flying blades that pierce through enemies, dealing damage to everything they hit"
+        },
+        {
+          "itemName": "Xin",
+          "itemDescription": "A 4-star character. Burst DPS (Thunder). Throws her spear, piercing enemies in her path. Gains Lightning Dash from successful hits on targets afflicted by Galvanic Electricity, allowing her to perform a flurry of stabs, dealing Derived damage. Ultimate: jumps into the air to perform a wide-range stab, followed by a cleaving strike that hits all nearby enemies"
+        }
+      ]
+    }
+  ]
+}

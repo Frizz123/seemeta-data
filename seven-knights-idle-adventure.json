@@ -1,0 +1,102 @@
+{
+	"fileName": "seven-knights-idle-adventure.json",
+	"title": "Seven Knights Idle Adventure Tier List",
+	"description": "This is a tier list for the game Seven Knights Idle Adventure. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best and C Tier being the worst. The list is based on the heroes overall performance in both PvP and PvE content. Please note that this is just a general tier list and the best team for you will depend on your playstyle and the specific content you are trying to clear. It is always a good idea to experiment with different heroes and team compositions to find what works best for you. Additionally, the tier list is subject to change as new heroes are released and the game is updated. I recommend checking out some of the resources listed below to stay up-to-date on the latest tier lists.",
+	"heading": "Seven Knights Idle Adventure Tier List",
+	"introText": "This is a tier list for the game Seven Knights Idle Adventure. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best and C Tier being the worst. The list is based on the heroes overall performance in both PvP and PvE content. Please note that this is just a general tier list and the best team for you will depend on your playstyle and the specific content you are trying to clear. It is always a good idea to experiment with different heroes and team compositions to find what works best for you. Additionally, the tier list is subject to change as new heroes are released and the game is updated. I recommend checking out some of the resources listed below to stay up-to-date on the latest tier lists.",
+	"datePublished": "2024-05-31",
+	"dateModified": "2024-05-31",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Karma",
+					"itemDescription": "A defense type hero with great damage output and crowd control abilities. He is a staple in most PvP and PvE teams"
+				},
+				{
+					"itemName": "Kyle",
+					"itemDescription": "A melee type hero with high attack and defense. He is a great choice for dealing damage and taking hits"
+				},
+				{
+					"itemName": "Yuri",
+					"itemDescription": "A supporter type hero with excellent healing and buffing abilities. She is essential for keeping your team alive in tough battles"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Knox",
+					"itemDescription": "A defense type hero with strong counterattack abilities. He is a great choice for taking down powerful enemies"
+				},
+				{
+					"itemName": "Mulan",
+					"itemDescription": "A melee type hero with high attack and AoE damage. She is a great choice for clearing out waves of enemies"
+				},
+				{
+					"itemName": "Noho",
+					"itemDescription": "A supporter type hero with good healing and debuffing abilities. She is a versatile hero that can be used in a variety of teams"
+				},
+				{
+					"itemName": "Lucrezia",
+					"itemDescription": "A melee type hero with high attack and burst damage. She is a great choice for taking down single enemies quickly"
+				},
+				{
+					"itemName": "Ryan",
+					"itemDescription": "A ranged type hero with good attack and crowd control abilities. He is a great choice for supporting your team from a distance"
+				},
+				{
+					"itemName": "Roro",
+					"itemDescription": "A supporter type hero with unique abilities that can turn the tide of battle. She is a high-risk, high-reward hero that can be very powerful in the right hands"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Weiser",
+					"itemDescription": "A supporter type hero with good healing and buffing abilities. He is a more niche hero than some of the others on this list, but he can still be very useful in certain situations"
+				},
+				{
+					"itemName": "Ace",
+					"itemDescription": "A melee type hero with good attack and defense. He is a solid all-around hero, but he doesn't excel in any one particular area"
+				},
+				{
+					"itemName": "Karin",
+					"itemDescription": "A ranged type hero with good attack and AoE damage. She is a similar to Mulan, but she is not quite as strong"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Rachel",
+					"itemDescription": "A melee type hero with high attack, but low defense. She is a glass cannon that can be very powerful, but she is also very fragile"
+				},
+				{
+					"itemName": "Evan",
+					"itemDescription": "A ranged type hero with good attack and crowd control abilities. He is a decent hero, but he is outshined by some of the others on this list"
+				},
+				{
+					"itemName": "Lee",
+					"itemDescription": "A defense type hero with good defense, but low attack. He is a tank that can take a lot of punishment, but he doesn't deal much damage himself"
+				},
+				{
+					"itemName": "Amy",
+					"itemDescription": "A supporter type hero with healing and buffing abilities. She is a decent hero, but she is not as strong as some of the others on this list"
+				},
+				{
+					"itemName": "Tia",
+					"itemDescription": "A ranged type hero with AoE damage and debuffs. She is a decent hero, but she is not as strong as some of the others on this list"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+  "fileName": "tribe-nine.json",
+  "title": "Tribe Nine Tier List",
+  "description": "Explore the latest Tribe Nine character tier list, ranking heroes from S to C Tier based on their abilities and performance.",
+  "heading": "Tribe Nine Tier List",
+  "introText": "Explore the latest Tribe Nine character tier list, ranking heroes from S to C Tier based on their abilities and performance.",
+  "datePublished": "2025-03-04",
+  "dateModified": "2025-04-24",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Hinagiku Akiba",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tsuruko Semba",
+          "itemDescription": "A powerful character with solid attack and support abilities, capable of unleashing a potent area-of-effect (AoE) attack"
+        },
+        {
+          "itemName": "Kazuki Aoyama",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Miu Jujo",
+          "itemDescription": "Boasts incredibly high attack power, utilizing ranged attacks and deploying crystals that act as turrets"
+        },
+        {
+          "itemName": "Enoki Yukigaya",
+          "itemDescription": "Excels in high attack ability, wielding a giant broadsword for devastating melee attacks"
+        },
+        {
+          "itemName": "Roku Saigo",
+          "itemDescription": "A tank character who grows stronger as he withstands attacks, with abilities that restore HP and increase damage output when stacked"
+        },
+        {
+          "itemName": "Q",
+          "itemDescription": "A well-rounded character with extremely high break ability, capable of entering a berserk state to deal increased damage"
+        },
+        {
+          "itemName": "Yo Kuronaka",
+          "itemDescription": "An all-rounder specialized in creating openings and executing deflects. Excels at breaking enemies to stagger them and chaining team attacks together"
+        },
+        {
+          "itemName": "Jio Takinogawa",
+          "itemDescription": "Specializes in poison attacks that deal damage over time and deplete enemy defense points"
+        },
+        {
+          "itemName": "Tsuki Iroha",
+          "itemDescription": "A long-range attacker with no standout qualities and very low stats"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Yutaka Gotanda",
+          "itemDescription": "A long-range attacker who stacks enhanced attacks for a powerful ultimate, capable of buffing teammates and impairing enemies"
+        },
+        {
+          "itemName": "Koishi Kohinata",
+          "itemDescription": "A balanced character capable of both healing and dealing damage, but hampered by susceptibility to exhaustion if used incorrectly"
+        },
+        {
+          "itemName": "Minami Oi",
+          "itemDescription": "An exceptional support focused on team survival through recovery and shield abilities"
+        },
+        {
+          "itemName": "Santaro Mita",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Eiji Todoroki",
+          "itemDescription": "A support character who recharges teammates' ultimate skills but suffers from very low battle stats"
+        },
+        {
+          "itemName": "Hyakuichitaro Senju",
+          "itemDescription": "Features a unique moveset centered on ability stacking and shield generation for teammates, but at personal cost"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Mita Santaro",
+          "itemDescription": "Possesses an unusual moveset best used for drawing enemy fire, crowd control, and emergency evasion with his one-time guaranteed dodge"
+        }
+      ]
+    }
+  ]
+}

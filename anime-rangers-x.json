@@ -1,0 +1,118 @@
+{
+  "fileName": "anime-rangers-x.json",
+  "title": "Anime Rangers X Tier List",
+  "description": "",
+  "heading": "Anime Rangers X Tier List",
+  "introText": "",
+  "datePublished": "2025-04-17",
+  "dateModified": "2025-04-17",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Limitless Sorcerer (Infinite)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "King of Shadows (Monarch)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Solar Fist",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Legendary Saiyan (Super)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Fire Fist",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Molten Phantom",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eclipse Sorcerer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "King Curses",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Limitless Sorcerer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "King of Shadows",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cursed Love",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "One Arm Pirate",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Thunder Sword",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Knight King (Chaos)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tank Top Hero",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Legendary Saiyan",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shadow Knight",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "King Ant",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Knight King",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cursed Fist",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Green Tornado",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

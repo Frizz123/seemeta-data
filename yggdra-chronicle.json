@@ -1,0 +1,98 @@
+{
+    "fileName": "yggdra-chronicle.json",
+    "title": "Yggdra Chronicle Tier List",
+    "description": "This tier list is based on the current meta in Yggdra Chronicle and ranks characters from S Tier (the best) to C Tier (the worst). It is important to note that this tier list is subjective and may change depending on future updates and content releases. ",
+    "heading": "Yggdra Chronicle Tier List",
+    "introText": "This tier list is based on the current meta in Yggdra Chronicle and ranks characters from S Tier (the best) to C Tier (the worst). It is important to note that this tier list is subjective and may change depending on future updates and content releases. Additionally, team composition and strategy can greatly impact a unit's effectiveness.",
+    "datePublished": "2024-05-13",
+    "dateModified": "2025-02-10",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Stephanie",
+                    "itemDescription": "The best magic DPS unit in the game. Her high damage output and AoE skills make her a valuable asset in any team"
+                },
+                {
+                    "itemName": "Mitsuki",
+                    "itemDescription": "The best healer in the game. Her ability to heal and cleanse the entire team makes her indispensable in challenging content"
+                },
+                {
+                    "itemName": "Patricia",
+                    "itemDescription": "The best support unit in the game. Her ability to provide buffs, debuffs, and shields makes her a versatile addition to any team"
+                },
+                {
+                    "itemName": "Julia",
+                    "itemDescription": "A powerful nature DPS unit with a unique skill that can fill the entire team's gauges"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Eirika",
+                    "itemDescription": "A powerful fire DPS unit with high damage output and AoE skills"
+                },
+                {
+                    "itemName": "Chris",
+                    "itemDescription": "A versatile water DPS unit with good damage output and both single-target and AoE skills"
+                },
+                {
+                    "itemName": "Felicia",
+                    "itemDescription": "A strong physical tank unit with high defense and taunt skills"
+                },
+                {
+                    "itemName": "Mia",
+                    "itemDescription": "A powerful wind DPS unit with high damage output and the ability to dispel buffs"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Alice",
+                    "itemDescription": "A decent magic DPS unit with good damage output and AoE skills"
+                },
+                {
+                    "itemName": "Luna",
+                    "itemDescription": "A decent healer unit with the ability to heal and buff allies"
+                },
+                {
+                    "itemName": "Belle",
+                    "itemDescription": "A decent support unit with the ability to provide buffs and debuffs"
+                },
+                {
+                    "itemName": "Olivia",
+                    "itemDescription": "A decent physical DPS unit with good damage output and single-target skills"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Lily",
+                    "itemDescription": "A weak magic DPS unit with low damage output and limited AoE capabilities"
+                },
+                {
+                    "itemName": "Sophia",
+                    "itemDescription": "A weak healer unit with limited healing capabilities and no other utility"
+                },
+                {
+                    "itemName": "Nina",
+                    "itemDescription": "A weak support unit with buffs and debuffs that are not as effective as those of other units"
+                },
+                {
+                    "itemName": "Edgar",
+                    "itemDescription": "A weak physical DPS unit with low damage output and limited skills"
+                }
+            ]
+        }
+    ]
+}

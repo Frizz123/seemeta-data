@@ -1,0 +1,66 @@
+{
+	"fileName": "skullgirls.json",
+	"title": "Skullgirls Tier List",
+	"description": "Discover the most comprehensive Skullgirls tier list, ranking characters from S Tier to C Tier. Explore which fighters dominate the battlefield and why they're ranked as such.",
+	"heading": "Skullgirls Tier List",
+	"introText": "Discover the most comprehensive Skullgirls tier list, ranking characters from S Tier to C Tier. Explore which fighters dominate the battlefield and why they're ranked as such.",
+	"datePublished": "2024-09-15",
+	"dateModified": "2024-09-15",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Valentine",
+					"itemDescription": "With exceptional speed and versatile combos, Valentine dominates with a strong mix of offensive and defensive abilities"
+				},
+				{
+					"itemName": "Double",
+					"itemDescription": "A powerhouse with unpredictable attacks, Double can adapt to nearly any fight, making her a high-tier threat"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Parasoul",
+					"itemDescription": "Known for her excellent zoning abilities and powerful projectiles, Parasoul can keep opponents at bay while controlling the battlefield"
+				},
+				{
+					"itemName": "Filia",
+					"itemDescription": "A balanced character with strong mobility and mix-ups, Filia is great for aggressive play but lacks some defensive options"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Cerebella",
+					"itemDescription": "A grappler with devastating throws and high damage potential, Cerebella can be deadly in close combat but has trouble closing the gap against ranged characters"
+				},
+				{
+					"itemName": "Ms. Fortune",
+					"itemDescription": "Offering good combo potential and mix-ups, Ms. Fortune is a decent all-rounder, but she can be outplayed by more mobile or powerful characters"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Peacock",
+					"itemDescription": "While her zoning and projectiles can be annoying, Peacock struggles when opponents close the distance, making her vulnerable in fast-paced matches"
+				},
+				{
+					"itemName": "Beowulf",
+					"itemDescription": "Although Beowulf can deal decent damage, his limited range and predictable attacks make him a less viable choice compared to other fighters"
+				}
+			]
+		}
+	]
+}

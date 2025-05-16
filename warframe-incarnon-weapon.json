@@ -1,0 +1,206 @@
+{
+    "fileName": "warframe-incarnon-weapon.json",
+    "title": "Warframe Incarnon Weapon Tier List",
+    "description": "This tier list ranks the Incarnon Weapons based on their performance in Steel Path, the game's most difficult content. It takes into account their damage, utility, and overall effectiveness.",
+    "heading": "Warframe Incarnon Weapon Tier List",
+    "introText": "This tier list ranks the Incarnon Weapons based on their performance in Steel Path, the game's most difficult content. It takes into account their damage, utility, and overall effectiveness. The list is updated regularly to reflect changes in the game's meta.",
+    "datePublished": "2024-05-13",
+    "dateModified": "2025-04-12",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Dual Toxocyst",
+                    "itemDescription": "Built-in Viral and chaining projectiles make it a great choice for consistently high KPM"
+                },
+                {
+                    "itemName": "Latron",
+                    "itemDescription": "The best primary Incarnon for raw power; works as a crit-machine or energy-independent armor stripper"
+                },
+                {
+                    "itemName": "Torid",
+                    "itemDescription": "A top-tier Incarnon weapon with great single-target damage and chaining effects, though beam weapon skeptics may not rate it as SS tier"
+                },
+                {
+                    "itemName": "Burston",
+                    "itemDescription": "High Heat damage and strong critical stats make it a solid Incarnon pick"
+                },
+                {
+                    "itemName": "Boltor",
+                    "itemDescription": "High Slash weight, great crit chance, and solid status—what the Soma Incarnon should have been"
+                },
+                {
+                    "itemName": "Laetum",
+                    "itemDescription": "The original meta-defining Incarnon secondary"
+                },
+                {
+                    "itemName": "Lex",
+                    "itemDescription": "Insane single-shot burst damage, comparable to pre-nerf Catchmoon. Hemorrhage makes it great for Slash DoT scaling"
+                },
+                {
+                    "itemName": "Miter",
+                    "itemDescription": "A strong Latron rival but held back by inconsistent projectile homing. Shines with Zephyr’s Tornado build"
+                },
+                {
+                    "itemName": "Sybaris",
+                    "itemDescription": "Transforms from a classic single-target rifle into an AoE powerhouse with built-in Blast procs, excelling in Toxic Lash builds"
+                },
+                {
+                    "itemName": "Strun",
+                    "itemDescription": "Shoots a \"goblet of fire\" with high DPS but lacks ricochets. A status duplication glitch currently boosts its performance, but it remains A-tier even after fixes"
+                },
+                {
+                    "itemName": "Magistar",
+                    "itemDescription": "A heavy hammer that excels in slam attacks and can be enhanced with Incarnon upgrades to significantly boost its area-of-effect damage"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Atomos",
+                    "itemDescription": "Lacks single-target DPS but is a solid upgrade for a beloved low-Mastery secondary"
+                },
+                {
+                    "itemName": "Boar",
+                    "itemDescription": "Powerful on its own, but no beam Incarnon can compete with Torid"
+                },
+                {
+                    "itemName": "Braton",
+                    "itemDescription": "Similar to Burston Incarnon, with lower fire rate but higher damage per shot"
+                },
+                {
+                    "itemName": "Dread",
+                    "itemDescription": "Like Nataruk on steroids, featuring high crit chance and a wide-radius projectile"
+                },
+                {
+                    "itemName": "Dera",
+                    "itemDescription": "Overlooked but decent sustained DPS with a high-status Riven; gains extra base crit chance via High Ground talent"
+                },
+                {
+                    "itemName": "Furis",
+                    "itemDescription": "Limited flamethrower range makes it subpar for mob farming but remains a meta damage source in level cap Disruption runs"
+                },
+                {
+                    "itemName": "Innodem",
+                    "itemDescription": "Best dagger Incarnon, capable of 100 KPM with aim-glide attacks"
+                },
+                {
+                    "itemName": "Nami Solo",
+                    "itemDescription": "Appears weaker than Hate but has 1.0 Follow Through in full melee mode, making it better at clearing groups"
+                },
+                {
+                    "itemName": "Paris",
+                    "itemDescription": "Competes with Dread and boasts the highest status chance of all bows"
+                },
+                {
+                    "itemName": "Phenmor",
+                    "itemDescription": "A semi-automatic rifle that transforms into a high-rate-of-fire automatic weapon with Slash and Radiation damage after landing multiple weak point hits"
+                },
+                {
+                    "itemName": "Sicarus",
+                    "itemDescription": "Once the strongest weapon due to a bug, now nerfed but remains a solid pick"
+                },
+                {
+                    "itemName": "Onos",
+                    "itemDescription": "Strong for an early-game weapon but not ideal for mobile playstyles; unique mechanics make it divisive"
+                },
+                {
+                    "itemName": "Okina",
+                    "itemDescription": "A pair of swift dual daggers with high attack speed and status chance, particularly effective in their Incarnon form, where kills generate spectral daggers that deal Cold damage and target nearby enemies"
+                },
+                {
+                    "itemName": "Vasto",
+                    "itemDescription": "Best quick-shot revolver for single-target DPS, great for hunting Acolytes, Liches, Sisters, and Archons"
+                },
+                {
+                    "itemName": "Zylok",
+                    "itemDescription": "Functions like Lex Incarnon with high AoE damage but is overshadowed due to Lex’s superior output and Riven disposition"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Ack & Brunt",
+                    "itemDescription": "Decent crit-status hybrid melee, but its weak spectral axe-throwing gimmick limits its potential"
+                },
+                {
+                    "itemName": "Anku",
+                    "itemDescription": "Outclassed by Hate unless you have a god-roll Riven"
+                },
+                {
+                    "itemName": "Cestra",
+                    "itemDescription": "Good handling and damage but nothing exceptional; might improve with shield-break Crit talent"
+                },
+                {
+                    "itemName": "Despair",
+                    "itemDescription": "Strong throwing star but requires headshots for meaningful damage"
+                },
+                {
+                    "itemName": "Hate",
+                    "itemDescription": "Powerful but relies on a slow heavy-attack build, making it hover between A and B tier"
+                },
+                {
+                    "itemName": "Felarx",
+                    "itemDescription": "Once a top shotgun for hunting Archons/Liches, but now has competition from newer weapons"
+                },
+                {
+                    "itemName": "Furax",
+                    "itemDescription": "Impact-to-Slash conversion isn’t great, but Furax Wraith is the best starter weapon with this upgrade"
+                },
+                {
+                    "itemName": "Gorgon",
+                    "itemDescription": "Good damage, but the delayed explosion gimmick feels clunky"
+                },
+                {
+                    "itemName": "Lato",
+                    "itemDescription": "A weaker version of Dual Toxocyst Incarnon, though Lato Prime offers better usability"
+                },
+                {
+                    "itemName": "Praedos",
+                    "itemDescription": "Disappointingly underwhelming for something locked behind Zariman Faction standing"
+                },
+                {
+                    "itemName": "Ruvox",
+                    "itemDescription": "Works well with Lavos (B+ tier), but without him, Furax Wraith is the better Incarnon fist weapon"
+                },
+                {
+                    "itemName": "Skana",
+                    "itemDescription": "Inferior to Hate, which does forced Slash procs on heavy attacks more effectively"
+                },
+                {
+                    "itemName": "Soma",
+                    "itemDescription": "Cannot recapture its former glory, even at its best"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Angstrum",
+                    "itemDescription": "Fun to use, but lacks the damage needed for Steel Path, even on the Prisma variant"
+                },
+                {
+                    "itemName": "Bo",
+                    "itemDescription": "Impact-to-Slash proc conversion applies to only one instance of Impact per strike"
+                },
+                {
+                    "itemName": "Kunai",
+                    "itemDescription": "Weak single-target weapon, outclassed by all other single-target Incarnons"
+                },
+                {
+                    "itemName": "Sibear",
+                    "itemDescription": "Expensive Cryotic sink with little payoff, even after Cold buffs in Jade Shadows"
+                }
+            ]
+        }
+    ]
+}

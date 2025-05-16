@@ -1,0 +1,238 @@
+{
+  "fileName": "wizardry-variants-daphne.json",
+  "title": "Wizardry Variants Daphne Tier List",
+  "description": "Explore the latest Wizardry Variants Daphne Tier List for October 2024, highlighting the top S, A and B Tier characters for building your ideal team.",
+  "heading": "Wizardry Variants Daphne Tier List",
+  "introText": "Explore the latest Wizardry Variants Daphne Tier List for October 2024, highlighting the top S, A and B Tier characters for building your ideal team.",
+  "datePublished": "2024-10-17",
+  "dateModified": "2025-04-18",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Lanavaille",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Alice",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Soaring Blackstar Savia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Wanderer Princess Lanavaille",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Yekaterina",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Debra",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lord of the Deep Forest Arboris",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gerard",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Adam",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Abenius of the Glintblade",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Knight-Errant Gerard the Thundersmiter",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kiriha",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Berkanan",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Marianne",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Iarumas",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dino",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Flut",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Barbara",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Benjamin",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gerulf",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Mage of the Silent Night Flut",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Gandolfo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Jean",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Daniel",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Jarmil",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Alex",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Asha",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Clarissa",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Elise",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Milana",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Galina",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bakesh",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Valdor",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eckart",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chloe",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Elf-Mag",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Olive",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gaston",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ophelia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Viviana",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Elda",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Philip",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Emil",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eldorado",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eulalia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Amelia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Human-Fig",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Human-Pri",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Beast-Thi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Elf-Pri",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dwarf-Kni",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

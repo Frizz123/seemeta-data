@@ -1,0 +1,89 @@
+{
+	"fileName": "pgr.json",
+	"title": "PGR Tier List",
+	"description": "Discover the ultimate Punishing Gray Raven (PGR) tier list, ranking the best characters in the game from S Tier to B Tier. Find out which characters are the most powerful and versatile, and learn about their unique abilities and strengths to optimize your team for victory.",
+	"heading": "PGR Tier List",
+	"introText": "Discover the ultimate Punishing Gray Raven (PGR) tier list, ranking the best characters in the game from S Tier to B Tier. Find out which characters are the most powerful and versatile, and learn about their unique abilities and strengths to optimize your team for victory.",
+	"datePublished": "2024-06-16",
+	"dateModified": "2025-02-22",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Nanami - Pulse",
+					"itemDescription": "Nanami is an outstanding Tank character known for her strong support-tank synergy with any variant of Liv. She not only provides constant DPS but also deals mixed damage—combining physical and elemental attacks—while reducing enemy elemental resistance"
+				},
+				{
+					"itemName": "Karenina - Ember",
+					"itemDescription": "Karenina excels in delivering burst damage with powerful melee AoE attacks. Her ability to inflict both physical and elemental damage makes her ideal for clearing enemy packs. She works well with teammates like Kamui, Bianca, and Liv, earning her a high ranking on the tier list"
+				},
+				{
+					"itemName": "Kamui - Tenebrion",
+					"itemDescription": "Kamui is a versatile unit that, despite his tank role, deals considerable mixed damage. His signature move allows him to switch attacking forms, and he thrives when enhanced by Consciousness cards. Kamui pairs effectively with any DPS character and Liv to create a balanced team"
+				},
+				{
+					"itemName": "Liv - Luminance",
+					"itemDescription": "Liv is arguably the best healer in the game. Her exceptional kit not only heals allies but also reduces the damage they receive, making her an invaluable asset in any team composition, especially alongside a tank"
+				},
+				{
+					"itemName": "Lee - Entropy",
+					"itemDescription": "Lee is a powerful Construct designed for massive DPS through easy-to-execute combos. Focusing entirely on physical damage, his high-burst and AoE moves make him a safe pick when paired with characters like Kamui, Bianca, or when benefiting from Liv’s supportive buffs"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Lucia - Dawn",
+					"itemDescription": "Lucia is one of the main protagonists and the first character you encounter in Punishing Gray Raven. In this advanced form, she is a well-rounded hero who excels at single-target combat through powerful duel abilities, while dealing both physical and elemental damage. She pairs well with teammates like Kamui, Bianca, and Liv"
+				},
+				{
+					"itemName": "Watanabe - Nightblade",
+					"itemDescription": "Watanabe is a capable attacker known for his strong single-target abilities and extra damage from backstab moves. Though executing his skill combos can be challenging, his high burst potential makes him formidable—especially when paired with Liv, who rounds out his team"
+				},
+				{
+					"itemName": "Bianca - Zero",
+					"itemDescription": "Bianca is a free character obtained from the 7-day login rewards and stands out as a reliable single-target attacker. With a short cooldown on her signature moves, she is particularly effective against bosses. Her performance improves when teamed up with Kamui or Liv, and she also works well with Watanabe"
+				},
+				{
+					"itemName": "Lee - Palefire",
+					"itemDescription": "Lee bridges the gap between single-target and AoE attacks with easy-to-execute combos that inflict mixed damage. His balanced skill set makes him versatile and a good fit in teams featuring Kamui, Bianca, Liv, or even Lucia"
+				},
+				{
+					"itemName": "Kamui - Bastion",
+					"itemDescription": "Kamui is one of the few tank characters who can also dish out impressive constant AoE damage. His defensive abilities include blocking and using a shield, which, when combined with the support of a healing Liv variant, make him an excellent all-around teammate"
+				},
+				{
+					"itemName": "Karenina - Blast",
+					"itemDescription": "Karenina offers a burst-y kit that lets her switch attacking forms—adding an element of versatility and fun to her gameplay. Her ability to deal mixed damage shines when she is supported by Liv and a tank, ensuring she remains effective while managing her risk"
+				},
+				{
+					"itemName": "Liv - Lux",
+					"itemDescription": "Liv in her Lux form is a strong AoE damage dealer with excellent sustain. Not only can she heal her allies, but she also delivers significant mixed damage. Her versatility allows her to be paired with a range of characters, including Kamui, Lucia, Bianca, and Watanabe"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Lucia - Padma",
+					"itemDescription": "Lucia is the very first character you receive in the game and serves as a solid starter. She specializes in strong single-target (duel) attacks and uses dual blades to boost her attack damage, making her effective for early game progression"
+				},
+				{
+					"itemName": "Liv - Benediction",
+					"itemDescription": "Liv is a versatile and fun ranged DPS character who quickly becomes familiar due to her engaging playstyle. In addition to dealing damage with powerful AoE melee attacks, she also heals allies, making her one of the few B-class constructs that remains viable as you advance"
+				},
+				{
+					"itemName": "Nanami - Storm",
+					"itemDescription": "Nanami may not be the strongest tank overall, but she is a dependable choice early on when a top-tier tank like Kamui isn’t available. Her abilities focus on reducing damage taken and shielding incoming attacks, while still contributing a respectable amount of damage"
+				}
+			]
+		}
+	]
+}

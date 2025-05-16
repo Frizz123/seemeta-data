@@ -1,0 +1,102 @@
+{
+  "fileName": "cat-fantasy.json",
+  "title": "Cat Fantasy Tier List",
+  "description": "Explore our comprehensive Cat Fantasy tier list, detailing the top characters from S to C Tier to help you optimize your team.",
+  "heading": "Cat Fantasy Tier List",
+  "introText": "Explore our comprehensive Cat Fantasy tier list, detailing the top characters from S to C Tier to help you optimize your team.",
+  "datePublished": "2025-03-11",
+  "dateModified": "2025-03-11",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Crown of Frost (Anja)",
+          "itemDescription": "An exceptional tank/support character who provides shields to her team based on her maximum HP"
+        },
+        {
+          "itemName": "Forest Ranger (Asura)",
+          "itemDescription": "A top-tier sniper capable of eliminating most enemies with a single shot, effective throughout the game"
+        },
+        {
+          "itemName": "Purifier's Waltz (Hailey)",
+          "itemDescription": "Specializes in penetrating enemy defenses, making her invaluable in late-game scenarios"
+        },
+        {
+          "itemName": "Scarlett (Pure Redemption)",
+          "itemDescription": "A high-damage dealer who reduces enemies' endurance, ideal for aggressive strategies"
+        },
+        {
+          "itemName": "Linn (Vibrant Melody)",
+          "itemDescription": "Enhances team survivability and damage output by increasing allies' HP and critical rate"
+        },
+        {
+          "itemName": "Heartfelt Healing (Triss)",
+          "itemDescription": "A supportive character who heals the team and dispels allies' debuffs"
+        },
+        {
+          "itemName": "Ember in Dark (Danica)",
+          "itemDescription": "Despite recent nerfs, remains a strong unit, especially useful in PvP scenarios"
+        },
+        {
+          "itemName": "Combat Mode (Shiro)",
+          "itemDescription": "A powerful damage dealer capable of carrying teams into late-game content when properly supported"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Marine Maverick (Echo)",
+          "itemDescription": "Can be obtained from the Arena as dupes, and she is the \"less powerful\" version of Crown of Frost (Anja), so she can work really well as a supporter"
+        },
+        {
+          "itemName": "Sparkle Rider (Echo)",
+          "itemDescription": "She depletes the enemy SP, so if you are facing a difficult stage, she can be a great unit to play and help you avoid taking some damage"
+        },
+        {
+          "itemName": "Scarlet Samurai (Minami)",
+          "itemDescription": "She is a unit that can tank and also deal damage, but sadly is not as good as a standalone damage dealer or tank, so that's why she is placed in the A-tier. She does have a taunt, so that is a nice little element in her kit"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Good Old Days (Sunny)",
+          "itemDescription": "An SSR unit that ignores target defense; however, other units perform this role more effectively"
+        },
+        {
+          "itemName": "Crimson Charm (Triss)",
+          "itemDescription": "Deals area-of-effect damage but has subpar scaling, making her less effective in late-game content"
+        },
+        {
+          "itemName": "Soul Taker (Reaper)",
+          "itemDescription": "Reduces enemy defensive abilities, making it situationally useful, particularly in PvP"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Wicked Thoughts (Syer)",
+          "itemDescription": "Blinds enemies and steals their defense but lacks the durability to capitalize on the stolen stats"
+        },
+        {
+          "itemName": "Mighty Bunny (Bun Bun)",
+          "itemDescription": "Potentially valuable in teams focusing on damage over time and critical hits, but currently lacks synergy with available units"
+        },
+        {
+          "itemName": "Duck'n'roll (Poppy)",
+          "itemDescription": "Can inflict fear and reduce enemy attack; possesses a taunt but is relatively fragile"
+        }
+      ]
+    }
+  ]
+}

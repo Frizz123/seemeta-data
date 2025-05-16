@@ -1,0 +1,874 @@
+{
+	"fileName": "dota-2.json",
+	"title": "Dota 2 Tier List",
+	"description": "Dota 2 is a complex game with a constantly evolving meta, so it can be tough to keep up with the best heroes to pick. However, there are a few general trends that can help you make informed decisions about which heroes to play.",
+	"heading": "Dota 2 Tier List",
+	"introText": "Dota 2 is a complex game with a constantly evolving meta, so it can be tough to keep up with the best heroes to pick. However, there are a few general trends that can help you make informed decisions about which heroes to play.",
+	"datePublished": "2024-05-23",
+	"dateModified": "2025-05-14",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Lifestealer (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/lifestealer-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Phantom Assassin (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/phantom-assassin-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Dragon Knight (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/dragon-knight-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Nature's Prophet (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/natures-prophet-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Storm Spirit (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/storm-spirit-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ember Spirit (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/ember-spirit-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Invoker (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/invoker-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Dazzle (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/dazzle-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Void Spirit (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/void-spirit-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Beastmaster (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/beastmaster-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Sand King (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/sand-king-offlaner.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Mars (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/mars-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Dawnbreaker (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/dawnbreaker_offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Rubick (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/rubick-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lich (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/lich-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Dark Willow (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/dark-willow-support.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Jakiro (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/jakiro-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Shadow Shaman (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/shadow-shaman-support.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Pudge (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/pudge-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Bounty Hunter (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/bounty-hunter-support.png",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Abaddon (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/abaddon-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Juggernaut (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/juggernaut-safelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Naga Siren (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/naga-siren-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Wraith King (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/wraith-king-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Anti-Mage (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/anti-mage-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Faceless Void (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/faceless-void-safelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Spectre (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/spectre-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Troll Warlord (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/troll-warlord-safelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Slark (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/sark-safelaner.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lone Druid (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/lone-druid-dafelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Sven (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/sven-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Bristleback (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/bristleback_splash-safelaner.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Medusa (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/medusa-safelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Razor (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/razor-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Terrorblade (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/terrorblade-safelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Shadow Fiend (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/shadow-fiend-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Meepo (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/meepo-midlaner.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Arc Warden (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/arc-warden-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Necrophos (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/necrophos-midlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Leshrac (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/leshrak-midlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lone Druid (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/lone-druid-dafelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Puck (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/puck-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Visage (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/visage-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kunkka (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/kunkka-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Queen of Pain (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/queen-of-pain-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lina (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/lina-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Shadow Fiend (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/shadow-fiend-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Primal Beast (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/primal-beast-midlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Monkey King (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/monkey-king-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Zeus (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/zeus-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Huskar (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/huskar-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Windranger (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/windranger-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Outworld Destroyer (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/outworld-destroyer-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Abaddon (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/abaddon-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Tidehunter (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/tidehunter-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Batrider (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/batrider-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Magnus (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/magnus-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Timbersaw (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/timbersaw-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Primal Beast (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/primal-beast-midlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Doom (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/doom-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Night Stalker (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/night-stalker-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Centaur Warrunner (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/centaur-warrunner-offlaner.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Vengeful Spirit (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/vengeful-spirit-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Axe (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/axe-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Legion Commander (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "games/images/dota-2/legion-commander-offlaner.jpeg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Visage (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/visage-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Bristleback (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/bristleback_splash-safelaner.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Riki (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/riki-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Nyx Assassin (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/nyx-assassin-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Clockwerk (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/clockwerk-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Venomancer (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/venomancer-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Gyrocopter (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/gyrocopter-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Vengeful Spirit (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/vengeful-spirit-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Witch Doctor (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/witch-doctor-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lion (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/lion-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Treant Protector (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/treant-protector-support.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Marci (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/marci-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Spirit Breaker (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/spirit-breaker-support.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Phoenix (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/phoenix-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Earthshaker (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/earthshaker-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Warlock (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/warlock-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Io (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/io-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Techies (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/techies-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Bane (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/bane-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ogre Magi (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/ogre-magi-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Shadow Demon (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/shadow-demon-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Skywrath Mage (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/skywrath-mage-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Keeper of the Light (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/keeper-of-the-light-support.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Chen (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/chen-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Disruptor (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/disruptor-support.webp",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Gyrocopter (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/gyrocopter-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Bloodseeker (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/bloodseeker-safelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Clinkz (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/clinkz-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Tiny (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/tiny-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Mirana (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/mirana-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Luna (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/luna-safelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Phantom Lancer (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/phantom-lancer-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Templar Assassin (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/templar-assassin-safelaner.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Weaver (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/weaver-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lycan (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/lycan_safelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Morphling (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/morphling-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Night Stalker (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/night-stalker-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Viper (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/viper-midlaner.jpeg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Pangolier (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/angolier_midlaner.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Dragon Knight (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/dragon-knight-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Snapfire (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/snapfire-midlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Tinker (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/tinker-midlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lone Druid (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/lone-druid-dafelaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kunkka (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/kunkka-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Enigma (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/enigma-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Darkseer (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/darkseer-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Underlord (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/underlord-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Broodmother (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/broodmother-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Wraith King (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/wraith-king-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Enchantress (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/enchantress-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ringmaster (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/ringmaster-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Dazzle (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/dazzle-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Pugna (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/pugna-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Zeus (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/zeus-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Invoker (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/invoker-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Undying (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/undying-support.png",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Alchemist (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/alchemist_safelaner.webp",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Riki (Safelaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/riki-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Timbersaw (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/timbersaw-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Magnus (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/magnus-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Mirana (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/mirana-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Earth Spirit (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/earth-spirit-midlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Sniper (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/sniper-midlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Pudge (Midlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/pudge-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ogre Magi (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/ogre-magi-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Death Prophet (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/death-prophet-offlaner.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Tusk (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/tusk-offlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Pudge (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/pudge-support.jpg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Pugna (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/pugna-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Viper (Offlaner)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/viper-midlaner.jpeg",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kunkka (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/kunkka-midlaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Clinkz (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/clinkz-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Omniknight (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/omniknight-support.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Nature's Prophet (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/natures-prophet-safelaner.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Enigma (Support)",
+					"itemDescription": "",
+					"itemImage": "/games/images/dota-2/enigma-offlaner.png",
+					"itemIcon": ""
+				}
+			]
+		}
+	]
+}

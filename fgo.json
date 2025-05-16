@@ -1,0 +1,226 @@
+{
+    "fileName": "fgo.json",
+    "title": "Fate/Grand Order (FGO) Tier List",
+    "description": "This is a Fate/Grand Order (FGO) tier list. The list is based on the opinions of various players and may not be accurate for all players.",
+    "heading": "Fate/Grand Order (FGO) Tier List",
+    "introText": "This is a Fate/Grand Order (FGO) tier list. The list is based on the opinions of various players and may not be accurate for all players. It is also subject to change as new Servants are released and the game meta evolves. The tier list is divided into S Tier, A Tier, B Tier, and C Tier.",
+    "datePublished": "2024-05-13",
+    "dateModified": "2025-03-14",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Archer",
+                    "itemDescription": "Gilgamesh, Baobhan Sith, Nikola Tesla, Super Orion, Arash"
+                },
+                {
+                    "itemName": "Saber",
+                    "itemDescription": "Altria Pendragon, Gaius Julius Caesar, Altera"
+                },
+                {
+                    "itemName": "Lancer",
+                    "itemDescription": "Enkidu, Melusine"
+                },
+                {
+                    "itemName": "Rider",
+                    "itemDescription": "Sima Yi"
+                },
+                {
+                    "itemName": "Caster",
+                    "itemDescription": "Altria Caster, Zhuge Liang, Merlin, Scathatch Skadi, Chen Gong"
+                },
+                {
+                    "itemName": "Assassin",
+                    "itemDescription": "Koyanskaya of Light"
+                },
+                {
+                    "itemName": "Berserker",
+                    "itemDescription": "Arjuna, Ibuki-Douji, Sakata Kintoki, Vlad III"
+                },
+                {
+                    "itemName": "Ruler",
+                    "itemDescription": "Amor, Astraea, Himiko, Iyo, James Moriarty, Scathatch-Skadi (Ruler)"
+                },
+                {
+                    "itemName": "Avenger",
+                    "itemDescription": "Demon King Nobunaga, Space Ishtar, Taira-no-Kagekiyo, Kama, Jeanne d’Arc (Alter), Edmond Dantes, Antonio Salieri, The Count of Monte Cristo"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Archer",
+                    "itemDescription": "Euryale, Altria Pendragon, Chloe von Einzbern, Ishtar, Napoleon, Jeanne d'Arc, Nightingale, Anastasia & Viy"
+                },
+                {
+                    "itemName": "Saber",
+                    "itemDescription": "Okita Souji, Mordred, Nero Claudius, Bedivere, Miyamoto Musashi, Prince of Lan Ling, Beni-Enma, Katsushika Hokusai, Dioscuri, Saito Hajime, Ibuki Douji, Karna, Senji Muramasa, Roland"
+                },
+                {
+                    "itemName": "Lancer",
+                    "itemDescription": "Ereshkigal, Fionn Mac Cumhaill, Minamoto-no-Raikou, Mysterious Alter Ego A, Nagao Kagetora, Percival, Romulus, Sakamoto Ryouma, Yu Mei-ren"
+                },
+                {
+                    "itemName": "Rider",
+                    "itemDescription": "Sakata Kintoki, Habetrot, Francis Drake, Ozymandias, Quetzalcoatl, Ivan the Terrible, Achilles, Leonardo Da Vinci, Murasaki Shikibu"
+                },
+                {
+                    "itemName": "Caster",
+                    "itemDescription": "Cu Chulainn, Tamamo-no-Mae, Paracelsus von Hohenheim, Helena Blavatsky, Nitocris, Xuanzahng Sanzang, Seig, Charlotte Corday"
+                },
+                {
+                    "itemName": "Assassin",
+                    "itemDescription": "Assassin of the Nightless City, Gra, Hildr, Kama, Ortlinde, Ryougi Shiki, Thrud"
+                },
+                {
+                    "itemName": "Berserker",
+                    "itemDescription": "Cu Chulainn, Galatea, Heracles, Lancelot, Kriemhild, Miyamoto Musashi, Morgan, Mysterious Heroine X, Oda Nobunaga, Sen-no-Rikyu, Spartacus"
+                },
+                {
+                    "itemName": "Ruler",
+                    "itemDescription": "Jeanne D’Arc, Qin Shi Huang, Saint Martha, Sherlock Holmes"
+                },
+                {
+                    "itemName": "Avenger",
+                    "itemDescription": "Avenger of Shinjuku, Mysterious Ranmaru X, Utsumu Erice, Marie Antoinette, Chloe von Einzbern"
+                },
+                {
+                    "itemName": "Alter Ego",
+                    "itemDescription": "Ashiya Douman, Meltryllis, Sessyoin Kiara"
+                },
+                {
+                    "itemName": "Foreigner",
+                    "itemDescription": "Katushika Hokusai, Mysterious Heroine XX, Yang Guifei"
+                },
+                {
+                    "itemName": "Moon Cancer",
+                    "itemDescription": "BB, Jikano Carigiri"
+                },
+                {
+                    "itemName": "Pretender",
+                    "itemDescription": "Oberon, Hephaestion, Lady Avalon"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Archer",
+                    "itemDescription": "Emiya, Robin Hood, Archer of Shinjuku, Helena Blavatsky, Atilla the San, Asagami Fujino, Chiron, William Tell, Asvatthaman, Oda Nobukatsu, Atalante, Orion, David, Tristan, Anne Bonny & Mary Read, Amiya (Alter), Archer of Inferno, Paris, Calamity Jane, Sei Shounagon, Illyasviel von Einzbern, Baobhan Sith, Zenobia, Minamoto-no-Tametomo"
+                },
+                {
+                    "itemName": "Saber",
+                    "itemDescription": "Altria Pendragon (Lily), Siegfried, Lancelot, Yagyu Munenori, Okita Souji, Hai Ba Trung, Charlemagne, Altria Pendragon (Alter), Nero Claudius, Ryougi Shiki, Frankenstein, Diarmuid Ua Duibhne, Jason, Astolfo, Barghest"
+                },
+                {
+                    "itemName": "Lancer",
+                    "itemDescription": "Altrai Pendragon, Brynhild, Cu Chulainn, Houzouin Inshuh, Ibaraki-Douji, Jeanne d’Arc, Karna, Leonidas, Mary Anning, Parvati, Scathach, Tamamo-no-Mae, Utsumi Erice, Valkyrie, Vlad III, Vritra"
+                },
+                {
+                    "itemName": "Rider",
+                    "itemDescription": "Georgios, Ushiwakamuru, Astolfo, Queen Medb, Mordred, Sakamoto Ryouma, Taigong Wang, Kyokutei Bakin, Ishtar, Bartholomew Roberts, Europa"
+                },
+                {
+                    "itemName": "Caster",
+                    "itemDescription": "Leonardo da Vinci, Illyasveil, Caster of the Nightless City, Nero Claudius, Caster of Okeanos, Asclepius, Miss Crane, Medea, Hans Christian Andersen, William Shakespeare, Thomas Edison, Gilgamesh, Caster of Midrash, Anastasia Romanova, Avicebron, Shuten-Douji, Murasaki Shikibu, Izumo-no-Okuni, Saint Martha, Daikokuten, Zhang Jue"
+                },
+                {
+                    "itemName": "Assassin",
+                    "itemDescription": "Assassin of Paraiso, Carmilla, Cleopatra, First Hassan, Hassan of the Hundred Personas, Huyan Zhuo, Jack the Ripper, Kiichi Hogen, Li Shuwen, Mysterious Heroine X, Okada Izo, Okita J Souji, Semiramis, Shuten-Douji"
+                },
+                {
+                    "itemName": "Berserker",
+                    "itemDescription": "Atalante, Berserker of El Dorado, Frankenstein, Hijikata Toshizo, Ibaraki-Douji, Lu Bu Fengxian, Minamoto-no-Raikou, Paul Bunyan, Sei Shounagon, Xiang Yu"
+                },
+                {
+                    "itemName": "Ruler",
+                    "itemDescription": "Amakusa Shirou, Leonardo Da Vinci, Quetzalcoatl"
+                },
+                {
+                    "itemName": "Avenger",
+                    "itemDescription": "Gorgon, Xu Fu"
+                },
+                {
+                    "itemName": "Alter Ego",
+                    "itemDescription": "Mecha Eli-chan, Mecha Eli-chan Mk II, Sitonai, Kingprotea, Manannan Mac Lir (Bazett), Okita Souji (Alter)"
+                },
+                {
+                    "itemName": "Foreigner",
+                    "itemDescription": "Voyager, Van Gogh, Mysterious Idol X, Jacques de Molay, Koyanskaya of Dark, Abigail Williams"
+                },
+                {
+                    "itemName": "Moon Cancer",
+                    "itemDescription": "Sessyoin Kiara, Archetype: Earth"
+                },
+                {
+                    "itemName": "Pretender",
+                    "itemDescription": "Elizabeth Bathory, Tlaloc"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Archer",
+                    "itemDescription": "Tawara Touta, Osakabehime, Oda Nobunaga, Ajuna, Kid Gilgamesh, Billy the Kid"
+                },
+                {
+                    "itemName": "Saber",
+                    "itemDescription": "Gawain, Suzuke Gozen, Sigurd, Queen Medb, Lakshmi Bai, Chevalier d’Eon, Fergus Mac Roich, Rama, Elizabeth Bathory (Brave), Arthur Pendragon (Prototype), Watanabe-no-Tsuna"
+                },
+                {
+                    "itemName": "Lancer",
+                    "itemDescription": "Altria Pendragon (Alter), Bradamante, Britomart, Caenis, Cu Chulainn (Prototype), Diarmuid ua Duibhne, Don Quixote, Elisabeth Bathory, Gareth, Hektor, Jaguar Warrior, Kiyohime, Li Shuwen, Medusa, Romulus"
+                },
+                {
+                    "itemName": "Rider",
+                    "itemDescription": "Mandricardo, Medusa, Alexander, Saint Martha, Altria Pendragon, Iskandar, Carmilla, Nemo Edward Teach, Anne Bonny, Rider of Resistance, Red Hare, Caenis, Dobrynya Nikitich, Konstantinos XI, Boudica"
+                },
+                {
+                    "itemName": "Caster",
+                    "itemDescription": "Wolfgang Amadeus, Nursery Rhyme, Assassin of the Nightless City, Elisabeth Bathory, Medea, Charles Babbage, Miyu Edelfelt"
+                },
+                {
+                    "itemName": "Assassin",
+                    "itemDescription": "Assassin of Shinjuku, Emiya, Fuuma Kotarou, Hassan of the Cursed Arm, Hassan of the Serenity, Jing Ke, Nitocris, Osakabehime, Sasaki Kojirou, Scathach, Ushiwakamaru"
+                },
+                {
+                    "itemName": "Berserker",
+                    "itemDescription": "Asterios, Beowulf, Brynhilde, Eric Bloodaxe, Kijyo Koyo, Kiyohime, Mori Nagayoshi, Nightingale, Tamamo Cat"
+                },
+                {
+                    "itemName": "Ruler",
+                    "itemDescription": "Altria Pendragion, Melusine, Pope Johanna, Uesugi Kenshin"
+                },
+                {
+                    "itemName": "Avenger",
+                    "itemDescription": "Avenger of Shinjuku, Anra Mainiiu, Nitocris"
+                },
+                {
+                    "itemName": "Alter Ego",
+                    "itemDescription": "Taisui Xingjun, Super Bunyan, Xu Fu, Grigori Rasputin, Larva/Tiamat"
+                },
+                {
+                    "itemName": "Foreigner",
+                    "itemDescription": "Kukulkan, Cnoc na Riabh Yaraan-doo, Wandjina, Aozaki Aoko"
+                },
+                {
+                    "itemName": "Moon Cancer",
+                    "itemDescription": "Ganesha, Mysterious Executor CIEL, Tenochtitlan, Hakuno Kishinami"
+                },
+                {
+                    "itemName": "Pretender",
+                    "itemDescription": "Cait Cu Cerpreistess, Alessandro Di Cagliostro"
+                }
+            ]
+        }
+    ]
+}

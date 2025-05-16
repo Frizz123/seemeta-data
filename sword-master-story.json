@@ -1,0 +1,170 @@
+{
+  "fileName": "sword-master-story.json",
+  "title": "Sword Master Story Tier List",
+  "description": "Discover the top characters in Sword Master Story with our comprehensive tier list, categorizing heroes from S to C Tier based on their performance and abilities.",
+  "heading": "Sword Master Story Tier List",
+  "introText": "Discover the top characters in Sword Master Story with our comprehensive tier list, categorizing heroes from S to C Tier based on their performance and abilities.",
+  "datePublished": "2024-11-12",
+  "dateModified": "2024-12-28",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Yui",
+          "itemDescription": "Exceptional healer with powerful restoration abilities, enhancing team survivability"
+        },
+        {
+          "itemName": "Lilith",
+          "itemDescription": "High damage-dealing mage with skills that debilitate enemies and boost team offense"
+        },
+        {
+          "itemName": "Cain",
+          "itemDescription": "Versatile warrior offering strong offensive capabilities and team buffs"
+        },
+        {
+          "itemName": "Megumin",
+          "itemDescription": "Mage specializing in explosive damage, capable of decimating enemy lines"
+        },
+        {
+          "itemName": "Hades",
+          "itemDescription": "Powerful attacker with abilities that inflict substantial damage and debuffs"
+        },
+        {
+          "itemName": "Ais",
+          "itemDescription": "Limited event character with exceptional utility in both offense and defense"
+        },
+        {
+          "itemName": "Ymir",
+          "itemDescription": "Tanky character with abilities that absorb damage and protect allies"
+        },
+        {
+          "itemName": "Eros",
+          "itemDescription": "Archer with high damage output and skills that debilitate enemies"
+        },
+        {
+          "itemName": "Ariel",
+          "itemDescription": "Supportive healer with abilities that restore health and cleanse debuffs"
+        },
+        {
+          "itemName": "Zeus",
+          "itemDescription": "Mage with powerful area-of-effect attacks and crowd control abilities"
+        },
+        {
+          "itemName": "Airi",
+          "itemDescription": "Agile fighter with swift attacks and evasion skills"
+        },
+        {
+          "itemName": "Efreet",
+          "itemDescription": "Fire-based attacker with situational usefulness"
+        },
+        {
+          "itemName": "Odin",
+          "itemDescription": "Outdated character with lower stats and effectiveness"
+        },
+        {
+          "itemName": "Kana",
+          "itemDescription": "Lacks versatility and is overshadowed by higher-tier characters"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Aphrodite",
+          "itemDescription": "Provides significant healing and support, bolstering team endurance"
+        },
+        {
+          "itemName": "Persephone",
+          "itemDescription": "Balances offensive and defensive skills, making her adaptable to various combat scenarios"
+        },
+        {
+          "itemName": "Lugrant",
+          "itemDescription": "Balanced warrior offering both offensive and defensive capabilities"
+        },
+        {
+          "itemName": "Lucifer",
+          "itemDescription": "Damage dealer with outdated skills and low effectiveness"
+        },
+        {
+          "itemName": "Aqua",
+          "itemDescription": "Event character with limited usefulness"
+        },
+        {
+          "itemName": "Dark",
+          "itemDescription": "Offers negligible benefits and is outperformed by others"
+        },
+        {
+          "itemName": "Kalisia",
+          "itemDescription": "Mage with ineffective spells and low impact"
+        },
+        {
+          "itemName": "Theseus",
+          "itemDescription": "Mediocre stats and skills, making him less viable"
+        },
+        {
+          "itemName": "Artemis",
+          "itemDescription": "Archer with low damage output and limited skills"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Hestia",
+          "itemDescription": "Offers decent damage but is outclassed by original characters"
+        },
+        {
+          "itemName": "Belphegor",
+          "itemDescription": "Debuffer with limited impact on stronger enemies"
+        },
+        {
+          "itemName": "Ares",
+          "itemDescription": "Warrior with limited utility and subpar performance"
+        },
+        {
+          "itemName": "Gaia",
+          "itemDescription": "Offers minimal support and is easily replaceable"
+        },
+        {
+          "itemName": "Cayron",
+          "itemDescription": "Underwhelming abilities and low survivability"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Iris",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Johan",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chaos",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hippolyts",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sylvia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Alice",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

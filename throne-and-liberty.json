@@ -1,0 +1,70 @@
+{
+	"fileName": "throne-and-liberty.json",
+	"title": "Throne and Liberty Tier List",
+	"description": "This tier list for Throne and Liberty will help you choose the best weapons for your playstyle.",
+	"heading": "Throne and Liberty Tier List",
+	"introText": "This tier list for Throne and Liberty will help you choose the best weapons for your playstyle.",
+	"datePublished": "2024-07-17",
+	"dateModified": "2024-07-17",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Longbow and Dagger",
+					"itemDescription": "This is a versatile weapon combination that is good for both PvE and PvP. The Longbow is great for dealing damage from a distance, while the Dagger is good for close-quarters combat"
+				},
+				{
+					"itemName": "Staff",
+					"itemDescription": "This is a powerful weapon that is good for both PvE and PvP. It is especially effective against groups of enemies"
+				},
+				{
+					"itemName": "Crossbow",
+					"itemDescription": "This is a versatile weapon that is good for both PvE and PvP. It is easy to use and has a long range"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Greatsword",
+					"itemDescription": "This is a powerful weapon that is good for PvE. However, it is slow and can be difficult to use in PvP"
+				},
+				{
+					"itemName": "Sword and Shield",
+					"itemDescription": "This is a versatile weapon that is good for both PvE and PvP. It is a good choice for players who want to be able to defend themselves and deal damage"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Axe",
+					"itemDescription": "This is a powerful weapon that is good for PvE. However, it is slow and can be difficult to use in PvP"
+				},
+				{
+					"itemName": "Hammer",
+					"itemDescription": "This is a slow weapon that is good for stunning enemies. However, it is not very effective at dealing damage"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Spear",
+					"itemDescription": "This is a slow weapon that is not very effective in either PvE or PvP"
+				},
+				{
+					"itemName": "Dual Swords",
+					"itemDescription": "This is a fast weapon that is good for dealing damage in close-quarters combat. However, it is not very effective against armored enemies"
+				}
+			]
+		}
+	]
+}

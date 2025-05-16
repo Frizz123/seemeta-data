@@ -1,0 +1,394 @@
+{
+	"fileName": "blue-archive.json",
+	"title": "Blue Archive Tier List",
+	"description": "Discover the top characters in Blue Archive as of March 2025. Our comprehensive tier list ranks students from S to C Tier, helping you build the ultimate team.",
+	"heading": "Blue Archive Tier List",
+	"introText": "Discover the top characters in Blue Archive as of March 2025. Our comprehensive tier list ranks students from S to C Tier, helping you build the ultimate team.",
+	"datePublished": "2024-05-21",
+	"dateModified": "2025-03-09",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Iori",
+					"itemDescription": "A student from Gehenna Academy, Iori wields a sniper rifle and excels in dealing high single-target damage. Her precision and critical hit capabilities make her a formidable attacker"
+				},
+				{
+					"itemName": "Cherino",
+					"itemDescription": "As the leader of Red Winter Federal Academy, Cherino specializes in area-of-effect attacks. Her skills allow her to control the battlefield by debuffing enemies and supporting allies"
+				},
+				{
+					"itemName": "Tsubaki",
+					"itemDescription": "A tank from Hyakkiyako Alliance Academy, Tsubaki is renowned for her exceptional durability. She can absorb significant damage, providing stability to her team during battles"
+				},
+				{
+					"itemName": "Hoshino (Swimsuit)",
+					"itemDescription": "This summer variant of Hoshino from Abydos High School focuses on support roles. She enhances her team's performance by boosting cost recovery and providing sub-tank capabilities"
+				},
+				{
+					"itemName": "Shiroko Terror",
+					"itemDescription": "An alternate version of Shiroko from Abydos High School, Shiroko Terror is associated with the Iridescent Vanguard. She wields an assault rifle and possesses abilities linked to her role as a Nameless Goddess"
+				},
+				{
+					"itemName": "Hoshino (Armed)",
+					"itemDescription": "Also known as Hoshino (Combat), this version of Hoshino features enhanced combat capabilities. She can switch between tanking and dealing damage, making her versatile in various combat scenarios"
+				},
+				{
+					"itemName": "Mika",
+					"itemDescription": "A student from Trinity General School, Mika wields a sniper rifle and is known for her high burst damage. Her skills allow her to deal significant damage to enemies, making her a valuable asset in battles"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Kayoko (New Year)",
+					"itemDescription": "A special seasonal version of Kayoko Onikata, showcasing her in traditional New Year's attire"
+				},
+				{
+					"itemName": "Tomoe (Qipao)",
+					"itemDescription": "A variant of Tomoe sporting a traditional qipao dress, reflecting cultural elegance"
+				},
+				{
+					"itemName": "Momoi (Maid)",
+					"itemDescription": "Momoi in a maid outfit, highlighting her dedication and service-oriented demeanor"
+				},
+				{
+					"itemName": "Midori (Maid)",
+					"itemDescription": "Midori dressed as a maid, complementing her sister Momoi's ensemble, emphasizing their teamwork"
+				},
+				{
+					"itemName": "Haruna (New Year)",
+					"itemDescription": "A seasonal version of Haruna, adorned in festive New Year's attire, symbolizing celebration"
+				},
+				{
+					"itemName": "Yuuka (Sportswear)",
+					"itemDescription": "Yuuka in athletic sportswear, showcasing her active and energetic personality"
+				},
+				{
+					"itemName": "Kokona",
+					"itemDescription": "A student known for her cheerful disposition and supportive nature"
+				},
+				{
+					"itemName": "Kikyou",
+					"itemDescription": "Recognized for her calm demeanor and strategic thinking"
+				},
+				{
+					"itemName": "Renge",
+					"itemDescription": "A character with a mysterious aura and keen observational skills"
+				},
+				{
+					"itemName": "Kazusa",
+					"itemDescription": "Noted for her strong will and combat prowess"
+				},
+				{
+					"itemName": "Kotama (Camp)",
+					"itemDescription": "Kotama in a camping outfit, reflecting her love for outdoor activities"
+				},
+				{
+					"itemName": "Kayoko (Dress)",
+					"itemDescription": "Kayoko dressed elegantly, highlighting her refined taste"
+				},
+				{
+					"itemName": "Izuna (Swimsuit)",
+					"itemDescription": "Izuna in swimwear, showcasing her playful side during summer events"
+				},
+				{
+					"itemName": "Ako (Dress)",
+					"itemDescription": "Ako in a formal dress, emphasizing her sophisticated demeanor"
+				},
+				{
+					"itemName": "Atsuko",
+					"itemDescription": "Known for her leadership qualities and tactical acumen"
+				},
+				{
+					"itemName": "Hanako",
+					"itemDescription": "A gentle character with a nurturing personality"
+				},
+				{
+					"itemName": "Ui",
+					"itemDescription": "Recognized for her intelligence and analytical skills"
+				},
+				{
+					"itemName": "Mutsuki (New Year)",
+					"itemDescription": "A festive version of Mutsuki, celebrating the New Year with enthusiasm"
+				},
+				{
+					"itemName": "Azusa (Swimsuit)",
+					"itemDescription": "Azusa in swimwear, reflecting her relaxed and carefree summer vibe"
+				},
+				{
+					"itemName": "Koharu",
+					"itemDescription": "Noted for her healing abilities and supportive role in teams"
+				},
+				{
+					"itemName": "Ui (Swimsuit)",
+					"itemDescription": "Ui enjoying the summer in her swimsuit, showcasing a more casual side"
+				},
+				{
+					"itemName": "Azusa",
+					"itemDescription": "A dedicated student with a serious demeanor and strong sense of justice"
+				},
+				{
+					"itemName": "Aru",
+					"itemDescription": "Known for her ambitious nature and leadership within her group"
+				},
+				{
+					"itemName": "Shun",
+					"itemDescription": "A character with a laid-back attitude but exceptional skills"
+				},
+				{
+					"itemName": "Haruna",
+					"itemDescription": "Recognized for her calm and composed personality, excelling in academics and combat"
+				},
+				{
+					"itemName": "Hoshino",
+					"itemDescription": "A reliable figure, often seen as a big sister to her peers, with a penchant for napping"
+				},
+				{
+					"itemName": "Mutsuki",
+					"itemDescription": "Known for her mischievous nature and love for pranks"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Maki",
+					"itemDescription": "A student from Millennium Science School, Maki is known for her analytical skills and proficiency with firearms, making her a reliable damage dealer in combat situations"
+				},
+				{
+					"itemName": "Hifumi",
+					"itemDescription": "Belonging to Trinity General School, Hifumi is a gentle and caring individual who excels in support roles, often boosting her allies' morale and effectiveness on the battlefield"
+				},
+				{
+					"itemName": "Hina",
+					"itemDescription": "As the strict and disciplined president of Gehenna Academy's Prefect Team, Hina enforces school rules with an iron fist, showcasing exceptional leadership and combat abilities"
+				},
+				{
+					"itemName": "Haruka",
+					"itemDescription": "A member of Gehenna Academy, Haruka is recognized for her calm demeanor and expertise in handling explosives, providing strategic advantages during missions"
+				},
+				{
+					"itemName": "Nonomi",
+					"itemDescription": "From Abydos High School, Nonomi is a cheerful and energetic student who wields a machine gun, offering consistent suppressive fire against enemies"
+				},
+				{
+					"itemName": "Tsurugi",
+					"itemDescription": "A frontline fighter from Gehenna Academy, Tsurugi is known for her aggressive combat style and proficiency with melee weapons, making her a formidable presence in close-quarters battles"
+				},
+				{
+					"itemName": "Junko",
+					"itemDescription": "An unpredictable student from Gehenna Academy, Junko thrives in chaotic situations, utilizing her unique skill set to disrupt enemy formations"
+				},
+				{
+					"itemName": "Shiroko",
+					"itemDescription": "Abydos High School's cool-headed sniper, Shiroko excels in long-range engagements, providing critical support by eliminating high-priority targets from a distance"
+				},
+				{
+					"itemName": "Eimi",
+					"itemDescription": "Hailing from Millennium Science School, Eimi is a tank character known for her high defense and ability to draw enemy attention, protecting her teammates during battles"
+				},
+				{
+					"itemName": "Akari",
+					"itemDescription": "A diligent student from Millennium Science School, Akari specializes in engineering and technology, often providing technical support and deploying gadgets to assist her team"
+				},
+				{
+					"itemName": "Akane",
+					"itemDescription": "As a member of Millennium Science School, Akane is a strategic thinker who excels in debuffing enemies, weakening their defenses to give her team an advantage"
+				},
+				{
+					"itemName": "Izuna",
+					"itemDescription": "A ninja from Hyakkiyako Alliance Academy, Izuna is characterized by her swift movements and stealth tactics, allowing her to infiltrate enemy lines and execute surprise attacks"
+				},
+				{
+					"itemName": "Midori",
+					"itemDescription": "The younger twin from Millennium Science School, Midori is an energetic student who, alongside her sister Momoi, specializes in reconnaissance and ranged attacks"
+				},
+				{
+					"itemName": "Momoi",
+					"itemDescription": "The elder twin from Millennium Science School, Momoi complements her sister Midori with her expertise in data analysis and support fire, making them an effective duo"
+				},
+				{
+					"itemName": "Miyako (Swimsuit)",
+					"itemDescription": "A summer variant of Miyako from Gehenna Academy, showcasing her playful side while maintaining her combat readiness during beach missions"
+				},
+				{
+					"itemName": "Saki (Swimsuit)",
+					"itemDescription": "This version of Saki from Hyakkiyako Alliance Academy enjoys the summer season, blending her traditional skills with beach-themed tactics"
+				},
+				{
+					"itemName": "Rumi",
+					"itemDescription": "A student from Red Winter Federal Academy, Rumi is known for her disciplined nature and proficiency in defensive strategies, often serving as a reliable protector for her team"
+				},
+				{
+					"itemName": "Reisa",
+					"itemDescription": "Hailing from Trinity General School, Reisa is a talented musician whose melodies provide buffs to allies, enhancing their combat performance"
+				},
+				{
+					"itemName": "Arisu (Maid)",
+					"itemDescription": "In this maid-themed variant, Arisu from Millennium Science School combines her combat skills with impeccable service, ensuring both battlefield efficiency and team morale"
+				},
+				{
+					"itemName": "Toki (Bunny Girl)",
+					"itemDescription": "A festive version of Toki from Gehenna Academy, donning a bunny girl outfit that adds flair to her already dynamic combat style"
+				},
+				{
+					"itemName": "Koyuki",
+					"itemDescription": "A mysterious student from Hyakkiyako Alliance Academy, Koyuki specializes in illusionary tactics, confusing enemies and creating strategic openings for her allies"
+				},
+				{
+					"itemName": "Sakurano",
+					"itemDescription": "Known for her elegance and grace, Sakurano from Trinity General School excels in archery, delivering precise attacks from a distance"
+				},
+				{
+					"itemName": "Megu",
+					"itemDescription": "A cheerful member of Millennium Science School, Megu is adept at using drones in combat, providing both offensive and reconnaissance support"
+				},
+				{
+					"itemName": "Mine",
+					"itemDescription": "From Gehenna Academy, Mine is a fiery character who wields flamethrowers, specializing in area-of-effect damage to control the battlefield"
+				},
+				{
+					"itemName": "Junko (New Year)",
+					"itemDescription": "A festive version of Junko from Gehenna Academy, celebrating the New Year with enhanced abilities and a spirited attitude"
+				},
+				{
+					"itemName": "Mari (Sportswear)",
+					"itemDescription": "In this athletic variant, Mari from Trinity General School showcases her fitness and agility, enhancing her support capabilities during missions"
+				},
+				{
+					"itemName": "Hasumi (Sportswear)",
+					"itemDescription": "This version of Hasumi from Trinity General School emphasizes her athleticism, improving her combat readiness and versatility"
+				},
+				{
+					"itemName": "Nonomi (Swimsuit)",
+					"itemDescription": "A summer-themed Nonomi from Abydos High School, enjoying beach activities while remaining ever-ready for combat scenarios"
+				},
+				{
+					"itemName": "Marina",
+					"itemDescription": "A disciplined student from Valkyrie Police School, Marina is known for her sharpshooting skills and commitment to maintaining order"
+				},
+				{
+					"itemName": "Wakamo",
+					"itemDescription": "An enigmatic figure from Gehenna Academy, Wakamo thrives in chaos, utilizing unconventional tactics to keep enemies off-balance"
+				},
+				{
+					"itemName": "Aru (New Year)",
+					"itemDescription": "Celebrating the New Year, this version of Aru from Gehenna Academy combines festivity with her trademark ambition and combat prowess"
+				},
+				{
+					"itemName": "Natsu",
+					"itemDescription": "A member of Hyakkiyako Alliance Academy, Natsu is known for her calm demeanor and mastery of traditional weaponry, blending tradition with modern tactics"
+				},
+				{
+					"itemName": "Neru (Bunny Girl)",
+					"itemDescription": "In this festive variant, Neru from Millennium Science School dons a bunny girl outfit, adding a playful twist to her swift and stealthy combat style"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Toki",
+					"itemDescription": "A student from the Millennium school, known for her unique skills and background"
+				},
+				{
+					"itemName": "Mina",
+					"itemDescription": "A character from the Shanhaijing school, bringing distinct abilities and story elements"
+				},
+				{
+					"itemName": "Serina (Christmas)",
+					"itemDescription": "A festive version of Serina, likely featuring special abilities and attire related to the Christmas theme"
+				},
+				{
+					"itemName": "Shigure",
+					"itemDescription": "A student from the Valkyrie school, offering unique skills and narrative contributions"
+				},
+				{
+					"itemName": "Hibiki (Cheerleader)",
+					"itemDescription": "A cheerleader-themed version of Hibiki, incorporating elements of support and team morale"
+				},
+				{
+					"itemName": "Airi (Band)",
+					"itemDescription": "A band-themed iteration of Airi, possibly focusing on musical abilities and performances"
+				},
+				{
+					"itemName": "Noa",
+					"itemDescription": "A character from the Red Winter school, contributing distinct skills and storylines"
+				},
+				{
+					"itemName": "Utaha (Cheerleader)",
+					"itemDescription": "A cheerleader-themed version of Utaha, enhancing team dynamics with her abilities"
+				},
+				{
+					"itemName": "Saori",
+					"itemDescription": "A student from the Arius school, known for her unique combat skills and background"
+				},
+				{
+					"itemName": "Wakamo (Swimsuit)",
+					"itemDescription": "A swimsuit-themed version of Wakamo, likely featuring abilities suited to aquatic environments"
+				},
+				{
+					"itemName": "Izumi (Swimsuit)",
+					"itemDescription": "A swimsuit-themed iteration of Izumi, offering abilities and aesthetics related to summer themes"
+				},
+				{
+					"itemName": "Tsurugi (Swimsuit)",
+					"itemDescription": "A swimsuit-themed Tsurugi, combining her combat prowess with a summer attire twist"
+				},
+				{
+					"itemName": "Yuzu",
+					"itemDescription": "A character from the Gehenna school, bringing her own set of skills and narrative depth"
+				},
+				{
+					"itemName": "Kayoko",
+					"itemDescription": "A student from the Valkyrie school, offering unique abilities and contributions to the storyline"
+				},
+				{
+					"itemName": "Asuna",
+					"itemDescription": "A Millennium school student, known for her combat skills and engaging backstory"
+				},
+				{
+					"itemName": "Kotori",
+					"itemDescription": "A character from the Arius school, recognized for her distinctive abilities and role in the game's plot"
+				},
+				{
+					"itemName": "Suzumi",
+					"itemDescription": "A student from the Trinity school, contributing unique skills and a compelling narrative"
+				},
+				{
+					"itemName": "Sumire",
+					"itemDescription": "A character from the Red Winter school, known for her combat abilities and storyline involvement"
+				},
+				{
+					"itemName": "Serika",
+					"itemDescription": "A student from the Arius school, offering unique skills and a rich backstory"
+				},
+				{
+					"itemName": "Chise",
+					"itemDescription": "A character from the Valkyrie school, bringing distinct abilities and narrative elements"
+				},
+				{
+					"itemName": "Neru",
+					"itemDescription": "A Millennium school student, recognized for her unique combat skills and engaging story"
+				},
+				{
+					"itemName": "Hasumi",
+					"itemDescription": "A student from the Gehenna school, known for her distinctive abilities and role in the game's plot"
+				},
+				{
+					"itemName": "Pina",
+					"itemDescription": "A character from the Arius school, offering unique skills and contributing to the overall narrative"
+				}
+			]
+		}
+	]
+}

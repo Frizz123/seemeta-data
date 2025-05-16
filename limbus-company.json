@@ -1,0 +1,162 @@
+{
+	"fileName": "limbus-company.json",
+	"title": "Limbus Company Tier List",
+	"description": "Limbus Company is a gacha game that was released in 2023. The game has a unique combat system that is based on using cards to attack enemies. There are many different characters to collect, each with their own unique abilities.",
+	"heading": "Limbus Company Tier List",
+	"introText": "Limbus Company is a gacha game that was released in 2023. The game has a unique combat system that is based on using cards to attack enemies. There are many different characters to collect, each with their own unique abilities.",
+	"datePublished": "2024-06-13",
+	"dateModified": "2024-06-13",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Cinq Sinclair",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Effloresced E.G.O::Spicebush Yi Sang",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lobotomy E.G.O::Regret Faust",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Middle Little Sister Don Quixote",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tingtang Gang Gangleader Hong Lu",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Blade Lineage Salu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Faust (Seven Assoc. South Section 4)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hook Office Fixer Hong Lu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "K Corp. Class 3 Excision Staff Hong Lu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Liu Ishmael",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Liu Rodion",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lobotomy Corp. Remnant Faust",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Molar Boatworks Fixer Ishmael",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The One Who Grips Faust",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Pequod First Mate Yi Sang",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "W Corp. L3 Cleanup Agent Yi Sang",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Don Quixote (Lobotomy E.G.O::Lantern)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gregor (Liu Assoc. South Section 4)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Heathcliff (R Corp. 4th Pack Rabbit)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ishmael (Seven Assoc. South Section 4)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Meursault (Blade Lineage Mentor)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ryōshū (Seven Assoc. South Section 6)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sinclair (Zwei Association South Section 4)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Atis (LCB Center)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Corporal Gregor (Kurokumo Clan Wakashu)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Faust (W Corp.)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Heathcliff (Dieci South Section 4)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hong Lu (LCB Center)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Miro (Rose Spanner Workshop Fixer)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Muro (Tank or Support)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rosu (LCB Assistant Manager)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sunshower (Labotomy Ego)",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

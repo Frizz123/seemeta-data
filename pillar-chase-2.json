@@ -1,0 +1,82 @@
+{
+	"fileName": "pillar-chase-2.json",
+	"title": "Pillar Chase 2 Tier List",
+	"description": "Discover the ultimate Pillar Chase 2 tier list ranking every monster from best to weakest in S to C tiers to help you strategize effectively.",
+	"heading": "Pillar Chase 2 Tier List",
+	"introText": "Discover the ultimate Pillar Chase 2 tier list ranking every monster from best to weakest in S to C tiers to help you strategize effectively.",
+	"datePublished": "2024-10-31",
+	"dateModified": "2024-10-31",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "MX",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Forest King",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Niloticus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Fogborn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ao Oni",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "WYST",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fuwatti",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Baldi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vita Mimic",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Springtrap",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Uncle Samsonite",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "EXE",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

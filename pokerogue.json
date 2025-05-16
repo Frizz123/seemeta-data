@@ -1,0 +1,110 @@
+{
+	"fileName": "pokerogue.json",
+	"title": "Pokerogue Tier List",
+	"description": "In this guide, we'll delve into a tier list for Pokerogue, ranking the various Pokemon based on their overall performance in the game.",
+	"heading": "Pokerogue Tier List",
+	"introText": "In this guide, we'll delve into a tier list for Pokerogue, ranking the various Pokemon based on their overall performance in the game.",
+	"datePublished": "2024-07-15",
+	"dateModified": "2024-07-15",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Pikachu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gengar",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dragonite",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mewtwo",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Blastoise",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Venusaur",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Charizard",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Alakazam",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gyarados",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Arcanine",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jolteon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vaporeon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Machamp",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gyarados",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Pidgey",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rattata",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Caterpie",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Weedle",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Zubat",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

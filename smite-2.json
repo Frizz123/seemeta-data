@@ -1,0 +1,254 @@
+{
+  "fileName": "smite-2.json",
+  "title": "Smite 2 Tier List",
+  "description": "Discover the ultimate Smite 2 Tier List based on votes from the community. Explore rankings for top gods across S, A, B, C, and D Tiers to find the best gods in the game.",
+  "heading": "Smite 2 Tier List",
+  "introText": "Discover the ultimate Smite 2 Tier List based on votes from the community. Explore rankings for top gods across S, A, B, C, and D Tiers to find the best gods in the game.",
+  "datePublished": "2025-04-12",
+  "dateModified": "2025-04-12",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Aphrodite",
+          "itemDescription": "Offers healing and utility, but can be vulnerable to burst damage"
+        },
+        {
+          "itemName": "Princess Bari",
+          "itemDescription": "A revered figure from Korean shamanism, Princess Bari is known for her healing abilities and her role as a guide for souls transitioning to the afterlife, embodying themes of perseverance and redemption"
+        },
+        {
+          "itemName": "Amaterasu",
+          "itemDescription": "The Japanese sun goddess, Amaterasu excels as a melee warrior, utilizing her radiant auras to enhance allies' combat capabilities and sustain herself during battles"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Aladdin",
+          "itemDescription": "Offers unique mobility and crowd control, making him a formidable opponent"
+        },
+        {
+          "itemName": "Hercules",
+          "itemDescription": "A legendary Greek hero, Hercules is a formidable warrior known for his immense strength, durability, and crowd control abilities, making him a dominant presence on the battlefield"
+        },
+        {
+          "itemName": "Artemis",
+          "itemDescription": "As the Greek goddess of the hunt, Artemis is a ranged hunter who employs traps and a powerful ultimate to control enemies and deal significant damage from a distance"
+        },
+        {
+          "itemName": "Achilles",
+          "itemDescription": "The famed Greek warrior of the Trojan War, Achilles is a versatile fighter who can adapt his combat style by choosing between armored resilience and unarmored agility"
+        },
+        {
+          "itemName": "Sol",
+          "itemDescription": "The Norse sun goddess, Sol is a mage who harnesses solar energy to deal sustained magical damage, with abilities that allow her to phase into a fiery incorporeal form, enhancing her mobility and survivability"
+        },
+        {
+          "itemName": "Sobek",
+          "itemDescription": "Tanky support with displacement abilities, disrupting enemy formations"
+        },
+        {
+          "itemName": "Zeus",
+          "itemDescription": "High burst damage mage, excelling in team fights with area damage"
+        },
+        {
+          "itemName": "Loki",
+          "itemDescription": "A stealthy killer with high explosive potential, effective in the right hands, but predictable"
+        },
+        {
+          "itemName": "Hecate",
+          "itemDescription": "Powerful mage with area denial and sustained damage"
+        },
+        {
+          "itemName": "Thor",
+          "itemDescription": "High mobility and crowd control, making him a strong jungler"
+        },
+        {
+          "itemName": "Jing Wei",
+          "itemDescription": "A swift Chinese hunter who excels at repositioning quickly after respawning, allowing her to return to battle with ease"
+        },
+        {
+          "itemName": "The Morrigan",
+          "itemDescription": "A Celtic mage known for her deceptive abilities and unique power to transform into any other god on the battlefield"
+        },
+        {
+          "itemName": "Mordred",
+          "itemDescription": "An Arthurian warrior fueled by wrath, wielding dual swords to deliver powerful melee attacks and abilities"
+        },
+        {
+          "itemName": "Hun Batz",
+          "itemDescription": "A Mayan trickster and assassin who uses his agility and a powerful fear-inducing ultimate to disrupt enemies"
+        },
+        {
+          "itemName": "Yemoja",
+          "itemDescription": "A Yoruba guardian who utilizes flowing water abilities to heal allies and control the battlefield with barriers"
+        },
+        {
+          "itemName": "Ullr",
+          "itemDescription": "High skill ceiling with powerful ranged attacks, excelling in the carry role"
+        },
+        {
+          "itemName": "Ymir",
+          "itemDescription": "Tanky support with strong crowd control, but can be outmaneuvered"
+        },
+        {
+          "itemName": "Cerberus",
+          "itemDescription": "The formidable three-headed guardian of the Underworld, Cerberus excels at area control and inflicting damage over time with his poisonous breath and crowd control abilities"
+        },
+        {
+          "itemName": "Thanatos",
+          "itemDescription": "As the personification of death, Thanatos is a high-risk, high-reward assassin who can execute low-health enemies and sustain himself through life-stealing abilities"
+        },
+        {
+          "itemName": "Agni",
+          "itemDescription": "The Hindu god of fire, Agni is a dual-headed mage who utilizes fire-based abilities to deal sustained area damage and control the battlefield"
+        },
+        {
+          "itemName": "Vulcan",
+          "itemDescription": "The Roman god of the forge, Vulcan is a mage who deploys mechanical constructs and turrets to zone enemies and provide consistent damage output"
+        },
+        {
+          "itemName": "Chaac",
+          "itemDescription": "The Mayan god of rain, Chaac is a durable warrior known for his area-of-effect abilities and sustain, making him a strong presence in solo lanes"
+        },
+        {
+          "itemName": "Medusa",
+          "itemDescription": "The Gorgon from Greek mythology, Medusa is a hunter who combines high mobility with potent crowd control, including a petrifying gaze that can turn enemies to stone"
+        },
+        {
+          "itemName": "Ra",
+          "itemDescription": "Consistent damage dealer with healing abilities, suitable for various team compositions"
+        },
+        {
+          "itemName": "Poseidon",
+          "itemDescription": "The Greek god of the sea, Poseidon is a ranged mage who commands tidal forces to control the battlefield and unleash devastating area damage"
+        },
+        {
+          "itemName": "Khepri",
+          "itemDescription": "An Egyptian guardian, Khepri uses his protective abilities to shield allies and can revive fallen teammates with his ultimate"
+        },
+        {
+          "itemName": "Hades",
+          "itemDescription": "The Greek god of the underworld, Hades is a mage who excels at area control and sustain, utilizing his dark powers to drain enemies' health"
+        },
+        {
+          "itemName": "Neith",
+          "itemDescription": "An Egyptian hunter, Neith combines ranged attacks with crowd control, using her spirit arrows and backflip to outmaneuver opponents"
+        },
+        {
+          "itemName": "Nu Wa",
+          "itemDescription": "A Chinese mage, Nu Wa manipulates elemental forces to summon minions, create protective fog, and deal damage across the map"
+        },
+        {
+          "itemName": "Fenrir",
+          "itemDescription": "The Norse wolf god, Fenrir is a melee assassin who relies on his ferocity and leap attacks to hunt down and eliminate targets"
+        },
+        {
+          "itemName": "Athena",
+          "itemDescription": "The Greek goddess of wisdom, Athena is a guardian who excels in initiating fights and protecting allies with her defensive abilities"
+        },
+        {
+          "itemName": "Rama",
+          "itemDescription": "A Hindu hunter, Rama is a ranged physical damage dealer known for his precision shots and mobility, allowing him to excel in duels"
+        },
+        {
+          "itemName": "Pele",
+          "itemDescription": "The Polynesian goddess of volcanoes, Pele is a melee assassin who uses her fiery abilities to burst down enemies and escape danger"
+        },
+        {
+          "itemName": "Awilix",
+          "itemDescription": "A Mayan assassin, Awilix is known for her high mobility and ability to capitalize on enemies' mispositioning with her mount and pull abilities"
+        },
+        {
+          "itemName": "Cupid",
+          "itemDescription": "The Roman god of love, Cupid is a hunter who supports his team with healing and crowd control, charming enemies to disrupt their actions"
+        },
+        {
+          "itemName": "Merlin",
+          "itemDescription": "An Arthurian mage, Merlin wields multiple elemental stances to adapt to various combat situations, offering versatility in his magical attacks"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Anhur",
+          "itemDescription": "An Egyptian hunter known for his powerful ranged attacks and crowd control abilities, making him a formidable presence on the battlefield"
+        },
+        {
+          "itemName": "Izanami",
+          "itemDescription": "A Japanese hunter who utilizes her spectral sickles to deal damage to enemies both when thrown and upon return, excelling in wave clear and sustained damage"
+        },
+        {
+          "itemName": "Cernunnos",
+          "itemDescription": "A Celtic hunter with the unique ability to switch between different seasonal effects on his basic attacks, allowing for versatile combat strategies"
+        },
+        {
+          "itemName": "Cabrakan",
+          "itemDescription": "A Mayan guardian who uses his seismic powers to control the battlefield, creating tremors and walls to disrupt enemy movements"
+        },
+        {
+          "itemName": "Anubis",
+          "itemDescription": "The Egyptian god of the dead, Anubis is a mage who channels powerful dark magic to deal high area damage, though he lacks mobility"
+        },
+        {
+          "itemName": "Susano",
+          "itemDescription": "A Japanese assassin known for his high mobility and burst damage, using his mastery over storms to swiftly eliminate targets"
+        },
+        {
+          "itemName": "Kukulkan",
+          "itemDescription": "A Mayan mage who commands the power of wind to unleash devastating area attacks, controlling the battlefield with his tornadoes"
+        },
+        {
+          "itemName": "Baron Samedi",
+          "itemDescription": "A Voodoo mage who combines healing and damage, using his abilities to control enemies and support allies with his unique blend of powers"
+        },
+        {
+          "itemName": "Bellona",
+          "itemDescription": "A Roman warrior who adapts to combat situations by switching between different weapons, each providing unique advantages in battle"
+        },
+        {
+          "itemName": "Danzaburou",
+          "itemDescription": "A Japanese hunter and trickster tanuki who uses deception and explosive acorns to outmaneuver and damage his enemies"
+        },
+        {
+          "itemName": "Geb",
+          "itemDescription": "The Egyptian god of the earth, Geb is a guardian who protects allies with his stone shield and disrupts enemies with his seismic abilities"
+        },
+        {
+          "itemName": "Hua Mulan",
+          "itemDescription": "A versatile Chinese warrior who masterfully wields a sword, spear, and bow, allowing her to adapt to various combat situations with agility and precision"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Bacchus",
+          "itemDescription": "The Roman god of wine, Bacchus is a guardian who becomes more formidable as he drinks, using his intoxication to enhance his combat abilities"
+        },
+        {
+          "itemName": "Nemesis",
+          "itemDescription": "The Greek goddess of vengeance, Nemesis is an assassin who excels at punishing overextended enemies and reducing their defenses"
+        },
+        {
+          "itemName": "Odin",
+          "itemDescription": "The formidable Norse All-Father, Odin excels in initiating battles and controlling the battlefield with his Ring of Spears, preventing enemy escapes and healing within its bounds"
+        },
+        {
+          "itemName": "Ares",
+          "itemDescription": "The Greek god of war, Ares is a guardian who uses his chains to bind enemies and his ultimate to initiate powerful team fights"
+        }
+      ]
+    }
+  ]
+}

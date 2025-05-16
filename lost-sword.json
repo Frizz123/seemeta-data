@@ -1,0 +1,186 @@
+{
+  "fileName": "lost-sword.json",
+  "title": "Lost Sword Tier List",
+  "description": "Discover the best heroes in Lost Sword with our comprehensive tier list. Find out which characters rank in S Tier, A Tier, B Tier, and C Tier to optimize your team.",
+  "heading": "Lost Sword Tier List",
+  "introText": "Discover the best heroes in Lost Sword with our comprehensive tier list. Find out which characters rank in S Tier, A Tier, B Tier, and C Tier to optimize your team.",
+  "datePublished": "2025-01-30",
+  "dateModified": "2025-01-30",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Vivien",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Guinevere",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Precival",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Claire",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Morganna",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Circe",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Catherine",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lilith",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Morgause",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Merlin",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ran",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Lua",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lucy",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ria",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Elizabeth",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kay",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Isolde",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Isabelle",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Enya",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cristina",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Joan of Arc",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tristan",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Mia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gawain",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Merry",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bedivere",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ethan",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Nymue",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Esmeralda",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gaheris",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Baylin",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Urien",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sarah",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ray",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rowena",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Isis",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rita",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rachel",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

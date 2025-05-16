@@ -1,0 +1,142 @@
+{
+	"fileName": "archero.json",
+	"title": "Archero Tier List",
+	"description": "Our Archero Tier List provides the whole set of tier rankings - heroes, weapons, armor, rings, lockets, bracelets and spellbooks tier lists.",
+	"heading": "Archero Tier List",
+	"introText": "Our Archero Tier List provides the whole set of tier rankings - heroes, weapons, armor, rings, lockets, bracelets and spellbooks tier lists.",
+	"datePublished": "2024-07-15",
+	"dateModified": "2024-12-28",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Heroes",
+					"itemDescription": "Wukong, Dragon Girl, Blazo, Ryan, Sylvan, Melinda, Helix, Shade, Bobo, Raidara, Ayana, Lina, Zeus, Shingen, Ophelia"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Heroes",
+					"itemDescription": "Taiga, Taranis, Elaine, Phoren, Stella, Bonnie, Urasil, Meowgik"
+				},
+				{
+					"itemName": "Pets",
+					"itemDescription": "Laser Bat, Flaming Ghost, Auspicious Mistarion"
+				},
+				{
+					"itemName": "Ability",
+					"itemDescription": "Multishot, Ricochet, Invincibility Star, Front Arrow, Rage, Wingman, Extra Life, Slow Projectile, Grace, Dark Touch, Piercing Shot, Holy Touch, Blaze, Diagonal Arrows, Bolt, Spirit Poisoned Touch, Speed Aura, Through The Wall, Crit Plus"
+				},
+				{
+					"itemName": "Weapons",
+					"itemDescription": "Antiquated Sword, Stalker Staff, Celestial Might, Brave Bow, Gale Force, Saw Blade, Brightspear, Demon Blade, Gale Force"
+				},
+				{
+					"itemName": "Armor",
+					"itemDescription": "Bright Robe, Shadow Robe, Vest of Dexterity"
+				},
+				{
+					"itemName": "Rings",
+					"itemDescription": "Serpent Ring, Lion Ring, Dragon's Ring, Bull Ring"
+				},
+				{
+					"itemName": "Lockets",
+					"itemDescription": "Angel Locket, Counterattack Charm"
+				},
+				{
+					"itemName": "Bracelets",
+					"itemDescription": "Invincible Bracelet, Shield Bracelet"
+				},
+				{
+					"itemName": "Spellbooks",
+					"itemDescription": "Ice Realm, Enlightenment Spellbook, Art of Combat Spellbook, Arcanum of Time"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Heroes",
+					"itemDescription": "Onir, Iris, Gugu, Rolla, Aquea"
+				},
+				{
+					"itemName": "Pets",
+					"itemDescription": "Noisy Owl, Elf, Scythe Mage"
+				},
+				{
+					"itemName": "Ability",
+					"itemDescription": "Shield Guard, Dwarf, Agility, Freeze, Attack Boost, Smart, Dodge Master, Giant, HP Boost, Spirit Blaze, Fury, Spirit Bolt, Speed Plus, HP Gain Aura, Poison Touch, Crit Master, Water Walker, Strong Heart, Headshot, HP Plus, Spirit Freeze, Crit Aura, Attack Speed Boost, Bouncy Ball, Attack Plus"
+				},
+				{
+					"itemName": "Weapons",
+					"itemDescription": "Tornado, Death Scythe, Stalker Staff"
+				},
+				{
+					"itemName": "Armor",
+					"itemDescription": "Phantom Cloak, Golden Chestplate"
+				},
+				{
+					"itemName": "Rings",
+					"itemDescription": "Wolf Ring, Vilebat's Ring, Falcon Ring"
+				},
+				{
+					"itemName": "Lockets",
+					"itemDescription": "Agile Locket, Piercer Locket, Bloodthirsty Locket"
+				},
+				{
+					"itemName": "Bracelets",
+					"itemDescription": "Frozen Bracelet, Quickshot Bracelet, Thunder Bracelet, Blazing Bracelet"
+				},
+				{
+					"itemName": "Spellbooks",
+					"itemDescription": "Arcane Adventure"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Heroes",
+					"itemDescription": "Shari, Atreus"
+				},
+				{
+					"itemName": "Pets",
+					"itemDescription": "Living Bomb"
+				},
+				{
+					"itemName": "Ability",
+					"itemDescription": "Bolt Star, Bolt Strike, Spirit MultiShot, Bolt Meteor, Blazing Meteor, Blazing Star, Rear Arrow, Death Bomb, Death Nova, Side Arrow, Swords, Circles, Summon OneEyed Bat, Toxic Meteor, Fire Strike, Toxic Strike, Toxic Star, Frost Strike, Chilling Blast, Spirit Front Arrow, Frost Star, Shadow Clown, Frost Meteor"
+				},
+				{
+					"itemName": "Weapons",
+					"itemDescription": "Death Scythe, Brave Bow"
+				},
+				{
+					"itemName": "Armor",
+					"itemDescription": "Void Robe"
+				},
+				{
+					"itemName": "Rings",
+					"itemDescription": "Bear Ring"
+				},
+				{
+					"itemName": "Lockets",
+					"itemDescription": "Iron Locket, Bulletproof Locket"
+				},
+				{
+					"itemName": "Bracelets",
+					"itemDescription": "Split Bracelet"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,151 @@
+{
+  "fileName": "wagarashi.json",
+  "title": "Wagarashi Tier List",
+  "description": "",
+  "heading": "Wagarashi Tier List",
+  "introText": "",
+  "datePublished": "2025-05-02",
+  "dateModified": "2025-05-03",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Uchiha",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hyuga",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Uzumaki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rai",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hoshigaki",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Miyajima",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Oribe",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Yotsuki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hatake",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Yuki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Akafura",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lee",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hozuki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kazesuna",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chinoike",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Iburi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Akimichi",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Kaguya",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Senju",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sarutobi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Suzumura",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Karatachi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Aburame",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Mu",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Houki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tengoku",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Inuzuka",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Namikaze",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

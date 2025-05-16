@@ -1,0 +1,339 @@
+{
+  "fileName": "ultimate-tower-defense.json",
+  "title": "Ultimate Tower Defense Tier List",
+  "description": "Explore the Ultimate Tower Defense Tier List, ranked from S to D Tier based on community votes. Discover which units dominate the game and optimize your strategy accordingly.",
+  "heading": "Ultimate Tower Defense Tier List",
+  "introText": "Explore the Ultimate Tower Defense Tier List, ranked from S to D Tier based on community votes. Discover which units dominate the game and optimize your strategy accordingly.",
+  "datePublished": "2025-05-06",
+  "dateModified": "2025-05-06",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "The Cuatro (Segunda)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Itchi Instinct Lord",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Nokia (White Haze)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Awakened Dori",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Choz",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Emiri",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eslife (Soldier)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lord Boris (Unleashed)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Betrayer (Hogyoku)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Itchi Moonless Sky",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Berserk Gus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "The Monarch",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Salter",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "The Primera (Evolved)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eslife (Commander)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Demon King (Evolved)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rage Drago - Support",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Golden Drago - Support",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tsunami - Support",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Thor - Support",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Nezu - Support",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Green Drago - Support",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lady Tamyo - Support",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Crimson Megamen (Evolved)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eslife (Timefreezer)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Egriss",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Brolee Unleashed",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Krumi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Crimson Haired Pirate",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dark Gen",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lord Boris (Sealed)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Horo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Anyah",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lite",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Tomio",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Aroma",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Renji",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Fleet Admiral Akainu",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Meruem",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Admiral Kizaru",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Todo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Prime Greybeard (Evolved)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Teriyaki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shadow",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hameru",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Joe",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Gil",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Power",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Itchi Mugetsu",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Troy Mustard (Evolved)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Psycho",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Greybeard",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chae",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eato",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Demon King",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Netoro",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Admiral Fuji",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lord Boris",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kyaku",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Itchi Bankai Mask",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Yujio",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Colonel Splinters",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Christmas Greybeard",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rodeaus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Betrayer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Jack-o'-Reaper",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Super Saiyan Gukoo (Evolved)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Zorru (Evolved)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tanjie (Evolved)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Admiral Aokiji",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Airwin",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Muichi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rengo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "The Primera",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Captain Brittlesaber",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

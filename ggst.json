@@ -1,0 +1,97 @@
+{
+	"fileName": "ggst.json",
+	"title": "GGST Tier List",
+	"description": "This is a tier list for the game Guilty Gear Strive. The list is based on the opinions of professional players and high-level players. The characters are ranked from S Tier (the best) to B Tier (the worst). It is important to note that this is just one tier list, and there are many other valid opinions out there. The best character for you will depend on your individual playstyle and preferences.",
+	"heading": "GGST Tier List",
+	"introText": "This is a tier list for the game Guilty Gear Strive. The list is based on the opinions of professional players and high-level players. The characters are ranked from S Tier (the best) to B Tier (the worst). It is important to note that this is just one tier list, and there are many other valid opinions out there. The best character for you will depend on your individual playstyle and preferences.",
+	"datePublished": "2024-05-31",
+	"dateModified": "2024-05-31",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Happy Chaos",
+					"itemDescription": "Happy Chaos is one of the best characters in the game thanks to his long range, strong pressure, and great mixups. He can be difficult to learn, but he is very rewarding in the right hands"
+				},
+				{
+					"itemName": "Leo Whitefang",
+					"itemDescription": "Leo is a well-rounded character with strong normals, good pokes, and a solid mixup game. He is also one of the few characters in the game with a command grab"
+				},
+				{
+					"itemName": "Ramlethal Valentine",
+					"itemDescription": "Ramlethal is a zoner with great projectiles and strong keep-pressure. She can be difficult to approach, but she can be very dangerous if she gets in"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Anji Mito",
+					"itemDescription": "Anji is a puppeteer character who uses his kodama to control the battlefield. He can be very tricky to play, but he can be very rewarding if you can learn his setups"
+				},
+				{
+					"itemName": "Axl Low",
+					"itemDescription": "Axl is a long-range character with great normals and a strong punish game. He can be difficult to approach, but he can be very dangerous if you get in"
+				},
+				{
+					"itemName": "Baiken",
+					"itemDescription": "Baiken is a rushdown character with strong mixups and a great reset game. She can be difficult to play, but she can be very rewarding if you can learn her combos"
+				},
+				{
+					"itemName": "Faust",
+					"itemDescription": "Faust is a zoner with great projectiles and a strong mixup game. He can be difficult to approach, but he can be very dangerous if he gets in"
+				},
+				{
+					"itemName": "Goldlewis Dickinson",
+					"itemDescription": "Goldlewis is a grappler with strong normals and a great punish game. He can be difficult to approach, but he can be very dangerous if you get in"
+				},
+				{
+					"itemName": "I-No",
+					"itemDescription": "I-No is a rushdown character with strong mixups and a great reset game. She can be difficult to play, but she can be very rewarding if you can learn her combos"
+				},
+				{
+					"itemName": "May",
+					"itemDescription": "May is a zoner with great projectiles and a strong mixup game. She can be difficult to approach, but she can be very dangerous if she gets in"
+				},
+				{
+					"itemName": "Millia Rage",
+					"itemDescription": "Millia is a rushdown character with strong mixups and a great reset game. She can be difficult to play, but she can be very rewarding if you can learn her combos"
+				},
+				{
+					"itemName": "Nagoriyuki",
+					"itemDescription": "Nagoriyuki is a zoner with great projectiles and a strong mixup game. He can be difficult to approach, but he can be very dangerous if he gets in.\n\nPotēmkin:Potēmkin is a grappler with strong normals and a great punish game. He can be difficult to approach, but he can be very dangerous if you get in"
+				},
+				{
+					"itemName": "Zato One",
+					"itemDescription": "Zato One is a puppeteer character who uses his shadows to control the battlefield. He can be very tricky to play, but he can be very rewarding if you can learn his setups"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Chipp Zanuff",
+					"itemDescription": "Chipp is a rushdown character with strong mixups and a great reset game. He can be difficult to play, but he can be very rewarding if you can learn his combos"
+				},
+				{
+					"itemName": "Giovanna",
+					"itemDescription": "Giovanna is a rushdown character with strong mixups and a great reset game. She can be difficult to play, but she can be very rewarding if you can learn her combos"
+				},
+				{
+					"itemName": "Ky Kiske",
+					"itemDescription": "Ky is a well-rounded character with strong normals, good pokes, and a solid mixup game. He is also one of the few characters in the game with a command grab"
+				},
+				{
+					"itemName": "Leo Whitefang",
+					"itemDescription": "Leo is a well-rounded character with strong normals, good pokes, and a solid mixup game. He is also one of the few characters in the game with a command grab"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"fileName": "jujutsu-kaisen-phantom-parade.json",
+	"title": "Jujutsu Kaisen Phantom Parade Tier List",
+	"description": "Explore the best characters in Jujutsu Kaisen Phantom Parade with our in-depth tier list, ranking each character from S to C tier based on their abilities, synergy, and impact on the game.",
+	"heading": "Jujutsu Kaisen Phantom Parade Tier List",
+	"introText": "Explore the best characters in Jujutsu Kaisen Phantom Parade with our in-depth tier list, ranking each character from S to C tier based on their abilities, synergy, and impact on the game.",
+	"datePublished": "2024-10-28",
+	"dateModified": "2024-10-28",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Satoru Gojo",
+					"itemDescription": "With immense cursed energy and skills like Six Eyes and Limitless, Gojo is the strongest sorcerer. He can obliterate enemies in a single strike, making him invaluable in turn-based combat"
+				},
+				{
+					"itemName": "Yuji Itadori",
+					"itemDescription": "The main character and vessel of the Curse King, Yuji combines superhuman strength, speed, and stamina, placing him among the game's top-tier characters"
+				},
+				{
+					"itemName": "Aoi Todo",
+					"itemDescription": "Known for his destructive moves and Ultimate, which deals significant damage. He pairs well with Yuji, creating an unbeatable duo"
+				},
+				{
+					"itemName": "Kento Nanami",
+					"itemDescription": "A Grade 1 sorcerer and skilled swordsman; his precise strikes make him effective in eliminating enemies with swift cuts"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Megumi Fushiguro",
+					"itemDescription": "Despite his Grade 2 status, Megumi’s high stats and skillset make him formidable. He excels with shikigami summons and weapon skills, adding strong tactical options to the team"
+				},
+				{
+					"itemName": "Maki Zenin",
+					"itemDescription": "Although she lacks sorcerer powers, Maki's exceptional combat skills and weapon mastery allow her to stand against powerful foes. Ideal for players who prioritize physical prowess over jujutsu"
+				},
+				{
+					"itemName": "Toge Inumaki",
+					"itemDescription": "With his unique cursed speech ability, Toge can control or damage enemies with his words. His powerful, dynamic skill animations make him a distinctive choice"
+				},
+				{
+					"itemName": "Masamichi Yaga",
+					"itemDescription": "The school’s principal and skilled puppet master, Yaga brings versatility with his ability to control corpses, though his power level is limited in battle"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Nobara Kugisaki",
+					"itemDescription": "A Grade 3 sorcerer whose abilities are largely copy-pasted from her anime counterpart, placing her in Tier B. Her weapon play is engaging, but she excels more in defense than offense"
+				},
+				{
+					"itemName": "Panda",
+					"itemDescription": "Created by Masamichi Yaga, Panda has two transformations and decent jujutsu skills. Despite his versatility, his damage output rarely surpasses triple digits"
+				},
+				{
+					"itemName": "Noritoshi Kamo",
+					"itemDescription": "Considered one of the most well-rounded characters in Phantom Parade, though he lacks scale. Unlike his anime persona, this former Kamo Clan heir doesn’t display the same killer instinct"
+				},
+				{
+					"itemName": "Mai Zenin",
+					"itemDescription": "Maki’s twin sister with limited jujutsu skills, but skilled with firearms. While she looks cool in battle, her moves lack significant impact"
+				},
+				{
+					"itemName": "Ultimate Mechamaru",
+					"itemDescription": "A fusion of technology and sorcery, effective in early stages but struggles against stronger curses. Feels overpowered at first, but shows limits as enemies grow tougher.\nSaki Rindo & Kaito Yuki: Both exclusive to the game and first-year students at Fukuoka Jujutsu High. Their raw skills reflect their inexperience but hint at potential if you’re able to unlock it"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Momo Nishimiya",
+					"itemDescription": "A current student with minimal jujutsu skills. Despite her training, her abilities are lackluster in combat"
+				},
+				{
+					"itemName": "Kasumi Miwa",
+					"itemDescription": "Another student with very limited jujutsu. Her skill set is below average, making her one of the weaker characters"
+				},
+				{
+					"itemName": "Kiyotaka Ijichi",
+					"itemDescription": "More suited to administrative work than combat, Ijichi struggles in the game’s turn-based RPG format"
+				},
+				{
+					"itemName": "Shoko Ieiri",
+					"itemDescription": "A healer who uses the Reversed Curse Technique to support teammates. Though not strong in combat, her healing abilities justify her place in the game"
+				}
+			]
+		}
+	]
+}

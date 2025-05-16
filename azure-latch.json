@@ -1,0 +1,74 @@
+{
+  "fileName": "azure-latch.json",
+  "title": "Azure Latch Styles Tier List",
+  "description": "",
+  "heading": "Azure Latch Styles Tier List",
+  "introText": "",
+  "datePublished": "2025-05-10",
+  "dateModified": "2025-05-10",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Rin",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sae",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Kaiser",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shidou",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Don Lorenzo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Nagi",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Isagi",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Barou",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Aiku",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        }
+      ]
+    }
+  ]
+}

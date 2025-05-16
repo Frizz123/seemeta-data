@@ -1,0 +1,78 @@
+{
+  "fileName": "rock-fruit.json",
+  "title": "Rock Fruit Tier List",
+  "description": "Explore the Rock Fruit tier list, compiled from community votes, ranking fruits based on their performance in PvE, PvP, and farming scenarios.",
+  "heading": "Rock Fruit Tier List",
+  "introText": "Explore the Rock Fruit tier list, compiled from community votes, ranking fruits based on their performance in PvE, PvP, and farming scenarios.",
+  "datePublished": "2025-05-09",
+  "dateModified": "2025-05-09",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Rumble",
+          "itemDescription": "Exceptional DPS, extensive range, and area-of-effect (AoE) capabilities. Offers significant crowd control, making it versatile across various game modes"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Rubber",
+          "itemDescription": "High damage output with impressive range. However, its narrow AoE abilities can limit effectiveness in certain situations"
+        },
+        {
+          "itemName": "Gura",
+          "itemDescription": "Known for its powerful stuns and interrupts, combined with solid range and AoE"
+        },
+        {
+          "itemName": "Smoke",
+          "itemDescription": "Offers excellent range and damage, making it a strong choice for mid-game progression"
+        },
+        {
+          "itemName": "Ice",
+          "itemDescription": "Provides substantial freeze-based crowd control and short cooldowns, though it has lower DPS compared to others in this tier"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Dark",
+          "itemDescription": "A reliable mid-game fruit with decent damage and AoE, but it has relatively limited range"
+        },
+        {
+          "itemName": "RockMan",
+          "itemDescription": "Allows for flight and delivers moderate damage and AoE. However, it doesn't stand out compared to other legendary fruits"
+        },
+        {
+          "itemName": "Flame",
+          "itemDescription": "Features good AoE and damage but lacks range and crowd control abilities.\nDestructoid"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Light",
+          "itemDescription": "Offers good range and AoE, along with a teleportation move. However, its low DPS diminishes its overall effectiveness"
+        },
+        {
+          "itemName": "Sand",
+          "itemDescription": "Provides health regeneration upon hitting enemies and has decent AoE and range, but suffers from low DPS"
+        },
+        {
+          "itemName": "Bomb",
+          "itemDescription": "Suitable primarily for early-game use due to its limited damage and utility"
+        }
+      ]
+    }
+  ]
+}

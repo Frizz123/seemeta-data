@@ -1,0 +1,82 @@
+{
+	"fileName": "terraria.json",
+	"title": "Terraria Wings Tier List",
+	"description": "Discover the best wings in Terraria with our tier list, ranked from S to C. Learn which wings provide the best flight and utility to help you master the skies in your Terraria adventures.",
+	"heading": "Terraria Wings Tier List",
+	"introText": "Discover the best wings in Terraria with our tier list, ranked from S to C. Learn which wings provide the best flight and utility to help you master the skies in your Terraria adventures.",
+	"datePublished": "2024-09-18",
+	"dateModified": "2024-09-18",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Solar Wings",
+					"itemDescription": "Offers the highest flight speed and longest duration, making it the best all-around wings for endgame content"
+				},
+				{
+					"itemName": "Stardust Wings",
+					"itemDescription": "Provides excellent flight stats with near-perfect horizontal movement, ideal for navigating and combat"
+				},
+				{
+					"itemName": "Nebula Mantle",
+					"itemDescription": "Top-tier wings with great speed, acceleration, and flight time. Particularly effective for mages with extra buffs"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Vortex Booster",
+					"itemDescription": "Has instant acceleration and hover ability, offering great control and maneuverability, but slightly lower flight time than S-tier wings"
+				},
+				{
+					"itemName": "Fishron Wings",
+					"itemDescription": "Superior flight time and speed, plus the ability to fly underwater, making them very versatile for various situations"
+				},
+				{
+					"itemName": "Betsys Wings",
+					"itemDescription": "Decent flight stats with good maneuverability, though lacking the extra features of higher-tier wings"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Festive Wings",
+					"itemDescription": "Offers good flight stats for mid-to-late game but doesn’t compare to the stronger endgame wings"
+				},
+				{
+					"itemName": "Bone Wings",
+					"itemDescription": "Fairly solid for its tier, offering decent speed and flight time, suitable for pre-hardmode progression"
+				},
+				{
+					"itemName": "Harpy Wings",
+					"itemDescription": "Easy to acquire in the early game and provides decent flight capabilities for the time they are available"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Angel Wings",
+					"itemDescription": "Among the first wings you can craft, they offer basic flight ability but are quickly outclassed by later options"
+				},
+				{
+					"itemName": "Demon Wings",
+					"itemDescription": "Similar to Angel Wings in performance, a beginner option with limited flight duration and speed"
+				},
+				{
+					"itemName": "Bee Wings",
+					"itemDescription": "Mid-tier wings with very basic stats, useful for earlier stages but not viable later in the game"
+				}
+			]
+		}
+	]
+}

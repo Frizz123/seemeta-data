@@ -1,0 +1,114 @@
+{
+    "fileName": "counter-side.json",
+    "title": "Counter: Side Tier List",
+    "description": "This Counter: Side tier list is based on character performance in both PvE and PvP content, as well as their versatility and uniqueness. The list is broken down into S, A, B, and C tiers, with S Tier being the best characters and C Tier being the least desirable.",
+    "heading": "Counter: Side Tier List",
+    "introText": "This Counter: Side tier list is based on character performance in both PvE and PvP content, as well as their versatility and uniqueness. The list is broken down into S, A, B, and C tiers, with S Tier being the best characters and C Tier being the least desirable. It is important to note that this is just a general tier list and there are many other factors to consider when choosing a team. The best team for you will depend on your playstyle and the content you are trying to clear.",
+    "datePublished": "2024-05-16",
+    "dateModified": "2024-05-16",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Aileen",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Yumi",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Seo Yoon",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Christine",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Nari",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Ifrit",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Elizabeth",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Dayna",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Clara",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Hazel",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Anne",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Rosaria",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Evelyn",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Maria",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Replacer King",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Sohee",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Liz",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Jackie",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Nia",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Philip",
+                    "itemDescription": ""
+                }
+            ]
+        }
+    ]
+}

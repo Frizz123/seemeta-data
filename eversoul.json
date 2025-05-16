@@ -1,0 +1,89 @@
+{
+    "fileName": "eversoul.json",
+    "title": "Eversoul Tier List",
+    "description": "The ultimate guide to building the best team in Eversoul. This tier list is based on the current meta and will help you choose the best characters for DPS, tanking, support, and more.",
+    "heading": "Eversoul Tier List",
+    "introText": "The ultimate guide to building the best team in Eversoul. This tier list is based on the current meta and will help you choose the best characters for DPS, tanking, support, and more. Whether you're a new player or a seasoned veteran, this tier list is a must-have for any Eversoul player.",
+    "datePublished": "2024-05-16",
+    "dateModified": "2024-05-16",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Adrianne",
+                    "itemDescription": "The queen of DPS, Adrianne is a must-have for any team. She deals incredible damage with her AoE attacks and can quickly wipe out entire groups of enemies"
+                },
+                {
+                    "itemName": "Aki",
+                    "itemDescription": "Another top-tier DPS character, Aki is known for her ability to assassinate key targets and disrupt enemy formations. She's also a great choice for PvP"
+                },
+                {
+                    "itemName": "Catherine",
+                    "itemDescription": "A versatile support character, Catherine can provide both healing and buffs to her allies, making her a valuable asset to any team"
+                },
+                {
+                    "itemName": "Chloe",
+                    "itemDescription": "A powerful tank, Chloe can absorb massive amounts of damage and protect her teammates. She's also a great choice for crowd control"
+                },
+                {
+                    "itemName": "Claudia",
+                    "itemDescription": "A unique DPS character, Claudia deals damage over time with her poison debuffs. She's particularly effective against bosses and tanky enemies"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Linzy",
+                    "itemDescription": "A versatile warrior, Linzy can deal damage, tank hits, and even debuff enemies. She's a great all-around character that can fit into a variety of teams"
+                },
+                {
+                    "itemName": "Vivienne",
+                    "itemDescription": "A powerful mage, Vivienne deals high damage with her AoE spells. She's also a great choice for crowd control"
+                },
+                {
+                    "itemName": "Claire",
+                    "itemDescription": "A support character that specializes in buffs, Claire can make her allies stronger and more resilient. She's a great choice for teams that focus on burst damage"
+                },
+                {
+                    "itemName": "Flynn",
+                    "itemDescription": "A tanky DPS character, Flynn can deal damage while also taking hits. He's a great choice for teams that need a bit of extra durability"
+                },
+                {
+                    "itemName": "Jacqueline",
+                    "itemDescription": "A support character that specializes in healing, Jacqueline can keep her allies alive even in the toughest battles. She's a great choice for teams that need a bit of extra survivability"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Jade",
+                    "itemDescription": "A solid early-game character, Jade falls off a bit in the late game. However, she's still a decent choice for PvE content"
+                },
+                {
+                    "itemName": "Jiho",
+                    "itemDescription": "A DPS character that relies on debuffs to deal damage, Jiho can be effective against certain teams. However, she's not as versatile as some of the other DPS characters on this list"
+                },
+                {
+                    "itemName": "Manon",
+                    "itemDescription": "A support character that provides both healing and buffs, Manon is a decent all-around character. However, she's not as powerful as some of the other support characters on this list"
+                },
+                {
+                    "itemName": "Mephistopheles",
+                    "itemDescription": "A DPS character that deals damage over time with her poison debuffs, Mephistopheles is similar to Claudia. However, she's not as strong as Claudia and is generally not considered to be as viable"
+                },
+                {
+                    "itemName": "Miriam",
+                    "itemDescription": "A support character that specializes in debuffs, Miriam can be effective against certain teams. However, she's not as versatile as some of the other support characters on this list"
+                }
+            ]
+        }
+    ]
+}

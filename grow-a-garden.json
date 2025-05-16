@@ -1,0 +1,147 @@
+{
+  "fileName": "grow-a-garden.json",
+  "title": "Grow A Garden Tier List",
+  "description": "",
+  "heading": "Grow A Garden Tier List",
+  "introText": "",
+  "datePublished": "2025-05-04",
+  "dateModified": "2025-05-04",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Grape",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Mushroom",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Candy Blossom",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Soul Fruit",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Mango",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dragon Fruit",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Pumpkin",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bamboo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Papaya",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cactus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Coconut",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Tomato",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Corn",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Watermelon",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Peach",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Blueberry",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Orange Tulip",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Strawberry",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Carrot",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Daffodil",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Apple",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Pear",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Raspberry",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Chest Fruits",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Exotic Seed Pack",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Premium Seed Pack",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Event Crops",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+	"fileName": "pixel-heroes.json",
+	"title": "Pixel Heroes Tier List",
+	"description": "Pixel Heroes is an idle RPG game that has quickly gained popularity due to its unique gameplay and diverse cast of characters. However, with so many heroes to choose from, it can be tough to know which ones are worth investing in. That's where this tier list comes in. This tier list is based on the heroes overall performance in various aspects of the game, including PvE, PvP, and Guild Wars. It's important to note that this is just a general guideline, and the best heroes for you may vary depending on your playstyle and team composition.",
+	"heading": "Pixel Heroes Tier List",
+	"introText": "Pixel Heroes is an idle RPG game that has quickly gained popularity due to its unique gameplay and diverse cast of characters. However, with so many heroes to choose from, it can be tough to know which ones are worth investing in. That's where this tier list comes in. This tier list is based on the heroes overall performance in various aspects of the game, including PvE, PvP, and Guild Wars. It's important to note that this is just a general guideline, and the best heroes for you may vary depending on your playstyle and team composition.",
+	"datePublished": "2024-05-30",
+	"dateModified": "2024-05-30",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Goddess of War Valkyrie",
+					"itemDescription": "A powerful DPS hero who can deal massive damage to single targets"
+				},
+				{
+					"itemName": "Psychopomp Charon",
+					"itemDescription": "A versatile support hero who can heal, buff, and debuff enemies"
+				},
+				{
+					"itemName": "God of Time Cronos",
+					"itemDescription": "A powerful control hero who can manipulate time to his advantage"
+				},
+				{
+					"itemName": "Floriya Melissa",
+					"itemDescription": "A strong nuker who can deal AoE damage to multiple enemies"
+				},
+				{
+					"itemName": "Camarilla Bloodline Toreador",
+					"itemDescription": "A tanky DPS hero who can deal damage while taking hits"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Shroud Walker Chen",
+					"itemDescription": "A stealthy assassin who can deal burst damage to enemies"
+				},
+				{
+					"itemName": "Star Guardian Freyja",
+					"itemDescription": "A powerful healer who can also deal some damage"
+				},
+				{
+					"itemName": "Succubus Adlith Morrigan",
+					"itemDescription": "A crowd control specialist who can stun and confuse enemies"
+				},
+				{
+					"itemName": "Goddess of Death Hela",
+					"itemDescription": "A powerful DPS hero who can deal damage over time"
+				},
+				{
+					"itemName": "Lost Torrent Yuna",
+					"itemDescription": "A versatile support hero who can heal, buff, and debuff enemies"
+				},
+				{
+					"itemName": "Snowflakes Annelia",
+					"itemDescription": "A strong AoE damage dealer who can freeze enemies"
+				},
+				{
+					"itemName": "Lady Justice Themis",
+					"itemDescription": "A tanky support hero who can protect her allies"
+				},
+				{
+					"itemName": "King of Uruk Gil",
+					"itemDescription": "A powerful DPS hero who can deal damage to multiple enemies"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Soul Reaper Lilith",
+					"itemDescription": "A powerful DPS hero who can deal damage to single targets"
+				},
+				{
+					"itemName": "Oracle of Wisdom Cassandra",
+					"itemDescription": "A support hero who can buff her allies and debuff enemies"
+				},
+				{
+					"itemName": "Gunslinger Jack",
+					"itemDescription": "A DPS hero who can deal damage to multiple enemies"
+				},
+				{
+					"itemName": "Cyber Angel Gabriel",
+					"itemDescription": "A support hero who can heal and buff her allies"
+				},
+				{
+					"itemName": "Serpent Queen Eris",
+					"itemDescription": "A DPS hero who can deal damage over time"
+				},
+				{
+					"itemName": "Fallen Angel Lucifer",
+					"itemDescription": "A powerful DPS hero who can deal damage to single targets"
+				},
+				{
+					"itemName": "Dragon Knight Lancelot",
+					"itemDescription": "A tanky DPS hero who can deal damage and take hits"
+				},
+				{
+					"itemName": "Elf Princess Tiana",
+					"itemDescription": "A support hero who can heal and buff her allies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Grim Reaper Thanatos",
+					"itemDescription": "A DPS hero who can deal damage to single targets"
+				},
+				{
+					"itemName": "Valkyrie Freya",
+					"itemDescription": "A support hero who can heal and buff her allies"
+				},
+				{
+					"itemName": "Pirate Captain Morgan",
+					"itemDescription": "A DPS hero who can deal damage to multiple enemies"
+				},
+				{
+					"itemName": "Druid of Nature Oberon",
+					"itemDescription": "A support hero who can heal and buff her allies"
+				},
+				{
+					"itemName": "Succubus Lilith",
+					"itemDescription": "A DPS hero who can deal damage over time"
+				},
+				{
+					"itemName": "Phantom Thief Robin Hood",
+					"itemDescription": "A DPS hero who can deal damage to single targets"
+				},
+				{
+					"itemName": "Swordmaster Leon",
+					"itemDescription": "A tanky DPS hero who can deal damage and take hits"
+				},
+				{
+					"itemName": "Fairy Queen Titania",
+					"itemDescription": "A support hero who can heal and buff her allies"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,98 @@
+{
+    "fileName": "touhou-lost-word.json",
+    "title": "Touhou Lost Word Tier List",
+    "description": "This tier list ranks the best characters in Touhou Lost Word. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best and C Tier being the worst.",
+    "heading": "Touhou Lost Word Tier List",
+    "introText": "This tier list ranks the best characters in Touhou Lost Word. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best and C Tier being the worst. The tier list is based on the characters' overall performance in various aspects of the game, including damage output, survivability, utility, and overall impact on the team. Please note that this tier list is subjective and may vary depending on individual playstyles and team compositions.",
+    "datePublished": "2024-05-16",
+    "dateModified": "2024-05-16",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Flandre Scarlet (Vampire Pursuing the Hunter)",
+                    "itemDescription": "The queen of damage, Flandre can dish out insane amounts of damage with her powerful attacks. She's also relatively tanky and has access to some useful utility skills"
+                },
+                {
+                    "itemName": "Kaguya Houraisan",
+                    "itemDescription": "A versatile character who can do it all, Kaguya is a top-tier attacker, debuffer, and support unit. Her ability to manipulate the moon's power makes her a force to be reckoned with"
+                },
+                {
+                    "itemName": "Keine Kamishirasawa",
+                    "itemDescription": "A powerful nuker with a wide range of attacks, Keine can clear out waves of enemies with ease. She's also surprisingly durable and can buff her allies"
+                },
+                {
+                    "itemName": "Koakuma (Compendium of Advanced Magic)",
+                    "itemDescription": "A master of darkness magic, Koakuma is a powerful attacker and debuffer. She can also inflict debuffs that weaken enemies and make them easier to defeat"
+                },
+                {
+                    "itemName": "Koishi Komeiji (Spontaneous White Beauty)",
+                    "itemDescription": "A powerful attacker with a unique ability that lets her see through walls, Koishi can deal massive damage to enemies while avoiding their attacks. She's also a good debuffer"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Clownpiece",
+                    "itemDescription": "A high-speed attacker with a focus on critical hits, Clownpiece can deal massive damage if she gets lucky. She's also a good debuffer"
+                },
+                {
+                    "itemName": "Eirin Yagokoro",
+                    "itemDescription": "A powerful healer and support unit, Eirin can keep your team alive and buffed up. She's also a decent attacker"
+                },
+                {
+                    "itemName": "Junko",
+                    "itemDescription": "A single-target attacker who can deal massive damage to one enemy at a time, Junko is great for taking out bosses. She's also a good debuffer"
+                },
+                {
+                    "itemName": "Lunar War Oracle Sanae Kochiya",
+                    "itemDescription": "A versatile attacker and support unit, Sanae can do a bit of everything. She's not the best at any one thing, but she's a solid all-around character"
+                },
+                {
+                    "itemName": "Medicine Melancholy",
+                    "itemDescription": "A powerful attacker with a focus on debuffs, Medicine can weaken enemies and make them easier to defeat. She's also a decent healer"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Byakuren Hijiri",
+                    "itemDescription": "A powerful attacker with a focus on AoE damage, Byakuren is great for clearing out waves of enemies. However, she's not very tanky and doesn't have much utility"
+                },
+                {
+                    "itemName": "Hecatia Lapislazuli (Magician of Space and Time)",
+                    "itemDescription": "A versatile character who can do a bit of everything, Hecatia is not the best at any one thing. However, she's still a solid all-around character"
+                },
+                {
+                    "itemName": "Iku Nagae",
+                    "itemDescription": "A powerful attacker with a focus on single-target damage, Iku is great for taking out bosses. However, she's not very tanky and doesn't have much utility"
+                },
+                {
+                    "itemName": "Mokou Fumo",
+                    "itemDescription": "A powerful attacker with a focus on debuffs, Mokou can weaken enemies and make them easier to defeat. However, she's not very tanky and doesn't have much utility"
+                },
+                {
+                    "itemName": "Remilia Scarlet (Tiny Devil Mistress)",
+                    "itemDescription": "A powerful attacker with a focus on AoE damage, Remilia is great for clearing out waves of enemies. However, she's not very tanky and doesn't have much utility"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Cirno (Ice Fairy)",
+                    "itemDescription": "A powerful attacker with a focus on single-target damage, Cirno is great for taking out bosses"
+                }
+            ]
+        }
+    ]
+}

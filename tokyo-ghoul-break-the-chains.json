@@ -1,0 +1,81 @@
+{
+	"fileName": "tokyo-ghoul-break-the-chains.json",
+	"title": "Tokyo Ghoul Break the Chains Tier List",
+	"description": "Explore our detailed Tokyo Ghoul Break the Chains Tier List. From S to B Tier, we rank each character's strengths and abilities to enhance your gameplay.",
+	"heading": "Tokyo Ghoul Break the Chains Tier List",
+	"introText": "Explore our detailed Tokyo Ghoul Break the Chains Tier List. From S to B Tier, we rank each character's strengths and abilities to enhance your gameplay.",
+	"datePublished": "2024-10-31",
+	"dateModified": "2024-10-31",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Uta (Mask eater)",
+					"itemDescription": "Speed"
+				},
+				{
+					"itemName": "Tokka Kirishima (Rabbit)",
+					"itemDescription": "Strength"
+				},
+				{
+					"itemName": "Rize Kamishiro (Binge eater)",
+					"itemDescription": "Skill"
+				},
+				{
+					"itemName": "Kohtaro Amon (Twinblades of Justice)",
+					"itemDescription": "Strength"
+				},
+				{
+					"itemName": "Ken Kaneki (Awaken)",
+					"itemDescription": "Speed"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Kisho Arima (CCG’s Reaper)",
+					"itemDescription": "Psyche"
+				},
+				{
+					"itemName": "Shu Tsukiyama (Gourmet)",
+					"itemDescription": "Strength"
+				},
+				{
+					"itemName": "Yukinori Shinohara (Arata Proto)",
+					"itemDescription": "Skill"
+				},
+				{
+					"itemName": "Iwao Kuroiwa (Arata Proto)",
+					"itemDescription": "Skill"
+				},
+				{
+					"itemName": "Ayumu Hogi (Long-haired Ghoul Investigator)",
+					"itemDescription": "Speed"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Nashiro Yasushisa (Spotless Shroud)",
+					"itemDescription": "Speed"
+				},
+				{
+					"itemName": "Noro (Powerful Revival)",
+					"itemDescription": "Speed"
+				},
+				{
+					"itemName": "Kurona Yasushisa (Spotless Shroud)",
+					"itemDescription": "Speed"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"fileName": "eternal-return.json",
+	"title": "Eternal Return Tier List",
+	"description": "Discover the ultimate Eternal Return tier list, ranking the best characters from S Tier to C Tier. Find out which heroes dominate the battlefield and which ones need improvement in this comprehensive guide. Stay ahead in the game with our up-to-date character rankings and descriptions.",
+	"heading": "Eternal Return Tier List",
+	"introText": "Discover the ultimate Eternal Return tier list, ranking the best characters from S Tier to C Tier. Find out which heroes dominate the battlefield and which ones need improvement in this comprehensive guide. Stay ahead in the game with our up-to-date character rankings and descriptions.",
+	"datePublished": "2024-06-15",
+	"dateModified": "2024-06-15",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Hyunwoo",
+					"itemDescription": "A powerful melee fighter with high burst damage and crowd control abilities"
+				},
+				{
+					"itemName": "Aya",
+					"itemDescription": "A versatile ranged character with strong kiting abilities and burst damage potential"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Adela",
+					"itemDescription": "A durable melee character with good sustain and crowd control skills"
+				},
+				{
+					"itemName": "Xiukai",
+					"itemDescription": "A tanky melee character with high survivability and disruption abilities"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Jackie",
+					"itemDescription": "A mobile melee character with decent burst damage but lacks survivability"
+				},
+				{
+					"itemName": "Sissela",
+					"itemDescription": "A mage character with strong crowd control abilities but lower damage output"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Fiora",
+					"itemDescription": "A melee character focused on dueling but lacks team fight impact"
+				},
+				{
+					"itemName": "Hart",
+					"itemDescription": "A tanky character with limited crowd control and damage potential"
+				}
+			]
+		}
+	]
+}

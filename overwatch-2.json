@@ -1,0 +1,182 @@
+{
+    "fileName": "overwatch-2.json",
+    "title": "Overwatch 2 Tier List",
+    "description": "Discover the top heroes in Overwatch 2 as of December 2024. Explore our comprehensive tier list to enhance your gameplay and climb the ranks.",
+    "heading": "Overwatch 2 Tier List",
+    "introText": "Discover the top heroes in Overwatch 2 as of December 2024. Explore our comprehensive tier list to enhance your gameplay and climb the ranks.",
+    "datePublished": "2024-12-10",
+    "dateModified": "2024-12-10",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Brigitte",
+                    "itemDescription": "Offers exceptional support with strong healing and defensive capabilities, making her indispensable in team compositions"
+                },
+                {
+                    "itemName": "Juno",
+                    "itemDescription": "A versatile support hero with high mobility and significant healing output, crucial for sustaining team fights"
+                },
+                {
+                    "itemName": "Widowmaker",
+                    "itemDescription": "Provides unparalleled long-range damage, capable of eliminating key targets with precise shots"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Ana",
+                    "itemDescription": "A sniper support hero with potent healing and crowd control abilities, effective in various team setups"
+                },
+                {
+                    "itemName": "Ashe",
+                    "itemDescription": "A damage hero with versatile attack options and a game-changing ultimate, suitable for multiple scenarios"
+                },
+                {
+                    "itemName": "Baptiste",
+                    "itemDescription": "A support hero offering strong healing and defensive utilities, adaptable to different team strategies"
+                },
+                {
+                    "itemName": "Cassidy",
+                    "itemDescription": "A reliable damage dealer with consistent output and crowd control, effective in mid-range engagements"
+                },
+                {
+                    "itemName": "D.Va",
+                    "itemDescription": "A tank with high mobility and damage mitigation, capable of disrupting enemy formations"
+                },
+                {
+                    "itemName": "Echo",
+                    "itemDescription": "A damage hero with high mobility and adaptable abilities, effective in various combat situations"
+                },
+                {
+                    "itemName": "Genji",
+                    "itemDescription": "A swift damage hero excelling in close-quarters combat and flanking maneuvers"
+                },
+                {
+                    "itemName": "Kiriko",
+                    "itemDescription": "A support hero with healing and offensive capabilities, providing flexibility in team compositions.\nLúcio: A support hero offering speed boosts and healing, enhancing team mobility and sustain"
+                },
+                {
+                    "itemName": "Mei",
+                    "itemDescription": "A damage hero with crowd control abilities, effective in controlling battlefield areas"
+                },
+                {
+                    "itemName": "Orisa",
+                    "itemDescription": "A tank with strong defensive skills and crowd control, anchoring team defenses"
+                },
+                {
+                    "itemName": "Pharah",
+                    "itemDescription": "A damage hero with aerial dominance, delivering consistent damage from above"
+                },
+                {
+                    "itemName": "Ramattra",
+                    "itemDescription": "A tank with versatile abilities, adaptable to various combat scenarios"
+                },
+                {
+                    "itemName": "Sojourn",
+                    "itemDescription": "A damage hero with high mobility and burst damage potential, effective in skirmishes"
+                },
+                {
+                    "itemName": "Tracer",
+                    "itemDescription": "A highly mobile damage hero excelling in hit-and-run tactics and backline disruption"
+                },
+                {
+                    "itemName": "Winston",
+                    "itemDescription": "A tank with excellent mobility, ideal for initiating fights and diving into enemy backlines"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Doomfist",
+                    "itemDescription": "A tank with high mobility and disruptive abilities, requiring precise play to maximize impact"
+                },
+                {
+                    "itemName": "Hanzo",
+                    "itemDescription": "A damage hero with long-range capabilities, effective in skilled hands"
+                },
+                {
+                    "itemName": "Illari",
+                    "itemDescription": "A support hero with healing and offensive options, offering balanced support"
+                },
+                {
+                    "itemName": "Junker Queen",
+                    "itemDescription": "A tank with offensive abilities, effective in aggressive team compositions"
+                },
+                {
+                    "itemName": "Junkrat",
+                    "itemDescription": "A damage hero excelling in area denial and burst damage, effective in chokepoints"
+                },
+                {
+                    "itemName": "Mauga",
+                    "itemDescription": "A tank with strong offensive capabilities, suitable for frontline engagements"
+                },
+                {
+                    "itemName": "Moira",
+                    "itemDescription": "A support hero with high healing output and damage potential, adaptable to various situations"
+                },
+                {
+                    "itemName": "Reaper",
+                    "itemDescription": "A damage hero excelling in close-range combat, effective against tanks"
+                },
+                {
+                    "itemName": "Reinhardt",
+                    "itemDescription": "A tank with strong shielding and melee damage, anchoring team defenses"
+                },
+                {
+                    "itemName": "Sigma",
+                    "itemDescription": "A tank with versatile abilities, effective in controlling engagements"
+                },
+                {
+                    "itemName": "Symmetra",
+                    "itemDescription": "A damage hero with area control abilities, effective in structured team plays.\nTorbjörn: A damage hero with deployable turrets, providing area denial and support"
+                },
+                {
+                    "itemName": "Venture",
+                    "itemDescription": "A damage hero with versatile attack options, adaptable to various combat scenarios"
+                },
+                {
+                    "itemName": "Zenyatta",
+                    "itemDescription": "A support hero with healing and damage-dealing capabilities, effective in balanced team compositions"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Mercy",
+                    "itemDescription": "A support hero with strong single-target healing, but less impactful in the current meta"
+                },
+                {
+                    "itemName": "Roadhog",
+                    "itemDescription": "A tank with high health and self-sustain, but less effective due to current meta shifts"
+                },
+                {
+                    "itemName": "Soldier",
+                    "itemDescription": "76: A damage hero with consistent output, but overshadowed by more impactful heroes"
+                },
+                {
+                    "itemName": "Sombra",
+                    "itemDescription": "A damage hero with stealth and hacking abilities, less effective in the current meta"
+                },
+                {
+                    "itemName": "Wrecking Ball",
+                    "itemDescription": "A tank with high mobility, but less impactful in coordinated team plays"
+                },
+                {
+                    "itemName": "Zarya",
+                    "itemDescription": "A tank with strong shielding abilities, but less effective in the current meta"
+                }
+            ]
+        }
+    ]
+}

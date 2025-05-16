@@ -1,0 +1,98 @@
+{
+	"fileName": "for-honor.json",
+	"title": "For Honor Tier List",
+	"description": "Discover the definitive For Honor Tier List. Find out which heroes rank in the S, A, B, and C Tiers for optimal gameplay and strategic advantage.",
+	"heading": "For Honor Tier List",
+	"introText": "Discover the definitive For Honor Tier List. Find out which heroes rank in the S, A, B, and C Tiers for optimal gameplay and strategic advantage.",
+	"datePublished": "2024-07-25",
+	"dateModified": "2024-07-25",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Warden",
+					"itemDescription": "Exceptional balance of offense and defense, versatile in both duels and team fights"
+				},
+				{
+					"itemName": "Kensei",
+					"itemDescription": "Strong mix-ups and high damage output, effective in various combat scenarios"
+				},
+				{
+					"itemName": "Nobushi",
+					"itemDescription": "Long reach and poison attacks, excels in zoning and controlling the battlefield"
+				},
+				{
+					"itemName": "Raider",
+					"itemDescription": "Powerful attacks and excellent crowd control, dominant in team fights"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Shinobi",
+					"itemDescription": "High mobility and range, effective for hit-and-run tactics"
+				},
+				{
+					"itemName": "Berserker",
+					"itemDescription": "Aggressive playstyle with relentless attacks, excels in one-on-one combat"
+				},
+				{
+					"itemName": "Conqueror",
+					"itemDescription": "Strong defense and counter-attacks, great for holding positions"
+				},
+				{
+					"itemName": "Centurion",
+					"itemDescription": "Versatile with powerful chain attacks, effective in both offense and defense"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Lawbringer",
+					"itemDescription": "Good crowd control and defense, but slower and requires strategic play"
+				},
+				{
+					"itemName": "Aramusha",
+					"itemDescription": "Balanced but lacks the specialization of higher-tier heroes"
+				},
+				{
+					"itemName": "Gladiator",
+					"itemDescription": "Agile and quick, but can be outmatched by more powerful heroes"
+				},
+				{
+					"itemName": "Highlander",
+					"itemDescription": "Strong offense with powerful attacks, but slower and more predictable"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Peacekeeper",
+					"itemDescription": "High speed and damage, but very fragile and requires high skill to master"
+				},
+				{
+					"itemName": "Shugoki",
+					"itemDescription": "High health and strong attacks, but very slow and vulnerable to fast opponents"
+				},
+				{
+					"itemName": "Jormungandr",
+					"itemDescription": "Powerful but slow, with a limited move set that can be predictable"
+				},
+				{
+					"itemName": "Warlord",
+					"itemDescription": "Strong defense but lacks the offensive capabilities of higher-tier heroes"
+				}
+			]
+		}
+	]
+}

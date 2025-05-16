@@ -1,0 +1,186 @@
+{
+	"fileName": "raid-shadow-legends.json",
+	"title": "Raid Shadow Legends Tier List",
+	"description": "Raid Shadow Legends is a mobile game that features a large cast of characters known as Champions. Each Champion has its own unique abilities and stats, making them better suited for different roles. This can make it difficult to know which Champions are the best, especially for new players. To help you out, I've created a tier list of the best Champions in Raid Shadow Legends. This list is based on the overall usefulness of each Champion in various aspects of the game, including PvE, PvP, and Clan Boss.",
+	"heading": "Raid Shadow Legends Tier List",
+	"introText": "Raid Shadow Legends is a mobile game that features a large cast of characters known as Champions. Each Champion has its own unique abilities and stats, making them better suited for different roles. This can make it difficult to know which Champions are the best, especially for new players. To help you out, I've created a tier list of the best Champions in Raid Shadow Legends. This list is based on the overall usefulness of each Champion in various aspects of the game, including PvE, PvP, and Clan Boss.",
+	"datePublished": "2024-06-04",
+	"dateModified": "2025-04-09",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Acelin the Stalwart",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Acrizia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Alatreon Blademaster",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Arbiter",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Armanz the Magnificent",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bad-el-Kazar",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Big 'Un",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cardiel",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Siphi of the Stars",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Geomancer",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Krisk the Spectral Bandit",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Duchess Lilitu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lydia the Deathless",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mashalled",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sir Nicholas",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Skullcrusher",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rhazin Scarheart",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Faytrelle",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Nethril",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Valkyrie",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Madame Serris",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Septimus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Deacon Armstrong",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Warlord",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Peydma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gorgorab",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ninja",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Elder Skarg",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Belloth the Coldhearted",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kael",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Galek",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Reindeer",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Warmaster",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rearguard",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Speedboost",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Frozen Banshee",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Magnarr the Fearless",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Zargala",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

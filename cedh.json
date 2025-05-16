@@ -1,0 +1,80 @@
+{
+    "fileName": "cedh.json",
+    "title": "CEDH Tier List",
+    "description": "This is a comprehensive guide to the CEDH tier list. It includes information on the best decks in the format, as well as tips for choosing a deck that is right for you.",
+    "heading": "CEDH Tier List",
+    "introText": "This is a comprehensive guide to the CEDH tier list. It includes information on the best decks in the format, as well as tips for choosing a deck that is right for you.",
+    "datePublished": "2024-05-13",
+    "dateModified": "2024-05-13",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Kinnan, Bonder Prodigy",
+                    "itemDescription": "A Simic value deck that can generate a lot of mana and card advantage"
+                },
+                {
+                    "itemName": "Kraum, Ludevic's Opus / Tymna the Weaver",
+                    "itemDescription": "A Temur control deck that can disrupt its opponents' plans and win the game through combos or card advantage"
+                },
+                {
+                    "itemName": "Sisay, Weatherlight Captain",
+                    "itemDescription": "A Bant superfriends deck that can cheat out powerful planeswalkers and ult them for the win"
+                },
+                {
+                    "itemName": "Rograkh, Son of Rohgahh / Silas Renn, Seeker Adept",
+                    "itemDescription": "A Mardu aggro deck that can quickly kill its opponents with powerful creatures and direct damage"
+                },
+                {
+                    "itemName": "Najeela, the Blade-Blossom",
+                    "itemDescription": "A Naya warrior tribal deck that can swarm the board with creatures and win through combat or non-combat combos"
+                },
+                {
+                    "itemName": "Tivit, Seller of Secrets",
+                    "itemDescription": "An Izzet storm deck that can generate a lot of mana and play a large number of spells in a single turn"
+                },
+                {
+                    "itemName": "Kenrith, the Returned King",
+                    "itemDescription": "A Mardu control deck that can play a variety of strategies, including combos, control, and midrange"
+                },
+                {
+                    "itemName": "Dargo, the Shipwrecker / Thrasios, Triton Hero",
+                    "itemDescription": "A Temur tempo deck that can disrupt its opponents' plans and win the game through card advantage or combat"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Yuriko, the Master of Shadows",
+                    "itemDescription": "A Dimir ninja tribal deck that can quickly kill its opponents with unblockable creatures"
+                },
+                {
+                    "itemName": "Gitrog Monster",
+                    "itemDescription": "A Golgari landfall deck that can generate a lot of value and win the game through land combos"
+                },
+                {
+                    "itemName": "Tevesh Szat, Doom Eternal / Kraum, Ludevic's Opus",
+                    "itemDescription": "A Grixis control deck that can disrupt its opponents' plans and win the game through combos or card advantage"
+                },
+                {
+                    "itemName": "Winota, Joiner of Forces",
+                    "itemDescription": "A Mardu prowess deck that can quickly cheat out powerful creatures and win through combat"
+                },
+                {
+                    "itemName": "The Gitrog Monster",
+                    "itemDescription": "A Golgari landfall deck that can generate a lot of value and win the game through land combos"
+                },
+                {
+                    "itemName": "Thrasios, Triton Hero / Tymna the Weaver",
+                    "itemDescription": "A Temur control deck that can disrupt its opponents' plans and win the game through combos or card advantage"
+                }
+            ]
+        }
+    ]
+}

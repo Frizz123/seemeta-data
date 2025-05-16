@@ -1,0 +1,94 @@
+{
+  "fileName": "jujutsu-infinite-innate.json",
+  "title": "Jujutsu Infinite Innate Tier List",
+  "description": "Discover the ultimate tier list for \"Jujutsu Infinite\" innate techniques, ranking abilities from S to C Tier with detailed descriptions of their powers and gameplay impact.",
+  "heading": "Jujutsu Infinite Innate Tier List",
+  "introText": "Discover the ultimate tier list for \"Jujutsu Infinite\" innate techniques, ranking abilities from S to C Tier with detailed descriptions of their powers and gameplay impact.",
+  "datePublished": "2024-12-27",
+  "dateModified": "2024-12-27",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Star Rage",
+          "itemDescription": "Features some of the strongest moves in the game, such as Total Collapse (a devastating black hole attack) and mass meter-based AOE attacks. Its versatility and variety make it exciting, with moves changing based on air position or mass meter fullness"
+        },
+        {
+          "itemName": "Infinity",
+          "itemDescription": "Highly flexible for both PVP and PVE, boasting some of the most potent AOE moves and the strongest Domain Expansion in the game. If you roll Infinity, don’t reroll it"
+        },
+        {
+          "itemName": "Curse Queen",
+          "itemDescription": "Enhanced with a fixed Jacob’s Ladder and a powerful Domain Expansion, this technique stands out. It can copy enemy moves while Jacob’s Ladder and the Domain deal massive damage"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Demon Vessel",
+          "itemDescription": "Sukuna's technique has solid abilities like World Cutting Slash and a strong Domain, but its combat moves need a bit more variety to reach S Tier"
+        },
+        {
+          "itemName": "Volcano",
+          "itemDescription": "A Legendary technique that excels in PVE with powerful AOE damage moves like Fissures and Meteors. Great for wiping out swarms and bosses when paired with Damage and Rage buffs"
+        },
+        {
+          "itemName": "Soul Manipulation",
+          "itemDescription": "A PVP and single-target powerhouse. Soul Touch is a near-instant hit grab attack dealing immense damage, and the self-buff is one of the best in the game"
+        },
+        {
+          "itemName": "Hydrokinesis",
+          "itemDescription": "Versatile for single-target and AOE damage, offering slow and damage-reduction debuffs. The Death Swarm fish attack in the Domain is particularly enjoyable"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Gambler Fever",
+          "itemDescription": "Fun to use but held back by a weak Domain Expansion that lacks instant impact and reduces defenses after use"
+        },
+        {
+          "itemName": "Judgeman",
+          "itemDescription": "Potentially strong with the Executioner’s Sword, but the Domain Expansion’s unreliability keeps it from A Tier"
+        },
+        {
+          "itemName": "Ratio Technique",
+          "itemDescription": "While it lacks a proper Domain, Ratio shines with high damage output from moves like Unwavering Output after a 7:3 Strike"
+        },
+        {
+          "itemName": "Cryokinesis",
+          "itemDescription": "Offers great freeze combos for stunning opponents, but the absence of a strong Domain and Maximum moves limits its potential"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Straw Doll",
+          "itemDescription": "Good for combos using nails and Hairpin, but its lack of raw power prevents it from climbing higher tiers"
+        },
+        {
+          "itemName": "Blood Manipulation",
+          "itemDescription": "Choso's moveset has interesting mechanics like Blood Orb detonation but suffers from the absence of a full Domain and Maximum moves"
+        },
+        {
+          "itemName": "Boogie Woogie",
+          "itemDescription": "Strong as a secondary technique for mobility and utility, with Swap and Counter Suplex being standout moves"
+        },
+        {
+          "itemName": "Cursed Speech",
+          "itemDescription": "Mid-tier AOE moves that are better than Commons but lack the damage or utility to compete with higher-tier techniques"
+        }
+      ]
+    }
+  ]
+}

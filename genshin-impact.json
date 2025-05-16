@@ -1,0 +1,126 @@
+{
+	"fileName": "genshin-impact.json",
+	"title": "Genshin Impact Tier List",
+	"description": "Explore the latest Genshin Impact character tier list, featuring rankings and descriptions for each character across S, A, B, and C Tiers.",
+	"heading": "Genshin Impact Tier List",
+	"introText": "Explore the latest Genshin Impact character tier list, featuring rankings and descriptions for each character across S, A, B, and C Tiers.",
+	"datePublished": "2024-06-02",
+	"dateModified": "2025-03-06",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Arlecchino",
+					"itemDescription": "Arlecchino is a high-damage hypercarry who relies on her Elemental Skill and Bond of Life management for unique gameplay. Her Pyro infusion remains active even when swapping characters, allowing for smoother rotations. She fits well into a wide range of team compositions"
+				},
+				{
+					"itemName": "Neuvillette",
+					"itemDescription": "High AoE DPS attack. Naturally scales on CRIT DMG. Stand alone DPS meaning he do not need reactions to deal high damage"
+				},
+				{
+					"itemName": "Mavuika",
+					"itemDescription": "Mavuika is one of the strongest DPS characters, capable of also functioning as a powerful Sub DPS similar to Xiangling. Her C2 greatly enhances her potential, and her unique Energy mechanic eliminates the need for Energy Recharge. She also provides exploration benefits across land, sea, and air"
+				},
+				{
+					"itemName": "Ayaka",
+					"itemDescription": "A Cryo sword user known for her consistent and high AoE Cryo damage"
+				},
+				{
+					"itemName": "Hu Tao",
+					"itemDescription": "A Pyro polearm user who boasts the highest single-target damage potential in the game"
+				},
+				{
+					"itemName": "Raiden Shogun",
+					"itemDescription": "An Electro polearm user that provides both substantial damage and team-wide energy recharge"
+				},
+				{
+					"itemName": "Zhongli",
+					"itemDescription": "A Geo polearm user who offers unparalleled crowd control and shield protection"
+				},
+				{
+					"itemName": "Kazuha",
+					"itemDescription": "An Anemo sword user who excels in amplifying elemental damage and providing crowd control"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Ganyu",
+					"itemDescription": "A Cryo bow user who specializes in dealing massive AoE Cryo damage"
+				},
+				{
+					"itemName": "Xiao",
+					"itemDescription": "An Anemo polearm user who is a powerhouse in single-target DPS, especially against large enemies"
+				},
+				{
+					"itemName": "Tartaglia (Childe)",
+					"itemDescription": "A Hydro bow user who offers both consistent Hydro application and off-field damage through his Riptide mechanic"
+				},
+				{
+					"itemName": "Bennett",
+					"itemDescription": "A Pyro sword user who provides essential healing and team-wide attack buffs"
+				},
+				{
+					"itemName": "Xingqiu",
+					"itemDescription": "A Hydro sword user who is a staple for many teams, offering consistent off-field Hydro application and damage reduction"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Xiangling",
+					"itemDescription": "A Pyro polearm user who excels in off-field Pyro application and consistent damage"
+				},
+				{
+					"itemName": "Fischl",
+					"itemDescription": "An Electro bow user who provides consistent off-field Electro application and Oz, a summon that deals additional damage"
+				},
+				{
+					"itemName": "Beidou",
+					"itemDescription": "An Electro claymore user who offers both damage and crowd control with her Elemental Burst"
+				},
+				{
+					"itemName": "Sucrose",
+					"itemDescription": "An Anemo catalyst user who excels in amplifying elemental damage and providing crowd control"
+				},
+				{
+					"itemName": "Diona",
+					"itemDescription": "A Cryo bow user who provides both healing and shield protection"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Lisa",
+					"itemDescription": "An Electro catalyst user who struggles to compete with other Electro characters"
+				},
+				{
+					"itemName": "Amber",
+					"itemDescription": "A Pyro bow user with underwhelming damage output and utility"
+				},
+				{
+					"itemName": "Kaeya",
+					"itemDescription": "A Cryo sword user who is outshined by other Cryo characters in most aspects"
+				},
+				{
+					"itemName": "Noelle",
+					"itemDescription": "A Geo claymore user who can be a decent healer and tank for early-game players but falls off in later stages"
+				},
+				{
+					"itemName": "Traveler",
+					"itemDescription": "The game's protagonist, who can utilize various elements but doesn't excel in any particular role"
+				}
+			]
+		}
+	]
+}

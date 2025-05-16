@@ -1,0 +1,74 @@
+{
+  "fileName": "crystal-of-atlan.json",
+  "title": "Crystal of Atlan Tier List",
+  "description": "Discover the top classes in Crystal of Atlan with our comprehensive tier list, ranking each class from S to C Tier based on their strengths and gameplay effectiveness.",
+  "heading": "Crystal of Atlan Tier List",
+  "introText": "Discover the top classes in Crystal of Atlan with our comprehensive tier list, ranking each class from S to C Tier based on their strengths and gameplay effectiveness.",
+  "datePublished": "2025-02-19",
+  "dateModified": "2025-02-19",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Warlock",
+          "itemDescription": "A master of dark magic, the Warlock harnesses shadows and void energy to unleash devastating ranged attacks. He also commands crows that strike enemies in battle"
+        },
+        {
+          "itemName": "Blademaiden",
+          "itemDescription": "A skilled warrior who fights alongside a Marionette. The Marionette slashes foes with its blades. Utilises electricity in combat to shock enemies"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Berserker",
+          "itemDescription": "A tanky warrior who delivers devastating burst damage. Wielding a massive sword like Guts from Berserk, he cleaves through enemies with brute strength"
+        },
+        {
+          "itemName": "Scytheguard",
+          "itemDescription": "A skilled fighter who controls a Marionette in battle. The Marionette attacks enemies and provides defense, ensuring the Scytheguard's safety during combat"
+        },
+        {
+          "itemName": "Bounty Hunter",
+          "itemDescription": "An agile gunslinger who dual-wields firearms to overwhelm enemies with rapid fire. She can unleash a swirling attack while evading with incredible speed"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Puppeteer",
+          "itemDescription": "Similar to the Scytheguard, she fights alongside a Marionette. However, her Marionette prioritizes offense, dealing heavy damage rather than defending"
+        },
+        {
+          "itemName": "Gunner",
+          "itemDescription": "A heavy weapons expert who wields a large cannon to blast enemies. She can deploy turrets that track and fire at targets, excelling in explosive damage"
+        },
+        {
+          "itemName": "Elementalist",
+          "itemDescription": "A magic user who harnesses elemental powers in battle. As a ranged class, he can wield fire, thunder, and other elements to unleash powerful attacks"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Musketeer",
+          "itemDescription": "A ranged combatant armed with a single pistol. A solid choice for those who prefer attacking from a distance"
+        },
+        {
+          "itemName": "Magiblade",
+          "itemDescription": "A swift fighter who wields a magically infused blade. Agile and quick, she slashes enemies in rapid succession"
+        }
+      ]
+    }
+  ]
+}

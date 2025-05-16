@@ -1,0 +1,138 @@
+{
+	"fileName": "balatro-joker.json",
+	"title": "Balatro Joker Tier List",
+	"description": "This tier list ranks all of the jokers in the game Balatro from best to worst. The jokers are ranked into S Tier, A Tier, B Tier, and C Tier. S Tier jokers are the best, while C Tier jokers are the worst. The tier list is based on the author's own opinion and experience, but other players may have different opinions.",
+	"heading": "Balatro Joker Tier List",
+	"introText": "This tier list ranks all of the jokers in the game Balatro from best to worst. The jokers are ranked into S Tier, A Tier, B Tier, and C Tier. S Tier jokers are the best, while C Tier jokers are the worst. The tier list is based on the author's own opinion and experience, but other players may have different opinions.",
+	"datePublished": "2024-05-21",
+	"dateModified": "2024-05-21",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Bloodstone",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Certificate",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sixth Sense",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Ace of Spades",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Baron",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Holo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "King of Spades",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mime",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Triboulet",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "2 of Diamonds",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "3 of Clubs",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "4 of Hearts",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "5 of Diamonds",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "7 of Spades",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "8 of Clubs",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "9 of Hearts",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "10 of Diamonds",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jack of Spades",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Queen of Clubs",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Red Seal",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Blue Joker",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Green Joker",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Joker",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Purple Joker",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "White Joker",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yellow Joker",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

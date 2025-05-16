@@ -1,0 +1,80 @@
+{
+	"fileName": "dislyte.json",
+	"title": "Dislyte Tier List",
+	"description": "A guide to the ranking of Espers in the game Dislyte",
+	"heading": "Dislyte Tier List",
+	"introText": "A guide to the ranking of Espers in the game Dislyte",
+	"datePublished": "2024-07-16",
+	"dateModified": "2024-07-16",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Clara",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gabrielle",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sander",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sally",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Li Ling",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lin Xiao",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Unas",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Chloe",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dhalia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Asenath",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lucas",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ye Suhua",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lewis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Narmer",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

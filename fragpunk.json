@@ -1,0 +1,86 @@
+{
+  "fileName": "fragpunk.json",
+  "title": "FragPunk Tier List",
+  "description": "Explore our comprehensive FragPunk tier list as of March 2025, categorizing all Lancers from S to C Tier with detailed descriptions to help you choose the best characters for your gameplay.",
+  "heading": "FragPunk Tier List",
+  "introText": "Explore our comprehensive FragPunk tier list as of March 2025, categorizing all Lancers from S to C Tier with detailed descriptions to help you choose the best characters for your gameplay.",
+  "datePublished": "2025-03-07",
+  "dateModified": "2025-03-07",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Kismet",
+          "itemDescription": "A versatile Lancer with a diverse skill set. Kismet's abilities encompass Hello, Goodbye, a frontal scan revealing nearby enemies; Misery Angel, a bomb that ignores barricades; and Walk on the Wild Side, allowing temporary invisibility and invulnerability"
+        },
+        {
+          "itemName": "Pathojen",
+          "itemDescription": "A supportive Lancer with abilities centered around healing and area control. Pathojen's skill set comprises Emotional Rescue, a throwable that heals all allies in range; Shroom Wall, a destructible fungus wall providing cover; and Killer Queen, a trap dealing damage over time"
+        },
+        {
+          "itemName": "Corona",
+          "itemDescription": "An agile attacker with abilities tailored for swift engagements. Corona's skill set includes Fast Lane, a quick dash; Ashes to Ashes, a throwable causing minor damage over time while providing self-buffs; and Hothead, which blinds all enemies in line of sight"
+        },
+        {
+          "itemName": "Broker",
+          "itemDescription": "A demolition expert with a focus on explosive damage. Broker's abilities include Goddard’s Vengeance, a shoulder-mounted rocket launcher with high explosive damage; Smokestack Lightning, a throwable smoke screen for stealth; and Cherry Bomb, a throwable that generates multiple energy bombs upon impact"
+        },
+        {
+          "itemName": "Zephyr",
+          "itemDescription": "A stealth-focused Lancer excelling in surprise attacks. Zephyr's abilities include Midnight Rambler, offering full or semi-invisibility limited to melee use; Fade Away, marking an area for full invisibility with Midnight Rambler; and Dagger Beacon, a dagger that can be teleported to, enabling swift repositioning"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Serket",
+          "itemDescription": "A strategic Lancer adept at disrupting enemy formations. Serket's abilities feature Station to Station, placing beacons for teleportation; Gold Dust Woman, a dust tornado that binds and slows enemies; and Dilemma, a throwable that pulls enemies toward it"
+        },
+        {
+          "itemName": "Hollowpoint",
+          "itemDescription": "An effective sniper specializing in long-range eliminations. Hollowpoint's abilities include One Last Kiss, deploying a single-shot sniper rifle that reveals enemies when aiming down sights; Smoke Screen, a forward-moving smoke screen; and Paparazzi, a trap that exposes enemies and can be retrieved"
+        },
+        {
+          "itemName": "Spider",
+          "itemDescription": "A tactical Lancer with abilities focused on mobility and enemy displacement. Spider's skill set includes Teleporter, facilitating quick repositioning; Spirited Away, relocating enemies unexpectedly; and Spider Web, impairing foes' movements"
+        },
+        {
+          "itemName": "Axon",
+          "itemDescription": "An aggressive Lancer with abilities enhancing close-quarters combat. Axon's skill set features Sticky Fingers, throwing bouncy grenades that explode upon contact; Electric Guitar, deploying two sticky bombs that recharge upon securing eliminations; and Super Freak, granting immunity to visual disturbances"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Jaguar",
+          "itemDescription": "A defensive specialist utilizing electrical traps. Jaguar's abilities encompass Live Wire, an electric shock dealing damage and slowing enemies; Electric Avenue, deploying electric cages around enemies; and I Can See for Miles, displaying the number and direction of enemies, detecting low-health foes"
+        },
+        {
+          "itemName": "Nitro",
+          "itemDescription": "An engineer-type Lancer specializing in deployable gadgets. Nitro's abilities feature Chug Chug, a tactical remote combat drone; The Wall, a three-piece shield providing cover; and Mr. PewPew, an automatic sentry turret for area denial"
+        },
+        {
+          "itemName": "Chum",
+          "itemDescription": "Details about Chum's abilities and role are currently limited, placing them in the"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Sonar",
+          "itemDescription": "An exceptional Lancer proficient in both offensive and defensive roles. Sonar's abilities include Echolocation, which reveals enemy positions; Sonic Surge, offering crowd control; and Sound of Silence, which muffles team movements, facilitating stealthy approaches"
+        }
+      ]
+    }
+  ]
+}

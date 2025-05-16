@@ -1,0 +1,158 @@
+{
+  "fileName": "anime-reborn.json",
+  "title": "Anime Reborn Tier List",
+  "description": "Discover the top units in Anime Reborn with our comprehensive tier list, categorizing characters from S Tier to C Tier based on their performance and abilities.",
+  "heading": "Anime Reborn Tier List",
+  "introText": "Discover the top units in Anime Reborn with our comprehensive tier list, categorizing characters from S Tier to C Tier based on their performance and abilities.",
+  "datePublished": "2024-11-30",
+  "dateModified": "2025-03-06",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Gohun (Beast)",
+          "itemDescription": "A hybrid exclusive unit with immunity to stuns and increasing damage as he eliminates enemies during waves. Features a multi-hit line AoE attack with excellent DPS and extremely low SPA"
+        },
+        {
+          "itemName": "Cod (Atomic)",
+          "itemDescription": "One of the strongest units, becoming Hybrid when evolved. Boasts the largest full AoE range in the game with exceptional DPS and the \"Atomic\" ability, acting as a powerful nuke"
+        },
+        {
+          "itemName": "Aokojo (Serious)",
+          "itemDescription": "Excels when paired with units that freeze enemies, dealing +35% more damage to frozen targets. Becomes a hybrid at upgrade 7 and freezes enemies for 5 seconds with every fifth attack"
+        },
+        {
+          "itemName": "Noille (Awakened)",
+          "itemDescription": "A hill mythic unit with affordable placement and solid DPS. Grants +100% yen from kills, serving as an effective secondary farm unit"
+        },
+        {
+          "itemName": "Light (Sparkling)",
+          "itemDescription": "A hybrid unit with full AoE upon evolution and the ability to summon. Buffs other Light units within range by +20% DMG, making it highly meta, especially with the Miracle trait"
+        },
+        {
+          "itemName": "Sidea (Frost General)",
+          "itemDescription": "A full AoE unit with remarkable DPS potential. Becomes Hybrid when upgraded and possesses passives that freeze enemies below 40% health and reduce SPA by -10% for 15 seconds upon killing a frozen enemy (up to -30% max)"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Delta Brothers (Core)",
+          "itemDescription": "Top-tier shield-breakers among secret units, featuring a hybrid line attack and beneficial DMG/SPA scaling passives. Possess a full AoE ability with a 300-second cooldown, ideal for managing mobs"
+        },
+        {
+          "itemName": "Sun Prodigy (Blazing)",
+          "itemDescription": "An early-access exclusive unit with burn effect, decent DPS, and allows for four placements. Useful until more mythic units are acquired"
+        },
+        {
+          "itemName": "Mercury (Brilliant)",
+          "itemDescription": "Ignores enemy element damage debuffs, ensuring consistent performance across modes. Features a line AoE attack, exceptional DPS, and summons that scale with damage"
+        },
+        {
+          "itemName": "Oktawalk (Turbo)",
+          "itemDescription": "A versatile unit with commendable DPS and range. Becomes Hybrid upon evolution and offers a balanced mix of offense and utility"
+        },
+        {
+          "itemName": "Dragon Emperor (Hybrid)",
+          "itemDescription": "A meta full AoE hybrid unit with high stats and a supportive passive when evolved. The acquisition process can be challenging, but the unit's performance compensates for it"
+        },
+        {
+          "itemName": "Tashrio (Captain)",
+          "itemDescription": "Exhibits significant DPS potential, especially when paired with units that can consistently freeze enemies. Deals +25% more damage to frozen targets and an additional 15% as DoT over 5 seconds"
+        },
+        {
+          "itemName": "Super Gohu (Powered)",
+          "itemDescription": "A hill unit with commendable DPS. However, its line attack and less impactful passive limit its overall effectiveness"
+        },
+        {
+          "itemName": "Turbo Grandmother (Anger)",
+          "itemDescription": "A unique unit with a blend of support and DPS capabilities. Offers specific buffs and abilities that can be strategically utilized in various scenarios"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Toboramo (Evolved)",
+          "itemDescription": "A decent DPS unit with satisfactory range. Its performance is enhanced when synergized with other units, though it doesn't stand out individually"
+        },
+        {
+          "itemName": "Greybeard (Sea Emperor)",
+          "itemDescription": "One of the few full AoE non-secret units with impressive range. As a hybrid, it eliminates the need for a separate hill unit and gains a stun effect upon evolution, making it highly relevant in the current meta"
+        },
+        {
+          "itemName": "Spiral (Alien Tech)",
+          "itemDescription": "A unit with specialized abilities, offering unique attack patterns and effects. Its utility is situational, depending on the specific challenges faced"
+        },
+        {
+          "itemName": "Lord Rimura",
+          "itemDescription": "A solid choice for Infinite mode due to scaling passives and good overall DPS. Lacks full AoE compared to top-tier units but remains a reliable option"
+        },
+        {
+          "itemName": "Ray (Flaming)",
+          "itemDescription": "Applies burn and possesses excellent DPS and range. Highly effective against mobs and capable of confronting bosses in the absence of specialized units"
+        },
+        {
+          "itemName": "Airo (Awoken)",
+          "itemDescription": "A unit with awakening abilities that enhance its performance. Offers a mix of offensive and defensive capabilities, making it versatile in various scenarios"
+        },
+        {
+          "itemName": "Osta (Anti-Form)",
+          "itemDescription": "A meta shield-breaker with attacks that instantly break shields and immunity to CC from boss attacks. Receives additional buffs when paired with Yamo, though it targets only ground enemies"
+        },
+        {
+          "itemName": "Mr. Shrimpy (Evolved)",
+          "itemDescription": "A unit with evolved abilities, providing enhanced stats and skills. Its effectiveness varies based on team composition and enemy types"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Akume (Evolved)",
+          "itemDescription": "A ground unit with subpar damage and range. Its abilities are limited, making it less effective in most game scenarios"
+        },
+        {
+          "itemName": "Gromjaw (Evolved)",
+          "itemDescription": "Offers mediocre DPS and lacks unique abilities. Its performance doesn't stand out, making it a less favorable choice"
+        },
+        {
+          "itemName": "Yune Gossi (Manic)",
+          "itemDescription": "Features a unique attack style but falls short in damage and utility compared to higher-tier units"
+        },
+        {
+          "itemName": "Oda (Samurai)",
+          "itemDescription": "A ground unit with average stats and no distinguishing features, limiting its effectiveness in battles"
+        },
+        {
+          "itemName": "Sabur (EX-Phantasm)",
+          "itemDescription": "Possesses a unique design but lacks the damage output and abilities to be impactful in most scenarios"
+        },
+        {
+          "itemName": "Brolio (Rage)",
+          "itemDescription": "Despite an interesting concept, its low DPS and lack of versatility make it less viable in challenging content"
+        },
+        {
+          "itemName": "Muichori (Mist)",
+          "itemDescription": "Offers minimal damage and lacks significant abilities, resulting in limited utility"
+        },
+        {
+          "itemName": "CoolB (Awakened)",
+          "itemDescription": "An awakened unit that doesn't provide substantial improvements over its base form, leading to underwhelming performance"
+        },
+        {
+          "itemName": "Kirit (Accel)",
+          "itemDescription": "Features rapid attacks but lacks the damage and utility to be effective in higher-level content"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+	"fileName": "echocalypse.json",
+	"title": "Echocalypse Tier List",
+	"description": "Comprehensive Echocalypse tier list categorizing cases from S Tier to C Tier, highlighting their strengths and roles in the game.",
+	"heading": "Echocalypse Tier List",
+	"introText": "Comprehensive Echocalypse tier list categorizing cases from S Tier to C Tier, highlighting their strengths and roles in the game.",
+	"datePublished": "2024-05-26",
+	"dateModified": "2025-03-31",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Kyubey",
+					"itemDescription": "She possesses exceptional combat talent, with her swordsmanship skills continually improving under Sil's guidance"
+				},
+				{
+					"itemName": "Coretta",
+					"itemDescription": "She is an AoE Mage DPS who excels at dealing debuff-based Magic DMG and damage over time through [Burn] and [Haze] effects. She is especially effective against enemy teams with high defense or formations focused on the front line"
+				},
+				{
+					"itemName": "Rixia Mao",
+					"itemDescription": "She has the trait \"Fetal Flaw\", suggesting she possesses unique combat abilities that exploit enemy weaknesses"
+				},
+				{
+					"itemName": "Aiken",
+					"itemDescription": "An SSR rarity case known for her high damage output and versatility in various team compositions"
+				},
+				{
+					"itemName": "Audrey",
+					"itemDescription": "An SSR supporter who enhances the attack of all allies and provides silence debuffs to enemies, making her invaluable in both PvE and PvP modes"
+				},
+				{
+					"itemName": "Fenriru",
+					"itemDescription": "A free SSR case given on the 7th day of play, excelling as an AOE damage dealer with high damage multipliers"
+				},
+				{
+					"itemName": "Lilith",
+					"itemDescription": "An SSR case capable of dealing significant AOE damage while reducing enemies' resistance and armor"
+				},
+				{
+					"itemName": "Vivi",
+					"itemDescription": "An SSR AOE-controller who depletes enemies' rage and provides immunity buffs to allies, effective in both PvE and PvP scenarios"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Deena",
+					"itemDescription": "An SR healer offering substantial healing and support to the team, enhancing overall survivability"
+				},
+				{
+					"itemName": "Zawa",
+					"itemDescription": "An SSR damage dealer who excels when buffed, dealing increased damage based on the number of buffs compared to the enemy"
+				},
+				{
+					"itemName": "Nephthys",
+					"itemDescription": "An SSR supporter providing healing and buffs, enhancing team durability in various game modes"
+				},
+				{
+					"itemName": "Guinevere",
+					"itemDescription": "An SSR case with balanced offensive and defensive capabilities, fitting well into multiple team compositions"
+				},
+				{
+					"itemName": "Nue",
+					"itemDescription": "An SSR case known for her crowd control abilities, effectively disrupting enemy strategies"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Bastet",
+					"itemDescription": "An SR case offering AOE damage and silence debuffs targeting backline enemies, useful in specific PvP scenarios"
+				},
+				{
+					"itemName": "Shiyu",
+					"itemDescription": "An SR AOE damage dealer with the ability to revive one ally upon death, providing strategic advantage in battles"
+				},
+				{
+					"itemName": "Kiki",
+					"itemDescription": "An SR supporter offering utility through buffs and debuffs, enhancing team performance in various situations"
+				},
+				{
+					"itemName": "Raeon",
+					"itemDescription": "An SR damage dealer with balanced stats, suitable for early to mid-game content"
+				},
+				{
+					"itemName": "Regina",
+					"itemDescription": "An SR case with supportive abilities, providing healing and buffs to allies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Nanook",
+					"itemDescription": "An SR supporter providing shields and AOE damage to frontline enemies, beneficial in early-game stages"
+				},
+				{
+					"itemName": "Snezhana",
+					"itemDescription": "An SR damage dealer effective in early-game, offering AOE magic damage and additional attacks on high-attack enemies"
+				},
+				{
+					"itemName": "Sova",
+					"itemDescription": "An SR case with utility skills, though outperformed by higher-tier cases in later stages"
+				},
+				{
+					"itemName": "Panther",
+					"itemDescription": "An SR case with moderate damage output, suitable for early-game but less effective in advanced content"
+				},
+				{
+					"itemName": "Eriri",
+					"itemDescription": "An SR case with niche abilities, offering limited utility in most team compositions"
+				}
+			]
+		}
+	]
+}

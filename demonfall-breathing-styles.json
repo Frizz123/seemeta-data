@@ -1,0 +1,66 @@
+{
+	"fileName": "demonfall-breathing-styles.json",
+	"title": "Demonfall Breathing Styles Tier List",
+	"description": "Demonfall is a Roblox game inspired by the popular anime and manga series Demon Slayer: Kimetsu no Yaiba. In the game, players can choose from a variety of Breathing Styles, each with its own unique strengths and weaknesses.",
+	"heading": "Demonfall Breathing Styles Tier List",
+	"introText": "Demonfall is a Roblox game inspired by the popular anime and manga series Demon Slayer: Kimetsu no Yaiba. In the game, players can choose from a variety of Breathing Styles, each with its own unique strengths and weaknesses.",
+	"datePublished": "2024-05-29",
+	"dateModified": "2024-05-29",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Sun Breathing",
+					"itemDescription": "The most powerful Breathing Style in the game, Sun Breathing is highly effective against demons. It is also very versatile, with a variety of moves that can be used for both offense and defense"
+				},
+				{
+					"itemName": "Moon Breathing",
+					"itemDescription": "Another very powerful Breathing Style, Moon Breathing is known for its speed and precision. It is a good choice for players who want to be able to quickly dispatch their enemies"
+				},
+				{
+					"itemName": "Insect Breathing",
+					"itemDescription": "Insect Breathing is a unique Breathing Style that is based on the movements of insects. It is very effective at dodging attacks and landing counters"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Mist Breathing",
+					"itemDescription": "Mist Breathing is a versatile Breathing Style that can be used for both offense and defense. It is also very effective at creating illusions, which can confuse and disorient enemies"
+				},
+				{
+					"itemName": "Water Breathing",
+					"itemDescription": "Water Breathing is a well-rounded Breathing Style that is easy to learn and use. It is a good choice for players who are new to the game"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Flame Breathing",
+					"itemDescription": "Flame Breathing is a powerful Breathing Style that is known for its destructive force. However, it is also very stamina-intensive, so it is not a good choice for players who want to be able to fight for long periods of time"
+				},
+				{
+					"itemName": "Thunder Breathing",
+					"itemDescription": "Thunder Breathing is a fast-paced Breathing Style that is known for its lightning-quick attacks. However, it is also very unpredictable, so it can be difficult to master"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Wind Breathing",
+					"itemDescription": "Wind Breathing is a speedy Breathing Style that is known for its wide range of attacks. However, it is also very weak, so it is not a good choice for players who want to deal a lot of damage"
+				}
+			]
+		}
+	]
+}

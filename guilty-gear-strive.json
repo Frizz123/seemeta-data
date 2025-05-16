@@ -1,0 +1,82 @@
+{
+	"fileName": "guilty-gear-strive.json",
+	"title": "Guilty Gear Strive Tier List",
+	"description": "Discover the latest Guilty Gear Strive tier list, featuring characters ranked from S Tier to C Tier. Find out who the top fighters are and how they stack up against each other.",
+	"heading": "Guilty Gear Strive Tier List",
+	"introText": "Discover the latest Guilty Gear Strive tier list, featuring characters ranked from S Tier to C Tier. Find out who the top fighters are and how they stack up against each other.",
+	"datePublished": "2024-07-21",
+	"dateModified": "2025-01-30",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Sol Badguy",
+					"itemDescription": "Known for his high damage output and versatile moveset, Sol Badguy dominates many matchups"
+				},
+				{
+					"itemName": "Ramlethal Valentine",
+					"itemDescription": "With excellent range and pressure, Ramlethal can control the pace of the match effectively"
+				},
+				{
+					"itemName": "Leo Whitefang",
+					"itemDescription": "His strong mix-up potential and defensive options make him a top-tier contender"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Ky Kiske",
+					"itemDescription": "Balanced and versatile, Ky Kiske offers a good mix of offensive and defensive tools"
+				},
+				{
+					"itemName": "Chipp Zanuff",
+					"itemDescription": "Extremely fast and agile, Chipp can overwhelm opponents with his speed and mix-ups"
+				},
+				{
+					"itemName": "May",
+					"itemDescription": "With her powerful anchor attacks and deceptive range, May can surprise opponents and deal heavy damage"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Axl Low",
+					"itemDescription": "Axl's long-range attacks can control space well, but he struggles against faster characters"
+				},
+				{
+					"itemName": "Giovanna",
+					"itemDescription": "A straightforward character with strong rushdown abilities, but lacks some defensive options"
+				},
+				{
+					"itemName": "Anji Mito",
+					"itemDescription": "Anji's unique moves can catch opponents off guard, but he requires careful play to be effective"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Faust",
+					"itemDescription": "Faust's unpredictable and quirky moves can be hard to use consistently in high-level play"
+				},
+				{
+					"itemName": "Nagoriyuki",
+					"itemDescription": "While Nagoriyuki has high damage potential, his limited mobility and reliance on Blood Gauge management can be a disadvantage"
+				},
+				{
+					"itemName": "Potemkin",
+					"itemDescription": "Potemkin has powerful grabs and heavy hits but is slow and vulnerable to zoning and fast opponents"
+				}
+			]
+		}
+	]
+}

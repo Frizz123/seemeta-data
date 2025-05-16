@@ -1,0 +1,82 @@
+{
+	"fileName": "warframe.json",
+	"title": "Warframe Tier List",
+	"description": "Discover the ultimate Warframe Tier List, ranking the best frames from S to C Tier. Optimize your gameplay with our comprehensive guide.",
+	"heading": "Warframe Tier List",
+	"introText": "Discover the ultimate Warframe Tier List, ranking the best frames from S to C Tier. Optimize your gameplay with our comprehensive guide.",
+	"datePublished": "2024-07-21",
+	"dateModified": "2025-02-11",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Mesa Prime",
+					"itemDescription": "Exceptional damage output with Peacemaker ability, making her one of the best frames for endgame content"
+				},
+				{
+					"itemName": "Wisp",
+					"itemDescription": "Versatile support with high survivability and powerful buffs, ideal for both solo and team play"
+				},
+				{
+					"itemName": "Octavia Prime",
+					"itemDescription": "Incredible crowd control and damage amplification through music-based abilities, perfect for high-level missions"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Inaros Prime",
+					"itemDescription": "Immense health pool and self-healing abilities, great for tanking and solo play"
+				},
+				{
+					"itemName": "Khora",
+					"itemDescription": "High damage and crowd control with her Whipclaw and Strangledome abilities, making her a strong choice for various missions"
+				},
+				{
+					"itemName": "Gauss",
+					"itemDescription": "Excellent speed and energy management, suitable for fast-paced gameplay and endurance runs"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Excalibur Umbra",
+					"itemDescription": "Well-rounded frame with good damage and survivability, but slightly outclassed by top-tier frames"
+				},
+				{
+					"itemName": "Valkyr Prime",
+					"itemDescription": "Strong melee focus with invulnerability through Hysteria, but limited in versatility"
+				},
+				{
+					"itemName": "Vauban Prime",
+					"itemDescription": "Effective crowd control with his Bastille and Vortex abilities, though not as potent as other CC-focused frames"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Hydroid",
+					"itemDescription": "Decent crowd control and loot generation, but lacks the damage output and survivability of higher-tier frames"
+				},
+				{
+					"itemName": "Nyx",
+					"itemDescription": "Mind control and crowd dispersion abilities, useful but often overshadowed by more efficient frames"
+				},
+				{
+					"itemName": "Zephyr",
+					"itemDescription": "Good mobility and crowd control, but underwhelming damage and utility compared to top-tier options"
+				}
+			]
+		}
+	]
+}

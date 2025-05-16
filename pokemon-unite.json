@@ -1,0 +1,386 @@
+{
+	"fileName": "pokemon-unite.json",
+	"title": "Pokemon Unite Tier List",
+	"description": "This tier list ranks all of the playable Pokemon in Pokemon Unite based on their current strength and viability in the game. The list is divided into five tiers: S Tier, A Tier, B Tier and C Tier. S Tier is the highest tier, and C Tier is the lowest tier. The tier list is based on a variety of factors, including each Pokemon's stats, abilities, and Unite Move. It is important to note that this tier list is subjective and may change as the game evolves.",
+	"heading": "Pokemon Unite Tier List",
+	"introText": "This tier list ranks all of the playable Pokemon in Pokemon Unite based on their current strength and viability in the game. The list is divided into five tiers: S Tier, A Tier, B Tier and C Tier. S Tier is the highest tier, and C Tier is the lowest tier. The tier list is based on a variety of factors, including each Pokemon's stats, abilities, and Unite Move. It is important to note that this tier list is subjective and may change as the game evolves.",
+	"datePublished": "2024-05-25",
+	"dateModified": "2024-05-25",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Absol",
+					"itemDescription": "Absol is a burst damage attacker with great mobility. It can quickly eliminate squishy targets with its Cross Cut, Psycho Cut, and Night Slash combo"
+				},
+				{
+					"itemName": "Aegislash",
+					"itemDescription": "Aegislash is a versatile Pokemon that can switch between its Stance Form and Blade Form. In Stance Form, it is a tank that can take a lot of damage, while in Blade Form, it is a powerful attacker that can deal massive damage"
+				},
+				{
+					"itemName": "Azumarill",
+					"itemDescription": "Azumarill is a strong all-around attacker with good damage, mobility, and crowd control. It can be a menace in both the early and late game"
+				},
+				{
+					"itemName": "Charizard",
+					"itemDescription": "Charizard is a powerful ranged attacker that can deal a lot of damage from a safe distance. It also has a strong Unite Move that can wipe out entire teams"
+				},
+				{
+					"itemName": "Dragapult",
+					"itemDescription": "Dragapult is a unique attacker that can move around the map quickly and deal damage from unexpected angles. It is also very good at taking out multiple enemies at once"
+				},
+				{
+					"itemName": "Garchomp",
+					"itemDescription": "Garchomp is a strong melee attacker with good damage and mobility. It can also dive into the enemy team and disrupt their formation with its Unite Move"
+				},
+				{
+					"itemName": "Lapras",
+					"itemDescription": "Lapras is a tanky support Pokemon that can provide its team with shields and healing. It also has a strong Unite Move that can stun and damage multiple enemies"
+				},
+				{
+					"itemName": "Machamp",
+					"itemDescription": "Machamp is a melee attacker with great burst damage and crowd control. It can also knock enemies around with its Unite Move"
+				},
+				{
+					"itemName": "Mamoswine",
+					"itemDescription": "Mamoswine is a tanky attacker with good damage and crowd control. It can also freeze enemies with its Unite Move"
+				},
+				{
+					"itemName": "Sableye",
+					"itemDescription": "Sableye is a support Pokemon that can disrupt the enemy team with its stuns and disables. It is also very good at stealing objectives"
+				},
+				{
+					"itemName": "Wigglytuff",
+					"itemDescription": "Wigglytuff is a support Pokemon that can provide its team with healing and crowd control. It also has a strong Unite Move that can put enemies to sleep"
+				},
+				{
+					"itemName": "Zeraora",
+					"itemDescription": "Zeraora is a speedster with great mobility and burst damage. It can quickly eliminate squishy targets with its Wild Charge, Volt Switch, and Plasma Gale combo"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Blissey",
+					"itemDescription": "Blissey is a tanky support Pokemon that can provide its team with a lot of healing. It is also very good at protecting its carries"
+				},
+				{
+					"itemName": "Cinderace",
+					"itemDescription": "Cinderance is a ranged attacker with good damage and mobility. It can also deal bonus damage to stunned enemies"
+				},
+				{
+					"itemName": "Crustle",
+					"itemDescription": "Crustle is a tanky defender with good crowd control. It can also block enemy paths with its Unite Move"
+				},
+				{
+					"itemName": "Eldegoss",
+					"itemDescription": "Eldegoss is a support Pokemon that can provide its team with healing and shields. It is also very good at slowing down enemies"
+				},
+				{
+					"itemName": "Greninja",
+					"itemDescription": "Greninja is a ranged attacker with good damage and mobility. It can also go invisible with its Water Shuriken move"
+				},
+				{
+					"itemName": "Lucario",
+					"itemDescription": "Lucario is a melee attacker with good damage and aura effects. It can also boost its own stats with its Unite Move"
+				},
+				{
+					"itemName": "Slowbro",
+					"itemDescription": "Slowbro is a tanky support Pokemon that can stun enemies with its Hydro Pump and Teleport moves. It also has a strong Unite Move that can deal a lot of damage"
+				},
+				{
+					"itemName": "Snorlax",
+					"itemDescription": "Snorlax is a tanky defender with good crowd control. It can also put enemies to sleep with its Body Slam move"
+				},
+				{
+					"itemName": "Talonflame",
+					"itemDescription": "Talonflame is a speedster with great mobility and burst damage. It can also deal bonus damage to fleeing enemies"
+				},
+				{
+					"itemName": "Venusaur",
+					"itemDescription": "Venusaur is a ranged attacker with good damage and crowd control. It can also put enemies to sleep with its Petal Dance move"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Alolan Ninetales",
+					"itemDescription": "Alolan Ninetales is a ranged attacker with good damage and crowd control. It can also freeze enemies with its Aurora Veil move"
+				},
+				{
+					"itemName": "Ampharos",
+					"itemDescription": "Ampharos is a ranged attacker with good damage and crowd control. It can also stun enemies with its Static move"
+				},
+				{
+					"itemName": "Crustle",
+					"itemDescription": "Crustle is a tanky defender with good crowd control. It can also block enemy paths with its Unite Move"
+				},
+				{
+					"itemName": "Duraludon",
+					"itemDescription": "Duraludon is a ranged attacker with good damage and zoning potential. It can also create barriers with its Stealth Rock move"
+				},
+				{
+					"itemName": "Espeon",
+					"itemDescription": "Espeon is a ranged attacker with good damage and crowd control. It can also reduce the enemy team's defenses with its Psychic move"
+				},
+				{
+					"itemName": "Gengar",
+					"itemDescription": "Gengar is a ranged attacker with good damage and mobility. It can also go invisible with its Shadow Ball move"
+				},
+				{
+					"itemName": "Hoopa",
+					"itemDescription": "Hoopa is a support Pokemon that can teleport itself and its allies around the map. It also has a strong Unite Move that can deal a lot of damage"
+				},
+				{
+					"itemName": "Incineroar",
+					"itemDescription": "Incineroar is a melee attacker with good damage and crowd control. It can also intimidate enemies with its Intimidate ability"
+				},
+				{
+					"itemName": "Lucario",
+					"itemDescription": "Lucario is a melee attacker with good damage and aura effects. It can also boost its own stats with its Unite Move"
+				},
+				{
+					"itemName": "Machamp",
+					"itemDescription": "Machamp is a melee attacker with great burst damage and crowd control. It can also knock enemies around with its Unite Move"
+				},
+				{
+					"itemName": "Mamoswine",
+					"itemDescription": "Mamoswine is a tanky attacker with good damage and crowd control. It can also freeze enemies with its Unite Move"
+				},
+				{
+					"itemName": "Pikachu",
+					"itemDescription": "Pikachu is a ranged attacker with good damage and crowd control. It is also a very popular Pokemon"
+				},
+				{
+					"itemName": "Pikachu Libre",
+					"itemDescription": "Pikachu Libre is a ranged attacker with similar stats to Pikachu, but with a different Unite Move"
+				},
+				{
+					"itemName": "Slowbro",
+					"itemDescription": "Slowbro is a tanky support Pokemon that can stun enemies with its Hydro Pump and Teleport moves. It also has a strong Unite Move that can deal a lot of damage"
+				},
+				{
+					"itemName": "Snorlax",
+					"itemDescription": "Snorlax is a tanky defender with good crowd control. It can also put enemies to sleep with its Body Slam move"
+				},
+				{
+					"itemName": "Talonflame",
+					"itemDescription": "Talonflame is a speedster with great mobility and burst damage. It can also deal bonus damage to fleeing enemies"
+				},
+				{
+					"itemName": "Venusaur",
+					"itemDescription": "Venusaur is a ranged attacker with good damage and crowd control. It can also put enemies to sleep with its Petal Dance move"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Blastoise",
+					"itemDescription": "Blastoise is a ranged attacker with good damage and crowd control. However, it is slow and immobile, making it an easy target"
+				},
+				{
+					"itemName": "Carracosta",
+					"itemDescription": "Carracosta is a tanky defender with good crowd control. However, it is slow and has poor mobility"
+				},
+				{
+					"itemName": "Decidueye",
+					"itemDescription": "Decidueye is a ranged attacker with good damage and range. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Delphox",
+					"itemDescription": "Delphox is a ranged attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Dodrio",
+					"itemDescription": "Dodrio is a speedster with good mobility and burst damage. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Dragonite",
+					"itemDescription": "Dragonite is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Drednaw",
+					"itemDescription": "Drednaw is a tanky defender with good crowd control. However, it is slow and has poor mobility"
+				},
+				{
+					"itemName": "Gardevoir",
+					"itemDescription": "Gardevoir is a ranged attacker with good damage and crowd control. However, it is frail and immobile"
+				},
+				{
+					"itemName": "Gengar",
+					"itemDescription": "Gengar is a ranged attacker with good damage and mobility. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Glaceon",
+					"itemDescription": "Glaceon is a ranged attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Goodra",
+					"itemDescription": "Goodra is a tanky attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Granbull",
+					"itemDescription": "Granbull is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Greedent",
+					"itemDescription": "Greedent is a support Pokemon that can provide its team with healing and shields. However, it is slow and has poor crowd control"
+				},
+				{
+					"itemName": "Hariyama",
+					"itemDescription": "Hariyama is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Heracross",
+					"itemDescription": "Heracross is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Hitmonchan",
+					"itemDescription": "Hitmonchan is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Hoopa Unbound",
+					"itemDescription": "Hoopa Unbound is a support Pokemon with good damage and crowd control. However, it is frail and has poor mobility"
+				},
+				{
+					"itemName": "Hydreigon",
+					"itemDescription": "Hydreigon is a ranged attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Indeedee",
+					"itemDescription": "Indeedee is a support Pokemon that can provide its team with healing and shields. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Ishimaru",
+					"itemDescription": "Ishimaru is a tanky defender with good crowd control. However, it is slow and has poor mobility"
+				},
+				{
+					"itemName": "Jynx",
+					"itemDescription": "Jynx is a ranged attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Kommo-o",
+					"itemDescription": "Kommo-o is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Leech King",
+					"itemDescription": "Leech King is a tanky defender with good crowd control. However, it is slow and has poor mobility"
+				},
+				{
+					"itemName": "Lucario",
+					"itemDescription": "Lucario is a melee attacker with good damage and aura effects. It can also boost its own stats with its Unite Move"
+				},
+				{
+					"itemName": "Ludicolo",
+					"itemDescription": "Ludicolo is a ranged attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Lunatone and Solgaleo",
+					"itemDescription": "Lunatone and Solgaleo are a unique Pokemon that can switch between their Lunatone Form and Solgaleo Form. In Lunatone Form, it is a support Pokemon that can provide its team with shields and healing. In Solgaleo Form, it is a powerful attacker that can deal a lot of damage. However, both forms are slow and immobile"
+				},
+				{
+					"itemName": "Machamp",
+					"itemDescription": "Machamp is a melee attacker with great burst damage and crowd control. It can also knock enemies around with its Unite Move"
+				},
+				{
+					"itemName": "Mamoswine",
+					"itemDescription": "Mamoswine is a tanky attacker with good damage and crowd control. It can also freeze enemies with its Unite Move"
+				},
+				{
+					"itemName": "Mr. Mime",
+					"itemDescription": "Mr. Mime is a support Pokemon that can disrupt the enemy team with its stuns and disables. It is also very good at protecting its carries. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Pikachu",
+					"itemDescription": "Pikachu is a ranged attacker with good damage and crowd control. It is also a very popular Pokemon. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Pikachu Libre",
+					"itemDescription": "Pikachu Libre is a ranged attacker with similar stats to Pikachu, but with a different Unite Move. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Pincurchin",
+					"itemDescription": "Pincurchin is a ranged attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Poliwrath",
+					"itemDescription": "Poliwrath is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Pompheyo",
+					"itemDescription": "Pompheyo is a support Pokemon that can provide its team with healing and shields. However, it is slow and has poor crowd control"
+				},
+				{
+					"itemName": "Porygon2",
+					"itemDescription": "Porygon2 is a ranged attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Quagsire",
+					"itemDescription": "Quagsire is a tanky defender with good crowd control. However, it is slow and has poor mobility"
+				},
+				{
+					"itemName": "Rampardos",
+					"itemDescription": "Rampardos is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Registeel",
+					"itemDescription": "Registeel is a tanky defender with good crowd control. However, it is slow and has poor mobility"
+				},
+				{
+					"itemName": "Reuniclus",
+					"itemDescription": "Reuniclus is a support Pokemon that can provide its team with healing and crowd control. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Roserade",
+					"itemDescription": "Roserade is a ranged attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Sableye",
+					"itemDescription": "Sableye is a support Pokemon that can disrupt the enemy team with its stuns and disables. It is also very good at stealing objectives. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Scolipede",
+					"itemDescription": "Scolipede is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Scrafty",
+					"itemDescription": "Scrafty is a melee attacker with good damage and crowd control. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Scyther",
+					"itemDescription": "Scyther is a speedster with good mobility and burst damage. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Slowbro",
+					"itemDescription": "Slowbro is a tanky support Pokemon that can stun enemies with its Hydro Pump and Teleport moves. It also has a strong Unite Move that can deal a lot of damage. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Snorlax",
+					"itemDescription": "Snorlax is a tanky defender with good crowd control. It can also put enemies to sleep with its Body Slam move. However, it is slow and immobile"
+				},
+				{
+					"itemName": "Talonflame",
+					"itemDescription": "Talonflame is a speedster with great mobility and burst damage. It can also deal bonus damage to fleeing enemies. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Talonflame",
+					"itemDescription": "Talonflame is a speedster with great mobility and burst damage. It can also deal bonus damage to fleeing enemies. However, it is frail and has poor crowd control"
+				},
+				{
+					"itemName": "Venusaur",
+					"itemDescription": "Venusaur is a ranged attacker with good damage and crowd control. It can also put enemies to sleep with its Petal Dance move. However, it is slow and immobile"
+				}
+			]
+		}
+	]
+}

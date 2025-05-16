@@ -1,0 +1,82 @@
+{
+	"fileName": "hearthstone-battlegrounds.json",
+	"title": "Hearthstone Battlegrounds Tier List",
+	"description": "This is a Hearthstone Battlegrounds tier list. The list is based on my own experience and the opinions of other players. The best hero for you will depend on your playstyle and the current meta.",
+	"heading": "Hearthstone Battlegrounds Tier List",
+	"introText": "This is a Hearthstone Battlegrounds tier list. The list is based on my own experience and the opinions of other players. The best hero for you will depend on your playstyle and the current meta.",
+	"datePublished": "2024-05-19",
+	"dateModified": "2025-03-27",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Armor Demon Hunter",
+					"itemDescription": "A Demon Hunter deck centered on armor accumulation and incorporating a starship theme. The primary goal is survival and board control by gaining armor and deploying powerful minions"
+				},
+				{
+					"itemName": "Protoss Imbue Mage",
+					"itemDescription": "A Mage deck that utilizes the \"Imbue\" mechanic and features cards inspired by the Protoss race. The strategy focuses on board control through spells and minions"
+				},
+				{
+					"itemName": "Leech Space Death Knight",
+					"itemDescription": "A Death Knight deck emphasizing health leeching and board control. It includes healing effects and formidable minions to maintain pressure on the opponent"
+				},
+				{
+					"itemName": "Terran Shaman",
+					"itemDescription": "A dominant deck that leverages powerful Terran synergies to control the board and overwhelm opponents"
+				},
+				{
+					"itemName": "Zerg Handbuff Hunter",
+					"itemDescription": "Excels by utilizing Zerg-themed cards to buff minions in hand, leading to explosive turns and swift victories"
+				},
+				{
+					"itemName": "Zerg Location Warlock",
+					"itemDescription": "Focuses on controlling the board through strategic use of Zerg locations, generating value and maintaining pressure"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Elemental Mage",
+					"itemDescription": "Centers around elemental synergies to deliver consistent damage and maintain board presence"
+				},
+				{
+					"itemName": "Zerg Death Knight",
+					"itemDescription": "Combines the resilience of Death Knight cards with Zerg mechanics to outlast and overpower opponents"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Weapon Rogue",
+					"itemDescription": "Utilizes a variety of weapons and weapon-enhancing spells to apply continuous pressure and control the game's pace"
+				},
+				{
+					"itemName": "Jormungar Handbuff Hunter",
+					"itemDescription": "Similar to its Zerg counterpart but focuses on Jormungar synergies for handbuffing strategies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Protoss Imbue Mage",
+					"itemDescription": "Employs Protoss-themed cards to imbue spells and minions, offering unique but less consistent strategies"
+				},
+				{
+					"itemName": "Leech Death Knight",
+					"itemDescription": "Centers on life-stealing mechanics to sustain through matches, though it struggles against more aggressive decks"
+				}
+			]
+		}
+	]
+}

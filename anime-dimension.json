@@ -1,0 +1,382 @@
+{
+	"fileName": "anime-dimension.json",
+	"title": "Anime Dimensions Simulator Tier List",
+	"description": "Discover the top characters in Anime Dimensions Simulator with our comprehensive tier list, guiding you from S Tier to C Tier selections.",
+	"heading": "Anime Dimensions Simulator Tier List",
+	"introText": "Discover the top characters in Anime Dimensions Simulator with our comprehensive tier list, guiding you from S Tier to C Tier selections.",
+	"datePublished": "2024-06-25",
+	"dateModified": "2025-03-09",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Kodotoki",
+					"itemDescription": "Excels in burst damage and crowd control, making him a formidable opponent"
+				},
+				{
+					"itemName": "Priestess (Shrine)",
+					"itemDescription": "Provides exceptional healing and support abilities, enhancing team survivability"
+				},
+				{
+					"itemName": "Demon Girl (New Year)",
+					"itemDescription": "Known for high-speed, powerful attacks, she can quickly eliminate enemies"
+				},
+				{
+					"itemName": "Toro",
+					"itemDescription": "A versatile fighter effective in various battle scenarios"
+				},
+				{
+					"itemName": "Eyzen (Void)",
+					"itemDescription": "Possesses unique abilities that can disrupt opponents and provide strategic advantages"
+				},
+				{
+					"itemName": "Hirito",
+					"itemDescription": "A skilled swordsman with swift attacks and agility"
+				},
+				{
+					"itemName": "Rivai",
+					"itemDescription": "Specializes in rapid strikes and evasive maneuvers, making him hard to hit"
+				},
+				{
+					"itemName": "Ichini (Final)",
+					"itemDescription": "Balances offense and defense with powerful sword techniques"
+				},
+				{
+					"itemName": "Nardo (Six Paths)",
+					"itemDescription": "Harnesses mystical powers for versatile combat strategies"
+				},
+				{
+					"itemName": "Combat Titan",
+					"itemDescription": "Boasts immense strength and durability, ideal for frontline combat"
+				},
+				{
+					"itemName": "Infinite Nojo",
+					"itemDescription": "Utilizes time-based abilities to control the battlefield effectively"
+				},
+				{
+					"itemName": "Ice Queen Esdeaf",
+					"itemDescription": "Wields ice powers to freeze enemies and control areas"
+				},
+				{
+					"itemName": "Fluffy (Gear 5)",
+					"itemDescription": "In this enhanced form, exhibits increased strength and resilience"
+				},
+				{
+					"itemName": "Cursed Sage",
+					"itemDescription": "Employs cursed energy for powerful and unpredictable attacks"
+				},
+				{
+					"itemName": "Tobushiko",
+					"itemDescription": "A nimble fighter with aerial combat skills and swift movements"
+				},
+				{
+					"itemName": "Tengu",
+					"itemDescription": "Combines agility with wind-based attacks to outmaneuver foes"
+				},
+				{
+					"itemName": "Esper",
+					"itemDescription": "Utilizes psychic abilities to manipulate opponents and the environment"
+				},
+				{
+					"itemName": "Shadow Monarch",
+					"itemDescription": "Commands shadows to overwhelm enemies and dominate battles"
+				},
+				{
+					"itemName": "Nilin (Valentine)",
+					"itemDescription": "Features abilities themed around love, offering unique combat mechanics"
+				},
+				{
+					"itemName": "Tengoku",
+					"itemDescription": "Embodies celestial powers, delivering divine retribution to adversaries"
+				},
+				{
+					"itemName": "Fluffy (Vampire King)",
+					"itemDescription": "In this vampiric form, gains life-stealing abilities and enhanced combat skills"
+				},
+				{
+					"itemName": "Ryuka",
+					"itemDescription": "A fierce warrior with a fiery temper and devastating attacks"
+				},
+				{
+					"itemName": "Tanjiro Sun God",
+					"itemDescription": "Channels solar energy for powerful flame-based techniques"
+				},
+				{
+					"itemName": "Dio",
+					"itemDescription": "A cunning vampire with time-stopping abilities and ruthless tactics"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Alturia",
+					"itemDescription": "Wields a sword with powerful AoE attacks, excelling in crowd control"
+				},
+				{
+					"itemName": "Ichini (Fullbring)",
+					"itemDescription": "Balances offense and defense with enhanced swordsmanship"
+				},
+				{
+					"itemName": "Black Pasta",
+					"itemDescription": "Known for relentless assault capabilities and resilience"
+				},
+				{
+					"itemName": "Roku (Ultra Instinct)",
+					"itemDescription": "Exhibits heightened reflexes and formidable attack power"
+				},
+				{
+					"itemName": "Black Asta",
+					"itemDescription": "Features unique combat techniques and adaptability"
+				},
+				{
+					"itemName": "Madoka",
+					"itemDescription": "A beginner-friendly character with excellent versatility"
+				},
+				{
+					"itemName": "Meguretsu",
+					"itemDescription": "Specializes as an anti-boss threat, demolishing tough single targets"
+				},
+				{
+					"itemName": "Demon Lord Ramura",
+					"itemDescription": "Possesses unique abilities that can disrupt opponents and provide strategic advantages"
+				},
+				{
+					"itemName": "King of Heroes",
+					"itemDescription": "Commands a variety of weapons, offering versatile attack patterns"
+				},
+				{
+					"itemName": "Mochi Boy",
+					"itemDescription": "Utilizes mochi-based abilities for versatile combat strategies"
+				},
+				{
+					"itemName": "Toro (Summer)",
+					"itemDescription": "A versatile fighter effective in various battle scenarios, with a summer-themed twist"
+				},
+				{
+					"itemName": "Mochi Boy (Summer)",
+					"itemDescription": "Features summer-themed abilities, combining mochi attacks with seasonal flair"
+				},
+				{
+					"itemName": "Witch Meguretsu",
+					"itemDescription": "Wields magical powers to cast spells and control the battlefield"
+				},
+				{
+					"itemName": "Broccoli",
+					"itemDescription": "Combines agility with plant-based attacks to outmaneuver foes"
+				},
+				{
+					"itemName": "Best Boy (Summer)",
+					"itemDescription": "A nimble fighter with summer-themed abilities and swift movements"
+				},
+				{
+					"itemName": "Alturia Alter",
+					"itemDescription": "A darker version of Alturia, offering powerful and unpredictable attacks"
+				},
+				{
+					"itemName": "Ramura",
+					"itemDescription": "Employs unique abilities for powerful and unpredictable attacks"
+				},
+				{
+					"itemName": "Ichini (Final)",
+					"itemDescription": "Balances offense and defense with powerful sword techniques"
+				},
+				{
+					"itemName": "Shadow Ramura",
+					"itemDescription": "Commands shadows to overwhelm enemies and dominate battles"
+				},
+				{
+					"itemName": "Primordial",
+					"itemDescription": "Embodies ancient powers, delivering devastating attacks"
+				},
+				{
+					"itemName": "Priestess",
+					"itemDescription": "Provides exceptional healing and support abilities, enhancing team survivability"
+				},
+				{
+					"itemName": "Takamuri",
+					"itemDescription": "A skilled swordsman with swift attacks and agility"
+				},
+				{
+					"itemName": "Chainsaw",
+					"itemDescription": "Wields chainsaw-based attacks for high damage output"
+				},
+				{
+					"itemName": "Alis",
+					"itemDescription": "Utilizes time-based abilities to control the battlefield effectively"
+				},
+				{
+					"itemName": "Red Emperor",
+					"itemDescription": "Harnesses fire-based attacks to incinerate foes"
+				},
+				{
+					"itemName": "Nardo (Beast)",
+					"itemDescription": "Channels beast-like abilities for powerful melee attacks"
+				},
+				{
+					"itemName": "Zetsu",
+					"itemDescription": "Displays commendable swordsmanship and agility"
+				},
+				{
+					"itemName": "Bowman",
+					"itemDescription": "Specializes in ranged attacks with precise archery skills"
+				},
+				{
+					"itemName": "Takamuri (Summer)",
+					"itemDescription": "A skilled swordsman with swift attacks and agility, featuring a summer-themed twist"
+				},
+				{
+					"itemName": "Yor",
+					"itemDescription": "A fierce warrior with a fiery temper and devastating attacks"
+				},
+				{
+					"itemName": "Makima",
+					"itemDescription": "Employs unique abilities for powerful and unpredictable attacks"
+				},
+				{
+					"itemName": "Obito",
+					"itemDescription": "Utilizes space-time abilities to outmaneuver opponents"
+				},
+				{
+					"itemName": "Beast King",
+					"itemDescription": "Combines brute strength with beast-like agility"
+				},
+				{
+					"itemName": "Deku Hundred",
+					"itemDescription": "Harnesses immense power for high-speed, powerful attacks"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Nojo",
+					"itemDescription": "A solid standalone combatant lacking specialized strengths"
+				},
+				{
+					"itemName": "Tonjuro",
+					"itemDescription": "A swift fighter best at hit-and-run attack strategies"
+				},
+				{
+					"itemName": "Black Asta (Assimilated Devil Form)",
+					"itemDescription": "Features unique combat techniques and adaptability"
+				},
+				{
+					"itemName": "Yomiichi",
+					"itemDescription": "Displays commendable swordsmanship and agility"
+				},
+				{
+					"itemName": "Eugebro",
+					"itemDescription": "Offers balanced skills but doesn't particularly excel in any area"
+				},
+				{
+					"itemName": "Cyborg",
+					"itemDescription": "Combines mechanical strength with human strategy, offering moderate versatility"
+				},
+				{
+					"itemName": "Akuma",
+					"itemDescription": "A formidable fighter with a focus on powerful strikes and aggressive tactics"
+				},
+				{
+					"itemName": "Koneki",
+					"itemDescription": "Utilizes ghoul abilities to deliver swift and deadly attacks"
+				},
+				{
+					"itemName": "Winter Spirit Lia",
+					"itemDescription": "Chilling slows combined with moderate offense"
+				},
+				{
+					"itemName": "Tall Might",
+					"itemDescription": "Embodies immense strength and durability, ideal for frontline combat"
+				},
+				{
+					"itemName": "BiriBiri",
+					"itemDescription": "Harnesses electrical powers to stun and damage opponents"
+				},
+				{
+					"itemName": "Vampire Mika",
+					"itemDescription": "Employs vampiric abilities to drain health and enhance survivability"
+				},
+				{
+					"itemName": "Asana",
+					"itemDescription": "A skilled swordswoman known for her precision and agility in battle"
+				},
+				{
+					"itemName": "Lance Guy",
+					"itemDescription": "Wields a lance with exceptional reach, allowing for versatile combat strategies"
+				},
+				{
+					"itemName": "Ichini (Fullbring)",
+					"itemDescription": "Balances offense and defense with enhanced swordsmanship"
+				},
+				{
+					"itemName": "Onihime",
+					"itemDescription": "Possesses demonic powers that grant her formidable strength and resilience"
+				},
+				{
+					"itemName": "Kaido",
+					"itemDescription": "A beastly warrior known for his overwhelming power and endurance"
+				},
+				{
+					"itemName": "Yamato",
+					"itemDescription": "A versatile fighter with a strong sense of justice and impressive combat skills"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Cherry",
+					"itemDescription": "Possesses clunky damaging abilities with slow casting times"
+				},
+				{
+					"itemName": "Itabori",
+					"itemDescription": "Utilizes cursed energy for versatile combat strategies"
+				},
+				{
+					"itemName": "Bakubro",
+					"itemDescription": "Employs explosive attacks for high burst damage"
+				},
+				{
+					"itemName": "Ray",
+					"itemDescription": "Specializes in light-based abilities to outmaneuver foes"
+				},
+				{
+					"itemName": "Rokia",
+					"itemDescription": "Lacks impact without strong team support"
+				},
+				{
+					"itemName": "Shield Man",
+					"itemDescription": "Prioritizes defense over offense, resulting in limited damage output"
+				},
+				{
+					"itemName": "Susky",
+					"itemDescription": "Features unpredictable abilities that are challenging to master"
+				},
+				{
+					"itemName": "Christmas Alter",
+					"itemDescription": "A festive variant with unique holiday-themed attacks"
+				},
+				{
+					"itemName": "King of Curses",
+					"itemDescription": "Relies heavily on situational advantages, making consistent performance difficult"
+				},
+				{
+					"itemName": "Pasta",
+					"itemDescription": "Wields dark magic for powerful ranged attacks"
+				},
+				{
+					"itemName": "Yakaza",
+					"itemDescription": "Utilizes rapid strikes and agility to overwhelm opponents"
+				}
+			]
+		}
+	]
+}

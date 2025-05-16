@@ -1,0 +1,86 @@
+{
+	"fileName": "dokkan-battle.json",
+	"title": "Dokkan Battle Tier List",
+	"description": "This is a tier list for the mobile game Dokkan Battle. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best and C Tier being the worst. The units are ranked based on their overall performance in the game, including their offense, defense, and utility.",
+	"heading": "Dokkan Battle Tier List",
+	"introText": "This is a tier list for the mobile game Dokkan Battle. The list is divided into S Tier, A Tier, B Tier, and C Tier, with S Tier being the best and C Tier being the worst. The units are ranked based on their overall performance in the game, including their offense, defense, and utility.",
+	"datePublished": "2024-07-08",
+	"dateModified": "2025-01-29",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "LR UI Goku",
+					"itemDescription": "The undisputed king of Dokkan Battle, LR UI Goku is an offensive powerhouse with incredible defense and utility. His ability to dodge attacks and counter with devastating super attacks makes him a nightmare for any opponent.\n\nLR Gods of the Universe Goku & Vegeta: Another top-tier LR, LR Gods of the Universe Goku & Vegeta are a force to be reckoned with. They offer incredible offense and defense, and their ability to heal themselves and their allies makes them incredibly versatile.\n\nLR Frieza & Goku (Angel): This fusion unit is one of the hardest-hitting characters in the game, and they also offer solid defense and a unique ability that allows them to dodge attacks and counter with super attacks"
+				},
+				{
+					"itemName": "LR Cell",
+					"itemDescription": "LR Cell is a true all-rounder, with excellent offense, defense, and utility. His ability to absorb attacks and power himself up makes him a formidable opponent"
+				},
+				{
+					"itemName": "LR Super Vegito",
+					"itemDescription": "LR Super Vegito is a classic Dokkan Battle unit that is still one of the best in the game. He offers incredible defense and the ability to counter attacks with super attacks"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Mai",
+					"itemDescription": "LR Trunks & Mai are a powerful offensive unit with a unique ability that allows them to seal their opponent's super attacks.\n\nLR Gohan & Goten: LR Gohan & Goten are a versatile unit that offers good offense, defense, and healing"
+				},
+				{
+					"itemName": "LR Piccolo",
+					"itemDescription": "LR Piccolo is a tanky unit with the ability to stun enemies.\n\nLR Beerus & Whis: LR Beerus & Whis are a support unit that offers ki and defense to their allies"
+				},
+				{
+					"itemName": "LR Super Gogeta",
+					"itemDescription": "LR Super Gogeta is a hard-hitting unit with good defense"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "LR Majin Buu",
+					"itemDescription": "LR Majin Buu is a tanky unit with the ability to absorb attacks and heal himself"
+				},
+				{
+					"itemName": "LR Gotenks",
+					"itemDescription": "LR Gotenks is a hard-hitting unit with good defense"
+				},
+				{
+					"itemName": "LR Super Saiyan 4 Vegeta",
+					"itemDescription": "LR Super Saiyan 4 Vegeta is a versatile unit that offers good offense and defense.\n\nLR Goku & Vegeta (Blue): LR Goku & Vegeta (Blue) are a powerful offensive unit with a unique ability that allows them to dodge attacks and counter with super attacks.\n\nLR Android 17 & 18: LR Android 17 & 18 are a support unit that offers ki and defense to their allies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "LR Ginyu Force",
+					"itemDescription": "LR Ginyu Force is a team of five units that can be powerful if used correctly, but they are very situational and can be difficult to use effectively"
+				},
+				{
+					"itemName": "LR Nappa",
+					"itemDescription": "LR Nappa is a tanky unit, but he has very poor offense"
+				},
+				{
+					"itemName": "LR Raditz",
+					"itemDescription": "LR Raditz is a hard-hitting unit, but he has very poor defense.\n\nLR Bardock & Gine: LR Bardock & Gine are a support unit, but their ki and defense buffs are not very significant"
+				},
+				{
+					"itemName": "LR Super Saiyan 3 Goku",
+					"itemDescription": "LR Super Saiyan 3 Goku is a hard-hitting unit, but he has very poor defense and ki"
+				}
+			]
+		}
+	]
+}

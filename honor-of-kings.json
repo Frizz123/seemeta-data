@@ -1,0 +1,82 @@
+{
+	"fileName": "honor-of-kings.json",
+	"title": "Honor of Kings Tier List",
+	"description": "Discover the ultimate Honor of Kings tier list, featuring the best heroes ranked from S Tier to C Tier. Explore detailed descriptions of top characters like Lü Bu, Diao Chan, and Han Xin, and find out which heroes dominate the battlefield. Perfect for players looking to master the game and choose the best heroes for their team.",
+	"heading": "Honor of Kings Tier List",
+	"introText": "Discover the ultimate Honor of Kings tier list, featuring the best heroes ranked from S Tier to C Tier. Explore detailed descriptions of top characters like Lü Bu, Diao Chan, and Han Xin, and find out which heroes dominate the battlefield. Perfect for players looking to master the game and choose the best heroes for their team.",
+	"datePublished": "2024-06-19",
+	"dateModified": "2024-06-19",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Bu",
+					"itemDescription": "Unmatched in damage output and sustainability, Lü Bu dominates the battlefield with his high burst damage and ability to heal"
+				},
+				{
+					"itemName": "Diao Chan",
+					"itemDescription": "Exceptional mage with strong crowd control and burst damage, making her a formidable opponent in team fights"
+				},
+				{
+					"itemName": "Han Xin",
+					"itemDescription": "Versatile assassin known for his mobility and high damage, making him a top choice for junglers"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Zhao Yun",
+					"itemDescription": "Balanced warrior with good damage and crowd control, effective in various roles and situations"
+				},
+				{
+					"itemName": "Sun Shangxiang",
+					"itemDescription": "Powerful marksman with high damage output and mobility, great for dealing sustained damage from a distance"
+				},
+				{
+					"itemName": "Zhong Wuyan",
+					"itemDescription": "Strong tank with high durability and crowd control abilities, perfect for protecting allies and initiating fights"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Guan Yu",
+					"itemDescription": "Solid warrior with decent damage and crowd control, though not as impactful as higher-tier characters"
+				},
+				{
+					"itemName": "Diaochan",
+					"itemDescription": "Effective mage with good crowd control and damage, but requires more skill to utilize fully"
+				},
+				{
+					"itemName": "Lu Ban",
+					"itemDescription": "Marksman with strong damage output, but lacks mobility, making positioning crucial"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Meng Huo",
+					"itemDescription": "Warrior with moderate damage and crowd control, but outclassed by other warriors in higher tiers"
+				},
+				{
+					"itemName": "Zhen Ji",
+					"itemDescription": "Mage with decent damage and crowd control, but less effective compared to other mages"
+				},
+				{
+					"itemName": "Arthur",
+					"itemDescription": "Basic warrior with straightforward abilities, effective in early game but falls off in late game"
+				}
+			]
+		}
+	]
+}

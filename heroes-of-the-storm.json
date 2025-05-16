@@ -1,0 +1,98 @@
+{
+  "fileName": "heroes-of-the-storm.json",
+  "title": "Heroes of the Storm Tier List",
+  "description": "Discover the latest Hots tier list, ranking heroes from S Tier to C Tier based on performance and meta. Find out which heroes dominate and which fall behind.",
+  "heading": "Heroes of the Storm Tier List",
+  "introText": "Discover the latest Hots tier list, ranking heroes from S Tier to C Tier based on performance and meta. Find out which heroes dominate and which fall behind.",
+  "datePublished": "2024-11-02",
+  "dateModified": "2024-11-02",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Brightwing",
+          "itemDescription": "Solid healing with Soothing Mist. Pixie Dust has a lot of uses. Fantastic counter to a lot of enemy heroics with Polymorph. Able to almost instantly help out allies with Phase Shift"
+        },
+        {
+          "itemName": "Valla",
+          "itemDescription": "Good waveclear. Good poke. Versatile; fits any team composition. Strong in all phases of the game. Very high single-target and area of effect damage"
+        },
+        {
+          "itemName": "Azmodan",
+          "itemDescription": "Split-Pushing. Large Health pool. Outstanding sieging and waveclearing capabilities. High damage dealing potential"
+        },
+        {
+          "itemName": "Rehgar",
+          "itemDescription": "Unique mobility. Capable of clearing Mercenary Camps on his own very quickly. Consistent multi-target healing"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Stitches",
+          "itemDescription": "Massive Health. Strong self-sustain with Devour. Hook can pull allied Heroes out of danger, or into otherwise advantageous positions"
+        },
+        {
+          "itemName": "D.Va",
+          "itemDescription": "Solid initiation. Impressive teamfight mobility with Boosters. Can mitigate significant amounts of enemy Hero damage with Defense Matrix. Incredible damage and zoning potential with Self-Destruct"
+        },
+        {
+          "itemName": "Gazlowe",
+          "itemDescription": "Empowers knight and giant camps if you push with them. Great at controlling space. Able to solo any merc camp (golems included) while taking very little damage. Sets up heavy defenses around static objectives or for defense"
+        },
+        {
+          "itemName": "Rexxar",
+          "itemDescription": "Strong solo laner. Decent crowd control. High health pool on Misha. Can easily clear Mercenary Camps on his own"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Arthas",
+          "itemDescription": "Strong self-sustain. Powerful crowd control abilities. Resilient against Basic Attacks. Decent laner. High damage output compared to other Tanks"
+        },
+        {
+          "itemName": "Blaze",
+          "itemDescription": "Area Denial. Sustain. Mobility. CC"
+        },
+        {
+          "itemName": "Cho",
+          "itemDescription": "Good self-sustain. Great gap-closer. Large Health pool. Abilities do not use Mana. Strong Late Game due to his scaling"
+        },
+        {
+          "itemName": "Diablo",
+          "itemDescription": "Can build for self sustain. Greatly punishes bad positioning. Very tanky (when fully stacked). Resurrects immediately when fully stacked. Good at bodyblocking. Decent damage when maximizing ability usage. Great for ganking. A lot of interrupts"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "E.T.C",
+          "itemDescription": "Doesn’t die as easy as most heroes. Brings alot of utility. Always has plays to make"
+        },
+        {
+          "itemName": "Tyrael",
+          "itemDescription": "Acceptable Solo Laner. Exceptional mobility. Offers offensive and defensive talent builds. Capable of boosting allies’ Movement Speed and shielding them"
+        },
+        {
+          "itemName": "Varian",
+          "itemDescription": "Has access to multiple crowd control abilities. High Basic Attack damage. Extremely flexible playstyle. Hard to read in drafts"
+        },
+        {
+          "itemName": "Artanis",
+          "itemDescription": "Great sustained damage. Once below 75% health, Shield Overload can make Artanis very difficult to kill if not focused. Phase Prism can be used during Blade Dash, which provides Artanis with unexpected mobility. Both Suppression Pulse and Purifier Beam are global"
+        }
+      ]
+    }
+  ]
+}

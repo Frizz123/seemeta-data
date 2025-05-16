@@ -1,0 +1,294 @@
+{
+	"fileName": "honkai-star-rail.json",
+	"title": "Honkai: Star Rail Tier List",
+	"description": "Discover the latest Honkai: Star Rail Tier List as of April 2025. Find out which characters rank in S, A, B, and C tiers to optimize your team composition.",
+	"heading": "Honkai: Star Rail Tier List",
+	"introText": "Discover the latest Honkai: Star Rail Tier List as of April 2025. Find out which characters rank in S, A, B, and C tiers to optimize your team composition.",
+	"datePublished": "2024-05-25",
+	"dateModified": "2025-04-09",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Aventurine",
+					"itemDescription": "Grants team-wide shields, buffs follow-up attacks and Crit stats, making him a top-tier sustain with bonus damage potential"
+				},
+				{
+					"itemName": "Fugue",
+					"itemDescription": "Enables universal Toughness reduction and Super Break Damage, making her essential for Break-focused teams"
+				},
+				{
+					"itemName": "Fu Xuan",
+					"itemDescription": "Absorbs damage for allies and self-heals below 50% HP, acting as a durable and reliable tank"
+				},
+				{
+					"itemName": "Lingsha",
+					"itemDescription": "A powerful healer with Break potential, follow-up damage, and healing that feels like an added bonus"
+				},
+				{
+					"itemName": "Robin",
+					"itemDescription": "Boosts the entire team's damage, Crit stats, and turn order, making her an elite all-around support"
+				},
+				{
+					"itemName": "Ruan Mei",
+					"itemDescription": "Increases team damage, Break Effect, and Speed while delaying enemy recovery, perfect for high-efficiency buffs"
+				},
+				{
+					"itemName": "Sparkle",
+					"itemDescription": "Provides extra Skill Points, boosts team damage, and accelerates turns, excelling in flexible team comps"
+				},
+				{
+					"itemName": "Sunday",
+					"itemDescription": "Combines buffs, cleansing, and summon synergy for massive Crit and utility, making him one of the most versatile supports"
+				},
+				{
+					"itemName": "Topaz",
+					"itemDescription": "Enhances follow-up attack teams with her own FUA damage and summon synergy, a must-have for FUA comps"
+				},
+				{
+					"itemName": "Tribbie",
+					"itemDescription": "Offers Resistance Penetration, follow-up triggers, and solid personal damage, fitting well into most teams"
+				},
+				{
+					"itemName": "Acheron",
+					"itemDescription": "A powerful DPS character who excels in dealing high damage and can fit into various team compositions"
+				},
+				{
+					"itemName": "Aglaea",
+					"itemDescription": "A character with balanced offensive and defensive capabilities, suitable for diverse team setups"
+				},
+				{
+					"itemName": "Bronya",
+					"itemDescription": "Grants an ally an immediate turn and buffs team Crit and Attack, making her one of the best supports in the game"
+				},
+				{
+					"itemName": "Feixiao",
+					"itemDescription": "A powerful single-target DPS who excels in follow-up attack teams thanks to her passive"
+				},
+				{
+					"itemName": "Firefly",
+					"itemDescription": "Dominates the Super Break meta with massive damage during her Ultimate and implanted Fire Weakness"
+				},
+				{
+					"itemName": "Huohuo",
+					"itemDescription": "Heals and regenerates Energy for allies while boosting Attack, blending Abundance with Harmony support"
+				},
+				{
+					"itemName": "Kafka",
+					"itemDescription": "Specializes in boosting DoT damage and synergizes best with other DoT-inflicting teammates"
+				},
+				{
+					"itemName": "Luocha",
+					"itemDescription": "A passive healer who restores health through attacks and dispels enemy buffs, scaling off his own Attack"
+				},
+				{
+					"itemName": "Pela",
+					"itemDescription": "Reduces enemy defense and generates Energy, making her a strong Ice support for AoE-focused teams"
+				},
+				{
+					"itemName": "Rappa",
+					"itemDescription": "Deals strong AoE Break Damage and Super Break, perfect for teams targeting many enemies in Pure Fiction"
+				},
+				{
+					"itemName": "Remembrance Trailblazer",
+					"itemDescription": "Boosts Crit Damage and team turn speed, a great free support option"
+				},
+				{
+					"itemName": "The Herta",
+					"itemDescription": "Strong AoE attacker with bonus effects when paired with Erudition allies, excels against multiple enemies"
+				},
+				{
+					"itemName": "Tingyun",
+					"itemDescription": "Buffs an ally’s Attack and restores Energy, a versatile 4-star support for high DPS characters"
+				},
+				{
+					"itemName": "Trailblazer (Harmony)",
+					"itemDescription": "Enables Super Break Damage while enemies are Weakness Broken, and works well as a free buffer"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Dr. Ratio",
+					"itemDescription": "A competent character with abilities that allow for strategic plays and synergy with various team compositions"
+				},
+				{
+					"itemName": "Jing Yuan",
+					"itemDescription": "Offers solid area-of-effect damage, making him effective against groups of enemies"
+				},
+				{
+					"itemName": "Argenti",
+					"itemDescription": "A character with reliable single-target damage, suitable for boss encounters"
+				},
+				{
+					"itemName": "Blade",
+					"itemDescription": "A durable damage dealer who can sustain himself in prolonged battles"
+				},
+				{
+					"itemName": "Black Swan",
+					"itemDescription": "Provides utility through debuffs and can adapt to various combat situations"
+				},
+				{
+					"itemName": "Imbibitor Lunae",
+					"itemDescription": "A versatile character capable of fulfilling multiple roles depending on team needs"
+				},
+				{
+					"itemName": "Jingliu",
+					"itemDescription": "Known for her consistent damage output and reliability in various scenarios"
+				},
+				{
+					"itemName": "Boothill",
+					"itemDescription": "A strong single-target DPS who implants Physical Weakness and quickly reduces Toughness"
+				},
+				{
+					"itemName": "Gallagher",
+					"itemDescription": "A healer with surprisingly good damage, who also boosts team Break Damage and debuffs enemies"
+				},
+				{
+					"itemName": "Hanya",
+					"itemDescription": "Generates Skill Points and buffs damage and speed, ideal for Skill-hungry DPS teams"
+				},
+				{
+					"itemName": "Himeko",
+					"itemDescription": "AoE Fire nuker who triggers follow-ups when enemies are broken, great against waves of enemies"
+				},
+				{
+					"itemName": "Jade",
+					"itemDescription": "Applies team-wide Quantum damage and unleashes powerful follow-ups by charging attacks through an ally"
+				},
+				{
+					"itemName": "Lynx",
+					"itemDescription": "Heals and redirects enemy aggro to tanky allies, while cleansing debuffs with her Ultimate"
+				},
+				{
+					"itemName": "March 7th (Hunt)",
+					"itemDescription": "Versatile free support and sub-DPS who enhances allies and deals conditional Toughness or Crit damage"
+				},
+				{
+					"itemName": "Moze",
+					"itemDescription": "A follow-up attacker who supports with Prey marks, improving at higher Eidolons"
+				},
+				{
+					"itemName": "Qingque",
+					"itemDescription": "RNG-dependent Quantum DPS who becomes powerful at E6 through tile matching mechanics"
+				},
+				{
+					"itemName": "Seele",
+					"itemDescription": "Quantum assassin who can chain multiple turns via resets, making her deadly in multi-target fights"
+				},
+				{
+					"itemName": "Silver Wolf",
+					"itemDescription": "Randomly implants weaknesses and debuffs enemies, perfect for teams lacking elemental coverage"
+				},
+				{
+					"itemName": "Welt",
+					"itemDescription": "Reduces enemy speed and turn frequency, giving your team more chances to act"
+				},
+				{
+					"itemName": "Yunli",
+					"itemDescription": "A Physical tank-DPS hybrid who taunts enemies and counters while self-healing and regenerating Energy"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Clara",
+					"itemDescription": "A character who, with proper investment, can perform well but may require specific team setups"
+				},
+				{
+					"itemName": "March 7th (Preservation)",
+					"itemDescription": "Offers defensive utility and can protect teammates effectively"
+				},
+				{
+					"itemName": "Asta",
+					"itemDescription": "Asta boosts the whole team’s speed with her Ultimate, potentially granting extra turns that can turn the tide of battle"
+				},
+				{
+					"itemName": "Bailu",
+					"itemDescription": "Bailu heals multiple allies and can revive one fallen teammate per battle, making her a top-tier healer, though she can’t cleanse debuffs"
+				},
+				{
+					"itemName": "Gepard",
+					"itemDescription": "Gepard provides strong team shields with his Ultimate and can revive once per battle, excelling in fights with fewer enemies"
+				},
+				{
+					"itemName": "Xueyi",
+					"itemDescription": "Xueyi’s Ultimate bypasses enemy weaknesses, always reducing Toughness and making her a versatile damage dealer"
+				},
+				{
+					"itemName": "Yukong",
+					"itemDescription": "Yukong buffs allies’ ATK, Crit Rate, and Crit DMG, but requires careful timing to keep Roaring Bowstrings active"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Guinaifen",
+					"itemDescription": "Guinaifen inflicts Burn DoTs and increases enemy damage taken, making her perfect with Kafka"
+				},
+				{
+					"itemName": "Herta",
+					"itemDescription": "Herta deals strong AOE Ice damage and follows up attacks when enemies drop below a certain HP threshold, great for Pure Fiction"
+				},
+				{
+					"itemName": "Luka",
+					"itemDescription": "Luka causes Bleed, debuffs enemies, and dispels buffs, making him useful in low-target fights"
+				},
+				{
+					"itemName": "Misha",
+					"itemDescription": "Misha works best as a sub-DPS in teams that use lots of Skill Points and benefit from Freeze synergy"
+				},
+				{
+					"itemName": "Natasha",
+					"itemDescription": "Natasha is a reliable healer who also removes debuffs, ideal for early game and long fights"
+				},
+				{
+					"itemName": "Sampo",
+					"itemDescription": "Sampo applies AOE Wind DoTs and slows enemies, shining when paired with Kafka"
+				},
+				{
+					"itemName": "Serval",
+					"itemDescription": "Serval deals AOE Lightning damage and shocks enemies, simple but effective early on"
+				},
+				{
+					"itemName": "Sushang",
+					"itemDescription": "Sushang gains extra turns and excels against Physical-weak enemies, especially in single-target battles"
+				},
+				{
+					"itemName": "Trailblazer (Fire)",
+					"itemDescription": "Fire Trailblazer is a strong tank who draws aggro and deals decent Fire damage"
+				},
+				{
+					"itemName": "Yanqing",
+					"itemDescription": "Yanqing can freeze enemies and deal solid Ice damage, but he’s unreliable compared to other DPS"
+				},
+				{
+					"itemName": "Arlan",
+					"itemDescription": "Arlan doesn’t use Skill Points and frees them for others, but costs HP with every Skill use"
+				},
+				{
+					"itemName": "Dan Heng",
+					"itemDescription": "Dan Heng is a solid single-target Wind DPS, good for story and early content"
+				},
+				{
+					"itemName": "Hook",
+					"itemDescription": "Hook deals fast Fire damage and inflicts Burn, but gets outclassed by better Fire units"
+				},
+				{
+					"itemName": "Trailblazer (Physical)",
+					"itemDescription": "Physical Trailblazer is a basic but durable AoE and single-target Physical damage dealer"
+				}
+			]
+		}
+	]
+}

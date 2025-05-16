@@ -1,0 +1,82 @@
+{
+	"fileName": "monster-never-cry.json",
+	"title": "Monster Never Cry Tier List",
+	"description": "Explore the definitive tier list for Monster Never Cry, featuring detailed descriptions and rankings of characters in S Tier, A Tier, B Tier, and C Tier. Discover the strengths and weaknesses of each character and gain insights into building the most formidable team for epic battles.",
+	"heading": "Monster Never Cry Tier List",
+	"introText": "Explore the definitive tier list for Monster Never Cry, featuring detailed descriptions and rankings of characters in S Tier, A Tier, B Tier, and C Tier. Discover the strengths and weaknesses of each character and gain insights into building the most formidable team for epic battles.",
+	"datePublished": "2024-06-15",
+	"dateModified": "2024-06-15",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "The Immortal Warlord",
+					"itemDescription": "A formidable warrior known for his unmatched strength and indomitable will. His skills in combat are legendary, making him a top contender in any battle"
+				},
+				{
+					"itemName": "The Arcane Sorceress",
+					"itemDescription": "Master of powerful magic spells, she can unleash devastating attacks on her enemies. Her ability to control the elements gives her a significant advantage"
+				},
+				{
+					"itemName": "The Shadow Assassin",
+					"itemDescription": "A stealthy and agile fighter, capable of dealing lethal blows without being detected. His swift movements and deadly precision make him a deadly foe"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "The Divine Paladin",
+					"itemDescription": "A holy warrior blessed with divine powers, he can heal allies and smite enemies with righteous fury. His resilience in battle makes him a valuable asset"
+				},
+				{
+					"itemName": "The Elemental Shaman",
+					"itemDescription": "Harnessing the forces of nature, he can summon elemental creatures and unleash elemental attacks. His versatility in combat makes him a versatile choice"
+				},
+				{
+					"itemName": "The Mystic Enchanter",
+					"itemDescription": "Skilled in enchantments and illusions, she can confuse and manipulate enemies with her spells. Her cunning tactics make her a formidable opponent"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "The Savage Berserker",
+					"itemDescription": "Fueled by rage, he charges into battle with reckless abandon. While his strength is undeniable, his lack of control can be a liability"
+				},
+				{
+					"itemName": "The Cunning Trickster",
+					"itemDescription": "Master of deception and trickery, he can outwit opponents with clever strategies and traps. His unpredictability makes him a tricky opponent to face"
+				},
+				{
+					"itemName": "The Swift Ranger",
+					"itemDescription": "A skilled archer and tracker, she excels at ranged combat and scouting. Her speed and agility give her an edge in maneuverability"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "The Plague Doctor",
+					"itemDescription": "Specializing in poisons and diseases, he can weaken enemies and disrupt their abilities. However, his frailty in direct combat puts him at a disadvantage"
+				},
+				{
+					"itemName": "The Arcane Scholar",
+					"itemDescription": "Knowledgeable in arcane lore, he can cast powerful spells but lacks physical prowess. His reliance on magic makes him vulnerable in close-quarters combat"
+				},
+				{
+					"itemName": "The Brutal Warlord",
+					"itemDescription": "A brutal and aggressive fighter, he relies on sheer force to overwhelm opponents. However, his lack of finesse and strategy can be exploited by more skilled adversaries"
+				}
+			]
+		}
+	]
+}

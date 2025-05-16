@@ -1,0 +1,114 @@
+{
+	"fileName": "tower-of-god-new-world.json",
+	"title": "Tower of God: New World Tier List",
+	"description": "This tier list is based on the opinions of experienced players and may not reflect everyone's experiences. It is also subject to change as the game evolves. The list is divided into S, A, B, and C tiers, with S tier being the highest and C tier being the lowest. The characters in each tier are ranked from best to worst. Please note that this is just a general tier list and the best team for you will depend on your playstyle and the specific content you are trying to clear.",
+	"heading": "Tower of God: New World Tier List",
+	"introText": "This tier list is based on the opinions of experienced players and may not reflect everyone's experiences. It is also subject to change as the game evolves. The list is divided into S, A, B, and C tiers, with S tier being the highest and C tier being the lowest. The characters in each tier are ranked from best to worst. Please note that this is just a general tier list and the best team for you will depend on your playstyle and the specific content you are trying to clear.",
+	"datePublished": "2024-05-25",
+	"dateModified": "2024-05-25",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Ha Yuri (Regular)",
+					"itemDescription": "A powerful DPS unit with great crowd control and survivability"
+				},
+				{
+					"itemName": "Urek Mazino (Flight)",
+					"itemDescription": "A versatile unit who can deal high damage and support his team with buffs and debuffs"
+				},
+				{
+					"itemName": "Khun Aguero (Strategist)",
+					"itemDescription": "A top-tier support unit who can provide his team with a variety of buffs and debuffs"
+				},
+				{
+					"itemName": "Hoaqin (Demonic Fragment)",
+					"itemDescription": "A powerful DPS unit who can deal massive damage to single targets"
+				},
+				{
+					"itemName": "Endorsi (Princess)",
+					"itemDescription": "A versatile unit who can deal damage, support her team, and control the battlefield"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Karaka (Regular)",
+					"itemDescription": "A strong DPS unit with good survivability"
+				},
+				{
+					"itemName": "Viole (Thorn)",
+					"itemDescription": "A powerful DPS unit who can deal massive damage to all enemies"
+				},
+				{
+					"itemName": "White (Regular)",
+					"itemDescription": "A versatile unit who can deal damage, support her team, and control the battlefield"
+				},
+				{
+					"itemName": "Khun Ran (Data)",
+					"itemDescription": "A top-tier support unit who can provide his team with a variety of buffs and debuffs"
+				},
+				{
+					"itemName": "Bora (Regular)",
+					"itemDescription": "A strong DPS unit with good AoE damage"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Lero Ro (Regular)",
+					"itemDescription": "A solid DPS unit with good crowd control"
+				},
+				{
+					"itemName": "Evan Edrok (Fast Ship)",
+					"itemDescription": "A versatile unit who can deal damage, support his team, and control the battlefield"
+				},
+				{
+					"itemName": "Mascheny Jahad (Data)",
+					"itemDescription": "A support unit who can provide her team with buffs and debuffs"
+				},
+				{
+					"itemName": "Hatting (Regular)",
+					"itemDescription": "A DPS unit with good single-target damage"
+				},
+				{
+					"itemName": "Igneel Ha (Regular)",
+					"itemDescription": "A support unit who can provide her team with buffs and heals"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Rachel (Regular)",
+					"itemDescription": "A DPS unit with low survivability and inconsistent damage"
+				},
+				{
+					"itemName": "Quant (Regular)",
+					"itemDescription": "A support unit who is outclassed by other support units"
+				},
+				{
+					"itemName": "Anak (Regular)",
+					"itemDescription": "A tank unit who is not very effective in the current meta"
+				},
+				{
+					"itemName": "Shilial Jahad (Princess)",
+					"itemDescription": "A support unit who is not very useful in most teams"
+				},
+				{
+					"itemName": "Yuri Ha (Regular)",
+					"itemDescription": "A DPS unit who is outclassed by other DPS units"
+				}
+			]
+		}
+	]
+}

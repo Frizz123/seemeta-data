@@ -1,0 +1,82 @@
+{
+	"fileName": "valorant-agent.json",
+	"title": "Valorant Agent Tier List",
+	"description": "This Valorant Agent Tier List is based on the current meta and includes a brief description of each agent's strengths and weaknesses. The agents are ranked from S Tier (the best) to C Tier (the weakest).",
+	"heading": "Valorant Agent Tier List",
+	"introText": "This Valorant Agent Tier List is based on the current meta and includes a brief description of each agent's strengths and weaknesses. The agents are ranked from S Tier (the best) to C Tier (the weakest).",
+	"datePublished": "2024-07-10",
+	"dateModified": "2024-07-10",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Jett",
+					"itemDescription": "Jett is a duelist who is known for her mobility and fragging ability. She has a variety of abilities that allow her to get around the map quickly and take out enemies with ease"
+				},
+				{
+					"itemName": "Neon",
+					"itemDescription": "Neon is a new agent who has quickly become one of the most popular in the game. She is an initiator who has a lot of crowd control abilities, making her great for disrupting enemy teams"
+				},
+				{
+					"itemName": "Raze",
+					"itemDescription": "Raze is another duelist who is known for her explosive abilities. She can deal a lot of damage in a short amount of time, making her a force to be reckoned with"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "KAY/O",
+					"itemDescription": "KAY/O is an initiator who has a lot of information-gathering abilities. He can also suppress enemies, making him a great choice for disrupting enemy teams"
+				},
+				{
+					"itemName": "Omen",
+					"itemDescription": "Omen is a controller who has a lot of area denial abilities. He can also teleport around the map, making him a very versatile agent"
+				},
+				{
+					"itemName": "Sova",
+					"itemDescription": "Sova is an initiator who has a lot of scouting abilities. He can also reveal enemies, making him a great choice for gathering information"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Killjoy",
+					"itemDescription": "Killjoy is a sentinel who has a lot of area denial abilities. She can also set up traps, making her a good choice for defending sites"
+				},
+				{
+					"itemName": "Phoenix",
+					"itemDescription": "Phoenix is a duelist who has a lot of self-healing abilities. He can also resurrect himself, making him a very survivable agent"
+				},
+				{
+					"itemName": "Sage",
+					"itemDescription": "Sage is a sentinel who has a lot of healing and supportive abilities. She is a good choice for teams that need a dedicated healer"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Brimstone",
+					"itemDescription": "Brimstone is a controller who has a lot of area denial abilities. However, his abilities are not as versatile as those of other controllers"
+				},
+				{
+					"itemName": "Viper",
+					"itemDescription": "Viper is a controller who has a lot of area denial abilities. However, her abilities are very situational and can be difficult to use effectively"
+				},
+				{
+					"itemName": "Yoru",
+					"itemDescription": "Yoru is a duelist who has a lot of trickery abilities. However, his abilities are not as reliable as those of other duelists"
+				}
+			]
+		}
+	]
+}

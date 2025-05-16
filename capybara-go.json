@@ -1,0 +1,62 @@
+{
+  "fileName": "capybara-go.json",
+  "title": "Capybara Go Tier List",
+  "description": "Explore the definitive Capybara Go! tier list, ranking pets, equipment, and skills from S to C Tier. Optimize your gameplay with our detailed guide.",
+  "heading": "Capybara Go Tier List",
+  "introText": "Explore the definitive Capybara Go! tier list, ranking pets, equipment, and skills from S to C Tier. Optimize your gameplay with our detailed guide.",
+  "datePublished": "2024-11-12",
+  "dateModified": "2024-11-12",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Angel Bow",
+          "itemDescription": "Increases critical rate and damage, ideal for maximizing offensive potential"
+        },
+        {
+          "itemName": "Revival Cape",
+          "itemDescription": "Grants a second chance by reviving the character upon defeat, crucial for challenging battles"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Dragon's Breath Armor",
+          "itemDescription": "Restores health each round, improving survivability in prolonged encounters"
+        },
+        {
+          "itemName": "Mushroom Hammer",
+          "itemDescription": "Provides shields and damage reduction, aiding in defense during combat"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Whisperer",
+          "itemDescription": "Enhances critical hits and reduces enemy defense, boosting damage output"
+        },
+        {
+          "itemName": "Blade of Justice",
+          "itemDescription": "Boosts combo damage and applies judgment effects, enhancing offensive capabilities"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Star Staff",
+          "itemDescription": "Enhances rage skill damage, but may require specific builds to maximize effectiveness"
+        }
+      ]
+    }
+  ]
+}

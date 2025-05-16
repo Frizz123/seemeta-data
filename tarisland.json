@@ -1,0 +1,62 @@
+{
+	"fileName": "tarisland.json",
+	"title": "Tarisland Tier List",
+	"description": "Tarisland is a new MMORPG that has taken the gaming world by storm with its unique blend of PvE and PvP content, stunning visuals, and non-pay-to-win gameplay. With its recent release, many players are eager to dive into the world of Tarisland and choose the best class for their playstyle. However, with seven distinct classes to choose from, making that decision can be daunting. To help you out, we've put together a tier list for all the classes in Tarisland, taking into account their performance in both PvE and PvP content. This list is based on the current meta and is subject to change as the game evolves.",
+	"heading": "Tarisland Tier List",
+	"introText": "Tarisland is a new MMORPG that has taken the gaming world by storm with its unique blend of PvE and PvP content, stunning visuals, and non-pay-to-win gameplay. With its recent release, many players are eager to dive into the world of Tarisland and choose the best class for their playstyle. However, with seven distinct classes to choose from, making that decision can be daunting. To help you out, we've put together a tier list for all the classes in Tarisland, taking into account their performance in both PvE and PvP content. This list is based on the current meta and is subject to change as the game evolves.",
+	"datePublished": "2024-06-13",
+	"dateModified": "2024-06-13",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Mage",
+					"itemDescription": "The Mage is a powerful DPS class that excels in dealing high burst damage and crowd control. They are also relatively easy to learn, making them a good choice for new players"
+				},
+				{
+					"itemName": "Shadow Swordsman",
+					"itemDescription": "The Shadow Swordsman is another top-tier DPS class that is known for its high mobility and sustained damage. They are a bit more difficult to master than the Mage, but their rewards are well worth the effort"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Ranger",
+					"itemDescription": "The Ranger is a versatile DPS class that can deal both ranged and melee damage. They are also proficient at crowd control and have some self-healing capabilities"
+				},
+				{
+					"itemName": "Paladin",
+					"itemDescription": "The Paladin is a tank class that excels at protecting their allies and soaking up damage. They also have some offensive capabilities, making them a well-rounded class"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Warrior",
+					"itemDescription": "The Warrior is another tank class that is known for its high damage output. However, they are less durable than the Paladin and have fewer crowd control abilities"
+				},
+				{
+					"itemName": "Priest",
+					"itemDescription": "The Priest is a healer class that is essential for any group. They are also capable of dealing some damage and providing buffs to their allies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Bard",
+					"itemDescription": "The Bard is a support class that is known for their buffs and debuffs. However, they are not as effective as the Priest in healing, and their damage output is low"
+				}
+			]
+		}
+	]
+}

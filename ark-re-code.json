@@ -1,0 +1,426 @@
+{
+	"fileName": "ark-re-code.json",
+	"title": "Ark Re:Code Tier List",
+	"description": "This tier list ranks all of the characters in Ark Re:Code from best to worst. It is based on my own opinion and experience, but I have also taken into account factors such as the character's playstyle, team composition, and the content they are being used in.",
+	"heading": "Ark Re:Code Tier List",
+	"introText": "This tier list ranks all of the characters in Ark Re:Code from best to worst. It is based on my own opinion and experience, but I have also taken into account factors such as the character's playstyle, team composition, and the content they are being used in.",
+	"datePublished": "2024-05-15",
+	"dateModified": "2025-04-09",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Bernice",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dawn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Janis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clone Bartholo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hestia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lucia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rafael",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Joyce",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Louis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Moira",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Claire",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Berserk Galornia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gaeta",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Feliz",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Apathy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vengeful Louis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shani",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ermes",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cosma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lottie",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Matilda",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Opaeni",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clone Dildri",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clone Carolyn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clone Kalici",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clone Matilda",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clone Gieselle",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jocelyn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Naranthir",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hinorie",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Celeste",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tracy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vengeful Kothir",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Galornia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dildri",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ith",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dorin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Layla",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Trist",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rubi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clone Janis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Akaoni",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Odea",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eimi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clara",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Divergent Opaeni",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Theresa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Blossom",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marsha",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bartholo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clone Joyce",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Petra",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clone Clara",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Euphemia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Taya",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Carolyn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Belyn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Zaphael",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Silbal",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lana",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Financier",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pennecus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Taryn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ingloroe",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Vanessa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Altemia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mikael",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Patea",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Giselle",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pantasia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yerica",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Haleth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Petit",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Varitte",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Neva",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pamela",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Silvina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yibee",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Haluti",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Julia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kalici",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kothir",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Maeve",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Janice",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Milian",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Queenie",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Scarlett",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Antiya",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Grace",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mulier",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Olga",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Anheeun",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cindy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bonnie",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Katilda",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

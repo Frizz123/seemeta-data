@@ -1,0 +1,82 @@
+{
+	"fileName": "metal-slug-awakening.json",
+	"title": "Metal Slug: Awakening Tier List",
+	"description": "Discover the top characters in Metal Slug: Awakening with our comprehensive tier list, ranking heroes from S to C Tier to optimize your gameplay strategy.",
+	"heading": "Metal Slug: Awakening Character Tier List",
+	"introText": "Discover the top characters in Metal Slug: Awakening with our comprehensive tier list, ranking heroes from S to C Tier to optimize your gameplay strategy.",
+	"datePublished": "2024-07-21",
+	"dateModified": "2024-12-16",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Lyla",
+					"itemDescription": "A top-tier Firepower character known for high damage output and the ability to summon support bots, enhancing her effectiveness in battle"
+				},
+				{
+					"itemName": "Marco Rossi",
+					"itemDescription": "A legendary figure in the Metal Slug series, Marco remains a strong Firepower character with accessible specialized weapons and accessories, making him valuable throughout the game"
+				},
+				{
+					"itemName": "Scarlett",
+					"itemDescription": "Recognized for her significant damage potential, especially against bosses and stationary enemies, thanks to her unique abilities"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Eri Kasamoto",
+					"itemDescription": "Despite being a Spec-Ops character, Eri delivers impressive damage with minimal on-field time, allowing for extended use of main Firepower characters"
+				},
+				{
+					"itemName": "Eva Glenn",
+					"itemDescription": "Excels in boss battles, with team compositions often built around her as the primary Firepower character"
+				},
+				{
+					"itemName": "Trevor Spacey",
+					"itemDescription": "A strong DPS character, particularly effective after utilizing his ultimate ability"
+				},
+				{
+					"itemName": "Nadia Cassel",
+					"itemDescription": "The sole character with consistent healing abilities, capable of transforming into a more formidable version with enhanced stats, providing both survivability and damage"
+				},
+				{
+					"itemName": "Fio Germi",
+					"itemDescription": "Offers valuable buffs from food drops and wields bazookas, which are particularly advantageous in PvP scenarios"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Tarma Roving",
+					"itemDescription": "Provides rate-of-fire and summon damage bonuses, with solid DPS; however, his summon and shields have limited utility"
+				},
+				{
+					"itemName": "Violet",
+					"itemDescription": "Violet is a very solid DPS option on the CN/SEA versions of Metal Slug: Awakening. However, getting her in the global version isn’t possible right now, and gauging her exact strength for PvP and PvE content is difficult"
+				},
+				{
+					"itemName": "Gru Kang",
+					"itemDescription": "Gru Kang is a Spec-Ops character who is mostly about buffing his allies, and he does that well. However, the ring he summons can be useless in some situations, especially against PvP comps that can prevent you from getting close"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Haran",
+					"itemDescription": "A Spec-Ops character whose team bonuses are less impactful, with a stun ability that is situationally useful"
+				}
+			]
+		}
+	]
+}

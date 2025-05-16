@@ -1,0 +1,170 @@
+{
+	"fileName": "snowbreak.json",
+	"title": "Snowbreak Tier List",
+	"description": "This is a tier list for the game Snowbreak. The list is based on the current meta and may change as the game evolves. It is also important to remember that the best character for you will depend on your playstyle and the team you are playing with. Experiment with different characters and find the ones that you enjoy playing the most.",
+	"heading": "Snowbreak Tier List",
+	"introText": "This is a tier list for the game Snowbreak. The list is based on the current meta and may change as the game evolves. It is also important to remember that the best character for you will depend on your playstyle and the team you are playing with. Experiment with different characters and find the ones that you enjoy playing the most.",
+	"datePublished": "2024-05-31",
+	"dateModified": "2025-04-17",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Yao Winter Solstice",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Acacia Kaguya",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lyfe Wild Hunt",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Katya - Blue Bolt",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cherno - Enigma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Siris - Ksana",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lyfe - Infinite Sight",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Siris - The Goldfish",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yao - Nightglow",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Chenxing - Jade Arc",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fritia Hush",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marian Swift",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Katya - Dawnwing",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bubu - The Geomancer",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lyfe (Inifnite Sight)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fritia Little Sunshine",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marian (Queen of Pain)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Haru Absconditus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Enya (Tempest)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Enya (Exuvia)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Ji Chenxing (Etheral Cloud)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Enya (Big Sis)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fritia - Turbo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vidya - Agave",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tess (The Magician)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Acacia - Redacted",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yao - Quite Quitter",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lyfe - Wednesday",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Marian - Riptide",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fenny (Lionheart)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ji Chenxing (The Observer)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mauxir (Kitty)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Nita (Hands)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Haru (The Ace)",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+  "fileName": "monster-hunter-wilds-weapons.json",
+  "title": "Monster Hunter Wilds Weapons Tier List",
+  "description": "Discover the top weapons in Monster Hunter Wilds with our comprehensive tier list, detailing the strengths and ideal playstyles for each weapon.",
+  "heading": "Monster Hunter Wilds Weapons Tier List",
+  "introText": "Discover the top weapons in Monster Hunter Wilds with our comprehensive tier list, detailing the strengths and ideal playstyles for each weapon.",
+  "datePublished": "2025-02-14",
+  "dateModified": "2025-02-14",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Long Sword",
+          "itemDescription": "Combines reach with significant power, allowing hunters to build a spirit gauge and unleash devastating attacks. Its versatility makes it effective against various monsters"
+        },
+        {
+          "itemName": "Bow",
+          "itemDescription": "Offers both long-range and close-up attacks, with evasive moves that help charge shots. The new trick arrow system imbues arrows with homing properties, enhancing its effectiveness"
+        },
+        {
+          "itemName": "Great Sword",
+          "itemDescription": "Features decent range, good maneuverability, and high damage. The focus mode allows for more precise aiming, making it potent for both beginners and veterans"
+        },
+        {
+          "itemName": "Sword & Shield",
+          "itemDescription": "An agile and defensive weapon that trades power for utility. Allows hunters to use items without sheathing their weapon, offering a balance between offense and defense"
+        },
+        {
+          "itemName": "Hunting Horn",
+          "itemDescription": "A support weapon that provides blunt attacks and buffs"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Dual Blades",
+          "itemDescription": "Extremely fast weapons with a special Demon Mode that significantly increases damage. Ideal for aggressive players who prefer close combat"
+        },
+        {
+          "itemName": "Switch Axe",
+          "itemDescription": "A versatile weapon that can switch between axe and sword forms. While it offers flexibility, it requires mastery to maximize its potential"
+        },
+        {
+          "itemName": "Hammer",
+          "itemDescription": "A slow yet powerful weapon capable of stunning monsters with well-timed charged attacks. Effective for those who can anticipate monster movements"
+        },
+        {
+          "itemName": "Gunlance",
+          "itemDescription": "Trades mobility for great defenses and high damage. Combines the defensive capabilities of the lance with explosive attacks, suitable for methodical hunters"
+        },
+        {
+          "itemName": "Lance",
+          "itemDescription": "A defense-first weapon with decent range. Emphasizes guarding and counterattacking, making it ideal for players who prefer a cautious approach"
+        },
+        {
+          "itemName": "Charge Blade",
+          "itemDescription": "A complicated weapon that builds power in one form to unleash it in another"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Heavy Bowgun",
+          "itemDescription": "A long-distance gun that hits hard but has low maneuverability"
+        },
+        {
+          "itemName": "Light Bowgun",
+          "itemDescription": "A mid-range weapon with a low learning curve"
+        },
+        {
+          "itemName": "Insect Glaive",
+          "itemDescription": "A complicated weapon that utilizes insects to power up aerial attacks"
+        }
+      ]
+    }
+  ]
+}

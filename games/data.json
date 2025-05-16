@@ -1,0 +1,950 @@
+[
+  {
+    "name": "100% Orange Juice",
+    "link": "100-orange-juice"
+  },
+  {
+    "name": "Aether Gazer",
+    "link": "aether-gazer"
+  },
+  {
+    "name": "Afk Journey",
+    "link": "afk-journey"
+  },
+  {
+    "name": "Alchemy Stars",
+    "link": "alchemy-stars"
+  },
+  {
+    "name": "Anime Crossover Defense",
+    "link": "anime-crossover"
+  },
+  {
+    "name": "Anime Defenders",
+    "link": "anime-defenders"
+  },
+  {
+    "name": "Anime Dimensions Simulator",
+    "link": "anime-dimension"
+  },
+  {
+    "name": "Anime Last Stand",
+    "link": "anime-last-stand"
+  },
+  {
+    "name": "Anime Realm",
+    "link": "anime-realm"
+  },
+  {
+    "name": "Anime Reborn",
+    "link": "anime-reborn"
+  },
+  {
+    "name": "Anime Royale",
+    "link": "anime-royale"
+  },
+  {
+    "name": "Anime Vanguards",
+    "link": "anime-vanguards"
+  },
+  {
+    "name": "Anime World Tower Defense",
+    "link": "anime-world-tower-defense"
+  },
+  {
+    "name": "Another Eden",
+    "link": "another-eden"
+  },
+  {
+    "name": "Archero",
+    "link": "archero"
+  },
+  {
+    "name": "Ark Re:Code",
+    "link": "ark-re-code"
+  },
+  {
+    "name": "Arknights",
+    "link": "arknights"
+  },
+  {
+    "name": "Ash Echoes",
+    "link": "ash-echoes"
+  },
+  {
+    "name": "Assault Lily Last Bullet",
+    "link": "assault-lily-last-bullet"
+  },
+  {
+    "name": "All Star Tower Defense",
+    "link": "astd"
+  },
+  {
+    "name": "Astra: Knights of Veda",
+    "link": "astra-knights-of-veda"
+  },
+  {
+    "name": "Atelier Resleriana",
+    "link": "atelier-resleriana"
+  },
+  {
+    "name": "Attack on Titan Evolution",
+    "link": "attack-on-titan-evolution-family"
+  },
+  {
+    "name": "A Universal Time",
+    "link": "aut"
+  },
+  {
+    "name": "Azur Lane",
+    "link": "azur-lane"
+  },
+  {
+    "name": "Balatro",
+    "link": "balatro-joker"
+  },
+  {
+    "name": "Baldur's Gate 3",
+    "link": "baldur-gate-3-class"
+  },
+  {
+    "name": "The Battle Cats",
+    "link": "battle-cats"
+  },
+  {
+    "name": "Battle Crush",
+    "link": "battle-crush"
+  },
+  {
+    "name": "Black Clover M",
+    "link": "black-clover-mobile"
+  },
+  {
+    "name": "Bleach: Brave Souls",
+    "link": "bleach-brave-souls"
+  },
+  {
+    "name": "Blox Fruits",
+    "link": "blox-fruits"
+  },
+  {
+    "name": "Blue Archive",
+    "link": "blue-archive"
+  },
+  {
+    "name": "Brawl Stars",
+    "link": "brawl-stars"
+  },
+  {
+    "name": "Brawlhalla",
+    "link": "brawlhalla"
+  },
+  {
+    "name": "Brown Dust 2",
+    "link": "brown-dust-2"
+  },
+  {
+    "name": "Capybara Go!",
+    "link": "capybara-go"
+  },
+  {
+    "name": "Magic: The Gathering",
+    "link": "cedh"
+  },
+  {
+    "name": "Clover Retribution Magic",
+    "link": "clover-retribution-magic"
+  },
+  {
+    "name": "Cookie Run: Kingdom",
+    "link": "cookie-run-kingdom"
+  },
+  {
+    "name": "Cookie Run: Tower of Adventure",
+    "link": "cookie-run-tower-of-adventure"
+  },
+  {
+    "name": "Counter: Side",
+    "link": "counter-side"
+  },
+  {
+    "name": "Dark and Darker",
+    "link": "dark-and-darker-class"
+  },
+  {
+    "name": "Deadlock",
+    "link": "deadlock"
+  },
+  {
+    "name": "Demonfall",
+    "link": "demonfall-breathing-styles"
+  },
+  {
+    "name": "Diablo 4",
+    "link": "diablo-4-build"
+  },
+  {
+    "name": "Dislyte",
+    "link": "dislyte"
+  },
+  {
+    "name": "Dragon Ball Z: Dokkan Battle",
+    "link": "dokkan-battle"
+  },
+  {
+    "name": "Dota 2",
+    "link": "dota-2"
+  },
+  {
+    "name": "Dragon Age: Pals Adventure",
+    "link": "dragon-age-pals-adventure"
+  },
+  {
+    "name": "Dragon Ball Legends",
+    "link": "dragon-ball-legends"
+  },
+  {
+    "name": "Dungeonborne",
+    "link": "dungeonborne"
+  },
+  {
+    "name": "Echocalypse",
+    "link": "echocalypse"
+  },
+  {
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "link": "eiyuden-chronicle-hundred-heroes-character"
+  },
+  {
+    "name": "Elden Ring",
+    "link": "elden-ring-boss"
+  },
+  {
+    "name": "Epic Seven",
+    "link": "epic-seven"
+  },
+  {
+    "name": "Eternal Return",
+    "link": "eternal-return"
+  },
+  {
+    "name": "Eversoul",
+    "link": "eversoul"
+  },
+  {
+    "name": "Fire Emblem Heroes",
+    "link": "feh"
+  },
+  {
+    "name": "Fate/Grand Order",
+    "link": "fgo"
+  },
+  {
+    "name": "Fisch",
+    "link": "fisch-rods"
+  },
+  {
+    "name": "Five Nights TD",
+    "link": "five-nights-at-freddys-td"
+  },
+  {
+    "name": "For Honor",
+    "link": "for-honor"
+  },
+  {
+    "name": "Fortress Saga",
+    "link": "fortress-saga"
+  },
+  {
+    "name": "Fruit Battlegrounds",
+    "link": "fruit-battlegrounds"
+  },
+  {
+    "name": "Genshin Impact",
+    "link": "genshin-impact"
+  },
+  {
+    "name": "Guilty Gear Strive",
+    "link": "ggst"
+  },
+  {
+    "name": "Girls' Frontline 2",
+    "link": "girls-frontline-2"
+  },
+  {
+    "name": "Gran Saga Idle",
+    "link": "gran-saga-idle"
+  },
+  {
+    "name": "Granblue Fantasy",
+    "link": "granblue-fantasy"
+  },
+  {
+    "name": "Grand Summoners",
+    "link": "grand-summoners"
+  },
+  {
+    "name": "Guardian Tales",
+    "link": "guardian-tales"
+  },
+  {
+    "name": "Guilty Gear Strive",
+    "link": "guilty-gear-strive"
+  },
+  {
+    "name": "Haikyu!! Touch The Dream",
+    "link": "haikyuu-touch-the-dream"
+  },
+  {
+    "name": "Hearthstone",
+    "link": "hearthstone-battlegrounds"
+  },
+  {
+    "name": "Heaven Burns Red",
+    "link": "heaven-burns-red"
+  },
+  {
+    "name": "Helldivers 2",
+    "link": "helldivers-2-weapon"
+  },
+  {
+    "name": "Heroes of Crown: Legends",
+    "link": "heroes-of-crown-legends"
+  },
+  {
+    "name": "Heroes of the Storm",
+    "link": "heroes-of-the-storm"
+  },
+  {
+    "name": "HoloCure - Save the Fans!",
+    "link": "holocure"
+  },
+  {
+    "name": "Homeworld 3",
+    "link": "homeworld-3"
+  },
+  {
+    "name": "Honkai: Star Rail",
+    "link": "honkai-star-rail"
+  },
+  {
+    "name": "Honor of Kings",
+    "link": "honor-of-kings"
+  },
+  {
+    "name": "Horizon Walker",
+    "link": "horizon-walker"
+  },
+  {
+    "name": "Infinite Magicraid",
+    "link": "infinite-magicraid"
+  },
+  {
+    "name": "Jujutsu Kaisen: Phantom Parade",
+    "link": "jujutsu-kaisen-phantom-parade"
+  },
+  {
+    "name": "King Arthur: Legends Rise",
+    "link": "king-arthur-legends-rise"
+  },
+  {
+    "name": "King God Castle",
+    "link": "king-god-castle"
+  },
+  {
+    "name": "King Legacy",
+    "link": "king-legacy-fruit"
+  },
+  {
+    "name": "Last Cloudia",
+    "link": "last-cloudia"
+  },
+  {
+    "name": "Last Epoch",
+    "link": "last-epoch"
+  },
+  {
+    "name": "Last War: Survival",
+    "link": "last-war-hero"
+  },
+  {
+    "name": "League of Legends",
+    "link": "league-of-legends-swarm"
+  },
+  {
+    "name": "Lethal League Blaze",
+    "link": "lethal-league-blaze"
+  },
+  {
+    "name": "Limbus Company",
+    "link": "limbus-company"
+  },
+  {
+    "name": "Little Kitty",
+    "link": "little-kitty"
+  },
+  {
+    "name": "Lost Ark",
+    "link": "lost-ark"
+  },
+  {
+    "name": "Lucky Defense",
+    "link": "lucky-defense"
+  },
+  {
+    "name": "MapleStory",
+    "link": "maplestory-soul"
+  },
+  {
+    "name": "Marvel Rivals",
+    "link": "marvel-rivals"
+  },
+  {
+    "name": "Marvel vs. Capcom 2",
+    "link": "marvel-vs-capcom-2"
+  },
+  {
+    "name": "Marvel: Contest of Champions",
+    "link": "mcoc"
+  },
+  {
+    "name": "Memento Mori",
+    "link": "memento-mori"
+  },
+  {
+    "name": "Men of War II",
+    "link": "men-of-war-2"
+  },
+  {
+    "name": "Metal Slug: Awakening",
+    "link": "metal-slug-awakening"
+  },
+  {
+    "name": "Mobile Legends: Adventure",
+    "link": "mobile-legends-adventure"
+  },
+  {
+    "name": "Monster Never Cry",
+    "link": "monster-never-cry"
+  },
+  {
+    "name": "MultiVersus",
+    "link": "multiversus"
+  },
+  {
+    "name": "Mythic Heroes",
+    "link": "mythic-heroes"
+  },
+  {
+    "name": "Nikke: Goddess of Victory",
+    "link": "nikke-goddess-of-victory"
+  },
+  {
+    "name": "Omniheroes",
+    "link": "omniheroes"
+  },
+  {
+    "name": "Once Human",
+    "link": "once-human-weapon"
+  },
+  {
+    "name": "One Piece Bounty Rush",
+    "link": "one-piece-bounty-rush"
+  },
+  {
+    "name": "One Piece Treasure Cruise",
+    "link": "optc"
+  },
+  {
+    "name": "Outerplane",
+    "link": "outerplane"
+  },
+  {
+    "name": "Lord of Nazarick",
+    "link": "overlord-lord-of-nazarick"
+  },
+  {
+    "name": "Overwatch 2",
+    "link": "overwatch-2"
+  },
+  {
+    "name": "Palworld",
+    "link": "palworld"
+  },
+  {
+    "name": "Path to Nowhere",
+    "link": "path-to-nowhere"
+  },
+  {
+    "name": "Punishing: Gray Raven",
+    "link": "punishing-gray-raven"
+  },
+  {
+    "name": "Pillar Chase 2",
+    "link": "pillar-chase-2"
+  },
+  {
+    "name": "Pixel Heroes",
+    "link": "pixel-heroes"
+  },
+  {
+    "name": "Pokemon Sleep",
+    "link": "pokemon-sleep"
+  },
+  {
+    "name": "Pokemon Trading Card Game",
+    "link": "pokemon-tcg"
+  },
+  {
+    "name": "Pokemon Unite",
+    "link": "pokemon-unite"
+  },
+  {
+    "name": "PokeRogue",
+    "link": "pokerogue"
+  },
+  {
+    "name": "Project Mugetsu",
+    "link": "project-mugetsu-clan"
+  },
+  {
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "link": "r6-operator"
+  },
+  {
+    "name": "Rabbit and Steel",
+    "link": "rabbit-and-steel"
+  },
+  {
+    "name": "Raid: Shadow Legends",
+    "link": "raid-shadow-legends"
+  },
+  {
+    "name": "Read Only Memories",
+    "link": "read-only-memories"
+  },
+  {
+    "name": "Realm of Gods",
+    "link": "realm-of-gods"
+  },
+  {
+    "name": "Reverse: 1999",
+    "link": "reverse-1999"
+  },
+  {
+    "name": "Rise of Eros",
+    "link": "rise-of-eros"
+  },
+  {
+    "name": "Rivals of Aether II",
+    "link": "rivals-of-aether-2"
+  },
+  {
+    "name": "Royal Pirates",
+    "link": "royal-pirates"
+  },
+  {
+    "name": "The Seven Deadly Sins: Grand Cross",
+    "link": "seven-deadly-sins-grand-cross"
+  },
+  {
+    "name": "Seven Knights Idle Adventure",
+    "link": "seven-knights-idle-adventure"
+  },
+  {
+    "name": "Shindo Life",
+    "link": "shindo-life-bloodline"
+  },
+  {
+    "name": "Skullgirls",
+    "link": "skullgirls"
+  },
+  {
+    "name": "Snowbreak: Containment Zone",
+    "link": "snowbreak"
+  },
+  {
+    "name": "Solo Leveling",
+    "link": "solo-leveling-shadow"
+  },
+  {
+    "name": "Squad Busters",
+    "link": "squad-busters"
+  },
+  {
+    "name": "Star Wars: Hunters",
+    "link": "star-wars-hunters"
+  },
+  {
+    "name": "Starseed: Asnia Trigger",
+    "link": "starseed-asnia-trigger"
+  },
+  {
+    "name": "Street Fighter III: 3rd Strikee",
+    "link": "street-fighter-3-third-strike"
+  },
+  {
+    "name": "Strinova",
+    "link": "strinova"
+  },
+  {
+    "name": "Summoners War",
+    "link": "summoners-war"
+  },
+  {
+    "name": "Super Smash Bros. Ultimate",
+    "link": "super-smash-bros-ultimate"
+  },
+  {
+    "name": "Supervive",
+    "link": "supervive"
+  },
+  {
+    "name": "Sword Master Story",
+    "link": "sword-master-story"
+  },
+  {
+    "name": "Sword of Convallaria",
+    "link": "sword-of-convallaria"
+  },
+  {
+    "name": "Tarisland",
+    "link": "tarisland"
+  },
+  {
+    "name": "Terraria",
+    "link": "terraria"
+  },
+  {
+    "name": "The First Descendant",
+    "link": "the-first-descendant"
+  },
+  {
+    "name": "Throne and Liberty",
+    "link": "throne-and-liberty"
+  },
+  {
+    "name": "Tokyo Ghoul: Break the Chains",
+    "link": "tokyo-ghoul-break-the-chains"
+  },
+  {
+    "name": "Top Troops",
+    "link": "top-troops"
+  },
+  {
+    "name": "Torchlight: Infinite",
+    "link": "torchlight-infinite"
+  },
+  {
+    "name": "Touhou Lost Word",
+    "link": "touhou-lost-word"
+  },
+  {
+    "name": "Tower of God: New World",
+    "link": "tower-of-god-new-world"
+  },
+  {
+    "name": "Trails of Cold Steel – Northern War",
+    "link": "trails-of-cold-steel-northern-war"
+  },
+  {
+    "name": "Type Soul",
+    "link": "type-soul-weapon"
+  },
+  {
+    "name": "Ultimate Marvel vs. Capcom 3",
+    "link": "ultimate-marvel-vs-capcom-3"
+  },
+  {
+    "name": "Uma Musume: Pretty Derby",
+    "link": "uma-musume-pretty-derby"
+  },
+  {
+    "name": "V Rising",
+    "link": "v-rising-spell"
+  },
+  {
+    "name": "Valorant",
+    "link": "valorant-character"
+  },
+  {
+    "name": "Warcraft Rumble",
+    "link": "warcraft-rumble"
+  },
+  {
+    "name": "Warframe",
+    "link": "warframe-incarnon-weapon"
+  },
+  {
+    "name": "Watcher of Realms",
+    "link": "watcher-of-realms"
+  },
+  {
+    "name": "Wild Rift",
+    "link": "wild-rift"
+  },
+  {
+    "name": "Wilds of Eldraine",
+    "link": "wilds-of-eldraine-draft"
+  },
+  {
+    "name": "Wizardry Variants Daphne",
+    "link": "wizardry-variants-daphne"
+  },
+  {
+    "name": "World of Warcraft: Cataclysm",
+    "link": "world-of-warcraft-classic-cataclysm-dps"
+  },
+  {
+    "name": "World of Warcraft: Mists of Pandaria",
+    "link": "wow-remix-mists-of-pandaria"
+  },
+  {
+    "name": "World of Warcraft: The War Within",
+    "link": "wow"
+  },
+  {
+    "name": "Wuthering Waves",
+    "link": "wuthering-waves"
+  },
+  {
+    "name": "X-Samkok",
+    "link": "x-samkok"
+  },
+  {
+    "name": "XDefiant",
+    "link": "xdefiant-weapon"
+  },
+  {
+    "name": "Yggdra Chronicle",
+    "link": "yggdra-chronicle"
+  },
+  {
+    "name": "Zenless Zone Zero",
+    "link": "zenless-zone-zero-character"
+  },
+  {
+    "name": "Anime Adventures",
+    "link": "anime-adventures"
+  },
+  {
+    "name": "Jujutsu Infinite",
+    "link": "jujutsu-infinite-innate"
+  },
+  {
+    "name": "Anime Power Defense",
+    "link": "anime-power-defense"
+  },
+  {
+    "name": "Darkest Dungeon II",
+    "link": "darkest-dungeon-2"
+  },
+  {
+    "name": "Lost Sword",
+    "link": "lost-sword"
+  },
+  {
+    "name": "Isekai Saga: Awaken",
+    "link": "isekai-saga-awaken"
+  },
+  {
+    "name": "Animal Crossing: New Horizons",
+    "link": "acnh-villager"
+  },
+  {
+    "name": "Anime Guardians",
+    "link": "anime-guardians"
+  },
+  {
+    "name": "Realms of Pixel",
+    "link": "realms-of-pixel"
+  },
+  {
+    "name": "Apex Legends",
+    "link": "apex-legends"
+  },
+  {
+    "name": "Untitled Boxing Game",
+    "link": "untitled-boxing-game"
+  },
+  {
+    "name": "Ragnarok M: Classic",
+    "link": "ragnarok-m-classic"
+  },
+  {
+    "name": "Monster Hunter Wilds",
+    "link": "monster-hunter-wilds-weapons"
+  },
+  {
+    "name": "Enigma of Sepia",
+    "link": "enigma-of-sepia"
+  },
+  {
+    "name": "Avowed",
+    "link": "avowed-builds"
+  },
+  {
+    "name": "Crystal of Atlan",
+    "link": "crystal-of-atlan"
+  },
+  {
+    "name": "The time of ninja",
+    "link": "the-time-of-ninja"
+  },
+  {
+    "name": "Blue Lock: Rivals",
+    "link": "blue-lock-rivals"
+  },
+  {
+    "name": "Mythical Odyssey",
+    "link": "mythical-odyssey"
+  },
+  {
+    "name": "Tribe Nine",
+    "link": "tribe-nine"
+  },
+  {
+    "name": "FragPunk",
+    "link": "fragpunk"
+  },
+  {
+    "name": "Invincible: Guarding the Globe",
+    "link": "invincible-guarding-the-globe"
+  },
+  {
+    "name": "Cat Fantasy",
+    "link": "cat-fantasy"
+  },
+  {
+    "name": "E.T.E Chronicle",
+    "link": "ete-chronicle"
+  },
+  {
+    "name": "Verse Piece",
+    "link": "verse-piece"
+  },
+  {
+    "name": "GHOUL://RE",
+    "link": "ghoul-re"
+  },
+  {
+    "name": "Avatar: Realms Collide",
+    "link": "avatar-realms-collide"
+  },
+  {
+    "name": "Dead Rails",
+    "link": "dead-rails"
+  },
+  {
+    "name": "Madoka Magica: Magia Exedra",
+    "link": "madoka-magica-magia-exedra"
+  },
+  {
+    "name": "Basketball: Zero",
+    "link": "basketball-zero"
+  },
+  {
+    "name": "Tower Blitz",
+    "link": "tower-blitz"
+  },
+  {
+    "name": "SpongeBob Tower Defense",
+    "link": "spongebob-tower-defense"
+  },
+  {
+    "name": "Morimens",
+    "link": "morimens"
+  },
+  {
+    "name": "Black Beacon",
+    "link": "black-beacon"
+  },
+  {
+    "name": "Anime Fantasy:RE",
+    "link": "anime-fantasy"
+  },
+  {
+    "name": "Dandy's World",
+    "link": "dandys-world"
+  },
+  {
+    "name": "Racing Master",
+    "link": "racing-master"
+  },
+  {
+    "name": "Smite 2",
+    "link": "smite-2"
+  },
+  {
+    "name": "Anime Mania",
+    "link": "anime-mania"
+  },
+  {
+    "name": "Clair Obscur: Expedition 33",
+    "link": "clair-obscur-expedition-33"
+  },
+  {
+    "name": "Endless Grades: Pixel Saga",
+    "link": "endless-grades-pixel-saga"
+  },
+  {
+    "name": "SD Gundam G Generation ETERNAL",
+    "link": "sd-gundam-g-generation-eternal"
+  },
+  {
+    "name": "Anime Rangers X",
+    "link": "anime-rangers-x"
+  },
+  {
+    "name": "Anime Siege",
+    "link": "anime-siege"
+  },
+  {
+    "name": "Odin: Valhalla Rising",
+    "link": "odin-valhalla-rising"
+  },
+  {
+    "name": "Wagarashi",
+    "link": "wagarashi"
+  },
+  {
+    "name": "Grow A Garden",
+    "link": "grow-a-garden"
+  },
+  {
+    "name": "Ultimate Tower Defense",
+    "link": "ultimate-tower-defense"
+  },
+  {
+    "name": "Etheria: Restart",
+    "link": "etheria-restart"
+  },
+  {
+    "name": "Axis Blade",
+    "link": "axis-blade"
+  },
+  {
+    "name": "Fire Force Reignition",
+    "link": "fire-force-reignition"
+  },
+  {
+    "name": "Rock Fruit",
+    "link": "rock-fruit"
+  },
+  {
+    "name": "Stellaris",
+    "link": "stellaris"
+  },
+  {
+    "name": "Azure Latch",
+    "link": "azure-latch"
+  },
+  {
+    "name": "Anime Spirits",
+    "link": "anime-spirits"
+  },
+  {
+    "name": "Anime Saga",
+    "link": "anime-saga"
+  }
+]

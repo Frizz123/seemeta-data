@@ -1,0 +1,106 @@
+{
+	"fileName": "nikke-goddess-of-victory.json",
+	"title": "Nikke: Goddess of Victory Tier List",
+	"description": "This tier list is based on the current meta and may change as new Nikkes are released and the game is updated. It is also important to note that different Nikkes can be better or worse depending on the specific content you are playing.",
+	"heading": "Nikke: Goddess of Victory Tier List",
+	"introText": "This tier list is based on the current meta and may change as new Nikkes are released and the game is updated. It is also important to note that different Nikkes can be better or worse depending on the specific content you are playing.",
+	"datePublished": "2024-05-30",
+	"dateModified": "2024-05-30",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Harran",
+					"itemDescription": "Harran is a must-have Nikke for any team. She is an Assault-type Nikke with high damage output and a powerful Burst skill"
+				},
+				{
+					"itemName": "Centi",
+					"itemDescription": "Centi is another excellent Assault-type Nikke. She has a unique ability that allows her to dodge enemy attacks, making her very survivable"
+				},
+				{
+					"itemName": "Rupee",
+					"itemDescription": "Rupee is a great all-around Nikke who can deal damage, support her teammates, and tank hits. She is a must-have for any team that needs a versatile Nikke"
+				},
+				{
+					"itemName": "Snow White",
+					"itemDescription": "Innocent Days:Snow White: Innocent Days is a powerful Sniper-type Nikke with a long range and high damage output. She is perfect for taking out enemies from a distance"
+				},
+				{
+					"itemName": "Admi",
+					"itemDescription": "Admi is a Support-type Nikke who can provide her teammates with buffs and healing. She is a great choice for any team that needs a little extra support"
+				},
+				{
+					"itemName": "Laplace",
+					"itemDescription": "Laplace is a unique Nikke who can deal damage and control the battlefield with her Burst skill. She is a great choice for teams that need a little bit of everything"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Mica",
+					"itemDescription": "Snow Buddy is a solid Assault-type Nikke with good damage output and a useful Burst skill. She is a good choice for teams that need a reliable damage dealer"
+				},
+				{
+					"itemName": "Anne",
+					"itemDescription": "Miracle Fairy:Anne: Miracle Fairy is a Support-type Nikke who can provide her teammates with buffs and healing. She is a good choice for teams that need a little extra support"
+				},
+				{
+					"itemName": "Power",
+					"itemDescription": "Power is a Sniper-type Nikke with good damage output and a long range. She is a good choice for teams that need a damage dealer who can take out enemies from a distance"
+				},
+				{
+					"itemName": "Quency",
+					"itemDescription": "Quency is an Assault-type Nikke with good damage output and a unique ability that allows her to dodge enemy attacks. She is a good choice for teams that need a damage dealer who can survive in the thick of battle"
+				},
+				{
+					"itemName": "D",
+					"itemDescription": "D is a Defense-type Nikke with high HP and defense. She is a good choice for teams that need a tank to soak up damage"
+				},
+				{
+					"itemName": "Viper",
+					"itemDescription": "Viper is a Sniper-type Nikke with good damage output and a long range. She is a good choice for teams that need a damage dealer who can take out enemies from a distance"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Quiry",
+					"itemDescription": "Quiry is an Assault-type Nikke with decent damage output but a lack of survivability. She is a good choice for teams that need a damage dealer but don't need her to survive for too long"
+				},
+				{
+					"itemName": "Nihilister",
+					"itemDescription": "Nihilister is a Defense-type Nikke with decent HP and defense but a lack of damage output. She is a good choice for teams that need a tank but don't need her to deal a lot of damage"
+				},
+				{
+					"itemName": "Jackal",
+					"itemDescription": "Jackal is an Assault-type Nikke with decent damage output but a lack of range. She is a good choice for teams that need a damage dealer who can get up close and personal"
+				},
+				{
+					"itemName": "Milk",
+					"itemDescription": "Milk is a Support-type Nikke with decent healing abilities but a lack of damage output. She is a good choice for teams that need a healer but don't need her to deal a lot of damage"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Pepper",
+					"itemDescription": "Pepper is an Assault-type Nikke with low damage output and a lack of survivability. She is not recommended for most teams"
+				},
+				{
+					"itemName": "XMica",
+					"itemDescription": "XMica is an SMG-type Nikke with low damage output and a lack of range. She is not recommended for most teams"
+				}
+			]
+		}
+	]
+}

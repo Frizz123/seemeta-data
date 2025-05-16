@@ -1,0 +1,86 @@
+{
+  "fileName": "blue-lock-rivals.json",
+  "title": "Blue Lock: Rivals Tier List",
+  "description": "Explore the definitive tier list for Flows in Blue Lock: Rivals, detailing the strengths and strategic advantages of each to enhance your gameplay.",
+  "heading": "Blue Lock: Rivals Tier List",
+  "introText": "Explore the definitive tier list for Flows in Blue Lock: Rivals, detailing the strengths and strategic advantages of each to enhance your gameplay.",
+  "datePublished": "2025-03-02",
+  "dateModified": "2025-03-02",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Dribbler",
+          "itemDescription": "Enhances shot power and increases on-ball speed, allowing for extended dribbling maneuvers"
+        },
+        {
+          "itemName": "Prodigy",
+          "itemDescription": "Boosts shot power and speed, with the added advantage of curving basic shots, making it formidable in offensive plays"
+        },
+        {
+          "itemName": "Awakened Genius",
+          "itemDescription": "Provides additional dribbles and increases shot power; also grants teammates a 20% boost to their flow bars, making it versatile across positions"
+        },
+        {
+          "itemName": "Demon Wings",
+          "itemDescription": "Accelerates shot release, enhances header power, and increases jump height by 50%, especially effective when paired with styles like Shidou or Nagi"
+        },
+        {
+          "itemName": "Gale Burst",
+          "itemDescription": "Boosts stamina regeneration and decreases shot release time, offering balanced support for various positions"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Chameleon",
+          "itemDescription": "Reduces ability cooldowns by 25% during activation and enhances movement speed, offering flexibility across different playstyles"
+        },
+        {
+          "itemName": "King's Instinct",
+          "itemDescription": "Increases shot power and prolongs the downtime of opponents after successful tackles, advantageous for midfielders focusing on disrupting enemy plays"
+        },
+        {
+          "itemName": "Wild Card",
+          "itemDescription": "Randomly grants a boost in speed, shot strength, or stamina, with a rare chance to enhance all three simultaneously; its unpredictability can be advantageous in various scenarios"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Snake",
+          "itemDescription": "Increases tackle hitbox and reduces cooldown, accompanied by a speed boost and quicker recovery from being knocked down, making it excellent for defensive strategies"
+        },
+        {
+          "itemName": "Trap",
+          "itemDescription": "Provides a speed boost and increased shot power immediately after receiving the ball, along with a 50% reduction in Trap & Dash cooldowns, making it suitable for quick offensive plays"
+        },
+        {
+          "itemName": "Monster",
+          "itemDescription": "Reduces dribble cooldown and eliminates speed penalties when controlling the ball, aiding midfielders in transitioning play from defense to offense"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Puzzle",
+          "itemDescription": "This flow provides a speed boost, making it advantageous for players seeking increased movement or action speed. It's especially beneficial for newcomers but can be replaced with higher-tier flows as players progress"
+        },
+        {
+          "itemName": "Lightning",
+          "itemDescription": "This flow offers a basic power shot enhancement, which is useful for passing the ball but less effective for scoring goals. Due to its limited additional benefits beyond shooting power, it's considered a mid-tier option"
+        }
+      ]
+    }
+  ]
+}

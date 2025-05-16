@@ -1,0 +1,229 @@
+{
+  "fileName": "racing-master.json",
+  "title": "Racing Master Tier List",
+  "description": "Discover the top-performing cars in Racing Master, categorized into S, A, and B tiers across Standard, Sports, and Extreme classes.",
+  "heading": "Racing Master Tier List",
+  "introText": "Discover the top-performing cars in Racing Master, categorized into S, A, and B tiers across Standard, Sports, and Extreme classes.",
+  "datePublished": "2025-04-10",
+  "dateModified": "2025-04-10",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "BMW Z4 sDrive 35is (Standard)",
+          "itemDescription": "Offers a balance of power and agility, making it a top choice for standard races"
+        },
+        {
+          "itemName": "Mitsubishi Lancer Evolution III GSR Edition (Standard)",
+          "itemDescription": "A classic sports sedan equipped with a turbocharged engine and all-wheel drive, delivering excellent handling and performance"
+        },
+        {
+          "itemName": "Chevrolet Camaro Z/28 (Standard)",
+          "itemDescription": "A high-performance coupe featuring a powerful V8 engine, designed for track racing with an aggressive aesthetic"
+        },
+        {
+          "itemName": "Chevrolet Corvette C3 (Standard)",
+          "itemDescription": "A sports car from the 1970s, renowned for its long hood and distinctive design"
+        },
+        {
+          "itemName": "BMW 2 Series Gran Coupe M235i xDrive (Standard)",
+          "itemDescription": "A compact premium sedan with all-wheel drive and a turbocharged engine, offering dynamic driving and modern technology"
+        },
+        {
+          "itemName": "MINI John Cooper Works GP (Standard)",
+          "itemDescription": "A limited-edition hatchback with enhanced aerodynamics, a powerful engine, and sport-tuned suspension for maximum performance"
+        },
+        {
+          "itemName": "Ford Mustang Mach 1 (Standard)",
+          "itemDescription": "A legendary muscle car boasting a robust V8 engine, improved aerodynamics, and sport suspension, designed for high-speed driving"
+        },
+        {
+          "itemName": "Porsche 911 Carrera 4 (Standard)",
+          "itemDescription": "An iconic sports car with a flat-six engine and all-wheel-drive system, delivering high performance and precise handling"
+        },
+        {
+          "itemName": "Porsche Panamera Turbo (Sports)",
+          "itemDescription": "Known for its high acceleration and stability, excelling in competitive scenarios"
+        },
+        {
+          "itemName": "Audi RS7 Sportback (Sports)",
+          "itemDescription": "A high-performance five-door coupe offering a twin-turbo V8 engine and quattro all-wheel drive, delivering exceptional speed and agility"
+        },
+        {
+          "itemName": "Lotus Evora GT430 Sport (Sports)",
+          "itemDescription": "A lightweight sports car equipped with a supercharged V6 engine, renowned for its precise handling and aerodynamic design"
+        },
+        {
+          "itemName": "BMW M4 Coupe (Sports)",
+          "itemDescription": "A dynamic sports coupe powered by a turbocharged inline-six engine, offering a balance of power and agility for an engaging driving experience"
+        },
+        {
+          "itemName": "Chevrolet Corvette C7 (Sports)",
+          "itemDescription": "An American sports car featuring a naturally aspirated V8 engine, known for its aggressive styling and impressive performance"
+        },
+        {
+          "itemName": "Honda NSX-R (Sports)",
+          "itemDescription": "A track-focused version of the NSX, emphasizing reduced weight and enhanced aerodynamics for superior performance"
+        },
+        {
+          "itemName": "Nissan GT-R (Sports)",
+          "itemDescription": "A legendary Japanese sports car equipped with a twin-turbo V6 engine and advanced all-wheel-drive system, delivering exceptional acceleration and handling"
+        },
+        {
+          "itemName": "Jaguar F-Type Project 7 (Sports)",
+          "itemDescription": "A limited-edition roadster inspired by Jaguar's racing heritage, featuring a supercharged V8 engine and distinctive aerodynamic enhancements"
+        },
+        {
+          "itemName": "Hyundai Ioniq 5 N (Sports)",
+          "itemDescription": "An all-electric high-performance crossover offering rapid acceleration and advanced technology, designed for both daily driving and track performance"
+        },
+        {
+          "itemName": "Mercedes-AMG SL 63 (Sports)",
+          "itemDescription": "A luxury roadster combining elegant design with a powerful V8 engine, delivering a refined yet exhilarating driving experience"
+        },
+        {
+          "itemName": "Lamborghini Aventador SVJ (Extreme)",
+          "itemDescription": "Delivers outstanding speed and cornering abilities, ideal for high-stakes races"
+        },
+        {
+          "itemName": "McLaren 720S Coupe (Extreme)",
+          "itemDescription": "A supercar featuring a twin-turbocharged V8 engine and lightweight construction, offering exceptional performance and agility"
+        },
+        {
+          "itemName": "Ford GT (Extreme)",
+          "itemDescription": "A modern supercar inspired by Ford's racing legacy, equipped with a twin-turbo V6 engine and advanced aerodynamics for high-speed performance"
+        },
+        {
+          "itemName": "BMW M8 GTE (Extreme)",
+          "itemDescription": "A race-spec version of the M8, designed for endurance racing with a focus on aerodynamics and lightweight construction"
+        },
+        {
+          "itemName": "Mercedes-AMG GT R Coupe (Extreme)",
+          "itemDescription": "A high-performance coupe with a twin-turbo V8 engine and track-focused enhancements, delivering exceptional driving dynamics"
+        },
+        {
+          "itemName": "Ferrari F8 Tributo (Extreme)",
+          "itemDescription": "Features impressive acceleration and top speed, making it a competitive option"
+        },
+        {
+          "itemName": "Audi R8 V10 RWD Spyder (Extreme)",
+          "itemDescription": "A convertible sports car featuring a naturally aspirated V10 engine and rear-wheel drive, offering an engaging open-top driving experience"
+        },
+        {
+          "itemName": "Dodge Challenger SRT Hellcat (Extreme)",
+          "itemDescription": "A muscle car equipped with a supercharged V8 engine, delivering immense power and a bold presence"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Subaru BRZ (Standard)",
+          "itemDescription": "Provides responsive handling and decent speed, suitable for various tracks"
+        },
+        {
+          "itemName": "Infiniti Q60 Pure AWD (Standard)",
+          "itemDescription": "A luxury sports coupe equipped with a 3.0-liter V6 engine producing 300 horsepower and an all-wheel-drive system, offering a blend of performance and comfort"
+        },
+        {
+          "itemName": "Ford Focus RS (Standard)",
+          "itemDescription": "A high-performance hatchback powered by a 2.3-liter turbocharged engine delivering 350 horsepower, featuring all-wheel drive and dynamic handling capabilities"
+        },
+        {
+          "itemName": "Volkswagen Golf R (Standard)",
+          "itemDescription": "A compact hatchback boasting a turbocharged engine and all-wheel drive, known for its agile handling and sporty performance"
+        },
+        {
+          "itemName": "BMW 3 Series 330i (Standard)",
+          "itemDescription": "A premium sedan featuring a 2.0-liter turbocharged engine that balances efficiency with responsive handling, delivering a dynamic driving experience"
+        },
+        {
+          "itemName": "Hyundai Veloster N (Sports)",
+          "itemDescription": "A sporty hatchback equipped with a 2.0-liter turbocharged engine producing 275 horsepower, offering agile handling and an engaging driving experience"
+        },
+        {
+          "itemName": "Subaru WRX STI (Sports)",
+          "itemDescription": "A performance-oriented sedan featuring a 2.5-liter turbocharged engine with 310 horsepower, renowned for its all-wheel-drive system and rally-inspired capabilities"
+        },
+        {
+          "itemName": "Mitsubishi Lancer Evolution X GSR (Sports)",
+          "itemDescription": "A high-performance sedan powered by a 2.0-liter turbocharged engine delivering 295 horsepower, celebrated for its sharp handling and advanced all-wheel-drive system"
+        },
+        {
+          "itemName": "Ford Mustang GT (Sports)",
+          "itemDescription": "An iconic muscle car boasting a 5.0-liter V8 engine that produces 486 horsepower, offering exhilarating performance and a classic rear-wheel-drive layout"
+        },
+        {
+          "itemName": "Cadillac ATS-V (Sports)",
+          "itemDescription": "A luxury sports sedan equipped with a 3.6-liter twin-turbo V6 engine generating 464 horsepower, known for its precise handling and refined performance"
+        },
+        {
+          "itemName": "Aston Martin DB11 V12 Coupe (Extreme)",
+          "itemDescription": "Combines luxury with performance, offering a smooth driving experience"
+        },
+        {
+          "itemName": "Jaguar E-Type Series 3 (Extreme)",
+          "itemDescription": "Introduced in 1971, this classic British sports car features a 5.3-liter V12 engine, wider track, flared wheel arches, and a distinctive cross-slatted front grille"
+        },
+        {
+          "itemName": "Lamborghini Huracán LP620-2 Super Trofeo (Extreme)",
+          "itemDescription": "A track-focused race car developed for Lamborghini's one-make series, equipped with a 5.2-liter V10 engine producing 620 horsepower and rear-wheel drive"
+        },
+        {
+          "itemName": "Chevrolet Corvette C8 (Extreme)",
+          "itemDescription": "The eighth-generation Corvette, introduced in 2020, features a mid-engine layout with a 6.2-liter V8 engine, delivering up to 495 horsepower and a 0-60 mph time of under 3 seconds"
+        },
+        {
+          "itemName": "Porsche Taycan Turbo S (Extreme)",
+          "itemDescription": "An all-electric performance sedan boasting up to 750 horsepower with overboost, achieving 0-60 mph in 2.6 seconds, and offering advanced driving dynamics"
+        },
+        {
+          "itemName": "Dodge Viper SRT-10 Roadster (Extreme)",
+          "itemDescription": "A high-performance American sports car powered by an 8.3-liter V10 engine producing 500 horsepower, known for its raw driving experience and distinctive styling"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Mazda MX-5 (Standard)",
+          "itemDescription": "Offers nimble handling but lacks the power of higher-tier vehicles"
+        },
+        {
+          "itemName": "Volkswagen Passat 2.0 TSI (Standard)",
+          "itemDescription": "A midsize sedan equipped with a 2.0-liter turbocharged engine delivering 174 horsepower, offering a balance of comfort and performance"
+        },
+        {
+          "itemName": "Ford Fiesta ST (Standard)",
+          "itemDescription": "A compact hatchback featuring a 1.6-liter turbocharged engine producing 197 horsepower, renowned for its agile handling and sporty performance"
+        },
+        {
+          "itemName": "Honda Fit (Standard)",
+          "itemDescription": "A subcompact hatchback powered by a 1.5-liter engine with 130 horsepower, celebrated for its versatile interior and fuel efficiency"
+        },
+        {
+          "itemName": "Nissan 370Z (Sports)",
+          "itemDescription": "Delivers balanced performance but doesn't excel in any particular area"
+        },
+        {
+          "itemName": "Volvo V60 Polestar (Sports)",
+          "itemDescription": "A high-performance wagon equipped with a plug-in hybrid powertrain delivering a combined 415 horsepower, offering both efficiency and dynamic driving capabilities"
+        },
+        {
+          "itemName": "Audi S5 Cabriolet (Sports)",
+          "itemDescription": "A luxury convertible featuring a turbocharged V6 engine with 349 horsepower, combining elegant design with sporty performance and an acoustic folding roof"
+        },
+        {
+          "itemName": "Audi e-tron GT Quattro (Extreme)",
+          "itemDescription": "Provides electric efficiency with moderate performance metrics"
+        }
+      ]
+    }
+  ]
+}

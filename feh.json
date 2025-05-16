@@ -1,0 +1,114 @@
+{
+	"fileName": "feh.json",
+	"title": "FEH Tier List",
+	"description": "This is a tier list for the mobile game Fire Emblem Heroes (FEH). The list is divided into tiers from S to C, with S Tier being the best and C Tier being the worst. The list is based on the overall power and usefulness of the heroes, but it is important to note that the meta can change over time and different heroes can be better in different situations.",
+	"heading": "FEH Tier List",
+	"introText": "This is a tier list for the mobile game Fire Emblem Heroes (FEH). The list is divided into tiers from S to C, with S Tier being the best and C Tier being the worst. The list is based on the overall power and usefulness of the heroes, but it is important to note that the meta can change over time and different heroes can be better in different situations.",
+	"datePublished": "2024-05-20",
+	"dateModified": "2024-05-20",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Reinhardt (Brave Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lyn (Brave Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hector (Brave Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fjorm (Legendary Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eirika (Legendary Hero)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Ike (Brave Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Caeda (Brave Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Veronica (Legendary Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Chrom (Legendary Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lucina (Legendary Hero)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Marth (Brave Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Roy (Brave Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ephraim (Legendary Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Celica (Legendary Hero)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sigurd (Legendary Hero)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Alfonse (Askran Prince)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sharena (Askran Princess)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bruno (Askran Prince)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Loki (Trickster God)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hel (Trickster Goddess)",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

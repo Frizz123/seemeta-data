@@ -1,0 +1,82 @@
+{
+	"fileName": "hearthstone-arena.json",
+	"title": "Hearthstone Arena Tier List",
+	"description": "Discover the ultimate Hearthstone Arena Tier List. From S Tier game-changers to C Tier fillers, find out which cards will give you the best chance of dominating the Arena and achieving victory.",
+	"heading": "Hearthstone Arena Tier List",
+	"introText": "Discover the ultimate Hearthstone Arena Tier List. From S Tier game-changers to C Tier fillers, find out which cards will give you the best chance of dominating the Arena and achieving victory.",
+	"datePublished": "2024-06-25",
+	"dateModified": "2024-06-25",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Firelands Portal",
+					"itemDescription": "Deals significant damage while summoning a powerful minion"
+				},
+				{
+					"itemName": "Abyssal Enforcer",
+					"itemDescription": "Provides a board clear while developing a strong minion"
+				},
+				{
+					"itemName": "Deathstalker Rexxar",
+					"itemDescription": "Transforms your hero power and offers incredible value over time"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Flame Geyser",
+					"itemDescription": "Provides efficient removal and generates an extra minion"
+				},
+				{
+					"itemName": "Bonemare",
+					"itemDescription": "Buffs a minion significantly and provides a strong body"
+				},
+				{
+					"itemName": "Argent Commander",
+					"itemDescription": "Offers charge and divine shield, making it versatile for removal or direct damage"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Fire Plume Phoenix",
+					"itemDescription": "Deals damage and provides a decent body"
+				},
+				{
+					"itemName": "Shroom Brewer",
+					"itemDescription": "Heals and offers a reasonable stat line for its cost"
+				},
+				{
+					"itemName": "Stonehill Defender",
+					"itemDescription": "A taunt minion that discovers another taunt minion, providing potential value"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Grim Necromancer",
+					"itemDescription": "Summons additional minions but with weaker stats overall"
+				},
+				{
+					"itemName": "Boulderfist Ogre",
+					"itemDescription": "A large minion that lacks any special abilities or impact"
+				},
+				{
+					"itemName": "Raven Caller",
+					"itemDescription": "Generates extra cards but with less impactful minions"
+				}
+			]
+		}
+	]
+}

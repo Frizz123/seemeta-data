@@ -1,0 +1,82 @@
+{
+    "fileName": "dragon-age-pals-adventure.json",
+    "title": "Dragon Age: Pals Adventure Tier List",
+    "description": "This is a tier list for the characters in the mobile game Dragon Age: Pals Adventure. The list is divided into S Tier, A Tier, B Tier, and C Tier.",
+    "heading": "Dragon Age: Pals Adventure Tier List",
+    "introText": "This is a tier list for the characters in the mobile game Dragon Age: Pals Adventure. The list is divided into S Tier, A Tier, B Tier, and C Tier. S Tier characters are the best in the game, while C Tier characters are the worst. The list is based on the characters' overall power, versatility, and usefulness. However, it is important to note that this is just a tier list, and your own personal preferences may vary. There is no right or wrong answer when it comes to choosing the best characters in Dragon Age: Pals Adventure. The most important thing is to choose characters that you enjoy playing and that fit your playstyle.",
+    "datePublished": "2024-05-16",
+    "dateModified": "2024-05-16",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Morrigan",
+                    "itemDescription": "Morrigan is a powerful mage with a variety of spells that can deal damage, control enemies, and support her allies. She is also a good choice for players who want a character with a strong personality and backstory"
+                },
+                {
+                    "itemName": "Alistair",
+                    "itemDescription": "Alistair is a versatile warrior who can tank damage, deal melee damage, and support his allies with his Templar abilities. He is also a good choice for players who want a character with a strong moral compass"
+                },
+                {
+                    "itemName": "Leliana",
+                    "itemDescription": "Leliana is a rogue who can deal ranged damage, stealth, and support her allies with her Bard abilities. She is also a good choice for players who want a character with a religious background"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Varric",
+                    "itemDescription": "Varric is a rogue who can deal ranged damage, stealth, and support his allies with his Artificer abilities. He is also a good choice for players who want a character with a sarcastic sense of humor"
+                },
+                {
+                    "itemName": "Cassandra",
+                    "itemDescription": "Cassandra is a warrior who can tank damage, deal melee damage, and support her allies with her Divine abilities. She is also a good choice for players who want a character with a strong sense of duty"
+                },
+                {
+                    "itemName": "Bull",
+                    "itemDescription": "Bull is a warrior who can tank damage, deal melee damage, and support his allies with his Reaver abilities. He is also a good choice for players who want a character with a berserker playstyle"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Iron Bull",
+                    "itemDescription": "Iron Bull is a warrior who can tank damage, deal melee damage, and support his allies with his Berserker abilities. He is a good choice for players who want a character with a berserker playstyle. However, he is not as well-rounded as some of the other warriors on this list"
+                },
+                {
+                    "itemName": "Sera",
+                    "itemDescription": "Sera is a rogue who can deal ranged damage, stealth, and support her allies with her Artificer abilities. She is a good choice for players who want a character with a unique personality. However, she can be a bit unreliable in combat"
+                },
+                {
+                    "itemName": "Dorian",
+                    "itemDescription": "Dorian is a mage who can deal damage, control enemies, and support his allies with his Necromancer abilities. He is a good choice for players who want a character with a dark and edgy personality. However, he is not as powerful as some of the other mages on this list"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Vivienne",
+                    "itemDescription": "Vivienne is a mage who can deal damage, control enemies, and support her allies with her Rift Mage abilities. She is a good choice for players who want a character with a sophisticated personality. However, she is not as versatile as some of the other mages on this list"
+                },
+                {
+                    "itemName": "Blackwall",
+                    "itemDescription": "Blackwall is a warrior who can tank damage, deal melee damage, and support his allies with his Templar abilities. He is a good choice for players who want a character with a stoic personality. However, he is not as powerful as some of the other warriors on this list"
+                },
+                {
+                    "itemName": "Inquisition",
+                    "itemDescription": "The Inquisition is a party of characters that can be recruited throughout the game. They are a good choice for players who want to experiment with different team compositions. However, they are not as well-developed as some of the other characters on this list"
+                }
+            ]
+        }
+    ]
+}

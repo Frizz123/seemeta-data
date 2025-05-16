@@ -1,0 +1,415 @@
+{
+  "fileName": "anime-mania.json",
+  "title": "Anime Mania Tier List",
+  "description": "Discover the ultimate Anime Mania Tier List based on votes from the community. Explore rankings for top units across S, A, B, C, and D Tiers to find the best characters in the game.",
+  "heading": "Anime Mania Tier List",
+  "introText": "Discover the ultimate Anime Mania Tier List based on votes from the community. Explore rankings for top units across S, A, B, C, and D Tiers to find the best characters in the game.",
+  "datePublished": "2025-04-12",
+  "dateModified": "2025-04-12",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Scarlet Eyes",
+          "itemDescription": "Renowned for high burst damage and excellent wave-clearing capabilities"
+        },
+        {
+          "itemName": "Adult Gone",
+          "itemDescription": "Excels in boss fights with massive single-target damage"
+        },
+        {
+          "itemName": "Chairman",
+          "itemDescription": "Provides strong support abilities, enhancing team survivability"
+        },
+        {
+          "itemName": "Godspeed",
+          "itemDescription": "Offers unparalleled speed and agility, making him a formidable opponent"
+        },
+        {
+          "itemName": "Honored One",
+          "itemDescription": "Combines powerful area-of-effect attacks with crowd control"
+        },
+        {
+          "itemName": "Curse King",
+          "itemDescription": "Delivers consistent damage over time, weakening enemies effectively"
+        },
+        {
+          "itemName": "Misoka",
+          "itemDescription": "Balances offense and defense, making her versatile in various scenarios"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Kuramika",
+          "itemDescription": "Offers solid damage and crowd control"
+        },
+        {
+          "itemName": "Mochi Master",
+          "itemDescription": "Excels in area damage with unique mechanics"
+        },
+        {
+          "itemName": "Phoenix",
+          "itemDescription": "Provides healing abilities alongside decent damage"
+        },
+        {
+          "itemName": "Deus",
+          "itemDescription": "Balances offensive and defensive skills effectively"
+        },
+        {
+          "itemName": "Ascensions",
+          "itemDescription": "Features transformation abilities that enhance combat performance"
+        },
+        {
+          "itemName": "Coyote",
+          "itemDescription": "Delivers consistent ranged attacks with crowd control"
+        },
+        {
+          "itemName": "Indra",
+          "itemDescription": "Combines high damage with mobility"
+        },
+        {
+          "itemName": "Joenie (Act 4)",
+          "itemDescription": "Offers powerful single-target attacks"
+        },
+        {
+          "itemName": "Majority for Individual",
+          "itemDescription": "Provides team buffs and support"
+        },
+        {
+          "itemName": "Pink Son Army",
+          "itemDescription": "Excels in group battles with area attacks"
+        },
+        {
+          "itemName": "All Mighty",
+          "itemDescription": "Balances strength and defense"
+        },
+        {
+          "itemName": "Awakened Hitachi",
+          "itemDescription": "Features high damage and crowd control"
+        },
+        {
+          "itemName": "Gear 4 Fluffy",
+          "itemDescription": "Offers powerful melee attacks"
+        },
+        {
+          "itemName": "Hanks",
+          "itemDescription": "Provides strong defensive capabilities"
+        },
+        {
+          "itemName": "Ignis",
+          "itemDescription": "Delivers fire-based attacks with area damage"
+        },
+        {
+          "itemName": "Juvoijn",
+          "itemDescription": "Combines speed with high damage output"
+        },
+        {
+          "itemName": "Lace",
+          "itemDescription": "Offers ranged attacks with crowd control"
+        },
+        {
+          "itemName": "Laido",
+          "itemDescription": "Excels in boss fights with high single-target damage"
+        },
+        {
+          "itemName": "Solo Lever",
+          "itemDescription": "Balances offense and defense effectively"
+        },
+        {
+          "itemName": "Takashi",
+          "itemDescription": "Provides team support and healing"
+        },
+        {
+          "itemName": "Wise Sage",
+          "itemDescription": "Offers strategic advantages with unique abilities"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Gone",
+          "itemDescription": "Provides basic attacks with limited special abilities"
+        },
+        {
+          "itemName": "Thunder God",
+          "itemDescription": "Offers decent area damage but lacks versatility"
+        },
+        {
+          "itemName": "White Bear",
+          "itemDescription": "Features strong defense but limited offense"
+        },
+        {
+          "itemName": "Dreamer",
+          "itemDescription": "Balances attack and support roles moderately"
+        },
+        {
+          "itemName": "Tengoku",
+          "itemDescription": "Delivers consistent damage with some crowd control"
+        },
+        {
+          "itemName": "Mudra (Six Sage)",
+          "itemDescription": "Combines melee attacks with area damage"
+        },
+        {
+          "itemName": "Nakaza",
+          "itemDescription": "Offers high damage but low defense"
+        },
+        {
+          "itemName": "Prime White Bear",
+          "itemDescription": "Improved version of White Bear with better stats"
+        },
+        {
+          "itemName": "Big Mom",
+          "itemDescription": "Features powerful area attacks but slow movement"
+        },
+        {
+          "itemName": "Freezing Inferno",
+          "itemDescription": "Provides ice-based attacks with crowd control"
+        },
+        {
+          "itemName": "God U. Sop",
+          "itemDescription": "Offers ranged attacks with moderate damage"
+        },
+        {
+          "itemName": "Gucci",
+          "itemDescription": "Balances style with combat effectiveness"
+        },
+        {
+          "itemName": "Humorous",
+          "itemDescription": "Delivers unpredictable attacks with varying effects"
+        },
+        {
+          "itemName": "Hushirama Valentine",
+          "itemDescription": "Combines healing with area damage"
+        },
+        {
+          "itemName": "Kentachi",
+          "itemDescription": "Features strong melee attacks but low defense"
+        },
+        {
+          "itemName": "Kidd",
+          "itemDescription": "Offers versatile attacks with moderate damage"
+        },
+        {
+          "itemName": "Nil",
+          "itemDescription": "Provides support abilities with limited offense"
+        },
+        {
+          "itemName": "Riyu",
+          "itemDescription": "Balances speed and attack power"
+        },
+        {
+          "itemName": "Rule",
+          "itemDescription": "Offers strategic advantages with unique skills"
+        },
+        {
+          "itemName": "Yoshi Kira",
+          "itemDescription": "Delivers consistent damage with some crowd control"
+        },
+        {
+          "itemName": "Zarrk",
+          "itemDescription": "Features strong attacks but low mobility"
+        },
+        {
+          "itemName": "Hitachi",
+          "itemDescription": "Provides balanced offense and defense"
+        },
+        {
+          "itemName": "Joenie",
+          "itemDescription": "Offers decent attacks with limited special abilities"
+        },
+        {
+          "itemName": "Joeske",
+          "itemDescription": "Combines healing with moderate damage"
+        },
+        {
+          "itemName": "Zakainu",
+          "itemDescription": "Delivers fire-based attacks with area damage"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Sleepy Joe",
+          "itemDescription": "Provides minimal damage and lacks special abilities"
+        },
+        {
+          "itemName": "Lezuko",
+          "itemDescription": "Offers limited attacks"
+        },
+        {
+          "itemName": "Masta",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Minatoes",
+          "itemDescription": "A unit with exceptional single-target and AoE abilities, ideal for both early and late game"
+        },
+        {
+          "itemName": "Child Boo",
+          "itemDescription": "Versatile unit with decent damage and survivability, useful in a variety of scenarios"
+        },
+        {
+          "itemName": "Hauled Overm Hawkme",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hellflame",
+          "itemDescription": "Dominates with his powerful burn-based AoE attacks and consistent damage over time"
+        },
+        {
+          "itemName": "Stagger",
+          "itemDescription": "Balanced fighter with a mix of speed, damage, and control effects"
+        },
+        {
+          "itemName": "Tamamoto",
+          "itemDescription": "Decent support damage but heavily reliant on positioning and cooldowns"
+        },
+        {
+          "itemName": "Atika",
+          "itemDescription": "Offers good AoE but lacks the burst or utility to compete with higher-tier units"
+        },
+        {
+          "itemName": "Alligator",
+          "itemDescription": "Tanky and resilient, but slow-paced and vulnerable to ranged enemies"
+        },
+        {
+          "itemName": "Cold Fire",
+          "itemDescription": "A dependable unit that applies freeze and burn effects for tactical team advantages"
+        },
+        {
+          "itemName": "Gio Gio",
+          "itemDescription": "Excels at stunning enemies and delivering lethal ranged attacks, especially in crowd-control roles"
+        },
+        {
+          "itemName": "Grimmjoe",
+          "itemDescription": "Solid DPS with strong melee combos and reliable AoE coverage"
+        },
+        {
+          "itemName": "TS Fluffy",
+          "itemDescription": "Great for crowd-clearing with decent durability and flashy attacks"
+        },
+        {
+          "itemName": "Tangerine",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Labi",
+          "itemDescription": "Low damage output and limited utility place her in a niche support role"
+        },
+        {
+          "itemName": "Melidass",
+          "itemDescription": "Strong burst character capable of wiping groups of enemies quickly"
+        },
+        {
+          "itemName": "Visarded Echigo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cog 2nd Luffy",
+          "itemDescription": "Moderately effective with solid melee skills but outclassed by newer units"
+        },
+        {
+          "itemName": "Son Monkey (SSJ)",
+          "itemDescription": "High damage output and mobility make him a reliable carry for almost any stage"
+        },
+        {
+          "itemName": "Tukia",
+          "itemDescription": "Has good potential but requires optimal team setups to shine"
+        },
+        {
+          "itemName": "Teen Sakaki",
+          "itemDescription": "Decent combo attacks but lacks the impact of higher-tier characters"
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Maruoto",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Future Hogan",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Jon",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Pirate",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Deku",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Teen Maruto",
+          "itemDescription": "Lacks relevance in the current game balance, mostly used for collection"
+        },
+        {
+          "itemName": "Scaredy Joe",
+          "itemDescription": "Can stall enemies but lacks offensive presence"
+        },
+        {
+          "itemName": "Zolo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Fluffy",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Echigo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Maruto",
+          "itemDescription": "Outdated unit with low scaling in current meta"
+        },
+        {
+          "itemName": "Sakaki",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Laser Belly",
+          "itemDescription": "Gimmicky unit that rarely contributes meaningfully in battle"
+        },
+        {
+          "itemName": "Tanji",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Son Monkey",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Puryuu",
+          "itemDescription": "Supportive but easily replaceable with stronger alternatives"
+        },
+        {
+          "itemName": "Trashura",
+          "itemDescription": "More of a meme pick, fun but inefficient in serious content"
+        },
+        {
+          "itemName": "Wami",
+          "itemDescription": "Underperforms in most game modes due to low stats and weak skills"
+        }
+      ]
+    }
+  ]
+}

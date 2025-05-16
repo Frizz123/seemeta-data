@@ -1,0 +1,126 @@
+{
+    "fileName": "anime-crossover.json",
+    "title": "Anime Crossover Defense Tier List",
+    "description": "This is a tier list for the popular Roblox game, Anime Crossover Defense. The list is based on the author's experience and opinion, but it also takes into account the opinions of other players.",
+    "heading": "Anime Crossover Defense Tier List",
+    "introText": "Anime Crossover Defense is a popular Roblox tower defense game that features characters from various anime series. The game has a wide variety of units to choose from, each with its own unique abilities. This can make it difficult to decide which units are the best to use. That's why I've created this tier list to help you out. This tier list is based on my own experience and opinion, but I've also taken into account the opinions of other players.",
+    "datePublished": "2024-05-08",
+    "dateModified": "2024-05-08",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Rengoku (Demon Slayer)",
+                    "itemDescription": "Rengoku is a melee unit that deals massive damage. He also has a large AoE attack that can hit multiple enemies at once"
+                },
+                {
+                    "itemName": "Modoro (Dragon Ball)",
+                    "itemDescription": "Modoro is a ranged unit that fires energy blasts that deal high damage. He also has a stun ability that can disable enemies"
+                },
+                {
+                    "itemName": "Broccoli (Dragon Ball)",
+                    "itemDescription": "Broccoli is a tank unit that can absorb a lot of damage. He also has a taunt ability that can force enemies to attack him"
+                },
+                {
+                    "itemName": "Dark Invader (Dragon Ball)",
+                    "itemDescription": "Dark Invader is a ranged unit that fires energy blasts that deal moderate damage and slow down enemies. He also has a passive ability that increases his attack range when he is near enemies"
+                },
+                {
+                    "itemName": "Butterfly (Demon Slayer)",
+                    "itemDescription": "Butterfly is a melee unit that deals high damage and can teleport around the map. She also has a passive ability that increases her attack speed when she is low on health"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Time Maid (That Time I Got Reincarnated as a Slime)",
+                    "itemDescription": "Time Maid is a support unit that can slow down enemies and speed up allies. She also has a healing ability that can keep your units alive"
+                },
+                {
+                    "itemName": "Deo (One Piece)",
+                    "itemDescription": "Deo is a melee unit that deals high damage and can stun enemies. He also has a passive ability that increases his attack speed when he is attacking multiple enemies"
+                },
+                {
+                    "itemName": "Boulmi (One Piece)",
+                    "itemDescription": "Boulmi is a tank unit that can absorb a lot of damage and taunt enemies. He also has a passive ability that increases his defense when he is near allies"
+                },
+                {
+                    "itemName": "Bob (Demon Slayer)",
+                    "itemDescription": "Bob is a melee unit that deals moderate damage and can knock back enemies. He also has a passive ability that increases his movement speed when he is low on health"
+                },
+                {
+                    "itemName": "Curly Brows (My Hero Academia)",
+                    "itemDescription": "Curly Brows is a ranged unit that fires blasts that deal moderate damage and can pierce through enemies. He also has a passive ability that increases his attack speed when he is low on health"
+                },
+                {
+                    "itemName": "White Moustache (One Piece)",
+                    "itemDescription": "White Moustache is a support unit that can heal allies and increase their attack speed. He also has a passive ability that increases his healing power when he is near enemies"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Eric (One Piece)",
+                    "itemDescription": "Eric is a melee unit that deals moderate damage and can stun enemies. He also has a passive ability that increases his critical strike chance when he is attacking multiple enemies"
+                },
+                {
+                    "itemName": "Byakari (Demon Slayer)",
+                    "itemDescription": "Byakari is a ranged unit that fires homing arrows that deal moderate damage. She also has a passive ability that increases her attack damage when she is near allies"
+                },
+                {
+                    "itemName": "Henry (Demon Slayer)",
+                    "itemDescription": "Henry is a ranged unit that fires arrows that deal moderate damage. He also has a passive ability that increases his attack range when he is near allies"
+                },
+                {
+                    "itemName": "Joe (One Piece)",
+                    "itemDescription": "Joe is a tank unit that can absorb a lot of damage. He also has a passive ability that increases his defense when he is low on health"
+                },
+                {
+                    "itemName": "Mosshead (One Piece)",
+                    "itemDescription": "Mosshead is a support unit that can heal allies and increase their attack damage. He also has a passive ability that increases his healing power when he is near allies"
+                },
+                {
+                    "itemName": "Carrot (One Piece)",
+                    "itemDescription": "Carrot is a melee unit that deals moderate damage and can jump over enemies. She also has a passive ability that increases her movement speed when she is attacking multiple enemies"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Nirito (One Piece)",
+                    "itemDescription": "Nirito is a ranged unit that fires bullets that deal low damage. He also has a passive ability that increases his attack speed when he is near allies"
+                },
+                {
+                    "itemName": "Blossom (One Piece)",
+                    "itemDescription": "Blossom is a support unit that can heal allies, but her healing power is very low. She also has a passive ability that increases her healing power when she is near enemies, but this effect is not very strong"
+                },
+                {
+                    "itemName": "Sneaky Clone (Naruto)",
+                    "itemDescription": "Sneaky Clone is a melee unit that can deal moderate damage and teleport behind enemies. However, he is very fragile and can be easily killed"
+                },
+                {
+                    "itemName": "Peaceful Jeri (One Piece)",
+                    "itemDescription": "Peaceful Jeri is a support unit that can increase the attack speed of allies, but her buff is very small. She also has a passive ability that increases her buff power when she is near enemies, but this effect is not very strong"
+                },
+                {
+                    "itemName": "Cat Burglar (My Hero Academia)",
+                    "itemDescription": "Cat Burglar is a ranged unit that fires blasts that deal low damage and can steal money from enemies. However, money is not very useful in Anime Crossover Defense, so this ability is not very helpful"
+                },
+                {
+                    "itemName": "Ichytoe (One Piece)",
+                    "itemDescription": "Ichytoe is a melee unit that deals low damage and can slow down enemies. However, he is very fragile and can be easily killed"
+                }
+            ]
+        }
+    ]
+}

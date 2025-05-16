@@ -1,0 +1,150 @@
+{
+	"fileName": "wuthering-waves.json",
+	"title": "Wuthering Waves Tier List",
+	"description": "This tier list provides a ranking of the best characters in Wuthering Waves. The list is divided into S Tier, A Tier, B Tier, and C Tier. S Tier characters are the best in the game, while C Tier characters are the worst. The tier list is based on the current meta and may change as new characters and content are released. It is also important to remember that tier lists are just a guideline and that the best character for you will depend on your playstyle and team composition.",
+	"heading": "Wuthering Waves Tier List",
+	"introText": "This tier list provides a ranking of the best characters in Wuthering Waves. The list is divided into S Tier, A Tier, B Tier, and C Tier. S Tier characters are the best in the game, while C Tier characters are the worst. The tier list is based on the current meta and may change as new characters and content are released. It is also important to remember that tier lists are just a guideline and that the best character for you will depend on your playstyle and team composition.",
+	"datePublished": "2024-05-20",
+	"dateModified": "2025-03-28",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Yinlin",
+					"itemDescription": "A five-star Electro character wielding a Rectifier, specializes in dealing damage using her electric puppet, Zapstring, by marking enemies to enhance her attacks"
+				},
+				{
+					"itemName": "Jinhsi",
+					"itemDescription": "A five-star Spectro character with a Broadblade, renowned for her powerful area-of-effect attacks and the ability to enter the \"Incarnation\" state to amplify her skills"
+				},
+				{
+					"itemName": "Zhezhi",
+					"itemDescription": "A five-star Glacio character utilizing a Rectifier, focuses on dealing damage over time by summoning Phantasmic Imprints and teleporting to them for potent attacks, requiring precise positioning"
+				},
+				{
+					"itemName": "Xiangli Yao",
+					"itemDescription": "A reliable Main DPS focusing on Electro damage, capable of handling diverse combat scenarios effectively"
+				},
+				{
+					"itemName": "Shorekeeper",
+					"itemDescription": "A supportive character specializing in Spectro abilities, known for providing critical team buffs and healing"
+				},
+				{
+					"itemName": "Phoebe",
+					"itemDescription": "A top-tier Main DPS character, excelling in dealing substantial damage and adapting to different combat situations"
+				},
+				{
+					"itemName": "Carlotta",
+					"itemDescription": "An elite Main DPS specializing in Glacio damage, capable of delivering devastating attacks"
+				},
+				{
+					"itemName": "Camellya",
+					"itemDescription": "A premier Main DPS with a focus on Havoc abilities, known for her high damage and combat effectiveness"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Calcharo",
+					"itemDescription": "A capable Main DPS delivering consistent Electro damage and contributing significantly to team offense"
+				},
+				{
+					"itemName": "Encore",
+					"itemDescription": "A solid Main DPS specializing in Fusion attacks, offering a balanced approach to dealing damage"
+				},
+				{
+					"itemName": "Jiyan",
+					"itemDescription": "A proficient Main DPS with Aero abilities, capable of delivering consistent damage and supporting team dynamics"
+				},
+				{
+					"itemName": "Verina",
+					"itemDescription": "A valuable Support character providing healing and buffs to enhance team survivability and performance"
+				},
+				{
+					"itemName": "Rover",
+					"itemDescription": "A capable Main DPS focusing on Havoc damage, offering solid attack power and adaptability"
+				},
+				{
+					"itemName": "Changli",
+					"itemDescription": "A versatile Main DPS excelling in Fusion attacks, offering a balanced mix of damage and utility"
+				},
+				{
+					"itemName": "Roccia",
+					"itemDescription": "A formidable Main DPS with powerful attacks and abilities that dominate the battlefield"
+				},
+				{
+					"itemName": "Brant",
+					"itemDescription": "A versatile 5-star Fusion sword-wielder who excels as a support and healer, capable of providing shields, healing allies, and amplifying Fusion and Resonance Skill damage"
+				},
+				{
+					"itemName": "Cantarella",
+					"itemDescription": "A 5-star Havoc rectifier user who serves as both a healer and support, offering team-wide healing, coordinated attacks, and buffs to enhance overall team performance"
+				},
+				{
+					"itemName": "Mortefi",
+					"itemDescription": "An effective Sub-DPS specializing in Fusion attacks, contributing to the team's overall damage output"
+				},
+				{
+					"itemName": "Danjin",
+					"itemDescription": "A supportive Sub-DPS focusing on Havoc damage, enhancing the team's overall damage potential"
+				},
+				{
+					"itemName": "Sanhua",
+					"itemDescription": "A reliable Sub-DPS providing consistent Glacio damage and additional support to main attackers"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Youhu",
+					"itemDescription": "An effective Sub-DPS with Glacio abilities, providing additional damage and support to the team"
+				},
+				{
+					"itemName": "Jianxin",
+					"itemDescription": "A supportive character with Aero abilities, offering buffs and assistance to enhance team performance"
+				},
+				{
+					"itemName": "Aalto",
+					"itemDescription": "A 4-star Aero element sub-DPS who utilizes pistols to deploy Mist Avatars, provoking enemies and generating bullets; his Resonance Liberation summons the Gate of Quandary, enhancing projectile damage"
+				},
+				{
+					"itemName": "Yuanwu",
+					"itemDescription": "A 4-star Electro element sub-DPS wielding gauntlets; he summons a Thunder Wedge via his Resonance Skill that remains on the field after switching out, performing coordinated attacks, and can deplete enemies' Vibration Strength during his Lightning Infused state"
+				},
+				{
+					"itemName": "Baizhi",
+					"itemDescription": "A 4-star Glacio element support character using a rectifier; she summons the spirit You'tan to heal allies and focuses on buffing individual team members rather than the entire team"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Chixia",
+					"itemDescription": "A dependable Sub-DPS focusing on Fusion damage, providing supplementary support to the main damage dealers"
+				},
+				{
+					"itemName": "Lingyang",
+					"itemDescription": "A Main DPS with Glacio abilities, offering moderate damage output and utility in specific combat scenarios"
+				},
+				{
+					"itemName": "Yangyang",
+					"itemDescription": "A Sub-DPS specializing in Aero damage, providing additional support and damage in various encounters"
+				},
+				{
+					"itemName": "Taoqi",
+					"itemDescription": "A supportive character focusing on Havoc abilities, offering buffs and assistance to the team"
+				}
+			]
+		}
+	]
+}

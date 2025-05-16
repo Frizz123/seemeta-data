@@ -1,0 +1,94 @@
+{
+  "fileName": "basketball-zero.json",
+  "title": "Basketball: Zero Tier List",
+  "description": "Explore the comprehensive tier list for Basketball: Zero styles and zones, detailing the strengths and weaknesses of each from S to C Tier to enhance your gameplay strategy.",
+  "heading": "Basketball: Zero Tier List",
+  "introText": "Explore the comprehensive tier list for Basketball: Zero styles and zones, detailing the strengths and weaknesses of each from S to C Tier to enhance your gameplay strategy.",
+  "datePublished": "2025-04-04",
+  "dateModified": "2025-04-04",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Street Dribbler (Zone)",
+          "itemDescription": "Enhances mobility and ball-handling, making it challenging for defenders to intercept the ball. Enables flashy dribbling moves to create space for shots or passes"
+        },
+        {
+          "itemName": "Quick Draw (Zone)",
+          "itemDescription": "Significantly increases shooting speed and accuracy, allowing for rapid shot releases that are difficult to defend against"
+        },
+        {
+          "itemName": "Posterizer (Zone)",
+          "itemDescription": "Boosts dunking abilities, increasing the likelihood of overcoming defenders and executing powerful dunks. Ideal for aggressive offensive plays"
+        },
+        {
+          "itemName": "Ace (Style)",
+          "itemDescription": "A legendary style, the most aggressive. Provides unblockable attacks, strong dribbling, and the ability to shoot from various distances"
+        },
+        {
+          "itemName": "Giant (Style)",
+          "itemDescription": "It is a Mythical-tier style that emphasizes raw strength and dominance, excelling in offensive power and dunking abilities"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Limitless (Zone)",
+          "itemDescription": "Extends shooting range, facilitating successful long-range shots and making it easier to score from a distance"
+        },
+        {
+          "itemName": "Hustle (Zone)",
+          "itemDescription": "Improves defensive capabilities by enhancing blocking and stealing, aiding in shutting down opponents and forcing turnovers"
+        },
+        {
+          "itemName": "Star (Style)",
+          "itemDescription": "A mythical style focused on long-range shots. Ideal for players who prefer accurate and distant hits. Requires high precision and good timing"
+        },
+        {
+          "itemName": "Playmaker (Style)",
+          "itemDescription": "Enhances passing and assisting abilities, promoting effective teamwork. Its effectiveness is situational, as it doesn't directly contribute to scoring"
+        },
+        {
+          "itemName": "Sniper (Style)",
+          "itemDescription": "A legendary style focused on long-range shots. Ideal for players who prefer accurate and distant hits. Requires high precision and good timing"
+        },
+        {
+          "itemName": "Flash (Style)",
+          "itemDescription": "A style that grants players exceptional speed and agility, allowing them to outmaneuver opponents with rapid movements and quick directional changes"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Lockdown (Zone)",
+          "itemDescription": "Shortened steal cooldown and increased defense speed"
+        },
+        {
+          "itemName": "Phantom (Style)",
+          "itemDescription": "An epic style, versatile and reliable in offense. Possesses flashy moves, less powerful but easier to master"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Sprinter (Zone)",
+          "itemDescription": "The zone slightly increases a player's speed with and without the ball, enhancing overall mobility on the court"
+        },
+        {
+          "itemName": "Clutch (Style)",
+          "itemDescription": "A rare starting style. Provides basic skills but lacks power and range. Suitable for learning the fundamentals of the game"
+        }
+      ]
+    }
+  ]
+}

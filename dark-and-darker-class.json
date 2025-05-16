@@ -1,0 +1,58 @@
+{
+	"fileName": "dark-and-darker-class.json",
+	"title": "Dark and Darker Class Tier List",
+	"description": "Discover the strengths and weaknesses of each class in Dark and Darker and choose the one that best suits your playstyle. This tier list includes S Tier, A Tier, B Tier, and C Tier rankings for solo and group play.",
+	"heading": "Dark and Darker Class Tier List",
+	"introText": "Discover the strengths and weaknesses of each class in Dark and Darker and choose the one that best suits your playstyle. This tier list includes S Tier, A Tier, B Tier, and C Tier rankings for solo and group play.",
+	"datePublished": "2024-06-08",
+	"dateModified": "2024-06-08",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Cleric",
+					"itemDescription": "Clerics are incredibly powerful healers and can also buff their allies with holy magic, making them invaluable in both solo and group play"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Wizard",
+					"itemDescription": "Wizards are glass cannons but deal massive damage with their spells. They also have utility spells like Haste, Invisibility, and Ignite"
+				},
+				{
+					"itemName": "Fighter",
+					"itemDescription": "Fighters are well-rounded and have good damage output, survivability, and crowd control. They are a great choice for beginners and experienced players alike"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Rogue",
+					"itemDescription": "Rogues are stealthy and can deal decent damage with sneak attacks. They are also good at scouting and disarming traps"
+				},
+				{
+					"itemName": "Barbarian",
+					"itemDescription": "Barbarians are very durable and deal good damage in close combat. However, they lack mobility and range"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Warlock",
+					"itemDescription": "Warlocks are versatile and can deal damage, heal, and crowd control. However, they are not as strong as other classes in any one area"
+				}
+			]
+		}
+	]
+}

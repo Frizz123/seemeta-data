@@ -1,0 +1,162 @@
+{
+  "fileName": "ash-echoes.json",
+  "title": "Ash Echoes Tier List",
+  "description": "Comprehensive tier list for Ash Echoes, detailing character rankings from S to C Tier with descriptions to aid in team building and strategy.",
+  "heading": "Ash Echoes Tier List",
+  "introText": "Comprehensive tier list for Ash Echoes, detailing character rankings from S to C Tier with descriptions to aid in team building and strategy.",
+  "datePublished": "2024-11-13",
+  "dateModified": "2025-03-25",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Cen Ying",
+          "itemDescription": "A formidable physical damage dealer excelling in sustained DPS and versatility across various team compositions"
+        },
+        {
+          "itemName": "Cyros",
+          "itemDescription": "An exceptional fire-element DPS known for high damage output in both Cannis and Human forms; lacks Anti-Air abilities"
+        },
+        {
+          "itemName": "Freda",
+          "itemDescription": "A versatile 5-star support offering healing, buffs, and cooldown reduction, making her invaluable in any team setup"
+        },
+        {
+          "itemName": "Longqing",
+          "itemDescription": "The premier healer providing shields and enhanced healing to shielded allies; essential for team survivability"
+        },
+        {
+          "itemName": "Lorelle",
+          "itemDescription": "A corrosion-based Echomancer delivering consistent damage over time and synergizing well with various team compositions"
+        },
+        {
+          "itemName": "Luke",
+          "itemDescription": "A top-tier specialist adept at controlling the battlefield with crowd control abilities and significant burst damage"
+        },
+        {
+          "itemName": "Mo Hongxiu",
+          "itemDescription": "A powerful DPS character excelling in close combat with high burst damage and agility"
+        },
+        {
+          "itemName": "Scarlett",
+          "itemDescription": "A wind-element skirmisher effective against multiple enemies, particularly in regular stages or story modes with numerous mobs"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Baili Tusu",
+          "itemDescription": "A fire-element specialist with impressive DPS and Anti-Air capabilities; excels against enemies with barriers"
+        },
+        {
+          "itemName": "Felicio",
+          "itemDescription": "A 5-star support providing attack speed buffs and decent AoE damage; remains effective through mid-to-late game"
+        },
+        {
+          "itemName": "Hassel",
+          "itemDescription": "A versatile Echomancer offering a balance of offense and defense, suitable for various team roles"
+        },
+        {
+          "itemName": "Ivana",
+          "itemDescription": "An ice-element Echomancer with strong crowd control abilities, making her valuable in controlling enemy movements"
+        },
+        {
+          "itemName": "Lydia",
+          "itemDescription": "A popular 5-star Echomancer capable of tackling various game stages and modes; offers tested combat abilities"
+        },
+        {
+          "itemName": "Sambheka",
+          "itemDescription": "A specialist known for unique abilities that can turn the tide of battle when used strategically"
+        },
+        {
+          "itemName": "Tong",
+          "itemDescription": "A reliable Echomancer providing consistent support and utility across different scenarios"
+        },
+        {
+          "itemName": "Zodivin Azure",
+          "itemDescription": "The second-best healer offering substantial healing, resistances, and decent damage; can also serve as a team leader"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Caroline",
+          "itemDescription": "A corrosion team leader relying on attack speed to deal damage; easy to play and effective with various teammates"
+        },
+        {
+          "itemName": "Shiratori Azusa",
+          "itemDescription": "A wind-element striker considered superior to Scarlett in certain scenarios; benefits from strong trace memories and upcoming support characters"
+        },
+        {
+          "itemName": "Begonia",
+          "itemDescription": "An Echomancer offering balanced abilities suitable for early to mid-game content"
+        },
+        {
+          "itemName": "Reid",
+          "itemDescription": "A character providing reliable support and damage, fitting well into various team compositions"
+        },
+        {
+          "itemName": "Aceo",
+          "itemDescription": "A 5-star Echomancer with crowd control abilities; optimal choice for activating specific memory traces and maintaining effectiveness over time"
+        },
+        {
+          "itemName": "Yuqi",
+          "itemDescription": "A free tank available upon completing the introductory tutorial; provides essential defense for the team"
+        },
+        {
+          "itemName": "Mars",
+          "itemDescription": "An Echomancer with balanced offensive and defensive capabilities, suitable for various team roles"
+        },
+        {
+          "itemName": "Tian Ruo",
+          "itemDescription": "A reliable front-line tank offering healing and survivability; valuable in early game stages"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Gina",
+          "itemDescription": "A corrosion Echomancer suitable for early game; effectiveness diminishes in later stages"
+        },
+        {
+          "itemName": "Pris",
+          "itemDescription": "An Echomancer with niche abilities; requires specific team setups to be effective"
+        },
+        {
+          "itemName": "Roar",
+          "itemDescription": "A fire-element Echomancer with decent early-game damage; less effective in late-game content"
+        },
+        {
+          "itemName": "Su Xiao",
+          "itemDescription": "Provides revival, shields, and HP buffs; useful in early game but less impactful later"
+        },
+        {
+          "itemName": "Xiangling",
+          "itemDescription": "An Echomancer with balanced abilities; effectiveness depends on team composition"
+        },
+        {
+          "itemName": "Sephonis",
+          "itemDescription": "A corrosion Echomancer; effectiveness depends on team composition and investment"
+        },
+        {
+          "itemName": "Bellia",
+          "itemDescription": "An Echomancer with situational utility; requires specific scenarios to shine"
+        },
+        {
+          "itemName": "Shu",
+          "itemDescription": "A character offering support abilities; effectiveness varies based on team needs"
+        }
+      ]
+    }
+  ]
+}

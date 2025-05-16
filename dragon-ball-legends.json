@@ -1,0 +1,102 @@
+{
+	"fileName": "dragon-ball-legends.json",
+	"title": "Dragon Ball Legends Tier List",
+	"description": "Discover the best characters in Dragon Ball Legends with our comprehensive tier list, ranking fighters from S to C Tier. Learn which heroes to use for maximum impact in battles.",
+	"heading": "Dragon Ball Legends Tier List",
+	"introText": "Discover the best characters in Dragon Ball Legends with our comprehensive tier list, ranking fighters from S to C Tier. Learn which heroes to use for maximum impact in battles.",
+	"datePublished": "2024-05-25",
+	"dateModified": "2024-05-25",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "SP Yamcha (Blue)",
+					"itemDescription": "Do not underestimate this character based on what you have seen in the series. Yamcha is a reliable character in DBL and can restore health and achieve 100% ki recovery. Put this character in a team with elements BLU and PUR and characters with the Saiyan Saga (Z) tag"
+				},
+				{
+					"itemName": "SP Goku (Blue)",
+					"itemDescription": "Both SP Goku and SP Yamcha were released at the same time, and they make a great duo in a team. Works in synergy with both Saiyan Saga (Z) and Saiyan tag characters"
+				},
+				{
+					"itemName": "SP Broly (Green)",
+					"itemDescription": "One of the best fighters under the green element. He is known for his massive damage output. His synergy works on these two tags: Power Opponent and Sagas from the Movies"
+				},
+				{
+					"itemName": "SP Goku (Blue)",
+					"itemDescription": "Yes, the kid Goku from the GT series. He works great in a team with any of the GT characters and also has synergy with both the Saiyan and Son Family tags. Overall, great support"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Final Form Frieza (Purple)",
+					"itemDescription": "Another duo card that made it to the list. Switch between Goku and Frieza while also being able to change the element to blue. Put them on a team with the Universe Rep, Saiyan, and Lineage of Evil tags"
+				},
+				{
+					"itemName": "SP Super Saiyan Goku (Blue)",
+					"itemDescription": "The goku from the Frieza Saga. He is a powerful character and has great synergy with Saiyan, the Son Family, and the Frieza Saga (Z) tags"
+				},
+				{
+					"itemName": "SP Pan (Red)",
+					"itemDescription": "A hybrid saiyan is once again on the list. Put her in a team of Sagas from the Movies, Hybrid Saiyan or the Son Family tags to get great support"
+				},
+				{
+					"itemName": "SP Android N17 (Blue)",
+					"itemDescription": "Android 17 from the survival saga. Like in the series, he is a powerful character in DBL too and works great in a team of Universe Rep, Android, and Universe Survival Saga tags"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "UL Super Janemba (Blue)",
+					"itemDescription": "A decent character with decent damage output. He can regenerate and is a transforming warrior. He works well with character tags: Regeneration and Sagas from the Movies only"
+				},
+				{
+					"itemName": "UL Super Saiyan God SS Gogeta (Purple)",
+					"itemDescription": "A fusion warrior who can inflict decent enough damage. He is an attack character and has synergy with just a couple of tags: Fusion Warrior and Saiyan"
+				},
+				{
+					"itemName": "SP Super Saiyan 2 Gohan (Youth) (Red)",
+					"itemDescription": "Use this character to support your team with the element red and tags with Son Family and Hybrid Saiyan. For example: Beast Gohan or Android 17 from the Z+ tier"
+				},
+				{
+					"itemName": "SP Bergamo (Red)",
+					"itemDescription": "Use alongside characters from the Universe Survival Saga and element red"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "SP Vegeta (Blue)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "SP Bardock (Yellow)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "SP Vegeta (Red)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "SP Goku (Red)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "SP Piccolo (Yellow)",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

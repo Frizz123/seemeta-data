@@ -1,0 +1,74 @@
+{
+    "fileName": "v-rising.json",
+    "title": "V Rising Weapon Tier List",
+    "description": "This V Rising Weapon Tier List will help you determine which weapons are the best in the game, so you can dominate your enemies and rule the night.",
+    "heading": "V Rising Weapon Tier List",
+    "introText": "V Rising offers players a variety of weapons to choose from, each with its own unique strengths and weaknesses. This tier list will help you determine which weapons are the best in the game, so you can dominate your enemies and rule the night.",
+    "datePublished": "2024-05-09",
+    "dateModified": "2024-05-09",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Sword",
+                    "itemDescription": "The Sword is a well-rounded weapon that is great for both PvE and PvP. It has a good balance of damage, speed, and range, and its abilities can be used to both control enemies and deal damage"
+                },
+                {
+                    "itemName": "Slashers",
+                    "itemDescription": "Slashers are a new weapon type in V Rising that are very powerful. They have a high damage output and can cleave through multiple enemies at once. However, they are also slow and have a short range"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Spear",
+                    "itemDescription": "The Spear is a versatile weapon that can be used for both poking and crowd control. It has a good range and its abilities can be used to keep enemies at bay"
+                },
+                {
+                    "itemName": "Mace",
+                    "itemDescription": "The Mace is a slow but powerful weapon that is great for stunning enemies. It has a high stagger damage and its abilities can be used to lock down bosses"
+                },
+                {
+                    "itemName": "Axes",
+                    "itemDescription": "Axes are a good all-around weapon that is great for dealing damage and crowd control. They have a decent damage output and their abilities can be used to knock enemies down and stun them"
+                },
+                {
+                    "itemName": "Greatsword",
+                    "itemDescription": "The Greatsword is a slow but powerful weapon that is great for dealing burst damage. It has a very high damage output but is very slow to swing"
+                },
+                {
+                    "itemName": "Whip",
+                    "itemDescription": "The Whip is a unique weapon that can be used to both damage and disarm enemies. It has a good range and its abilities can be used to pull enemies towards you"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Crossbow",
+                    "itemDescription": "The Crossbow is a ranged weapon that is good for picking off enemies from a distance. However, it is slow to fire and has low damage output"
+                },
+                {
+                    "itemName": "Reaper",
+                    "itemDescription": "The Reaper is a two-handed weapon that is great for dealing AoE damage. However, it is slow to swing and has a short range"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Unarmed",
+                    "itemDescription": "Unarmed is the weakest weapon in the game. It has low damage output and no abilities. However, it can be used as a last resort if you run out of weapons"
+                }
+            ]
+        }
+    ]
+}

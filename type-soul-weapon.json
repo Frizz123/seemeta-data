@@ -1,0 +1,78 @@
+{
+	"fileName": "type-soul-weapon.json",
+	"title": "Type Soul Weapon Tier List",
+	"description": "This is a tier list of the weapons in the game Type Soul. The list is based on my own opinion and experience, and your mileage may vary. I have also included some factors to consider when choosing a weapon, as well as some tips for choosing the right weapon for you.",
+	"heading": "Type Soul Weapon Tier List",
+	"introText": "This is a tier list of the weapons in the game Type Soul. The list is based on my own opinion and experience, and your mileage may vary. I have also included some factors to consider when choosing a weapon, as well as some tips for choosing the right weapon for you.",
+	"datePublished": "2024-05-18",
+	"dateModified": "2024-05-18",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Barragan's Axe",
+					"itemDescription": "This weapon has a large hitbox and deals high damage, making it a great choice for both PvE and PvP. The axe's special ability allows you to stun enemies, which can be very useful in combat."
+				},
+				{
+					"itemName": "Ulquiorra's Katana",
+					"itemDescription": "This katana is known for its long range and fast attacks. It also has a unique ability that allows you to teleport short distances, which can be used to dodge attacks or close the gap on enemies."
+				},
+				{
+					"itemName": "Hollowburden",
+					"itemDescription": "This weapon is a great all-around choice that is effective in both PvE and PvP. It has a good balance of damage, range, and speed, and its special ability allows you to heal yourself and your allies."
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Nnoitra's Scythe",
+					"itemDescription": "This scythe has a wide range and deals high damage, making it a great choice for crowd control. The scythe's special ability allows you to launch a powerful projectile that can damage multiple enemies."
+				},
+				{
+					"itemName": "Harribel's Dagger",
+					"itemDescription": "This dagger is known for its high attack speed and critical hit chance. It also has a unique ability that allows you to dodge attacks while moving, which can be very useful in PvP."
+				},
+				{
+					"itemName": "Bloodedge",
+					"itemDescription": "This sword is a solid choice for both PvE and PvP. It has a good balance of damage, range, and speed, and its special ability allows you to increase your attack speed for a short period of time."
+				},
+				{
+					"itemName": "Calibre",
+					"itemDescription": "This gun is a great choice for players who want to stay at a distance from their enemies. It has a long range and deals high damage, and its special ability allows you to fire a homing projectile that can track down enemies."
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Wonderweiss's Sword",
+					"itemDescription": "This sword is known for its wide range and crowd control abilities. However, it has a slow attack speed and low damage output, which makes it less effective in PvP."
+				},
+				{
+					"itemName": "Grimmjow's Claws",
+					"itemDescription": "These claws are a good choice for players who want to get up close and personal with their enemies. They have a high attack speed and critical hit chance, but their short range can make them a liability in PvP."
+				},
+				{
+					"itemName": "Tessen",
+					"itemDescription": "This fan is a unique weapon that can be used for both offense and defense. It has a good range and can deal decent damage, but its slow attack speed and lack of crowd control abilities make it less effective in PvP."
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Neliel's Lance",
+					"itemDescription": "This lance is known for its long range and high damage output. However, it has a very slow attack speed and is difficult to use effectively in PvP."
+				}
+			]
+		}
+	]
+}

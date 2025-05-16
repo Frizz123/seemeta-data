@@ -1,0 +1,82 @@
+{
+    "fileName": "men-of-war-2.json",
+    "title": "Men of War 2 Tier List: The Best Units for Dominating the Battlefield",
+    "description": "Conquer your enemies with the ultimate guide to unit selection in Men of War 2. This comprehensive tier list ranks the best infantry, tanks, artillery, and support units across all factions, ensuring you have the right tools to achieve victory on the battlefield.",
+    "heading": "Men of War 2 Tier List: The Best Units for Dominating the Battlefield",
+    "introText": "Conquer your enemies with the ultimate guide to unit selection in Men of War 2. This comprehensive tier list ranks the best infantry, tanks, artillery, and support units across all factions, ensuring you have the right tools to achieve victory on the battlefield. Whether you're a seasoned veteran or a fresh recruit, this guide will equip you with the knowledge to dominate your opponents and emerge victorious in Men of War 2.",
+    "datePublished": "2024-05-13",
+    "dateModified": "2024-05-13",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Soviet Penal Battalion",
+                    "itemDescription": "The Soviet Penal Battalion is one of the best infantry units in the game. They are cheap, have good morale, and are armed with PPSh-41 submachine guns, which are effective at close range"
+                },
+                {
+                    "itemName": "German Panzer IV H",
+                    "itemDescription": "The Panzer IV H is a versatile tank that can be used in a variety of situations. It has good armor and firepower, and its long 75mm gun is effective against both infantry and tanks"
+                },
+                {
+                    "itemName": "US M4 Sherman",
+                    "itemDescription": "The M4 Sherman is a reliable tank that is well-suited for infantry support. It has good armor and a powerful 75mm gun, and its high rate of fire makes it effective against lightly armored targets"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Soviet T-34/76",
+                    "itemDescription": "The T-34/76 is a well-rounded tank that is a good all-purpose choice. It has good armor and firepower, and its sloped hull makes it difficult to penetrate"
+                },
+                {
+                    "itemName": "German StuG III G",
+                    "itemDescription": "The StuG III G is a tank destroyer that is very effective against tanks. It has a powerful 75mm gun with high penetration, and its low profile makes it difficult to spot"
+                },
+                {
+                    "itemName": "US M10 Wolverine",
+                    "itemDescription": "The M10 Wolverine is a tank destroyer that is similar to the StuG III G. It has a powerful 3-inch gun with high penetration, and its turreted design gives it better all-around protection"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Soviet Mosin Nagant Riflemen",
+                    "itemDescription": "The Mosin Nagant Riflemen are a cheap and effective infantry unit. They are armed with Mosin Nagant rifles, which are accurate and have good range"
+                },
+                {
+                    "itemName": "German Grenadiers",
+                    "itemDescription": "The Grenadiers are a versatile infantry unit that can be used in a variety of situations. They are armed with Gewehr 43 rifles, which are effective at both close and long range"
+                },
+                {
+                    "itemName": "US M1 Garand Riflemen",
+                    "itemDescription": "The M1 Garand Riflemen are a well-equipped infantry unit that is armed with M1 Garand rifles. The M1 Garand is a semi-automatic rifle that fires much faster than the bolt-action rifles used by most other infantry units"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Soviet Militia",
+                    "itemDescription": "The Militia is a cheap but ineffective infantry unit. They are armed with a variety of outdated weapons, and their morale is low"
+                },
+                {
+                    "itemName": "German Volkssturm",
+                    "itemDescription": "The Volkssturm is a conscript infantry unit that is even worse than the Militia. They are armed with even more outdated weapons, and their morale is even lower"
+                },
+                {
+                    "itemName": "US National Guardsmen",
+                    "itemDescription": "The National Guardsmen are a poorly trained and equipped infantry unit. They are armed with a variety of weapons, but none of them are particularly good"
+                }
+            ]
+        }
+    ]
+}

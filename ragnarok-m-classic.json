@@ -1,0 +1,53 @@
+{
+  "fileName": "ragnarok-m-classic.json",
+  "title": "Ragnarok M: Classic Tier List",
+  "description": "Discover the top classes in Ragnarok M: Classic with our comprehensive tier list, highlighting the strengths and specialties of each class to help you choose the best fit for your gameplay.",
+  "heading": "Ragnarok M: Classic Tier List",
+  "introText": "Discover the top classes in Ragnarok M: Classic with our comprehensive tier list, highlighting the strengths and specialties of each class to help you choose the best fit for your gameplay.",
+  "datePublished": "2025-02-14",
+  "dateModified": "2025-02-14",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Blacksmith",
+          "itemDescription": "Renowned for exceptional farming capabilities, Blacksmiths utilize skills like Cart Revolution and Hammerfall to deliver high area-of-effect (AoE) damage. Their \"Greed\" skill allows for quick collection of nearby loot, enhancing farming efficiency"
+        },
+        {
+          "itemName": "Wizard",
+          "itemDescription": "Wizards excel in dealing massive AoE magic damage with spells such as Storm Gust and Meteor Storm. Their ability to control crowds and exploit elemental weaknesses makes them indispensable in both farming and group PvE scenarios"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Hunter",
+          "itemDescription": "Offering a balance between single-target and AoE damage, Hunters can efficiently clear mobs using skills like Double Strafe and Arrow Shower. Their ranged attacks and versatility make them suitable for various PvE content"
+        },
+        {
+          "itemName": "Knight",
+          "itemDescription": "Knights boast high survivability and mobility. With skills like Brandish Spear and Bowling Bash, they can manage large groups of enemies effectively, making them reliable choices for both farming and PvE content"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Assassin",
+          "itemDescription": "Specializing in high single-target damage, Assassins are adept at quickly eliminating individual enemies. While they lack strong AoE capabilities, their mobility and evasion make them effective in specific farming scenarios"
+        },
+        {
+          "itemName": "Monk",
+          "itemDescription": "Monks shine in dealing burst damage against bosses and tougher enemies. Skills like Asura Strike provide significant single-target damage, though their AoE options are limited compared to other classes"
+        }
+      ]
+    }
+  ]
+}

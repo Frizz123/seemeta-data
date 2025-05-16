@@ -1,0 +1,153 @@
+{
+	"fileName": "mythical-odyssey.json",
+	"title": "Mythical Odyssey Tier List",
+	"description": "Discover the top heroes in Mythical Odyssey, categorized into S, A, and B tiers, to enhance your gameplay strategy.",
+	"heading": "Mythical Odyssey Tier List",
+	"introText": "Discover the top heroes in Mythical Odyssey, categorized into S, A, and B tiers, to enhance your gameplay strategy.",
+	"datePublished": "2025-03-04",
+	"dateModified": "2025-03-04",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Kunpeng",
+					"itemDescription": "An attacker who deals arcane damage, enhances damage with ultimate skills, inflicts burn damage, increases final damage reduction, and restores energy with attacks"
+				},
+				{
+					"itemName": "East Emperor Taiyi",
+					"itemDescription": "A defender dealing arcane damage with an Eclipse effect, reducing enemies' current HP, and increasing maximum HP with passive skills"
+				},
+				{
+					"itemName": "Hou Tu",
+					"itemDescription": "A supporter delivering physical damage, reducing enemies' energy recovery, decreasing targets' energy, and boosting allies' maximum HP"
+				},
+				{
+					"itemName": "Zhurong",
+					"itemDescription": "An attacker inflicting arcane and burn damage, increasing crit rate of burn attacks, boosting allies' attack, and restoring team energy when enemies are affected by burn effects"
+				},
+				{
+					"itemName": "Gongong",
+					"itemDescription": "A breaker dealing arcane damage, enhancing final damage, self-recovering, increasing attack power with passive skills, and ignoring enemies' defense"
+				},
+				{
+					"itemName": "Zhu Jiuyin",
+					"itemDescription": "A breaker restoring allies' energy with basic attacks, increasing energy recovery for team members, causing enemies to lose energy, and boosting maximum HP during battles"
+				},
+				{
+					"itemName": "Peacock King",
+					"itemDescription": "An attacker dealing arcane damage to all enemies, increasing final damage reduction of targets, boosting maximum HP, and dealing damage based on enemies' maximum HP when they lose a debuff"
+				},
+				{
+					"itemName": "Guanyin",
+					"itemDescription": "A supporter who restores allies' HP, increases ultimate effectiveness, and boosts HP, attack, and defense"
+				},
+				{
+					"itemName": "Sun Wukong",
+					"itemDescription": "A top-tier attacker dealing physical damage to all enemies, excelling against front-row enemies, and increasing attack power and debuff resistance during battles"
+				},
+				{
+					"itemName": "Yunxiao",
+					"itemDescription": "An arcane damage dealer delivering critical hits, performing additional attacks when enemies' HP drops, and increasing basic attack damage over time"
+				},
+				{
+					"itemName": "Nezha",
+					"itemDescription": "A breaker dealing physical damage with additional attacks, enhancing crit rate with ultimate skills, and lowering enemies' final damage"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Lady White-Bone",
+					"itemDescription": "An attacker dealing physical damage, ignoring enemies' defense, enhancing life-stealing skills, draining targets' energy, and increasing defense with basic attacks"
+				},
+				{
+					"itemName": "Lion-Camel King",
+					"itemDescription": "A defender dealing physical damage, reducing targets' final damage, draining attackers' energy, increasing maximum HP, and generating a damage-absorbing shield during battles"
+				},
+				{
+					"itemName": "Princess Iron Fan",
+					"itemDescription": "Deals arcane damage with burn effects on random targets and restores her own HP"
+				},
+				{
+					"itemName": "Bull Demon King",
+					"itemDescription": "A defender attacking all enemies, providing a shield to allies that absorbs damage"
+				},
+				{
+					"itemName": "Chiyou",
+					"itemDescription": "A breaker attacking all enemies with physical damage and ignoring their defense"
+				},
+				{
+					"itemName": "Jiufeng",
+					"itemDescription": "A breaker performing a feather dance to deal arcane damage to back-row enemies and draining their energy"
+				},
+				{
+					"itemName": "Third Dragon Prince",
+					"itemDescription": "A supporter attacking a column of enemies, reducing their defense and attack, and decreasing their final damage"
+				},
+				{
+					"itemName": "Tang Seng",
+					"itemDescription": "A supporter healing allies in his row, restoring their HP, and providing energy to back-row allies"
+				},
+				{
+					"itemName": "Zhu Bajie",
+					"itemDescription": "A defender attacking all enemies with physical damage and reducing their attack"
+				},
+				{
+					"itemName": "Bixiao",
+					"itemDescription": "A breaker attacking front-row enemies with physical damage and draining their energy"
+				},
+				{
+					"itemName": "Qiongxiao",
+					"itemDescription": "A supporter attacking front-row enemies with physical damage and increasing crit rate for back-row allies"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Red Boy",
+					"itemDescription": "A breaker dealing arcane damage with an additional burn effect"
+				},
+				{
+					"itemName": "Jingwei",
+					"itemDescription": "A supporter healing allies with the lowest HP"
+				},
+				{
+					"itemName": "Yun Zhongjun",
+					"itemDescription": "A supporter attacking front-row enemies and reducing their final damage"
+				},
+				{
+					"itemName": "He Bo",
+					"itemDescription": "A breaker summoning a roaring river to deal arcane damage"
+				},
+				{
+					"itemName": "Dragon Girl",
+					"itemDescription": "A defender attacking a column of enemies with a dragon call, dealing magical damage"
+				},
+				{
+					"itemName": "Sha Wujing",
+					"itemDescription": "A breaker launching physical damage to enemies"
+				},
+				{
+					"itemName": "Jade Rabbit",
+					"itemDescription": "An attacker launching physical damage to enemies"
+				},
+				{
+					"itemName": "Qingxia",
+					"itemDescription": "A supporter attacking all enemies and increasing final damage for her team"
+				},
+				{
+					"itemName": "Chang'e",
+					"itemDescription": "A supporter healing her entire team"
+				}
+			]
+		}
+	]
+}

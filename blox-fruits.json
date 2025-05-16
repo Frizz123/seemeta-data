@@ -1,0 +1,166 @@
+{
+	"fileName": "blox-fruits.json",
+	"title": "Blox Fruits Tier List",
+	"description": "Blox Fruits is a Roblox game inspired by One Piece, where players can explore the world, fight enemies, and find powerful Devil Fruits. Devil Fruits give players unique abilities and are essential for becoming strong. This tier list is based on the overall strength and usefulness of each fruit in the game, taking into account factors such as damage output, crowd control, survivability, and versatility.",
+	"heading": "Blox Fruits Tier List",
+	"introText": "Blox Fruits is a Roblox game inspired by One Piece, where players can explore the world, fight enemies, and find powerful Devil Fruits. Devil Fruits give players unique abilities and are essential for becoming strong. This tier list is based on the overall strength and usefulness of each fruit in the game, taking into account factors such as damage output, crowd control, survivability, and versatility.",
+	"datePublished": "2024-07-08",
+	"dateModified": "2024-07-08",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Kitsune",
+					"itemDescription": "The Kitsune is a mythical Zoan-type Devil Fruit that turns the user into a nine-tailed fox. It is one of the most powerful fruits in the game, with high damage, mobility, and crowd control"
+				},
+				{
+					"itemName": "Leopard",
+					"itemDescription": "The Leopard is a Logia-type Devil Fruit that allows the user to transform into a leopard. It is known for its speed, agility, and powerful attacks"
+				},
+				{
+					"itemName": "Dragon",
+					"itemDescription": "The Dragon is a mythical Zoan-type Devil Fruit that turns the user into a dragon. It is one of the rarest and most powerful fruits in the game, with devastating damage, high durability, and the ability to fly"
+				},
+				{
+					"itemName": "Venom",
+					"itemDescription": "The Venom is a Logia-type Devil Fruit that allows the user to control venom. It is a very versatile fruit that can be used for both offense and defense"
+				},
+				{
+					"itemName": "Buddha",
+					"itemDescription": "The Buddha is a mythical Zoan-type Devil Fruit that turns the user into a giant Buddha. It is known for its immense durability, regeneration, and crowd control abilities"
+				},
+				{
+					"itemName": "Dough",
+					"itemDescription": "The Dough is a Paramecia-type Devil Fruit that allows the user to control dough. It is a very powerful fruit with high damage output and the ability to immobilize enemies"
+				},
+				{
+					"itemName": "Shadow",
+					"itemDescription": "The Shadow is a Paramecia-type Devil Fruit that allows the user to control shadows. It is a very versatile fruit that can be used for both offense and defense, and it also has some unique abilities such as teleportation"
+				},
+				{
+					"itemName": "T-Rex",
+					"itemDescription": "The T-Rex is a Zoan-type Devil Fruit that turns the user into a Tyrannosaurus Rex. It is known for its high damage and durability"
+				},
+				{
+					"itemName": "Magma",
+					"itemDescription": "The Magma is a Logia-type Devil Fruit that allows the user to control magma. It is a very powerful fruit with high damage output and the ability to burn enemies"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Phoenix",
+					"itemDescription": "The Phoenix is a mythical Zoan-type Devil Fruit that turns the user into a phoenix. It is known for its regeneration abilities and its powerful attacks"
+				},
+				{
+					"itemName": "Control",
+					"itemDescription": "The Control is a Paramecia-type Devil Fruit that allows the user to control gravity. It is a very versatile fruit that can be used for both offense and defense, and it also has some unique abilities such as levitation and telekinesis"
+				},
+				{
+					"itemName": "Light",
+					"itemDescription": "The Light is a Logia-type Devil Fruit that allows the user to control light. It is a very fast and powerful fruit with high damage output"
+				},
+				{
+					"itemName": "Flame",
+					"itemDescription": "The Flame is a Logia-type Devil Fruit that allows the user to control fire. It is a versatile fruit with good damage output and the ability to burn enemies"
+				},
+				{
+					"itemName": "Quake",
+					"itemDescription": "The Quake is a Logia-type Devil Fruit that allows the user to control earthquakes. It is a powerful fruit with high damage output and the ability to stun enemies"
+				},
+				{
+					"itemName": "Ice",
+					"itemDescription": "The Ice is a Logia-type Devil Fruit that allows the user to control ice. It is a versatile fruit with good damage output and the ability to slow enemies"
+				},
+				{
+					"itemName": "Ghost",
+					"itemDescription": "The Ghost is a Paramecia-type Devil Fruit that allows the user to become intangible. It is a very versatile fruit that can be used for both offense and defense, and it also has some unique abilities such as phasing through walls and possessing enemies"
+				},
+				{
+					"itemName": "Spirit",
+					"itemDescription": "The Spirit is a Paramecia-type Devil Fruit that allows the user to control spirits. It is a powerful fruit with high damage output and the ability to weaken enemies"
+				},
+				{
+					"itemName": "Dark",
+					"itemDescription": "The Dark is a Logia-type Devil Fruit that allows the user to control darkness. It is a versatile fruit with good damage output and the ability to blind enemies"
+				},
+				{
+					"itemName": "Portal",
+					"itemDescription": "The Portal is a Paramecia-type Devil Fruit that allows the user to create portals. It is a very versatile fruit that can be used for both offense and defense, and it also has some unique abilities such as teleportation and creating traps"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Sound",
+					"itemDescription": "The Sound is a Paramecia-type Devil Fruit that allows the user to control sound. It is a versatile fruit with good crowd control abilities, but it has low damage output"
+				},
+				{
+					"itemName": "Spider",
+					"itemDescription": "The Spider is a Zoan-type Devil Fruit that turns the user into a spider. It is known for its mobility and its ability to web enemies"
+				},
+				{
+					"itemName": "Sand",
+					"itemDescription": "The Sand is a Logia-type Devil Fruit that allows the user to control sand. It is a versatile fruit with good damage output and the ability to blind enemies"
+				},
+				{
+					"itemName": "Gravity",
+					"itemDescription": "The Gravity is a Paramecia-type Devil Fruit that allows the user to control gravity. It is a powerful fruit with good crowd control abilities, but it has low damage output"
+				},
+				{
+					"itemName": "Diamond",
+					"itemDescription": "The Diamond is a Paramecia-type Devil Fruit that turns the user into a diamond. It is known for its high durability, but it has low damage output and mobility"
+				},
+				{
+					"itemName": "Pain",
+					"itemDescription": "The Pain is a Paramecia-type Devil Fruit that allows the user to inflict pain on others. It is a powerful fruit with good crowd control abilities, but it has low damage output"
+				},
+				{
+					"itemName": "Blizzard",
+					"itemDescription": "The Blizzard is a Logia-type Devil Fruit that allows the user to control ice and snow. It is a powerful fruit with good damage output and the ability to slow enemies"
+				},
+				{
+					"itemName": "Rumble",
+					"itemDescription": "The Rumble is a Logia-type Devil Fruit that allows the user to control lightning. It is a powerful fruit with high damage output, but it is difficult to control"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Love",
+					"itemDescription": "The Love is a Paramecia-type Devil Fruit that allows the user to charm others. It is a versatile fruit that can be used for both offense and defense, but it has low damage output"
+				},
+				{
+					"itemName": "Rubber",
+					"itemDescription": "The Rubber is a Paramecia-type Devil Fruit that makes the user immune to blunt attacks. It is a good fruit for early game, but it becomes less useful in late game"
+				},
+				{
+					"itemName": "Spring",
+					"itemDescription": "The Spring is a Paramecia-type Devil Fruit that allows the user to stretch their body like a spring. It is a good fruit for mobility, but it has low damage output"
+				},
+				{
+					"itemName": "Smoke",
+					"itemDescription": "The Smoke is a Logia-type Devil Fruit that allows the user to turn into smoke. It is a versatile fruit that can be used for both offense and defense, but it has low damage output"
+				},
+				{
+					"itemName": "Falcon",
+					"itemDescription": "The Falcon is a Zoan-type Devil Fruit that turns the user into a falcon. It is known for its speed and mobility, but it has low damage output"
+				},
+				{
+					"itemName": "Chop",
+					"itemDescription": "The Chop is a Paramecia-type Devil Fruit that allows the user to turn their body into blocks. It is a good fruit for defense, but it has low damage output and mobility"
+				}
+			]
+		}
+	]
+}

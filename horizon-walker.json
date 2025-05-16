@@ -1,0 +1,126 @@
+{
+  "fileName": "horizon-walker.json",
+  "title": "Horizon Walker Tier List",
+  "description": "Discover the top characters in Horizon Walker with our comprehensive tier list, ranking from S to C Tier to help you build the ultimate team.",
+  "heading": "Horizon Walker Tier List",
+  "introText": "Discover the top characters in Horizon Walker with our comprehensive tier list, ranking from S to C Tier to help you build the ultimate team.",
+  "datePublished": "2024-11-22",
+  "dateModified": "2024-11-22",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Nika",
+          "itemDescription": "Core character in endgame teams, known for self-sustaining stealth and resilience"
+        },
+        {
+          "itemName": "Everett",
+          "itemDescription": "Exceptional AoE damage dealer, highly effective in various scenarios"
+        },
+        {
+          "itemName": "Nimset",
+          "itemDescription": "Premier tank with provoke abilities, area counterattacks, and emergency healing"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Matros",
+          "itemDescription": "High mobility and single-target damage; however, notably fragile"
+        },
+        {
+          "itemName": "Mariam",
+          "itemDescription": "Excels with stealth and anti-counterattack capabilities, synergizes well with Nika"
+        },
+        {
+          "itemName": "Nonoha",
+          "itemDescription": "Provides movement enhancements and shield upgrades, valuable support unit"
+        },
+        {
+          "itemName": "Gillen",
+          "itemDescription": "Decent tank offering provoke and magic resistance, though provoke range is limited"
+        },
+        {
+          "itemName": "Ines",
+          "itemDescription": "Delivers substantial single-target damage, capable of swiftly eliminating enemies"
+        },
+        {
+          "itemName": "Pan Taili",
+          "itemDescription": "Low-cost taunt with decent evasion and unlimited counterattacks, albeit with limited range"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Delia",
+          "itemDescription": "Similar to Everett but with inferior stats and limited utility"
+        },
+        {
+          "itemName": "Ernest",
+          "itemDescription": "Single-target DPS without notable distinguishing features"
+        },
+        {
+          "itemName": "Jin Jiaying",
+          "itemDescription": "Support for magic units, though relatively fragile"
+        },
+        {
+          "itemName": "Kela",
+          "itemDescription": "Mage focusing on burn effects, possesses a high-cost teleport ability"
+        },
+        {
+          "itemName": "Luize",
+          "itemDescription": "Generates burn effects but lacks the stats to be as effective as Nika"
+        },
+        {
+          "itemName": "Kulani",
+          "itemDescription": "Prevents counterattacks and slows opponents but lacks significant impact"
+        },
+        {
+          "itemName": "Lasatina",
+          "itemDescription": "Healer with limited capabilities, not particularly outstanding"
+        },
+        {
+          "itemName": "Su Zhuxi",
+          "itemDescription": "Primarily supports Nika, offering limited value beyond that role"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Yeon Chae-young",
+          "itemDescription": "Not recommended for development due to limited utility"
+        },
+        {
+          "itemName": "Grisk",
+          "itemDescription": "Single-target damage lower than other options, lacks area damage"
+        },
+        {
+          "itemName": "Bella",
+          "itemDescription": "Fragile healer with minimal impact in battle scenarios"
+        },
+        {
+          "itemName": "Alaha",
+          "itemDescription": "Very fragile with insignificant damage output"
+        },
+        {
+          "itemName": "Karina",
+          "itemDescription": "Low-cost unit without practical use in combat situations"
+        },
+        {
+          "itemName": "Samalika",
+          "itemDescription": "Similar to Karina, offering minimal combat effectiveness"
+        }
+      ]
+    }
+  ]
+}

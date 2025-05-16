@@ -1,0 +1,178 @@
+{
+  "fileName": "acnh-villager.json",
+  "title": "Villagers in Animal Crossing: New Horizons Tier List",
+  "description": "Discover the most popular and sought-after S-tier and other villagers in Animal Crossing: New Horizons.",
+  "heading": "Villagers in Animal Crossing: New Horizons Tier List",
+  "introText": "Discover the most popular and sought-after S-tier and other villagers in Animal Crossing: New Horizons.",
+  "datePublished": "2025-01-31",
+  "dateModified": "2025-01-31",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Marshal",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shino",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Fuchsia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Raymond",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bob",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Molly",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sherb",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lolly",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sasha",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Ankha",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bruce",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Fauna",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lucky",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Roald",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rosie",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ione",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tangy",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cherry",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Dotty",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cephalobot",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Weber",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cesar",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Pietro",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Flora",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kid Cat",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Apple",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Katt",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Drift",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Daisy",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Tia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Hamlet",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Joey",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Merry",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Sprinkle",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cranston",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Flurry",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

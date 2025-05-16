@@ -1,0 +1,66 @@
+{
+	"fileName": "street-fighter-3-third-strike.json",
+	"title": "Street Fighter 3: Third Strike Tier List",
+	"description": "A breakdown of Street Fighter 3: Third Strike characters into tiers based on their overall strength and viability in competitive play. This tier list provides a general overview of character performance and is subject to change based on the evolving meta.",
+	"heading": "Street Fighter 3: Third Strike Tier List",
+	"introText": "A breakdown of Street Fighter 3: Third Strike characters into tiers based on their overall strength and viability in competitive play. This tier list provides a general overview of character performance and is subject to change based on the evolving meta.",
+	"datePublished": "2024-07-21",
+	"dateModified": "2024-07-21",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Chun-Li",
+					"itemDescription": "Exceptional zoning, powerful pokes, and versatile combos"
+				},
+				{
+					"itemName": "Yun",
+					"itemDescription": "Excellent mix-ups, aggressive playstyle, and strong pressure"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Ken",
+					"itemDescription": "Balanced character with a strong neutral game and powerful combos"
+				},
+				{
+					"itemName": "Ibuki",
+					"itemDescription": "Unique and versatile playstyle, strong zoning, and mix-ups"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Dudley",
+					"itemDescription": "Strong zoning and defensive playstyle, but can struggle against aggressive opponents"
+				},
+				{
+					"itemName": "Elena",
+					"itemDescription": "Versatile character with a focus on grapples and footsies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Hugo",
+					"itemDescription": "Slow and heavy, with limited mobility and reliance on command grabs"
+				},
+				{
+					"itemName": "Alex",
+					"itemDescription": "A jack-of-all-trades character, but lacks the standout strengths of other characters"
+				}
+			]
+		}
+	]
+}

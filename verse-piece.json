@@ -1,0 +1,138 @@
+{
+  "fileName": "verse-piece.json",
+  "title": "Verse Piece Tier List",
+  "description": "Discover the ultimate ranking of swords in Verse Piece, categorized from S Tier to C Tier, to optimize your combat strategy.",
+  "heading": "Verse Piece Tier List",
+  "introText": "Discover the ultimate ranking of swords in Verse Piece, categorized from S Tier to C Tier, to optimize your combat strategy.",
+  "datePublished": "2025-03-16",
+  "dateModified": "2025-03-16",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Rowan",
+          "itemDescription": "It allows the user to launch a forward-moving boomerang that returns, dealing damage both ways; perform a large area-of-effect slam followed by a powerful slash; and execute a slash accompanied by three fire projectiles fired in a cone formation"
+        },
+        {
+          "itemName": "Sung Jin Woo",
+          "itemDescription": "It applies a bleed effect to enemies, enhancing damage over time, and has the highest M1 DPS of all swords. Its abilities include unleashing a series of rapid slashes in front of the user, summoning shadow soldiers to attack enemies, teleporting behind the target followed by a critical strike, and releasing a massive shadow explosion that deals significant area-of-effect damage"
+        },
+        {
+          "itemName": "Lancer",
+          "itemDescription": "It executes a long-range thrust attack that pierces through multiple enemies, performs a spinning lance maneuver dealing area-of-effect damage around the user, leaps into the air and crashes down with the lance causing a shockwave, and charges forward at high speed, impaling enemies in its path"
+        },
+        {
+          "itemName": "Yorrichi",
+          "itemDescription": "This weapon is not listed among the available weapons in Verse Piece"
+        },
+        {
+          "itemName": "Toji Unleashed",
+          "itemDescription": "Notably, this weapon is not listed among the available weapons in Verse Piece"
+        },
+        {
+          "itemName": "Starrk (LL)",
+          "itemDescription": "This weapon is not listed among the available weapons in Verse Piece"
+        },
+        {
+          "itemName": "Alucard",
+          "itemDescription": "Features a passive ability that heals the user upon landing moves. Its attacks include a short-range barrage, a cone of frost that freezes enemies, a huge area-of-effect (AoE) vertical beam, and multiple large full AoE novas that freeze targets"
+        },
+        {
+          "itemName": "Butterflies",
+          "itemDescription": "Utilizes multiple short-range beams, a medium-range cone shot, additional medium-range cone shots, and a forward barrage of butterflies. It also has a buff that increases the weapon's damage by 40% for a short duration"
+        },
+        {
+          "itemName": "Vergil",
+          "itemDescription": "Includes a backward evade, multiple small slashes around the user, a small burst of fire followed by a huge full AoE slash, and a significant AoE barrage from the sky"
+        },
+        {
+          "itemName": "Cid Kagenous V2",
+          "itemDescription": "Offers multiple short-range slashes, a slam followed by additional slashes, a whirlwind of attacks in a large area, a huge full AoE sky beam barrage, and a massive full AoE blast"
+        },
+        {
+          "itemName": "Red Mist",
+          "itemDescription": "Executes two angled slashes followed by a larger double slash, multiple short-range slashes, a short-range cone pull, a single large slash around the user, and provides a 40% damage buff for a short duration"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Shusui",
+          "itemDescription": "Features a full AoE tornado around the user, a long-range beam that explodes on hit, and a long dash forward"
+        },
+        {
+          "itemName": "Zenitsu",
+          "itemDescription": "This weapon is not listed among the available weapons in Verse Piece"
+        },
+        {
+          "itemName": "Maki",
+          "itemDescription": "Performs a huge AoE forward slash, long forward-traveling sky beams, and multiple forward slashes"
+        },
+        {
+          "itemName": "Kokushibo",
+          "itemDescription": "Delivers multiple small but full AoE slashes, a slash followed by three celestial shurikens, a double vertical curtain slash in a 60-degree cone, and a whirlwind of slashes"
+        },
+        {
+          "itemName": "Starrk",
+          "itemDescription": "Executes a short forward beam, a barrage of short beams around the user, and a barrage of short beams focused on a point in front"
+        },
+        {
+          "itemName": "Anubis",
+          "itemDescription": "Provides multiple small AoE slashes, a long dash forward ending with a double slash, a forward AoE pull, and full AoE whirlwind slashes around the user"
+        },
+        {
+          "itemName": "Ichigo",
+          "itemDescription": "Unleashes multiple huge AoE slashes, a single large vertical slash, and a long-range shadow curtain"
+        },
+        {
+          "itemName": "Cid Kagenou",
+          "itemDescription": "Notably, this weapon is not listed among the available weapons in Verse Piece"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Excalibur",
+          "itemDescription": "Performs a full AoE slash around the user and a long forward slash"
+        },
+        {
+          "itemName": "Toji",
+          "itemDescription": "Delivers a double slash, multiple medium-sized AoE slashes around the user, and a huge AoE dash forward"
+        },
+        {
+          "itemName": "Kashimo",
+          "itemDescription": "Executes a medium-sized forward push, a beam strike, and a long-distance forward dash"
+        },
+        {
+          "itemName": "Rengoku",
+          "itemDescription": "Features a huge vertical angled slash and a medium AoE dash forward"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Saber",
+          "itemDescription": "Performs a double slash that travels forward and multiple medium-sized AoE slashes"
+        },
+        {
+          "itemName": "Yoru",
+          "itemDescription": "Delivers an angled slash that travels forward and a full AoE slash around the user"
+        },
+        {
+          "itemName": "Grimmjow",
+          "itemDescription": "Executes a short-range push, a huge full AoE whirlwind around the user, and two claw attacks followed by a slash"
+        }
+      ]
+    }
+  ]
+}

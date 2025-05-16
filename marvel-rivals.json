@@ -1,0 +1,82 @@
+{
+    "fileName": "marvel-rivals.json",
+    "title": "Marvel Rivals Tier List",
+    "description": "Explore the latest Marvel Rivals tier list for December 2024, detailing character rankings from S to C tier to help you choose the best heroes for your battles.",
+    "heading": "Marvel Rivals Tier List",
+    "introText": "Explore the latest Marvel Rivals tier list for December 2024, detailing character rankings from S to C tier to help you choose the best heroes for your battles.",
+    "datePublished": "2024-05-13",
+    "dateModified": "2025-02-28",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Duelist",
+                    "itemDescription": "Storm, Iron Man, Namor, Squirrel Girl, Winter Soldier, Wolverine"
+                },
+                {
+                    "itemName": "Vanguards",
+                    "itemDescription": "Doctor Strange, Groot, Magneto"
+                },
+                {
+                    "itemName": "Strategists",
+                    "itemDescription": "Mantis, Rocket Raccoon, Cloak & Dagger, Loki, Invisible Woman"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Duelist",
+                    "itemDescription": "Black Panter, Hela, Iron Fist, Magik, Moon Knight, Psyloke"
+                },
+                {
+                    "itemName": "Vanguards",
+                    "itemDescription": "Bruce Banner, Peni Parker, The Thing, Thor"
+                },
+                {
+                    "itemName": "Strategists",
+                    "itemDescription": "Luna Snow"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Duelist",
+                    "itemDescription": "Hawkeye, Mister Fantasti, Spider-man, Star-lord, The Punisher"
+                },
+                {
+                    "itemName": "Vanguards",
+                    "itemDescription": "Captain America"
+                },
+                {
+                    "itemName": "Strategists",
+                    "itemDescription": "Adam Warlock"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Duelist",
+                    "itemDescription": "Black Widow, Human Torch, Scarlet Witch"
+                },
+                {
+                    "itemName": "Vanguards",
+                    "itemDescription": "Venom"
+                },
+                {
+                    "itemName": "Strategists",
+                    "itemDescription": "Jeff The Land Shark"
+                }
+            ]
+        }
+    ]
+}

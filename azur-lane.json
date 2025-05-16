@@ -1,0 +1,1110 @@
+{
+	"fileName": "azur-lane.json",
+	"title": "Azur Lane Tier List",
+	"description": "Azur Lane is a side-scrolling shoot em up game with gacha elements. Players can collect and build a fleet of warships, each with their own unique stats and abilities. The game can be challenging, so it's important to have a good team composition. This is where tier lists come in. A tier list is a ranking of all the ships in the game, from best to worst. It can be a helpful tool for new players who are trying to figure out which ships to focus on. However, it's important to remember that tier lists are not always perfect. They are often based on the opinions of a small group of players, and they may not take into account your own playstyle.",
+	"heading": "Azur Lane Tier List",
+	"introText": "Azur Lane is a side-scrolling shoot em up game with gacha elements. Players can collect and build a fleet of warships, each with their own unique stats and abilities. The game can be challenging, so it's important to have a good team composition. This is where tier lists come in. A tier list is a ranking of all the ships in the game, from best to worst. It can be a helpful tool for new players who are trying to figure out which ships to focus on. However, it's important to remember that tier lists are not always perfect. They are often based on the opinions of a small group of players, and they may not take into account your own playstyle.",
+	"datePublished": "2024-05-23",
+	"dateModified": "2024-05-23",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Bismarck Zwei",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Friedrich der Große",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kearsarge",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Musashi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "New Jersey",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sovetsky Soyuz",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ulrich von Hutten",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vanguard",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Alabama",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Amagi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Aquila",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Atago",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Baltimore",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Belfast",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Benham",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "California",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cheshire",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cleveland",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Colbert",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cornwall",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dido",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Edinburgh",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eugen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Georgia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gotland",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Graf Spee",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hakuryu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Haruna",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hibernate",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hindenburg",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hipper",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hood",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ibuki",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Illustrious",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Iowa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Izumo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jean Bart",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Johnston",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Juneau",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kaga",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kii",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kirishima",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kitakaze",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kongo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kronstadt",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lexington",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Littorio",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "London",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ludlow",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Luigi Einaudi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lutzow",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Magdeburg",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mairena",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Makarov",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marlborough",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Maya",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mikasa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Minneapolis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Missouri",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mogami",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Montpelier",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nachi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Neptune",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "New Orleans",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "New York",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nikolai",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Northampton",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Oakland",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ohio",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Okinawa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Oklahoma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Orlando",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Oskol",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pennsylvania",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Perth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pola",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Poltava",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pompeo Magno",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Prince of Wales",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Prinz Eugen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Queen Elizabeth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Repulse",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Richelieu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Roma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Roon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "San Diego",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "San Francisco",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Saratoga",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Seattle",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sedgwick",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sendai",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shangri La",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shimakaze",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shinano",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shiokaku",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shokaku",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shropshire",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Southern Cross",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Stalingrad",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Suffolk",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Suruga",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sussex",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Taigei",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Takao",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tashkent",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tennessee",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Texas",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tirpitz",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tokachi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tone",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Uhlmann",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Unicorn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Utah",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Valjean",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vermont",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Victorious",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vivid",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Warspite",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Washington",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "West Virginia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Wichita",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Wisconsin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yamato",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "York",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Baltimore",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Belfast",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Belfast (PR)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Benham",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "California",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cheshire",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cleveland",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Colbert",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cornwall",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dido",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Edinburgh",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eugen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Georgia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gotland",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Graf Spee",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hakuryu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Haruna",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hibernia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hindenburg",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hipper",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hood",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ibuki",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Illustrious",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Iowa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Izumo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jean Bart",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Johnston",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Juneau",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kaga",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kii",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kirishima",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kitakaze",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kongo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kronstadt",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lexington",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Littorio",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "London",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ludlow",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Luigi Einaudi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lutzow",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Magdeburg",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mairena",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Makarov",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marlborough",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Maya",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mikasa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Minneapolis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Missouri",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mogami",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Montpelier",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nachi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Neptune",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "New Orleans",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "New York",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nikolai",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Northampton",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Oakland",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ohio",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Okinawa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Oklahoma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Orlando",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Oskol",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pennsylvania",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Perth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pola",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Poltava",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pompeo Magno",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Prince of Wales",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Prinz Eugen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Queen Elizabeth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Repulse",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Richelieu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Roma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Richelieu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Roon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "San Diego",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "San Francisco",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Saratoga",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Seattle",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sedgwick",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sendai",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shangri La",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shimakaze",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shinano",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shiokaku",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shokaku",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shropshire",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Southern Cross",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Stalingrad",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Suffolk",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Suruga",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sussex",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Taigei",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Takao",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tashkent",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tennessee",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Texas",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tirpitz",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tokachi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tone",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Uhlmann",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Unicorn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Utah",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Valjean",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vermont",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Victorious",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vivid",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Warspite",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Washington",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "West Virginia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Wichita",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Wisconsin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yamato",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "York",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Aoba",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Aquila",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Atago",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Baltimore",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Belfast",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Benham",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "California",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cheshire",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cleveland",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Colbert",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cornwall",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dido",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Edinburgh",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eugen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Georgia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gotland",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Graf Spee",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hakuryu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Haruna",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hibernia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hindenburg",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hipper",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hood",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ibuki",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Illustrious",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Iowa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Izumo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jean Bart",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Johnston",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Juneau",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kaga",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

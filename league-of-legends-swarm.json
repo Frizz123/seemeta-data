@@ -1,0 +1,65 @@
+{
+	"fileName": "league-of-legends-swarm.json",
+	"title": "League of Legends: Swarm Tier List",
+	"description": "A guide to the best champions for the new League of Legends game mode, Swarm.",
+	"heading": "League of Legends: Swarm Tier List",
+	"introText": "A guide to the best champions for the new League of Legends game mode, Swarm.",
+	"datePublished": "2024-07-17",
+	"dateModified": "2025-04-08",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Yasuo",
+					"itemDescription": "Yasuo is a powerful champion who can easily take down multiple enemies at once with his ultimate ability, Last Breath"
+				},
+				{
+					"itemName": "Xayah",
+					"itemDescription": "Xayah is another great pick for Swarm, as her ultimate ability, Featherstorm, allows her to deal damage to multiple enemies while also being mobile"
+				},
+				{
+					"itemName": "Illaoi",
+					"itemDescription": "Illaoi is a tanky champion who can control the battlefield with her tentacles. Her ultimate ability, Unleash the Kraken, can deal massive damage to multiple enemies"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Kindred",
+					"itemDescription": "Kindred is a mobile champion who can deal damage to multiple enemies with their ultimate ability, Wolf's Frenzy"
+				},
+				{
+					"itemName": "Elise",
+					"itemDescription": "Elise is a versatile champion who can be played as either a tank or a damage dealer. Her ultimate ability, Cocoon, can stun multiple enemies"
+				},
+				{
+					"itemName": "Twitch",
+					"itemDescription": "Twitch is a ranged champion who can deal damage to multiple enemies with his ultimate ability, Spray and Pray"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Teemo",
+					"itemDescription": "Teemo is a champion who can place mushrooms that damage enemies. His ultimate ability, Noxious Trap, can deal damage to multiple enemies"
+				},
+				{
+					"itemName": "Ziggs",
+					"itemDescription": "Ziggs is a ranged champion who can deal damage to multiple enemies with his ultimate ability, Mega Inferno Bomb"
+				},
+				{
+					"itemName": "Jinx",
+					"itemDescription": "Jinx is a ranged champion who can deal damage to multiple enemies with her ultimate ability, Rocket Launcher. However, she is considered to be the worst champion in Swarm due to her lack of mobility"
+				}
+			]
+		}
+	]
+}

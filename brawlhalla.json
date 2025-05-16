@@ -1,0 +1,162 @@
+{
+	"fileName": "brawlhalla.json",
+	"title": "Brawlhalla Tier List",
+	"description": "Brawlhalla is a free-to-play platform fighting game with a massive and ever-growing roster of legends to choose from. With so many options, it can be tough to know which legends are the best. That's where tier lists come in.",
+	"heading": "Brawlhalla Tier List",
+	"introText": "Brawlhalla is a free-to-play platform fighting game with a massive and ever-growing roster of legends to choose from. With so many options, it can be tough to know which legends are the best. That's where tier lists come in.",
+	"datePublished": "2024-06-14",
+	"dateModified": "2024-06-14",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Ezio (Sword, Orb)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tezca (Battle Boots, Gauntlets)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lord Vraxx (Rocket Lance, Blasters)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Luke (Blasters, Gauntlets)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Rock (Hammer, Katars)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Finn (Axe, Sword)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Scarlet (Hammer, Rocket Lance)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Petra (Gauntlets, Orb)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Bodvar (Hammer, Sword)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Plague Knight (Gauntlets, Katars)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Storm Shadow (Bow, Sword)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kor (Gauntlets, Hammer)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Amethyst (Cannon, Axe)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Leonardo (Sword, Scythe)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Devil Jin (Gauntlets, Bow)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ryu (Gauntlets, Orb)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Diana (Bow, Katars)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Azoth (Sword, Lance)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Orion (Lance, Sword)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Val (Axe, Spear)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gnash (Hammer, Sword)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sentinel (Hammer, Axe)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sir Roland (Sword, Lance)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Queen Nai (Katars, Spear)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Barraza (Axe, Katars)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mordex (Axe, Gauntlets)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Xull (Cannon, Axe)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yumiko (Hammer, Bow)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cassidy (Blasters, Cannon)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Javelin (Spear, Sword)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Thatch (Sword, Scythe)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fait (Katars, Orb)",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

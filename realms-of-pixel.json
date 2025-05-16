@@ -1,0 +1,57 @@
+{
+  "fileName": "realms-of-pixel.json",
+  "title": "Realms of Pixel Tier List",
+  "description": "This tier list for Realms of Pixel: Tech & Magic ranks the strongest heroes and highlights the best options for free-to-play players.",
+  "heading": "Realms of Pixel Tier List",
+  "introText": "This tier list for Realms of Pixel: Tech & Magic ranks the strongest heroes and highlights the best options for free-to-play players.",
+  "datePublished": "2025-02-12",
+  "dateModified": "2025-02-12",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Abyss Queen",
+          "itemDescription": "Boosts attack and heals allies upon death"
+        },
+        {
+          "itemName": "Ember Maiden",
+          "itemDescription": "Armor-penetrating DPS with damage resistance"
+        },
+        {
+          "itemName": "Vuer",
+          "itemDescription": "Strong physical attacker with immobilization"
+        },
+        {
+          "itemName": "Flaming Majesty",
+          "itemDescription": "Tank that absorbs and returns damage"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Edge Witch",
+          "itemDescription": "Strong mid-game unit but needs investment"
+        },
+        {
+          "itemName": "Sword Sage",
+          "itemDescription": "Good damage dealer, best for early to mid-game"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Moon Shadow",
+          "itemDescription": "Strong in early battles but loses effectiveness later"
+        }
+      ]
+    }
+  ]
+}

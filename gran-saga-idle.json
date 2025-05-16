@@ -1,0 +1,82 @@
+{
+	"fileName": "gran-saga-idle.json",
+	"title": "Gran Saga Idle Tier List",
+	"description": "Discover the best characters in Gran Saga Idle with this comprehensive tier list, featuring S, A, B, and C Tier rankings.",
+	"heading": "Gran Saga Idle Tier List",
+	"introText": "Discover the best characters in Gran Saga Idle with this comprehensive tier list, featuring S, A, B, and C Tier rankings.",
+	"datePublished": "2024-06-04",
+	"dateModified": "2024-06-04",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Priconne",
+					"itemDescription": "A versatile archer with high attack and critical rate"
+				},
+				{
+					"itemName": "Christina",
+					"itemDescription": "A powerful mage with crowd control abilities"
+				},
+				{
+					"itemName": "Miyuri",
+					"itemDescription": "A tanky character with high defense and the ability to taunt enemies"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Yume",
+					"itemDescription": "A support character that can heal and buff allies"
+				},
+				{
+					"itemName": "Anne",
+					"itemDescription": "A melee character with high attack and the ability to stun enemies"
+				},
+				{
+					"itemName": "Rei",
+					"itemDescription": "A ranged character with high attack and the ability to deal damage over time"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Alice",
+					"itemDescription": "A melee character with moderate attack and defense"
+				},
+				{
+					"itemName": "Makoto",
+					"itemDescription": "A support character that can increase the attack of allies"
+				},
+				{
+					"itemName": "Feena",
+					"itemDescription": "A ranged character with moderate attack and the ability to slow enemies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Clarice",
+					"itemDescription": "A melee character with low attack and defense"
+				},
+				{
+					"itemName": "Lisa",
+					"itemDescription": "A support character that can increase the defense of allies"
+				},
+				{
+					"itemName": "Mao",
+					"itemDescription": "A ranged character with low attack and the ability to silence enemies"
+				}
+			]
+		}
+	]
+}

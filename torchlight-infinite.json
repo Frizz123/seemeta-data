@@ -1,0 +1,122 @@
+{
+	"fileName": "torchlight-infinite.json",
+	"title": "Torchlight Infinite Tier List",
+	"description": "Discover the best Torchlight Infinite classes ranked in a comprehensive tier list from S to C Tier, helping you choose the ideal class to enhance your gameplay.",
+	"heading": "Torchlight Infinite Tier List",
+	"introText": "Discover the best Torchlight Infinite classes ranked in a comprehensive tier list from S to C Tier, helping you choose the ideal class to enhance your gameplay.",
+	"datePublished": "2024-10-25",
+	"dateModified": "2025-04-18",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Berserker Rehan (Anger)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Divineshot Carino (Lethal Flash)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cateye Erika (Lightning Shadow)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Frostfire Gemma (Ice-Fire Fusion)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Oracle Thea (Blasphemer)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Spacetime Witness Youga (Spacetime Illusion)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "The Forsaken Iris (Vigilant Breeze)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Spacetime Witness Youga (Spacetime Elapse)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cateye Erika (Wind Stalker)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Frostfire Gemma (Flame of Pleasure)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Forsaken Iris (Growing Breeze)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Commander Moto (Charge Calling)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Berserker Rehan (Seething Silhouette)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tide Whisper Selena (Sing with the Tide)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Escapist Bing (Blast Nova)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Frostfire Gemma (Frostbitten Heart)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lightbringer Rosa (High Court Chariot)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Oracle Thea (Wisdom of The Gods)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Divineshot Carino (Ranger of Glory)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Divineshot Carino (Zealot of War)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Commander Moto (Order Calling)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Oracle Thea (Incarnation of The Gods)",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

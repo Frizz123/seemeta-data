@@ -1,0 +1,265 @@
+{
+    "fileName": "r6-operator.json",
+    "title": "Rainbow Six Siege Operator Tier List",
+    "description": "This Rainbow Six Siege Operator Tier List ranks all of the operators from S Tier to B Tier. The list is based on the operator's abilities, utility, and impact on the game.",
+    "heading": "Rainbow Six Siege Operator Tier List",
+    "introText": "This Rainbow Six Siege Operator Tier List ranks all of the operators from S Tier to B Tier. The list is based on the operator's abilities, utility, and impact on the game. Please note that this tier list is based on our own opinions and experiences. The best operators for you will depend on your playstyle and the team you are playing with. Factors to consider when choosing an operator include your playstyle, team composition, the map you are playing on, and the objective of the round. Experiment with different operators to find the ones that you are most comfortable with. We hope this tier list helps you choose the right operators for your next Rainbow Six Siege match!",
+    "datePublished": "2024-05-13",
+    "dateModified": "2024-05-13",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Azami",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Fenrir",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Lesion",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Solis",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Ying",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Ace",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Buck",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Dokkaebi",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Echo",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Hibana",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Iana",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Kaid",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Maestro",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Mute",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Smoke",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Valkyrie",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Tubarao",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Warden",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Alibi",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Amaru",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Aruni",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Bandit",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Blackbeard",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Blitz",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Capitao",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Castle",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Caveira",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Clash",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Ela",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Finka",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Fuze",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Glaz",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Goyo",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Gridlock",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Jackal",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Kali",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Fuze",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Kapkan",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "LFlores",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Maverick",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Mira",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Nomad",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Nokk",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Osa",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Oryx",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Pulse",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Recruit",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Revenant",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Rook",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Sam Fisher",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Sigma",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Sledge",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Tachanka",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Thermite",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Thorn",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Twitch",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Vigil",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Wamai",
+                    "itemDescription": ""
+                },
+                {
+                    "itemName": "Zofia",
+                    "itemDescription": ""
+                }
+            ]
+        }
+    ]
+}

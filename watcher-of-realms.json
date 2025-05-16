@@ -1,0 +1,218 @@
+{
+    "fileName": "watcher-of-realms.json",
+    "title": "Watcher of Realms Tier List",
+    "description": "The ultimate guide to the best heroes in Watcher of Realms. This tier list ranks all of the heroes from S Tier to C Tier based on their overall performance in various game modes.",
+    "heading": "Watcher of Realms Tier List",
+    "introText": "Watcher of Realms is a fantasy RPG that combines the intricate strategy of tower defense with classic role-playing elements. With a diverse roster of over 170 heroes across 10 factions, each with unique abilities, the game offers a deep and rewarding experience for players of all skill levels. However, with so many heroes to choose from, it can be difficult to know which ones are the best. That's where this tier list comes in. I've ranked all of the heroes in Watcher of Realms into S Tier, A Tier, B Tier, and C Tier based on their overall performance in various game modes, including PvE, PvP, and Guild Wars.",
+    "datePublished": "2024-05-10",
+    "dateModified": "2025-03-28",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Diaochan",
+                    "itemDescription": "A powerful Support Mage who specializes in crowd control and debuffing enemies, reducing their defense and attack while dealing constant magic damage, making her essential for boss fights and difficult PvE content"
+                },
+                {
+                    "itemName": "Sun Wukong",
+                    "itemDescription": "Top-tier fighter known for high damage output and versatility, excelling in both single-target and AoE scenarios"
+                },
+                {
+                    "itemName": "Kigiri",
+                    "itemDescription": "Exceptional fighter with powerful area-of-effect (AoE) damage and crowd control abilities, making him invaluable in various game modes"
+                },
+                {
+                    "itemName": "Ymiret",
+                    "itemDescription": "Outstanding fighter with significant damage potential and crowd control, effective across multiple game modes"
+                },
+                {
+                    "itemName": "Dolores",
+                    "itemDescription": "Premier healer offering substantial healing and support, crucial for sustaining teams in challenging encounters"
+                },
+                {
+                    "itemName": "Elowyn",
+                    "itemDescription": "Top-tier healer with extensive healing capabilities and support skills, enhancing team survivability"
+                },
+                {
+                    "itemName": "Beelzebub",
+                    "itemDescription": "Powerful mage with extensive AoE damage and utility, effective in clearing waves and controlling the battlefield"
+                },
+                {
+                    "itemName": "Ingrid",
+                    "itemDescription": "A legendary mage, who can switch between Solar Mode for AoE attacks and Stellar Mode for single-target damage, making her highly adaptable in various combat scenarios"
+                },
+                {
+                    "itemName": "Hatssut",
+                    "itemDescription": "Elite marksman with high damage and utility, crucial for Gear Raid III and other challenging content"
+                },
+                {
+                    "itemName": "Iovar",
+                    "itemDescription": "Top-tier marksman with significant damage potential and versatility, effective across multiple game modes"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Arrogance",
+                    "itemDescription": "Strong fighter with reliable damage output and utility, suitable for various team compositions"
+                },
+                {
+                    "itemName": "Elysia",
+                    "itemDescription": "Versatile fighter with good damage and support abilities, effective in multiple scenarios"
+                },
+                {
+                    "itemName": "Lust",
+                    "itemDescription": "Capable fighter with balanced damage and utility, contributing effectively to team dynamics"
+                },
+                {
+                    "itemName": "Twyla",
+                    "itemDescription": "Reliable fighter with notable damage and crowd control, suitable for various encounters"
+                },
+                {
+                    "itemName": "Valderon",
+                    "itemDescription": "Dependable fighter with solid damage output and versatility across different game modes"
+                },
+                {
+                    "itemName": "Zilitu",
+                    "itemDescription": "Effective fighter with strong single-target damage, particularly valuable in boss encounters"
+                },
+                {
+                    "itemName": "Constance",
+                    "itemDescription": "Reliable defender offering healing, buffs, and blocking capabilities, enhancing team durability"
+                },
+                {
+                    "itemName": "Cyrus",
+                    "itemDescription": "Versatile defender with good range and summoning abilities, providing area damage and survivability"
+                },
+                {
+                    "itemName": "Ghan",
+                    "itemDescription": "Solid defender contributing to team defense and damage, especially effective with healer support"
+                },
+                {
+                    "itemName": "Torodor",
+                    "itemDescription": "Dependable defender with self-reviving capabilities, offering resilience in prolonged battles"
+                },
+                {
+                    "itemName": "Artemis",
+                    "itemDescription": "Competent healer providing healing and rage boosts, enhancing team performance"
+                },
+                {
+                    "itemName": "Laya",
+                    "itemDescription": "Supportive healer with effective healing and buffing abilities, contributing to team sustainability"
+                },
+                {
+                    "itemName": "Anora",
+                    "itemDescription": "Skilled mage with balanced damage and utility, effective in various combat situations"
+                },
+                {
+                    "itemName": "Dahlia",
+                    "itemDescription": "Versatile mage offering good damage and crowd control, suitable for multiple scenarios"
+                },
+                {
+                    "itemName": "Khamet",
+                    "itemDescription": "Reliable mage with strong AoE damage and utility, contributing effectively to team success"
+                },
+                {
+                    "itemName": "Lyra",
+                    "itemDescription": "Capable mage with balanced damage and support abilities, enhancing team dynamics"
+                },
+                {
+                    "itemName": "Solcadens",
+                    "itemDescription": "Effective mage with notable damage output and versatility across different game modes"
+                },
+                {
+                    "itemName": "Lady Alexandra",
+                    "itemDescription": "Strong marksman with high single-target damage and utility, particularly effective in arena settings"
+                },
+                {
+                    "itemName": "Silas",
+                    "itemDescription": "Versatile marksman with reliable damage output and utility, suitable for various encounters"
+                },
+                {
+                    "itemName": "Hex",
+                    "itemDescription": "Competent marksman dealing magic damage with good range, effective against various enemy types"
+                },
+                {
+                    "itemName": "Kai",
+                    "itemDescription": "Reliable marksman with AoE damage, essential for Gear Raid III and other challenging content"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Deimos",
+                    "itemDescription": "Fighter whose damage scales with max HP, useful in specific scenarios like Guild Boss battles"
+                },
+                {
+                    "itemName": "Gisele",
+                    "itemDescription": "Fighter with decent damage and utility, though outshined by higher-tier heroes"
+                },
+                {
+                    "itemName": "Captain Reve",
+                    "itemDescription": "Defender offering crowd control and damage, though availability is limited to events"
+                },
+                {
+                    "itemName": "King Harz",
+                    "itemDescription": "Defender capable of tanking effectively, performing well when supported by a strong team"
+                },
+                {
+                    "itemName": "Carnelian",
+                    "itemDescription": "Healer providing healing and rage boosts, enhancing team performance"
+                },
+                {
+                    "itemName": "Eunomia",
+                    "itemDescription": "Supportive healer with effective healing and buffing abilities, contributing to team sustainability"
+                },
+                {
+                    "itemName": "Abyzou",
+                    "itemDescription": "Mage with unique mechanics, requiring investment to maximize potential"
+                },
+                {
+                    "itemName": "Eona",
+                    "itemDescription": "Mage offering good area magic damage, serving as a strong carry in early to mid-game stages"
+                },
+                {
+                    "itemName": "Alaura",
+                    "itemDescription": "Marksman with invisibility, providing versatility in challenging areas and specific raids"
+                },
+                {
+                    "itemName": "Calypso",
+                    "itemDescription": "Marksman who builds up damage over time, excelling in sustained single-target encounters"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Krodor",
+                    "itemDescription": "Defender lacking scalability and effectiveness in later stages, often replaced by stronger options"
+                },
+                {
+                    "itemName": "Aveline",
+                    "itemDescription": "Defender with some stun capabilities but overshadowed by more effective defenders"
+                },
+                {
+                    "itemName": "Lili",
+                    "itemDescription": "Healer with limited single-target healing and minimal additional utility, making her less viable"
+                },
+                {
+                    "itemName": "Nazeem",
+                    "itemDescription": "Mage with a mixed kit that doesn't excel in any particular area, resulting in limited effectiveness"
+                },
+                {
+                    "itemName": "Osiren",
+                    "itemDescription": "Mage whose design limitations hinder performance, making him less practical in most scenarios"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+  "fileName": "anime-saga.json",
+  "title": "Anime Saga Tier List",
+  "description": "",
+  "heading": "Anime Saga Tier List",
+  "introText": "",
+  "datePublished": "2025-05-15",
+  "dateModified": "2025-05-15",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Frierin",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Zid",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Chainsaw",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Rohan",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Zoru",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Remu",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Doma",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Okorun",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Inos",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Mochi",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Vogita",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Nezu",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Sake",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Agony",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Sanjo",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Ichigan",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Itaduro",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Tanjigo",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Roku",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Usoap",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Noroto",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        },
+        {
+          "itemName": "Luffo",
+          "itemDescription": "",
+          "itemImage": "",
+          "itemIcon": ""
+        }
+      ]
+    }
+  ]
+}

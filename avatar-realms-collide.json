@@ -1,0 +1,94 @@
+{
+	"fileName": "avatar-realms-collide.json",
+	"title": "Avatar: Realms Collide Tier List",
+	"description": "Comprehensive tier list of heroes in \"Avatar: Realms Collide,\" categorized into S, A, B, and C Tiers with detailed descriptions for each.",
+	"heading": "Avatar: Realms Collide Tier List",
+	"introText": "Comprehensive tier list of heroes in \"Avatar: Realms Collide,\" categorized into S, A, B, and C Tiers with detailed descriptions for each.",
+	"datePublished": "2025-03-19",
+	"dateModified": "2025-03-19",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Bumi",
+					"itemDescription": "A legendary Air Bender known for his exceptional strength and combat skills, making him a top-tier hero"
+				},
+				{
+					"itemName": "Azula",
+					"itemDescription": "A formidable Fire Bender with high damage output and a self-sustaining rage mechanism, positioning her as a powerhouse in battles"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Aang",
+					"itemDescription": "The iconic Air Bender Avatar who, while versatile and accessible early in the game, offers balanced abilities suitable for various team compositions"
+				},
+				{
+					"itemName": "Kyoshi",
+					"itemDescription": "A legendary Earth Bender recognized for her strength, especially valuable until other top-tier Earth heroes like Kuvira and Lin are introduced"
+				},
+				{
+					"itemName": "Uncle Iroh",
+					"itemDescription": "A legendary Fire Bender whose ability to reduce enemy HP makes him a strategic asset beyond just defensive roles"
+				},
+				{
+					"itemName": "Korra",
+					"itemDescription": "A legendary Water Bender with healing capabilities, though she requires pairing with heroes that enhance regular attacks to maximize her potential"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Borte",
+					"itemDescription": "An Epic Air Bender with commendable abilities, offering solid support in various scenarios"
+				},
+				{
+					"itemName": "Toph",
+					"itemDescription": "An Epic Earth Bender known for her defensive prowess and crowd control abilities, making her a reliable team member"
+				},
+				{
+					"itemName": "Suki",
+					"itemDescription": "An Epic Earth Bender who excels as a support hero, particularly effective in garrison roles"
+				},
+				{
+					"itemName": "Asami Sato",
+					"itemDescription": "An Epic Fire Bender with dynamic skills, providing valuable support and versatility in battles"
+				},
+				{
+					"itemName": "Zuko",
+					"itemDescription": "An Epic Fire Bender with decent abilities, though his specialization against specific enemies may limit his versatility"
+				},
+				{
+					"itemName": "Sokka",
+					"itemDescription": "An Epic Water Bender effective in debuffing enemies and generating rage, fitting well with various team compositions"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Tenzin",
+					"itemDescription": "An Epic Air Bender who currently lacks strong synergies, resulting in underwhelming performance"
+				},
+				{
+					"itemName": "Teo",
+					"itemDescription": "An Epic Earth Bender with a siege-focused kit that doesn't align well with his overall capabilities, limiting his effectiveness"
+				},
+				{
+					"itemName": "Katara",
+					"itemDescription": "An Epic Water Bender useful in early gameplay, especially for PvE farming, but lacks utility in later stages"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,118 @@
+{
+  "fileName": "holocure.json",
+  "title": "HoloCure Tier List",
+  "description": "Explore our comprehensive HoloCure tier list, categorizing characters from S to C Tier with detailed descriptions to help you choose the optimal idols for your gameplay. In HoloCure, selecting the right characters is essential for success. Below is a tier list categorizing characters from S to C Tier, along with brief descriptions of their abilities and strengths.",
+  "heading": "HoloCure Tier List",
+  "introText": "Explore our comprehensive HoloCure tier list, categorizing characters from S to C Tier with detailed descriptions to help you choose the optimal idols for your gameplay. In HoloCure, selecting the right characters is essential for success. Below is a tier list categorizing characters from S to C Tier, along with brief descriptions of their abilities and strengths.",
+  "datePublished": "2024-11-15",
+  "dateModified": "2024-11-15",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "IRyS",
+          "itemDescription": "Possesses the \"Nephilim Blast\" as her starting weapon, which has been adjusted in Version 0.5 to shoot in multiple directions, enhancing its usability. Her skills, such as \"Half Angel,\" \"Half Demon,\" and \"Hope,\" provide significant buffs, making her formidable in combat"
+        },
+        {
+          "itemName": "Yuzuki Choco",
+          "itemDescription": "Starts with the \"Love Needle,\" a multishot weapon. Her skills include \"Nurse,\" which allows heals to become critical, \"Chocotto Cooking,\" and \"Demon Whisper,\" offering a blend of offensive and supportive abilities"
+        },
+        {
+          "itemName": "Nanashi Mumei",
+          "itemDescription": "Wields the \"Bird Feather,\" a multishot weapon. Her skills, such as \"Friend,\" \"Civilization,\" and \"Bloodthirsty,\" along with her special \"True Horror,\" which grants temporary invincibility, make her a versatile and powerful character"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Nakiri Ayame",
+          "itemDescription": "Equipped with \"Dual Katana,\" a melee weapon. Her skills include \"Nakirium,\" \"Lady of Oni,\" and \"Ayame Defense Field,\" providing a balance of offense and defense"
+        },
+        {
+          "itemName": "Sakura Miko",
+          "itemDescription": "Uses \"Sakura Gohei,\" a melee weapon. Her skills, such as \"Elite,\" \"Baby Language,\" and \"Eroge Hero,\" along with her special \"Demon Lord’s Domain,\" make her beginner-friendly with strong area-of-effect damage"
+        },
+        {
+          "itemName": "Ceres Fauna",
+          "itemDescription": "Starts with \"Nature Shield,\" a multishot weapon. Her skills include \"Sapling,\" \"Guardian Tree,\" and \"Whisperer,\" offering healing and defensive capabilities"
+        },
+        {
+          "itemName": "Tsukomo Sana",
+          "itemDescription": "Wields \"Orbit,\" a melee weapon. Her skills, such as \"Gravity,\" \"Astrology,\" and \"Speaker Of Space,\" provide high damage and crowd control. \nNinomae Ina’nis: Equipped with \"Summon Tentacle,\" a melee weapon. Her skills include \"The Ancient One,\" \"The Void,\" and \"The Forbidden Wah,\" offering debuffs and area control"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Hoshimachi Suisei",
+          "itemDescription": "Uses \"Axe Swing,\" a melee weapon. Her skills, such as \"Suicopath,\" \"Stellar,\" and \"Blocks Master,\" focus on critical damage"
+        },
+        {
+          "itemName": "Takanashi Kiara",
+          "itemDescription": "Starts with \"Phoenix Sword,\" a melee weapon. Her skills include \"Phoenix Shield,\" \"Trailblazer,\" and \"Dancer,\" providing mobility and offensive buffs"
+        },
+        {
+          "itemName": "Aki Rosenthal",
+          "itemDescription": "Wields \"Aik,\" a multishot weapon. Her skills, such as \"Belly Dancing,\" \"Mukirose,\" and \"Aroma Therapy,\" offer healing and crowd control"
+        },
+        {
+          "itemName": "Calliope Mori",
+          "itemDescription": "Equipped with \"Scythe Swing,\" a melee weapon. Her skills include \"The Rapper,\" \"Death,\" and \"Work-a-holic,\" focusing on attack power and health recovery"
+        },
+        {
+          "itemName": "Oozara Subaru",
+          "itemDescription": "Uses \"Baseball Pitch,\" a ranged weapon. Her skills, such as \"Duck Whisper,\" \"Sunny Optimism,\" and \"Oozora Police,\" provide buffs and crowd control"
+        },
+        {
+          "itemName": "Roboco-san",
+          "itemDescription": "Starts with \"Hi-Spec Pistol,\" a multishot weapon. Her skills include \"Hi-Level,\" \"Battery Charged,\" and \"Robo-Discharge,\" offering versatility in combat"
+        },
+        {
+          "itemName": "Murasaki Shion",
+          "itemDescription": "Wields \"Murasaki Bolt,\" a multishot weapon. Her skills, such as \"Cheeky Brat,\" \"Black Magic,\" and \"Magic Garlic,\" provide offensive and defensive capabilities"
+        },
+        {
+          "itemName": "Akai Haato",
+          "itemDescription": "Equipped with \"Red Heart,\" a multishot weapon. Her skills include \"Coexistence,\" \"Purity And Insanity,\" and \"Worldwide Strongest Idol,\" offering a mix of offense and defense"
+        },
+        {
+          "itemName": "Tokino Sora",
+          "itemDescription": "Uses \"Bright Star,\" a multishot weapon. Her skills, such as \"Ankimo,\" \"Idol Healing,\" and \"You’re The Enemy, Then,\" provide healing and buffs"
+        },
+        {
+          "itemName": "Gawr Gura",
+          "itemDescription": "Starts with \"Trident Thrust,\" a melee weapon. Her skills include \"Short Height,\" \"Power of Atlantis,\" and \"Shark Bite,\" offering high damage and survivability"
+        },
+        {
+          "itemName": "Minato Aqua",
+          "itemDescription": "Wields \"Cleaning Broom,\" a melee weapon. Her skills, such as \"Klutz,\" \"Sololive,\" and \"Cleaning Maid,\" provide buffs and crowd control"
+        },
+        {
+          "itemName": "Hakos Baelz",
+          "itemDescription": "Equipped with \"Play Dice,\" a multishot weapon. Her skills include \"Down Under,\" \"CRATical Hit,\" and \"RatNG,\" focusing on critical hits and randomness"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Ouro Kronii",
+          "itemDescription": "Uses \"Clock Hands,\" a melee weapon. Her skills, such as \"Kroniicopter,\" \"Time Bubble,\" and \"Perfection,\" offer time-based abilities"
+        },
+        {
+          "itemName": "Yozora Mel",
+          "itemDescription": "Starts with \"Kapu Kapu,\" a melee weapon. Her skills include \"Acerola Juice,\" \"Genius Vampire,\" and \"Mel Mel Cooking,\" providing healing and buffs"
+        }
+      ]
+    }
+  ]
+}

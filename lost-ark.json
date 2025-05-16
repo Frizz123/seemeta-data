@@ -1,0 +1,82 @@
+{
+	"fileName": "lost-ark.json",
+	"title": "Lost Ark Tier List",
+	"description": "This tier list is based on the current meta and may change as the game evolves. It also takes into account both PvE and PvP content.",
+	"heading": "Lost Ark Tier List",
+	"introText": "This tier list is based on the current meta and may change as the game evolves. It also takes into account both PvE and PvP content.",
+	"datePublished": "2024-05-30",
+	"dateModified": "2024-05-30",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Sorceress",
+					"itemDescription": "The Sorceress is one of the highest damage dealers in the game, and she has a good amount of range and AoE skills. She is also relatively easy to learn, but she can be squishy if you're not careful"
+				},
+				{
+					"itemName": "Berserker",
+					"itemDescription": "The Berserker is a melee DPS class that is known for his high damage output and berserker mode. He is a bit more difficult to learn than some other classes, but he can be very rewarding if you master him"
+				},
+				{
+					"itemName": "Artillerist",
+					"itemDescription": "The Artillerist is a ranged DPS class that deals high damage with his bombs and grenades. He is also very mobile, which makes him a good choice for players who like to avoid taking damage"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Wardancer",
+					"itemDescription": "The Wardancer is a support class that can also deal decent damage. She is a good choice for players who want to support their team while still being able to contribute to the fight"
+				},
+				{
+					"itemName": "Paladin",
+					"itemDescription": "The Paladin is another support class that is known for his survivability and crowd control abilities. He is a good choice for players who want to keep their team alive"
+				},
+				{
+					"itemName": "Gunslinger",
+					"itemDescription": "The Gunslinger is a ranged DPS class that deals damage with a variety of guns. She is a bit more difficult to learn than some other classes, but she can be very rewarding if you master her"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Scrapper",
+					"itemDescription": "The Scrapper is a melee DPS class that is known for her high damage output and mobility. She is a bit more difficult to learn than some other classes, but she can be very rewarding if you master her"
+				},
+				{
+					"itemName": "Destroyer",
+					"itemDescription": "The Destroyer is a melee DPS class that is known for his high damage output and tankiness. He is a bit slow and immobile, but he can take a lot of punishment"
+				},
+				{
+					"itemName": "Deathblade",
+					"itemDescription": "The Deathblade is a melee DPS class that is known for her high burst damage and mobility. She is a bit squishy, but she can deal a lot of damage in a short amount of time"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Machinist",
+					"itemDescription": "The Machinist is a ranged DPS class that deals damage with a variety of gadgets. He is a bit difficult to learn, and he is not as powerful as some other DPS classes"
+				},
+				{
+					"itemName": "Sharpshooter",
+					"itemDescription": "The Sharpshooter is a ranged DPS class that deals damage with his bow. He is a bit slow and immobile, and he is not as powerful as some other DPS classes"
+				},
+				{
+					"itemName": "Soulfist",
+					"itemDescription": "The Soulfist is a melee DPS class that is known for her unique playstyle. She can switch between two stances, one for dealing damage and one for healing. She is a bit difficult to learn, and she is not as powerful as some other DPS classes"
+				}
+			]
+		}
+	]
+}

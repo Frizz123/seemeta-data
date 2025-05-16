@@ -1,0 +1,94 @@
+{
+	"fileName": "lucky-defense.json",
+	"title": "Lucky Defense Tier List",
+	"description": "Discover the top mythic heroes in Lucky Defense, ranked from S to C Tier, to optimize your gameplay strategy.",
+	"heading": "Lucky Defense Tier List",
+	"introText": "Discover the top mythic heroes in Lucky Defense, ranked from S to C Tier, to optimize your gameplay strategy.",
+	"datePublished": "2024-06-25",
+	"dateModified": "2025-04-10",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Indy",
+					"itemDescription": "Indy boasts incredible versatility, able to function effectively across various scenarios. His ability to generate resources quickly is a game-changer, allowing for sustained gameplay even when dealing with high-pressure levels"
+				},
+				{
+					"itemName": "Bat Man",
+					"itemDescription": "Bat Man is an outstanding damage dealer, capable of inflicting significant damage with minimal investment. His skills scale efficiently, making him an essential unit for many builds"
+				},
+				{
+					"itemName": "King Dian",
+					"itemDescription": "King Dian is a powerhouse, recognized for dealing high damage at crucial points in the game. His synergy with certain characters, like Frog, enhances gameplay versatility and effectiveness"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Lancelot",
+					"itemDescription": "Lancelot’s scaling damage makes him an exceptional character, especially in Hard mode. As he reaches level 12, the damage output becomes formidable, creating a valuable asset for players"
+				},
+				{
+					"itemName": "Kitty Mage",
+					"itemDescription": "The Kitty Mage offers rapid cooldown reduction, enhancing overall team performance. She is particularly valuable early in the game, enabling players to accelerate their strategies"
+				},
+				{
+					"itemName": "Bomba",
+					"itemDescription": "Bomba is effective due to her area-of-effect attacks, which can clear waves of enemies efficiently. Her explosive damage makes her a primary choice in many setups"
+				},
+				{
+					"itemName": "Dragon",
+					"itemDescription": "The Dragon provides a solid mid-game presence, with powerful attacks that can devastate opponents and control the battlefield"
+				},
+				{
+					"itemName": "Coldy",
+					"itemDescription": "Coldy excels in defense and crowd control, making him ideal for protecting the backline. Players appreciate his durability and support capabilities"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Frig Prince",
+					"itemDescription": "Frig Prince stands out for his ability to freeze opponents, creating tactical advantages by controlling the battlefield"
+				},
+				{
+					"itemName": "Blod",
+					"itemDescription": "Blod is a solid damage dealer with decent survivability, helping teams maintain pressure during encounters"
+				},
+				{
+					"itemName": "Vayne",
+					"itemDescription": "Vayne provides excellent versatility and strong on-demand damage, making her a reliable choice for most builds"
+				},
+				{
+					"itemName": "Watt",
+					"itemDescription": "Watt can offer consistent utility through energy generation, which amplifies the functionality of other units"
+				},
+				{
+					"itemName": "Iron Meow",
+					"itemDescription": "Iron Meow is a unique character that provides strategic flexibility, adept in both defense and offense when leveled appropriately"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Mana",
+					"itemDescription": "Mana provides essential resource management tools, allowing players to sustain their builds throughout the game"
+				},
+				{
+					"itemName": "Monopody Man",
+					"itemDescription": "Monopody Man can generate stone, offering critical mid-game resources. His def reduction buffs other attackers like Bat Man effectively"
+				}
+			]
+		}
+	]
+}

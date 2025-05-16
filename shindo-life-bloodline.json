@@ -1,0 +1,114 @@
+{
+	"fileName": "shindo-life-bloodline.json",
+	"title": "Shindo Life Bloodline Tier List",
+	"description": "Explore the ultimate Shindo Life Bloodline tier list, ranking the best and worst bloodlines from S Tier to C Tier, with detailed descriptions of their strengths and abilities.",
+	"heading": "Shindo Life Bloodline Tier List",
+	"introText": "Explore the ultimate Shindo Life Bloodline tier list, ranking the best and worst bloodlines from S Tier to C Tier, with detailed descriptions of their strengths and abilities.",
+	"datePublished": "2024-09-22",
+	"dateModified": "2024-09-22",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "RELL",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Code-Gaiden",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Arahaki-Jokei",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ashura-Shizen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kamaki-Inferno",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Powder",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Aizden",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Raion-Gaiden",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tetsuo-Kaijin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jokei",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Shindai-Akuma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eastwood-Korashi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dio-Senko",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fume",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bruce-Kenichi",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Doom-Shado",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bankai-Inferno",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Octo-Ink",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kokotsu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fizz",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

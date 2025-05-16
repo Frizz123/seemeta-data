@@ -1,0 +1,78 @@
+{
+	"fileName": "heroes-of-crown.json",
+	"title": "Heroes of Crown Tier List",
+	"description": "Heroes of Crown is an idle RPG game with a vast roster of heroes to collect. With so many heroes to choose from, it can be tough to know which ones are the best. That's where this tier list comes in. This list is based on the heroes current performance in the game, and it will be updated regularly as the game evolves.",
+	"heading": "Heroes of Crown Tier List",
+	"introText": "Heroes of Crown is an idle RPG game with a vast roster of heroes to collect. With so many heroes to choose from, it can be tough to know which ones are the best. That's where this tier list comes in. This list is based on the heroes current performance in the game, and it will be updated regularly as the game evolves.",
+	"datePublished": "2024-06-12",
+	"dateModified": "2024-06-12",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Master Dragon - Tang",
+					"itemDescription": "Tang is one of the most powerful heroes in the game. He is a Forest-type Legendary Warrior with a powerful AoE attack that can stun enemies. He is also very durable, making him a great tank for your team"
+				},
+				{
+					"itemName": "Fire Dragon - Nelly Ishtar",
+					"itemDescription": "Nelly Ishtar is another top-tier hero. She is a Fire-type Legendary Assassin with a high attack speed and the ability to deal critical damage. She is also very mobile, making her difficult to pin down"
+				},
+				{
+					"itemName": "Sea Guardian - Seraphine",
+					"itemDescription": "Seraphine is a Water-type Legendary Warrior with a strong AoE attack and the ability to heal her allies. She is also very tanky, making her a great choice for the front line of your team"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Daughter of the Sea - Atargatis",
+					"itemDescription": "Atargatis is a Water-type Epic Mage with a powerful AoE attack that can deal damage and slow enemies. She is also a good healer, making her a versatile hero that can fit into a variety of teams"
+				},
+				{
+					"itemName": "Armored Mech - Omega",
+					"itemDescription": "Omega is a Tech-type Epic Warrior with a strong defense and the ability to taunt enemies. He is also a good damage dealer, making him a well-rounded hero that can contribute to your team in multiple ways"
+				},
+				{
+					"itemName": "Blessed Guardian - Garde",
+					"itemDescription": "Garde is a Light-type Epic Paladin with a strong defense and the ability to heal his allies. He is also a good damage dealer, making him a versatile hero that can fit into a variety of teams"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Might of Partha - Conny",
+					"itemDescription": "Conny is a Forest-type Epic Warrior with a strong AoE attack and the ability to stun enemies. She is also a good damage dealer, making her a solid choice for the front line of your team"
+				},
+				{
+					"itemName": "Eternal Flame - Julius",
+					"itemDescription": "Julius is a Fire-type Epic Mage with a powerful AoE attack that can deal damage and burn enemies. He is also a good damage dealer, making him a solid choice for the back line of your team"
+				},
+				{
+					"itemName": "Endless Storm - Eurus",
+					"itemDescription": "Eurus is a Wind-type Epic Archer with a high attack speed and the ability to deal critical damage. She is also very mobile, making her difficult to pin down"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Fury of Destruction - Morrigan",
+					"itemDescription": "Morrigan is a Dark-type Epic Assassin with a powerful AoE attack that can deal damage and poison enemies. However, she is also very fragile, making her a liability in battle"
+				},
+				{
+					"itemName": "Butcher of Truth - Sabah",
+					"itemDescription": "Sabah is a Light-type Epic Warrior with a strong defense and the ability to counter enemies. However, his damage output is low, making him less effective than other heroes in his class"
+				}
+			]
+		}
+	]
+}

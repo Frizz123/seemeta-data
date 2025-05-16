@@ -1,0 +1,194 @@
+{
+	"fileName": "epic-seven.json",
+	"title": "Epic Seven Tier List",
+	"description": "This is a tier list of the best characters in Epic Seven. The list is divided into S Tier, A Tier, B Tier, and C Tier. The best characters are in S Tier, and the worst characters are in C Tier. The list is based on the characters performance in both PvE and PvP. Please note that this is just a general tier list, and the best characters for you will depend on your playstyle and team composition.",
+	"heading": "Epic Seven Tier List",
+	"introText": "This is a tier list of the best characters in Epic Seven. The list is divided into S Tier, A Tier, B Tier, and C Tier. The best characters are in S Tier, and the worst characters are in C Tier. The list is based on the characters performance in both PvE and PvP. Please note that this is just a general tier list, and the best characters for you will depend on your playstyle and team composition.",
+	"datePublished": "2024-06-12",
+	"dateModified": "2025-02-14",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Arbiter Vildred",
+					"itemDescription": "The fastest farmer in the game, and still a viable PvP unit"
+				},
+				{
+					"itemName": "Briar",
+					"itemDescription": "A powerful nuker who can one-shot most units with the right gear"
+				},
+				{
+					"itemName": "Charles",
+					"itemDescription": "A versatile bruiser who can tank and deal damage"
+				},
+				{
+					"itemName": "Charlotte",
+					"itemDescription": "A strong defense breaker who can also deal good damage"
+				},
+				{
+					"itemName": "Cidd",
+					"itemDescription": "A great all-around unit who can be used in both PvE and PvP"
+				},
+				{
+					"itemName": "Diene",
+					"itemDescription": "A powerful healer and cleanser who is essential for many teams"
+				},
+				{
+					"itemName": "Emilia",
+					"itemDescription": "A strong AoE nuker who can also heal herself and her allies"
+				},
+				{
+					"itemName": "Luna",
+					"itemDescription": "A powerful single-target nuker who can also strip buffs"
+				},
+				{
+					"itemName": "Sez",
+					"itemDescription": "A versatile unit who can be used as a bruiser, nuker, or debuffer"
+				},
+				{
+					"itemName": "Tamarinne",
+					"itemDescription": "A powerful support unit who can provide buffs, debuffs, and healing"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Aisha",
+					"itemDescription": "A strong AoE nuker who is especially effective against Water units"
+				},
+				{
+					"itemName": "Bellona",
+					"itemDescription": "A powerful defense breaker who can also deal good damage"
+				},
+				{
+					"itemName": "Cerise",
+					"itemDescription": "A great crowd control unit who can stun and sleep enemies"
+				},
+				{
+					"itemName": "Corvus",
+					"itemDescription": "A strong single-target nuker who can also dispel buffs"
+				},
+				{
+					"itemName": "Dominiel",
+					"itemDescription": "A powerful support unit who can provide buffs and debuffs"
+				},
+				{
+					"itemName": "General Luna",
+					"itemDescription": "A great tank who can also deal some damage"
+				},
+				{
+					"itemName": "Iseria",
+					"itemDescription": "A powerful support unit who can provide buffs and debuffs"
+				},
+				{
+					"itemName": "Lilias",
+					"itemDescription": "A great tank who can also provide some support"
+				},
+				{
+					"itemName": "Lots",
+					"itemDescription": "A powerful crowd control unit who can silence and stun enemies"
+				},
+				{
+					"itemName": "Sol",
+					"itemDescription": "A strong single-target nuker who can also dispel buffs"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Angelica",
+					"itemDescription": "A good healer who is also fairly tanky"
+				},
+				{
+					"itemName": "Chloe",
+					"itemDescription": "A great support unit for cleave teams"
+				},
+				{
+					"itemName": "Cidd",
+					"itemDescription": "A versatile unit who can be used in both PvE and PvP"
+				},
+				{
+					"itemName": "Dizzy",
+					"itemDescription": "A powerful crowd control unit who can stun and sleep enemies"
+				},
+				{
+					"itemName": "Georgia",
+					"itemDescription": "A good tank who is also fairly versatile"
+				},
+				{
+					"itemName": "Helga",
+					"itemDescription": "A strong single-target nuker who is especially effective against Fire units"
+				},
+				{
+					"itemName": "Isabella",
+					"itemDescription": "A good support unit who can provide buffs and debuffs"
+				},
+				{
+					"itemName": "Judith",
+					"itemDescription": "A strong AoE nuker who is especially effective against Earth units"
+				},
+				{
+					"itemName": "Karin",
+					"itemDescription": "A powerful bruiser who can tank and deal damage"
+				},
+				{
+					"itemName": "Kise",
+					"itemDescription": "A strong single-target nuker who can also dispel buffs"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Achates",
+					"itemDescription": "A decent healer who is not as good as Angelica or Diene"
+				},
+				{
+					"itemName": "Aramin",
+					"itemDescription": "A good single-target nuker who is not as strong as Luna or Sol"
+				},
+				{
+					"itemName": "Armin",
+					"itemDescription": "A decent tank who is not as good as General Luna or Lilias"
+				},
+				{
+					"itemName": "Assassin Cidd",
+					"itemDescription": "A decent PvP unit who is not as good as Briar or Sez"
+				},
+				{
+					"itemName": "Baal",
+					"itemDescription": "A decent AoE nuker who is not as strong as Judith or Luna"
+				},
+				{
+					"itemName": "Basket",
+					"itemDescription": "A decent support unit who is not as good as Iseria or Tamarinne"
+				},
+				{
+					"itemName": "Carmain",
+					"itemDescription": "A decent tank who is not as good as General Luna or Lilias"
+				},
+				{
+					"itemName": "Cermia",
+					"itemDescription": "A decent single-target nuker who is not as strong as Luna or Sol"
+				},
+				{
+					"itemName": "Chaos Inquisitor",
+					"itemDescription": "A decent AoE nuker who is not as strong as Judith or Luna"
+				},
+				{
+					"itemName": "Clarissa",
+					"itemDescription": "A decent crowd control unit who is not as good as Dizzy or Lots"
+				}
+			]
+		}
+	]
+}

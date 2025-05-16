@@ -1,0 +1,106 @@
+{
+  "fileName": "haikyuu-touch-the-dream.json",
+  "title": "Haikyuu Touch the Dream Tier List",
+  "description": "Discover the top styles in 'Volleyball Legends' (formerly 'Haikyuu Legends') with our comprehensive tier list. Learn about each style's strengths and how they can enhance your gameplay.",
+  "heading": "Haikyuu Touch the Dream Tier List",
+  "introText": "Discover the top styles in 'Volleyball Legends' (formerly 'Haikyuu Legends') with our comprehensive tier list. Learn about each style's strengths and how they can enhance your gameplay.",
+  "datePublished": "2024-11-19",
+  "dateModified": "2025-02-18",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Bokuto",
+          "itemDescription": "Bokuto boasts complete block, jump, and spike stats, along with high bump and serve abilities, making them ideal for both smashers and defensive plays"
+        },
+        {
+          "itemName": "Kageyomo",
+          "itemDescription": "Kageyomo excels with a complete set of stats, boasting high block, jump, dive, speed, and serve abilities"
+        },
+        {
+          "itemName": "Oigawa",
+          "itemDescription": "Oigawa possesses complete jump and serve stats, along with very high block and set capabilities, making them suitable for defensive and setting players"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Sanu",
+          "itemDescription": "Sanu offers complete block and spike stats, along with high ratings in jump, dive, set, and bump. However, it has a very low speed stat"
+        },
+        {
+          "itemName": "Kuzee",
+          "itemDescription": "Kuzee possesses a complete jump stat and excels with very high bump, serve, spike, and block abilities; however, their speed is notably low"
+        },
+        {
+          "itemName": "Nichinoya",
+          "itemDescription": "Nichonayo features complete bump and dive stats for strong defense, coupled with good speed and decent jump attributes; however, their serve attribute is poor"
+        },
+        {
+          "itemName": "Yabu",
+          "itemDescription": "Yabu possesses complete jump and speed stats, along with high block, bump, and dive abilities; however, their serve stat is poor"
+        },
+        {
+          "itemName": "Yomomute",
+          "itemDescription": "Yomomute possesses a complete bump stat and high dive and spike attributes"
+        },
+        {
+          "itemName": "Sagafura",
+          "itemDescription": "Sagafura possesses complete speed and bump stats, along with high dive and set capabilities; however, they have poor serve and spike scenarios"
+        },
+        {
+          "itemName": "Uchishima",
+          "itemDescription": "Uchishima possesses complete jump and spike stats, along with very high block and dive numbers; however, their bump ability is low"
+        },
+        {
+          "itemName": "Kosumi",
+          "itemDescription": "Kosumi boasts complete bump and dive stats, along with high jump and set stats; however, their serve is notably poor"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Tsukishima",
+          "itemDescription": "Tsukishima possesses an extremely good jump stat, good block and setting stats, but is extremely slow"
+        },
+        {
+          "itemName": "Azamena",
+          "itemDescription": "Azamena has good jump, serve, and spike abilities, but poor set stats"
+        },
+        {
+          "itemName": "Iwaezeni",
+          "itemDescription": "Iwaezeni features high jump and spike attributes, decent block, speed, and set capabilities, but is bad at diving and bumping the ball"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Ojiri",
+          "itemDescription": "Ojiri possesses good bump, jump, and serve stats but has low setting and spike numbers"
+        },
+        {
+          "itemName": "Kito",
+          "itemDescription": "Kito features high bump, dive, and speed stats; however, their setting and serving stats are poor"
+        },
+        {
+          "itemName": "Hinoto",
+          "itemDescription": "Hinoto maintains equally balanced stats across all departments, yet the style lacks any standout features"
+        },
+        {
+          "itemName": "Yamegushi",
+          "itemDescription": "Yamegushi exhibits high jump, bump, and serve stats, along with decent dive capabilities on defense; nonetheless, they perform poorly in spiking and setting scenarios"
+        }
+      ]
+    }
+  ]
+}

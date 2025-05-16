@@ -1,0 +1,111 @@
+{
+  "fileName": "stellaris.json",
+  "title": "Stellaris DLC Tier List",
+  "description": "",
+  "heading": "Stellaris DLC Tier List",
+  "introText": "",
+  "datePublished": "2025-05-10",
+  "dateModified": "2025-05-10",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Utopia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Federations",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Leviathans",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Toxoids Species Pack",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ancient Relics Story Pack",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Nemesis",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Distant Stars Story Pack",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Aquatics Species Pack",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Overlord",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Plantoids Species Pack",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "MegaCorp",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Apocalypse",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Necroids Species Pack",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Humanoids Species Pack",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Synthetic Dawn Story Pack",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Lithoids",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "First Contact Story Pack",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Astral Planes",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

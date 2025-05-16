@@ -1,0 +1,103 @@
+{
+  "fileName": "axis-blade.json",
+  "title": "Axis Blade Tier List",
+  "description": "",
+  "heading": "Axis Blade Tier List",
+  "introText": "",
+  "datePublished": "2025-05-06",
+  "dateModified": "2025-05-06",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Neo Dragon: Eclipse",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cerberus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Luminance",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "ARC Dragon: Solaris",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Flame Saka",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Infernus",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Blazing Leon",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Storm Shark",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Volcanic Titan",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chronos Thunder",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Ancient Keeper",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Batlord",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kaon",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Gradonia",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Venom Hydra",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Trident",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

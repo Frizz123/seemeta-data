@@ -1,0 +1,135 @@
+{
+	"fileName": "king-god-castle.json",
+	"title": "King God Castle Tier List",
+	"description": "This is a tier list for the game King God Castle. The list is based on my own opinion and experience, and you may find that some heroes are better or worse for you depending on your playstyle and team composition. The heroes are ranked from S Tier (the best) to D Tier (the worst).",
+	"heading": "King God Castle Tier List",
+	"introText": "This is a tier list for the game King God Castle. The list is based on my own opinion and experience, and you may find that some heroes are better or worse for you depending on your playstyle and team composition. The heroes are ranked from S Tier (the best) to D Tier (the worst).",
+	"datePublished": "2024-05-23",
+	"dateModified": "2024-05-23",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Daniel",
+					"itemDescription": "Daniel is one of the most powerful heroes in the game, with a strong AoE attack that can deal a lot of damage to multiple enemies. He is also very durable, making him a great choice for both PvP and PvE"
+				},
+				{
+					"itemName": "Draco",
+					"itemDescription": "Draco is another excellent hero for both PvP and PvE. His ability to summon dragons to fight for him makes him a very versatile hero, and he can deal a lot of damage with his ultimate ability"
+				},
+				{
+					"itemName": "Kirdan",
+					"itemDescription": "Kirdan is a great PvP hero who can stun enemies and deal a lot of damage. He is also very mobile, making him difficult to catch"
+				},
+				{
+					"itemName": "Priya",
+					"itemDescription": "Priya is a great PvE hero who can heal her allies and deal a lot of damage with her ultimate ability. She is also very durable, making her a great choice for tanking damage"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Ace",
+					"itemDescription": "Ace is a great all-around hero who can deal damage, tank damage, and heal his allies. He is a good choice for both PvP and PvE"
+				},
+				{
+					"itemName": "Elara",
+					"itemDescription": "Elara is a great PvP hero who can freeze enemies and deal a lot of damage. She is also very mobile, making her difficult to catch"
+				},
+				{
+					"itemName": "Genie",
+					"itemDescription": "Genie is a great PvE hero who can deal a lot of damage with his ultimate ability. He is also very durable, making him a great choice for tanking damage"
+				},
+				{
+					"itemName": "Luna",
+					"itemDescription": "Luna is a great PvP hero who can silence enemies and deal a lot of damage. She is also very mobile, making her difficult to catch"
+				},
+				{
+					"itemName": "Ronan",
+					"itemDescription": "Ronan is a great PvE hero who can deal a lot of damage with his ultimate ability. He is also very durable, making him a great choice for tanking damage"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Ashley",
+					"itemDescription": "Ashley is a good all-around hero who can deal damage, tank damage, and heal her allies. She is a good choice for both PvP and PvE"
+				},
+				{
+					"itemName": "Cassandra",
+					"itemDescription": "Cassandra is a good PvP hero who can stun enemies and deal a lot of damage. She is also very mobile, making her difficult to catch"
+				},
+				{
+					"itemName": "Hawkins",
+					"itemDescription": "Hawkins is a good PvE hero who can deal a lot of damage with his ultimate ability. He is also very durable, making him a great choice for tanking damage"
+				},
+				{
+					"itemName": "Ingrid",
+					"itemDescription": "Ingrid is a good PvP hero who can silence enemies and deal a lot of damage. She is also very mobile, making her difficult to catch"
+				},
+				{
+					"itemName": "Phoenix",
+					"itemDescription": "Phoenix is a good PvE hero who can deal a lot of damage with his ultimate ability. He is also very durable, making him a great choice for tanking damage"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Emma",
+					"itemDescription": "Emma is a decent all-around hero who can deal damage, tank damage, and heal her allies. However, she is not as good as the other heroes in her class"
+				},
+				{
+					"itemName": "Freya",
+					"itemDescription": "Freya is a decent PvP hero who can stun enemies and deal a lot of damage. However, she is not as good as the other heroes in her class"
+				},
+				{
+					"itemName": "Gandalf",
+					"itemDescription": "Gandalf is a decent PvE hero who can deal a lot of damage with his ultimate ability. However, he is not as good as the other heroes in his class"
+				},
+				{
+					"itemName": "Kira",
+					"itemDescription": "Kira is a decent PvP hero who can silence enemies and deal a lot of damage. However, she is not as good as the other heroes in her class"
+				},
+				{
+					"itemName": "Valkyrie",
+					"itemDescription": "Valkyrie is a decent PvE hero who can deal a lot of damage with her ultimate ability. However, she is not as good as the other heroes in her class"
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Ares",
+					"itemDescription": "Ares is a weak all-around hero who does not excel in any particular area. He is not recommended for either PvP or PvE"
+				},
+				{
+					"itemName": "Hades",
+					"itemDescription": "Hades is a weak PvP hero who does not deal enough damage or have enough utility to be effective. He is not recommended for PvP"
+				},
+				{
+					"itemName": "Hera",
+					"itemDescription": "Hera is a weak PvE hero who does not deal enough damage to be effective. She is not recommended for PvE"
+				},
+				{
+					"itemName": "Loki",
+					"itemDescription": "Loki is a weak PvP hero who does not have enough utility to be effective. He is not recommended for PvP"
+				},
+				{
+					"itemName": "Zeus",
+					"itemDescription": "Zeus is a weak PvE hero who does not deal enough damage to be effective. He is not recommended for PvE"
+				}
+			]
+		}
+	]
+}

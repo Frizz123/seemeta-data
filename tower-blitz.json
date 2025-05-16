@@ -1,0 +1,102 @@
+{
+  "fileName": "tower-blitz.json",
+  "title": "Tower Blitz Tier List",
+  "description": "Explore the Tower Blitz tower tier list, providing detailed rankings and descriptions from S to C tier to optimize your gameplay strategy.",
+  "heading": "Tower Blitz Tier List",
+  "introText": "Explore the Tower Blitz tower tier list, providing detailed rankings and descriptions from S to C tier to optimize your gameplay strategy.",
+  "datePublished": "2025-04-05",
+  "dateModified": "2025-04-05",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Electricizer",
+          "itemDescription": "Offers the largest range and damage among all towers, effective when placed near the end of the map to eliminate approaching enemies"
+        },
+        {
+          "itemName": "Lightbeamer",
+          "itemDescription": "Possesses a powerful death ray capable of destroying most enemies, excelling in crowd control when positioned along straight paths"
+        },
+        {
+          "itemName": "Recon Base",
+          "itemDescription": "Continuously spawns operatives to fight alongside, with both upgrade paths being highly effective; crucial for higher difficulty levels"
+        },
+        {
+          "itemName": "Bugler",
+          "itemDescription": "A support tower that significantly enhances the performance of other towers, essential for Expert mode"
+        },
+        {
+          "itemName": "Sniper",
+          "itemDescription": "An outstanding early-game tower with high piercing damage, remaining useful into mid and late-game stages, particularly in Expert mode"
+        },
+        {
+          "itemName": "Surveyor",
+          "itemDescription": "A versatile tower that can function as both support and damage dealer, valuable throughout the game despite a placement limit of four"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Market",
+          "itemDescription": "Generates in-game currency, especially beneficial in multiplayer settings; the top upgrade path is recommended for profitability"
+        },
+        {
+          "itemName": "Sharpshooter",
+          "itemDescription": "Effective in early-game for eliminating groups of enemies with substantial range, though less effective in Expert mode due to low defense piercing"
+        },
+        {
+          "itemName": "Vulcan",
+          "itemDescription": "A strong mid to late-game tower with versatile upgrade paths, capable of achieving high damage per second and full defense piercing; however, it lacks flying detection"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Businessman",
+          "itemDescription": "Combines money generation with damage dealing, useful in early-game but outclassed by more specialized towers as the game progresses"
+        },
+        {
+          "itemName": "Demolitionist",
+          "itemDescription": "Good for early-game crowd control with high piercing damage but becomes less effective later and cannot detect flying enemies"
+        },
+        {
+          "itemName": "Elite",
+          "itemDescription": "Similar to Vulcan but less versatile, with a favorable bottom upgrade path; hindered by a long cooldown and high cost"
+        },
+        {
+          "itemName": "Mechanic",
+          "itemDescription": "Deploys various turrets, notably Teslas, effective in mid-game but considered cost-inefficient overall"
+        },
+        {
+          "itemName": "Techblade",
+          "itemDescription": "A melee tower capable of handling groups and tanky enemies in early-game; limited by small range and slow attack speed"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Crossbower",
+          "itemDescription": "Suitable for beginners as an early-game alternative to Slinger, offering long range but low damage, making it obsolete in later stages"
+        },
+        {
+          "itemName": "Freezer",
+          "itemDescription": "Can immobilize fast enemies when paired with high DPS towers but becomes ineffective once enemies develop freeze immunity"
+        },
+        {
+          "itemName": "Gunslinger",
+          "itemDescription": "A melee tower with poor range and low damage, only viable in Normal mode; top upgrade path slightly improves range"
+        }
+      ]
+    }
+  ]
+}

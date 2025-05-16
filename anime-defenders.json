@@ -1,0 +1,114 @@
+{
+	"fileName": "anime-defenders.json",
+	"title": "Anime Defenders Tier List",
+	"description": "Discover the most powerful Anime Defenders in Roblox with this detailed tier list. From S Tier to C Tier, we rank the best characters based on their strength and abilities.\n",
+	"heading": "Anime Defenders Tier List",
+	"introText": "Discover the most powerful Anime Defenders in Roblox with this detailed tier list. From S Tier to C Tier, we rank the best characters based on their strength and abilities.\n",
+	"datePublished": "2024-09-22",
+	"dateModified": "2024-09-22",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Legion Assassin Master",
+					"itemDescription": "Legion Assassin Master is a hybrid unit with solid AoE and DPS. Plus, he is a support that buffs other units’ crit chance by 30%, which is insane"
+				},
+				{
+					"itemName": "The Demon Overlord",
+					"itemDescription": "The Demon Overlord is one of the easiest secrets to get and one of the best bleed units in the game, with a massive full AoE attack. Plus, he can buff other bleed units like Bear King and Curse Prince"
+				},
+				{
+					"itemName": "The Pro Gamer",
+					"itemDescription": "SJW summons enemies he killed with 1/4 HP and has really cheap upgrades, making him capable of solo carrying you through most game content"
+				},
+				{
+					"itemName": "Solar Overlord",
+					"itemDescription": "Solar Overlord takes time to ramp up, but once he does, he becomes one of the best burn units in Anime Defenders. Still, others, like the Dragon Mage, outperform it by a lot on short modes"
+				},
+				{
+					"itemName": "Skull Vindicator",
+					"itemDescription": "Skull Vindicator has a huge line AoE attack that channels for most of its cooldown, making his SPA significantly lower than indicated by his stats. His high DPS, extremely high range, and four placement count make him a pretty solid ground unit"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Legion Veteran (Max)",
+					"itemDescription": "Legion Veteran (Max) is a support that can buff other units’ range and deal solid damage in a wide AoE. However, he’s not as good as secrets or other exclusive units regarding DPS"
+				},
+				{
+					"itemName": "Chance King",
+					"itemDescription": "Hakari is a unit with an amazing range and huge AoE. However, he can only target the ground, and his DPS is meh"
+				},
+				{
+					"itemName": "Expert Sharpshooter",
+					"itemDescription": "Expert Sharpshooter is an okayish hill unit with an active that can really help with bosses. However, it isn’t enough to make her more viable than any of the meta hybrid units"
+				},
+				{
+					"itemName": "Crimson Demon Ninja",
+					"itemDescription": "Crimson Demon Ninja is Natsu you got off of Temu. Both his base and DoT DPSs are lower. Still, he isn’t as bad as Ant King or Esper"
+				},
+				{
+					"itemName": "Celestial Qi Master",
+					"itemDescription": "Celestial Qi Master is a pretty respectable full AoE DPS mythic. Consider it a much better version of Carp/Elf that can compete with other meta mythics"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Champion Marksman",
+					"itemDescription": "Champion Marksman is pretty underwhelming, both evo and unevo. However, it is a bit better than Blazing Soulmaster, as it’s a hybrid and has a better range"
+				},
+				{
+					"itemName": "Darkness King",
+					"itemDescription": "Darkness King has a massive full AoE attack when fully upgraded. However, his overall DPS is relatively low compared to other top-tier secrets, and he doesn’t offer any other utility"
+				},
+				{
+					"itemName": "Slime Spirit Queen",
+					"itemDescription": "Overall, Slime Spirit Queen might be among the weakest secrets in Anime Defenders. Its DPS and utility are just not enough to make it worth getting. The only thing inflating its price is the fact that it’s so rare"
+				},
+				{
+					"itemName": "Pink Demon Mage",
+					"itemDescription": "Pink Demon Mage is basically an alternative version of Pink Rockstar. She slows enemies in a wide range, can deal damage, and farms gold. However, the gold farm is really lacking compared to Pink Rockstar"
+				},
+				{
+					"itemName": "Bear King (Unlocked)",
+					"itemDescription": "Bear King (Unlocked) is a hybrid, bleed, full AoE unit that is still among the more solid mythics in Anime Defenders. Use him together with The Demon Lord to make the most out of him"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Blazing Grandmaster",
+					"itemDescription": "Blazing Grandmaster has a line AoE attack when fully upgraded that deals somewhat respectable damage. However, most other end-game units outperform it by a large margin"
+				},
+				{
+					"itemName": "Warrior Queen",
+					"itemDescription": "Warrior Queen is a full AoE map-wipe unit. I wouldn’t consider her absolute meta because, besides damage, she doesn’t offer much. Still, she is good as a replacement for Elf/Carp"
+				},
+				{
+					"itemName": "Water Grandmaster",
+					"itemDescription": "Even though he can only target ground, Giyu is fairly strong. He has a massive AoE attack, relatively low SPA, and high base damage. However, the lack of utility cripples him"
+				},
+				{
+					"itemName": "Queen Swordmaster",
+					"itemDescription": "Even when evolved, Queen Swordmaster is still fairly underwhelming. Her lack of utility and no full AoE are just crippling. However, she is cheap to upgrade and place, making her solid as a starter"
+				},
+				{
+					"itemName": "Bionic Machine (Full Power)",
+					"itemDescription": "Bionic Machine (Full Power) is a fairly mediocre hill DPS that has okay burn and extra crit on his passive. However, there are so many other mythics that outperform it"
+				}
+			]
+		}
+	]
+}

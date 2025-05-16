@@ -1,0 +1,99 @@
+{
+    "fileName": "grand-summoners.json",
+    "title": "Grand Summoners Tier List",
+    "description": "This is a tier list for the mobile game Grand Summoners. The list is divided into tiers from S to D, with S Tier being the best and D Tier being the worst.",
+    "heading": "Grand Summoners Tier List",
+    "introText": "This is a tier list for the mobile game Grand Summoners. The list is divided into tiers from S to D, with S Tier being the best and D Tier being the worst. The units are ranked based on their overall performance in the game, including their damage output, survivability, and support skills. Please note that this is just a sample tier list and there are many other viable units in the game. The best way to find the right units for you is to experiment and find what works best for your playstyle.",
+    "datePublished": "2024-05-17",
+    "dateModified": "2024-05-17",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "War Hero Fen",
+                    "itemDescription": "Fen is one of the most powerful units in the game, with a high damage output, great survivability, and a versatile skillset. She is a must-have for any team"
+                },
+                {
+                    "itemName": "Shirou Emiya",
+                    "itemDescription": "Shirou is another top-tier unit with a powerful nuke and a great support skill. He is a great choice for both physical and magic teams"
+                },
+                {
+                    "itemName": "Emperor Isliid",
+                    "itemDescription": "Isliid is a new unit who has quickly risen to the top of the tier list. He has a unique skillset that allows him to deal massive damage to both single targets and groups of enemies"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Priscilla (Valentines)",
+                    "itemDescription": "Priscilla is a limited-time unit who is one of the best healers in the game. She also has a great support skill that can boost the attack and defense of her allies"
+                },
+                {
+                    "itemName": "Rin & Luvia (Fate)",
+                    "itemDescription": "Rin & Luvia are a powerful duo unit that can deal massive damage to both physical and magic enemies. They also have a great support skill that can reduce the defense of their enemies"
+                },
+                {
+                    "itemName": "Chloe (Fate)",
+                    "itemDescription": "Chloe is a new unit who is quickly becoming one of the most popular units in the game. She has a high damage output, a great support skill, and a unique ability that allows her to dodge attacks"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Orvell (Fire)",
+                    "itemDescription": "Orvell is a powerful fire unit with a high damage output and a great support skill. He is a great choice for fire teams"
+                },
+                {
+                    "itemName": "Kirisame",
+                    "itemDescription": "Kirisame is a new unit who is quickly becoming one of the most popular units in the game. She has a high damage output, a great support skill, and a unique ability that allows her to ignore enemy defense"
+                },
+                {
+                    "itemName": "Demon Edge Berwick",
+                    "itemDescription": "Berwick is a powerful dark unit with a high damage output and a great support skill. He is a great choice for dark teams"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Sanstone",
+                    "itemDescription": "Sanstone is a new unit who is a solid all-around unit with good damage output, survivability, and support skills. She is a great choice for teams that need a bit of everything"
+                },
+                {
+                    "itemName": "Charlotte",
+                    "itemDescription": "Charlotte is a powerful physical unit with a high damage output. However, she is somewhat lacking in survivability and support skills"
+                },
+                {
+                    "itemName": "Strength",
+                    "itemDescription": "Strength is a new unit who is a solid physical unit with good damage output and survivability. However, he is somewhat lacking in support skills"
+                }
+            ]
+        },
+        {
+            "name": "D Tier",
+            "data": [
+                {
+                    "itemName": "Gerald",
+                    "itemDescription": "Gerald is a new unit who is a bit underwhelming. He has decent damage output and survivability, but his support skills are lacking"
+                },
+                {
+                    "itemName": "Yoh Asakura",
+                    "itemDescription": "Yoh Asakura is a limited-time unit who is a bit outdated. He still has decent damage output, but his survivability and support skills are lacking"
+                },
+                {
+                    "itemName": "Combat Form Milim",
+                    "itemDescription": "Combat Form Milim is a new unit who is a bit underwhelming. She has decent damage output, but her survivability and support skills are lacking"
+                }
+            ]
+        }
+    ]
+}

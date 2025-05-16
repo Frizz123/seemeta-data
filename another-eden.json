@@ -1,0 +1,88 @@
+{
+	"fileName": "another-eden.json",
+	"title": "Another Eden Tier List",
+	"description": "This is a tier list for the mobile JRPG Another Eden. The list is divided into S and A tiers, with S Tier being the best. The characters are ranked based on their overall performance in the game, including their damage output, support abilities, and versatility.",
+	"heading": "Another Eden Tier List",
+	"introText": "This is a tier list for the mobile JRPG Another Eden. The list is divided into S and A tiers, with S Tier being the best. The characters are ranked based on their overall performance in the game, including their damage output, support abilities, and versatility.",
+	"datePublished": "2024-05-31",
+	"dateModified": "2024-05-31",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Necoco (AS)",
+					"itemDescription": "The best healer in the game, with incredible healing and support skills"
+				},
+				{
+					"itemName": "Azami (AS)",
+					"itemDescription": "The most powerful wind character in the game, with devastating attacks and debuffs"
+				},
+				{
+					"itemName": "Yakumo",
+					"itemDescription": "The only shade character in the game, and one of the most powerful overall. He has great damage, debuffs, and utility"
+				},
+				{
+					"itemName": "Alma (AS)",
+					"itemDescription": "The best water character in the game, with powerful attacks and buffs"
+				},
+				{
+					"itemName": "Iphi",
+					"itemDescription": "The only character with both fire and shade attacks, making her incredibly versatile. She has great damage and debuffs"
+				},
+				{
+					"itemName": "Tsukiha (Alter)",
+					"itemDescription": "The most powerful fire character in the game, with devastating attacks and a unique ability that lets her ignore enemy defenses"
+				},
+				{
+					"itemName": "Alma",
+					"itemDescription": "The best crystal character in the game, with great damage, buffs, and debuffs"
+				},
+				{
+					"itemName": "Aisha",
+					"itemDescription": "The only character with both fire and water attacks, making her very versatile. She has good damage and debuffs"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Colette",
+					"itemDescription": "The best free character in the game, with great damage and support skills"
+				},
+				{
+					"itemName": "Lloyd",
+					"itemDescription": "A powerful fire character with great damage and debuffs"
+				},
+				{
+					"itemName": "Shionne",
+					"itemDescription": "Another powerful fire character with great damage and a unique ability that lets her heal herself"
+				},
+				{
+					"itemName": "Isuka (AS)",
+					"itemDescription": "The best wind support character in the game, with great buffs and debuffs"
+				},
+				{
+					"itemName": "Saki (AS)",
+					"itemDescription": "The best water support character in the game, with great buffs and debuffs"
+				},
+				{
+					"itemName": "Toova (AS)",
+					"itemDescription": "A powerful earth character with great damage and debuffs"
+				},
+				{
+					"itemName": "Elga (AS)",
+					"itemDescription": "Another powerful earth character with great damage and a unique ability that lets her ignore enemy defenses"
+				},
+				{
+					"itemName": "Ruina (AS)",
+					"itemDescription": "The best wind damage dealer in the game, with devastating attacks"
+				}
+			]
+		}
+	]
+}

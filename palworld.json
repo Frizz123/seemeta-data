@@ -1,0 +1,258 @@
+{
+  "fileName": "palworld.json",
+  "title": " Palworld Tier List",
+  "description": "Explore the Palworld Tier List, ranking the best Pals from S Tier to C Tier. Discover which Pals dominate in battle and which are less effective in various roles.",
+  "heading": " Palworld Tier List",
+  "introText": "Explore the Palworld Tier List, ranking the best Pals from S Tier to C Tier. Discover which Pals dominate in battle and which are less effective in various roles.",
+  "datePublished": "2024-10-16",
+  "dateModified": "2024-10-16",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Anubis",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Beakon",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Blazamut",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cawgnito",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Helzephyr",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Orserk",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Pyrin",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Pyrin Noct",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Quivern",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ragnahaw",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Rayhound",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Shadowbe",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Vanwyrm Cryst",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Astegon",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Blazehowl",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Blazehowl Noct",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Boltmane",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cryolinx",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Direhowl",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eikthyrdeer",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Eikthyrdeer Terra",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Elphidran Aqua",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Fenglope",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Incineram",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Incineram Noct",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kelpsea",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kelpsea Ignis",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kitsun",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Arsox",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Azurobe",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bushi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Celaray",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chillet",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Cinnamoth",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dinossom",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dinossom Lux",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dragostrophe",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Elphidran",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Felbat",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Foxcicle",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Galeclaw",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Grintale",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Beegarde",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Bristla",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dazzi",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dumud",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Elizabee",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Gorirat",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Grizzbolt",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ice Kingpaca",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Ice Reptyro",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Katress",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Killamari",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kingpaca",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Leezpunk Ignis",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lunaris",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

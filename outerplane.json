@@ -1,0 +1,338 @@
+{
+	"fileName": "outerplane.json",
+	"title": "Outerplane Tier List",
+	"description": "Discover the best heroes in Outerplane with our tier list. See which heroes are ranked S, A, B, and C tier for maximum efficiency in your gameplay!",
+	"heading": "Outerplane Tier List",
+	"introText": "Discover the best heroes in Outerplane with our tier list. See which heroes are ranked S, A, B, and C tier for maximum efficiency in your gameplay!",
+	"datePublished": "2024-09-24",
+	"dateModified": "2025-03-25",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Eva",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "D. Drakhan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Noa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tamara",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Valentine",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "D. Stella",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Charlotte",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Beth",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eternal",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ame",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "D. Astei",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Drakhan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Astei",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Aer",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dianne",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marian",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Poolside Trickster Regina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dolly",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Veronica",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mene",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Notia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dahlia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mero",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Laplace",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Regina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kappa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "D. Vlada",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tamamo-no-Mae",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Iris",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vlada",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rhona",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Alice",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hanbyul Lee",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Faenan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cindy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Saeran",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tio",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lyla",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lota",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Akari",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kuro",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fatal",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Maxwell",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kate",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ritri",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sterope",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Epsilon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "K",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yuri",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Adelie",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rico",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Parti",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Orox",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Laine",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Naru Kong",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lisha",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Snow",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sofia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Alpha",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lily",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Francesca",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tanya",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Philia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Claire",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Flamberge",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sigma",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Christina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Guizam",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fenrir",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eliza",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Shu",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vera",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pesketh",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Leo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Edelweiss",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

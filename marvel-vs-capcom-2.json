@@ -1,0 +1,98 @@
+{
+	"fileName": "marvel-vs-capcom-2.json",
+	"title": "Marvel vs Capcom 2 Tier List",
+	"description": "Discover the definitive tier list for Marvel vs Capcom 2, detailing the strengths and weaknesses of characters in S Tier, A Tier, B Tier, and C Tier. Learn which characters dominate the game and how they stack up against each other.",
+	"heading": "Marvel vs Capcom 2 Tier List",
+	"introText": "Discover the definitive tier list for Marvel vs Capcom 2, detailing the strengths and weaknesses of characters in S Tier, A Tier, B Tier, and C Tier. Learn which characters dominate the game and how they stack up against each other.",
+	"datePublished": "2024-06-18",
+	"dateModified": "2024-06-18",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Sentinel",
+					"itemDescription": "Incredible mobility and high damage output make Sentinel a top-tier character"
+				},
+				{
+					"itemName": "Storm",
+					"itemDescription": "Versatile character with powerful zoning and rushdown capabilities"
+				},
+				{
+					"itemName": "Magneto",
+					"itemDescription": "Excellent speed and combo potential, making him a formidable opponent"
+				},
+				{
+					"itemName": "Cable",
+					"itemDescription": "Strong projectile game and high damage combos"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Psylocke",
+					"itemDescription": "Great assist character with solid offensive options"
+				},
+				{
+					"itemName": "Doctor Doom",
+					"itemDescription": "Versatile with strong zoning and assist moves"
+				},
+				{
+					"itemName": "Spiral",
+					"itemDescription": "Capable of controlling space and setting up traps"
+				},
+				{
+					"itemName": "Blackheart",
+					"itemDescription": "Powerful zoning and anti-air moves"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Cyclops",
+					"itemDescription": "Balanced character with good offensive and defensive tools"
+				},
+				{
+					"itemName": "Iron Man",
+					"itemDescription": "Strong projectiles and high-damage combos"
+				},
+				{
+					"itemName": "War Machine",
+					"itemDescription": "Similar to Iron Man, with a focus on zoning and combo potential"
+				},
+				{
+					"itemName": "Iceman",
+					"itemDescription": "Good projectile game but lacks mobility"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Hulk",
+					"itemDescription": "High damage but lacks mobility and versatility"
+				},
+				{
+					"itemName": "Rogue",
+					"itemDescription": "Decent offensive tools but struggles against top-tier characters"
+				},
+				{
+					"itemName": "Venom",
+					"itemDescription": "Unique move set but lacks the tools to compete with higher tiers"
+				},
+				{
+					"itemName": "Juggernaut",
+					"itemDescription": "High health and damage but slow and easy to counter"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+  "fileName": "the-time-of-ninja.json",
+  "title": "The Time of Ninja elements Tier List",
+  "description": "Discover the definitive tier list for \"The Time of Ninja\" elements, ranking from S to C Tier. Learn about each element's unique abilities and choose the best fit for your gameplay style.",
+  "heading": "The Time of Ninja elements Tier List",
+  "introText": "Discover the definitive tier list for \"The Time of Ninja\" elements, ranking from S to C Tier. Learn about each element's unique abilities and choose the best fit for your gameplay style.",
+  "datePublished": "2025-02-23",
+  "dateModified": "2025-02-23",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Ice Element",
+          "itemDescription": "High AoE potential and excellent DPS make it a versatile pick for both 1v1 duels and group fights, with low cooldown skills that are easy to aim"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Fire Element",
+          "itemDescription": "It boasts great range and burst damage along with a balanced mix of AoE and burst attacks, synergizing well with top Family & Clan buffs like Red Eye"
+        },
+        {
+          "itemName": "Wind Element",
+          "itemDescription": "Offering a blend of burst and AoE skills plus effective crowd control, it delivers high DPS and defense break capabilities, ideal for Legendary and Fighter families/clans"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Water Element",
+          "itemDescription": "Similar to Wind but with lower DPS, it provides strong crowd control ideal for team support, though its damage output suffers, especially in 1v1s"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Lightning Element",
+          "itemDescription": "Delivers high damage and group crowd control with the ability to stun enemies temporarily, making it good for 1v1 scenarios, but it falls short in team fights"
+        }
+      ]
+    }
+  ]
+}

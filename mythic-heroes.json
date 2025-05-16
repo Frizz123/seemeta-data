@@ -1,0 +1,102 @@
+{
+	"fileName": "mythic-heroes.json",
+	"title": "Mythic Heroes Tier List",
+	"description": "A comprehensive tier list for Mythic Heroes, categorizing characters into S, A, B, and C tiers based on their abilities, strengths, and effectiveness in various game modes.\n\n",
+	"heading": "Mythic Heroes Tier List",
+	"introText": "A comprehensive tier list for Mythic Heroes, categorizing characters into S, A, B, and C tiers based on their abilities, strengths, and effectiveness in various game modes.\n\n",
+	"datePublished": "2024-09-20",
+	"dateModified": "2024-09-20",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Dangun",
+					"itemDescription": "Refreshes allies' active skills and grant them a shield, parry boost for allies"
+				},
+				{
+					"itemName": "Amaterasu",
+					"itemDescription": "Inflicts DMG, reduces enemy's accuracy, reflects DMG Magic DMG, Debuff, Reflects DMSG"
+				},
+				{
+					"itemName": "Freyja",
+					"itemDescription": "Ultimate skill inflicts DMG. Active skill increases the ATK SPD of tank and fighter heroes"
+				},
+				{
+					"itemName": "Odin",
+					"itemDescription": "Ultimate prevents enemies from using their ultimate for 4 seconds(level up to 4 for 7 seconds). Active skill increases the target's DMG taken and reduces the target's CRIT chance. Inflict DMG, generates a shield"
+				},
+				{
+					"itemName": "Archimedes",
+					"itemDescription": "High ATK-SPD. Decreases target's DEF with passive. Inflict DMG"
+				},
+				{
+					"itemName": "Hela",
+					"itemDescription": "Ultimate creates a dark synergy totem for a few seconds; during this tie, she averages all allies' current health and percentage and recovers 2%* of their max health"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Lucifer",
+					"itemDescription": "An exceptionally powerful damage dealer who excels at single-target burst damage and overall destruction in battles"
+				},
+				{
+					"itemName": "Athena",
+					"itemDescription": "A versatile tank with exceptional defensive capabilities, providing team-wide protection and shielding"
+				},
+				{
+					"itemName": "Idun",
+					"itemDescription": "A top-tier healer with unparalleled healing capabilities and support for her allies, making her essential for longevity in team compositions"
+				},
+				{
+					"itemName": "Lilith",
+					"itemDescription": "A strong mage with excellent AoE damage and crowd-control skills, capable of controlling large groups of enemies effectively"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Hades",
+					"itemDescription": "A high-impact assassin with life-steal and crowd-control abilities, great for sustaining in combat"
+				},
+				{
+					"itemName": "Anubis",
+					"itemDescription": "A well-rounded tank with useful buffs and debuffs, strong defensively but lacking compared to the top-tier tanks"
+				},
+				{
+					"itemName": "Zeus",
+					"itemDescription": "A balanced mage with solid damage output and decent crowd control, performing well in most situations but lacking extreme specialization"
+				},
+				{
+					"itemName": "Persephone",
+					"itemDescription": "A decent support hero with useful buffs, but her performance tends to drop off in the late game compared to others"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Lu Bu",
+					"itemDescription": "A below-average damage dealer whose skills are outclassed by better DPS options in higher tiers"
+				},
+				{
+					"itemName": "Tamamo no Mae",
+					"itemDescription": "A solid DPS mage who excels in continuous damage, particularly in PvE scenarios, but struggles in more fast-paced battles.\nGanjiang & Moye: A solid support duo with decent healing and moderate buffs, useful but not game-changing in harder content"
+				},
+				{
+					"itemName": "Cleopatra",
+					"itemDescription": "Offers decent crowd control but lacks the firepower or utility to stand out among higher-tier heroes"
+				}
+			]
+		}
+	]
+}

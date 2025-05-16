@@ -1,0 +1,218 @@
+{
+	"fileName": "diablo-4-build.json",
+	"title": "Diablo 4 Build Tier List",
+	"description": "This Diablo 4 Season 6 build tier list ranks the best builds for each class, taking into account their performance in solo play, group play, and speedfarming. It includes S Tier, A Tier, B Tier, C Tier, and D Tier builds.",
+	"heading": "Diablo 4 Build Tier List",
+	"introText": "This Diablo 4 Season 6 build tier list ranks the best builds for each class, taking into account their performance in solo play, group play, and speedfarming. It includes S Tier, A Tier, B Tier, C Tier, and D Tier builds.",
+	"datePublished": "2024-05-13",
+	"dateModified": "2024-05-13",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Necromancer: Omega Blood Surge",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Lightning Spear - Mekuna's Shockuna",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rogue: Dance of Knives",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Druid: Landslide Season 6",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Barbarian: The Mightiest Throw",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rogue: Flurry",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Spiritborn: Quill Volley - Kepeleke",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rogue: Victimize Barrage",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Necromancer: Alpha Blood Wave",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Necromancer: Ring of Power Minions",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Spiritborn: Touch of Death - Omae Wa Mou Shindeiru",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Frozen Orb - Jon Snow",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Spiritborn: Payback",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Necromancer: Machine Gun Bone Splinters",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Druid: The Large Petting Zoo - Wolves",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rogue: Death Trap",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Druid: Boulder Bear (Very Strong)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Druid: Lightning Turret (Insane AoE)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rogue: Heat-Seeking Heartseeker",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Firebolt - Flameweavers",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Chain Lightning - Emperor Palpatine",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Blizzard - King of the North",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Ball Lightning - Zeus Tank",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Necromancer: Sever - The Shadow Assassin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Barbarian: Death Blow Boss Stomper",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rogue: Combo Rapid Fire",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rogue: Poison Twisting Blades",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Druid: Pulverize - Cocaine Bear",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Spiritborn: Sepazontec - Thunderspike - Armor",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Fireball - Red Wedding",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Druid: Hurricane (AFK Endgame)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Druid: Pulverize (Insane AoE)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Necromancer: Omega Blood Surge",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Spiritborn: Rocksplitter Thorns",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Charged Bolts - Liam Neeson",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Incinerate - Dracarys",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Arc Lash - Verathiel",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Hydra - Hawk Tuah",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Ice Shards - Shard Blaster",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Druid: Stone Burst - Season 6",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Barbarian: Natural Disaster Whirlwind",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Druid: Stormclaw (Melee)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Druid: Tornado - Werenado",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Barbarian: Dragon's Breath Upheaval",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Firewall - Viking Funeral",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sorcerer: Meteor - Armageddon",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

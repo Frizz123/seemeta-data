@@ -1,0 +1,114 @@
+{
+	"fileName": "zenless-zone-zero-character.json",
+	"title": "Zenless Zone Zero (ZZZ) Character Tier List",
+	"description": "Discover the latest Zenless Zone Zero tier list as of March 2025, ranking agents from S Tier to C Tier with detailed descriptions of their abilities and roles.",
+	"heading": "Zenless Zone Zero (ZZZ) Character Tier List",
+	"introText": "Discover the latest Zenless Zone Zero tier list as of March 2025, ranking agents from S Tier to C Tier with detailed descriptions of their abilities and roles.",
+	"datePublished": "2024-07-06",
+	"dateModified": "2025-03-03",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Astra Yao",
+					"itemDescription": "A versatile support character who enhances team performance through off-field mechanics. She provides significant damage and critical damage boosts, simplifies team coordination by triggering Quick Assists, and her Ultimate heals the team while upgrading Quick Assists into Chain Attacks"
+				},
+				{
+					"itemName": "Miyabi",
+					"itemDescription": "A powerful Anomaly unit capable of massive damage with Frostburn and her Basic Attack - Shimotsuki. Equipping the Hailstorm Shrine W-Engine significantly boosts her damage output"
+				},
+				{
+					"itemName": "Caesar",
+					"itemDescription": "A Defense unit who provides strong shields to the party and excels at stunning enemies due to her high Impact. Her shields also grant an attack buff, making her a well-rounded support character"
+				},
+				{
+					"itemName": "Yanagi",
+					"itemDescription": "An Anomaly unit who increases Disorder damage dealt by all squad members. She synergizes exceptionally well with other Anomaly units of different attributes"
+				},
+				{
+					"itemName": "Evelyn",
+					"itemDescription": "A powerful Attack unit specializing in dealing substantial damage with her Chain Attacks. Her kit is effective at grouping enemies and taking down bosses"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Burnice",
+					"itemDescription": "An Anomaly unit who excels at inflicting Burn on enemies and providing off-field damage with Afterburn"
+				},
+				{
+					"itemName": "Jane Doe",
+					"itemDescription": "An Anomaly unit with high mobility, dealing significant damage through the Assault Attribute Anomaly. She fits well in Assault-centric teams or those with other Anomaly units of different elements to trigger Disorder"
+				},
+				{
+					"itemName": "Qingyi",
+					"itemDescription": "A proficient Stun unit capable of inflicting substantial Daze with her Basic Attacks. She increases the Stun multiplier through Subjugation and is versatile enough to be included in any team with an Attack unit"
+				},
+				{
+					"itemName": "Lighter",
+					"itemDescription": "A Stun character who can inflict significant Daze and provide Fire and Ice damage buffs to the party. He is best utilized in Fire and Ice teams"
+				},
+				{
+					"itemName": "Zhu Yuan",
+					"itemDescription": "A powerful Attack unit who deals substantial ranged damage with her Enhanced Shotshells via Basic Attacks. Her attacks become particularly potent against stunned enemies, making her ideal when paired with a Stun unit"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Ellen",
+					"itemDescription": "A versatile character who can function both as a DPS and support, depending on team composition"
+				},
+				{
+					"itemName": "Harumasa",
+					"itemDescription": "An Electro Quiver specialist who deploys quivers on the field and activates them using various skills, marking enemies and enhancing his Dash Attack for powerful burst damage"
+				},
+				{
+					"itemName": "Lycaon",
+					"itemDescription": "A Stun unit with a kick-based fighting style, effective at disrupting enemies and providing team support"
+				},
+				{
+					"itemName": "Grace",
+					"itemDescription": "A mechanic who designs and programs heavy machinery, referring to them as her \"children.\" She brings unique utility to the team with her creations"
+				},
+				{
+					"itemName": "Soldier 11",
+					"itemDescription": "The composed leader of Obol Squad, wielding a superheated sword. She has a love for spicy noodles and cats"
+				},
+				{
+					"itemName": "Nicole",
+					"itemDescription": "The founder of the Cunning Hares, struggling to keep her group financially afloat. She offers support capabilities to the team"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Nekomata",
+					"itemDescription": "A burst-type quick-swap main or sub DPS with an extremely agile playstyle, characterized by rapid attacks and large-area AoE"
+				},
+				{
+					"itemName": "Anby",
+					"itemDescription": "A calm and collected young girl, unusually competent and efficient in combat but struggles in other aspects. She attempts to improve her social skills by imitating scenes from popular movies, with little success"
+				},
+				{
+					"itemName": "Anton",
+					"itemDescription": "The sharp-tongued project manager of Belobog Heavy Industries, referring to his wrist-mounted drill as his \"bro.\""
+				},
+				{
+					"itemName": "Piper",
+					"itemDescription": "A small woman who maintains a big rig for the Sons of Calydon. She prefers resting when not actively on the job"
+				}
+			]
+		}
+	]
+}

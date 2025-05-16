@@ -1,0 +1,86 @@
+{
+    "fileName": "type-soul-shikai.json",
+    "title": "Type Soul Shikai Tier List",
+    "description": "Dive into the world of Type Soul Shikai and discover the best weapon to wield in battle! This comprehensive tier list ranks each weapon based on their overall effectiveness, considering factors like damage output, utility, and versatility.",
+    "heading": "Type Soul Shikai Tier List",
+    "introText": "Dive into the world of Type Soul Shikai and discover the best weapon to wield in battle! This comprehensive tier list ranks each weapon based on their overall effectiveness, considering factors like damage output, utility, and versatility. Whether you're a seasoned gamer or just starting your journey, this guide will help you dominate the battlefield with the right weapon by your side.",
+    "datePublished": "2024-05-15",
+    "dateModified": "2024-05-15",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Longsword",
+                    "itemDescription": "The longsword is a versatile weapon that can be used for both offense and defense. It has a long range and can deal a lot of damage. The shikai ability of the longsword, Getsuga Tensho, is a powerful energy blast that can devastate enemies"
+                },
+                {
+                    "itemName": "Dagger",
+                    "itemDescription": "The dagger is a fast and agile weapon that can be used to quickly dispatch enemies. It has a short range, but it makes up for it in speed and power. The shikai ability of the dagger, Shikai: Sode no Shirayuki, allows the user to control ice and snow"
+                },
+                {
+                    "itemName": "Odachi",
+                    "itemDescription": "The odachi is a heavy two-handed sword that is slow but powerful. It has a long range and can deal massive damage. The shikai ability of the odachi, Shikai: Benihime, allows the user to control fire"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Petals",
+                    "itemDescription": "The petals are a ranged weapon that can be used to attack enemies from a distance. They are also very versatile and can be used for a variety of purposes, such as healing and crowd control. The shikai ability of the petals, Shikai: Senbonzakura Kageyoshi, allows the user to control cherry blossoms"
+                },
+                {
+                    "itemName": "Hakuda Gauntlets/Wraps",
+                    "itemDescription": "The Hakuda gauntlets/wraps are a close-quarters combat weapon that can be used to deal a lot of damage in a short amount of time. They are also very versatile and can be used for a variety of purposes, such as blocking and grappling. The shikai ability of the Hakuda gauntlets/wraps, Shikai: Hakushoken, increases the user's strength and speed"
+                },
+                {
+                    "itemName": "Paintbrush",
+                    "itemDescription": "The paintbrush is a versatile weapon that can be used for both offense and defense. It has a short range, but it makes up for it in versatility. The shikai ability of the paintbrush, Shikai: Shigure, allows the user to control water"
+                },
+                {
+                    "itemName": "Twinblade",
+                    "itemDescription": "The twinblade is a fast and agile weapon that can be used to quickly dispatch enemies. It has a short range, but it makes up for it in speed and power. The shikai ability of the twinblade, Shikai: Ashisogi Jizo, allows the user to control poison"
+                },
+                {
+                    "itemName": "Spear",
+                    "itemDescription": "The spear is a ranged weapon that can be used to attack enemies from a distance. It has a long range and can deal a lot of damage. The shikai ability of the spear, Shikai: Hakuryu, allows the user to control lightning"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Dual Swords",
+                    "itemDescription": "The dual swords are a fast and agile weapon that can be used to quickly dispatch enemies. They have a short range, but they make up for it in speed and power. The shikai ability of the dual swords, Shikai: Suzumebachi, allows the user to control insects"
+                },
+                {
+                    "itemName": "Hammer",
+                    "itemDescription": "The hammer is a slow but powerful weapon that can deal a lot of damage in a short amount of time. It has a short range, but it makes up for it in power. The shikai ability of the hammer, Shikai: Hiashigi, allows the user to control earth"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Greatsword",
+                    "itemDescription": "The greatsword is a slow and heavy weapon that can deal a lot of damage in a short amount of time. It has a short range, and it is difficult to use effectively. The shikai ability of the greatsword, Shikai: Zangetsu, allows the user to control shadows"
+                },
+                {
+                    "itemName": "Katana",
+                    "itemDescription": "The katana is a versatile weapon that can be used for both offense and defense. It has a short range, but it is easy to use and effective in close quarters combat. The shikai ability of the katana, Shikai: Sode no Shirayuki, allows the user to control ice and snow"
+                },
+                {
+                    "itemName": "Scythe",
+                    "itemDescription": "The scythe is a ranged weapon that can be used to attack enemies from a distance. It has a long range, but it is difficult to use effectively. The shikai ability of the scythe, Shikai: Nejibana, allows the user to control wind"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+	"fileName": "sologesang.json",
+	"title": "Sologesang Tier List",
+	"description": "Explore the ultimate Sologesang Tier List, categorizing vocal performance pieces from S Tier to C Tier. Discover which pieces require exceptional technical skill and emotional expression, and which are more accessible yet still captivating. Perfect for soloists looking to understand the demands and artistry of different vocal genres.",
+	"heading": "Sologesang Tier List",
+	"introText": "Explore the ultimate Sologesang Tier List, categorizing vocal performance pieces from S Tier to C Tier. Discover which pieces require exceptional technical skill and emotional expression, and which are more accessible yet still captivating. Perfect for soloists looking to understand the demands and artistry of different vocal genres.",
+	"datePublished": "2024-06-25",
+	"dateModified": "2024-06-25",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Opera Arias",
+					"itemDescription": "Exceptional technical skill and emotional expression highly demanding and showcases the peak of vocal artistry"
+				},
+				{
+					"itemName": "Art Songs (Lieder)",
+					"itemDescription": "Requires deep emotional connection and interpretative skills often performed by the most accomplished soloists"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Musical Theatre Solos",
+					"itemDescription": "Balances vocal technique with acting skills highly popular and appreciated for its wide appeal"
+				},
+				{
+					"itemName": "Contemporary Classical Pieces",
+					"itemDescription": "Demands versatility and advanced technique includes modern compositions that challenge traditional vocal styles"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Folk Songs",
+					"itemDescription": "Emphasizes storytelling and cultural expression generally easier to perform but still valued for its emotional resonance"
+				},
+				{
+					"itemName": "Pop Ballads",
+					"itemDescription": "Popular and accessible; requires good vocal control and expressiveness but less technically demanding than higher tiers"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Simple Hymns",
+					"itemDescription": "Easier to perform with straightforward melodies often used in community or amateur settings.\nChildren’s Songs: Simple and accessible for young or novice singers valued for educational purposes and ease of performance"
+				}
+			]
+		}
+	]
+}

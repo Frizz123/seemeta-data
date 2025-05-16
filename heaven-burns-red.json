@@ -1,0 +1,82 @@
+{
+  "fileName": "heaven-burns-red.json",
+  "title": "Heaven Burns Red Tier List",
+  "description": "Discover the definitive Heaven Burns Red tier list, categorizing characters from S to C Tier with detailed descriptions to help you build the ultimate team. In \"Heaven Burns Red,\" assembling a formidable team is crucial for success. Below is a tier list categorizing characters from S to C Tier, along with brief descriptions of their roles and strengths.",
+  "heading": "Heaven Burns Red Tier List",
+  "introText": "Discover the definitive Heaven Burns Red tier list, categorizing characters from S to C Tier with detailed descriptions to help you build the ultimate team. In \"Heaven Burns Red,\" assembling a formidable team is crucial for success. Below is a tier list categorizing characters from S to C Tier, along with brief descriptions of their roles and strengths.",
+  "datePublished": "2024-11-15",
+  "dateModified": "2024-11-15",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Tama Kunimi",
+          "itemDescription": "An exceptional healer capable of reviving DP and providing substantial support to the team"
+        },
+        {
+          "itemName": "Yuki Izumi",
+          "itemDescription": "A powerful breaker with high damage output, capable of reducing enemy defenses and dealing significant area-of-effect damage"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Chie Sugawara",
+          "itemDescription": "A versatile defender who can taunt enemies and debuff their attack, while also dealing respectable damage"
+        },
+        {
+          "itemName": "Mari Satsuki",
+          "itemDescription": "An attacker specializing in ice damage, with skills that enhance her own and allies' ice attacks, making her a valuable asset in ice-based teams"
+        },
+        {
+          "itemName": "Ruka Kayamori",
+          "itemDescription": "A strong single-target damage dealer with high firepower, effective against formidable foes"
+        },
+        {
+          "itemName": "Megumi Aikawa",
+          "itemDescription": "A debuffer with the ability to stun enemies, disrupting their actions and providing strategic advantages in battle"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Seira Sakuraba",
+          "itemDescription": "A hybrid healer and damage dealer, offering party-wide critical hit rate buffs and moderate offensive capabilities"
+        },
+        {
+          "itemName": "Byakko",
+          "itemDescription": "A high-risk, high-reward attacker with powerful offensive skills but lower defensive stats, suitable for aggressive playstyles"
+        },
+        {
+          "itemName": "Miko Tenne",
+          "itemDescription": "A versatile character capable of increasing critical hit rates and debuffing enemy defenses, enhancing overall team performance"
+        },
+        {
+          "itemName": "Yayi Bungo",
+          "itemDescription": "An area-of-effect damage dealer with skills that can decrease enemies' ice defense, though her effectiveness may vary due to reliance on chance"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Karen Asakura",
+          "itemDescription": "A single-target damage dealer with straightforward skills, but lacking the high firepower of higher-tier characters"
+        },
+        {
+          "itemName": "Tsukasa Tojo",
+          "itemDescription": "A damage dealer with buffing abilities, yet overshadowed by more versatile and powerful units in higher tiers"
+        }
+      ]
+    }
+  ]
+}

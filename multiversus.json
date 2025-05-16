@@ -1,0 +1,95 @@
+{
+	"fileName": "multiversus.json",
+	"title": "MultiVersus Tier List",
+	"description": "This is a tier list for the game MultiVersus. The list is divided into five tiers: S-Tier, A-Tier, B-Tier, C-Tier. S-Tier is the highest tier, and C-Tier is the lowest tier. The characters in each tier are ranked based on their overall strength and viability in the current meta. The tier list is intended to be a general guide, and the best character for you may vary depending on your playstyle and preferences.",
+	"heading": "MultiVersus Tier List",
+	"introText": "This is a tier list for the game MultiVersus. The list is divided into five tiers: S-Tier, A-Tier, B-Tier, C-Tier. S-Tier is the highest tier, and C-Tier is the lowest tier. The characters in each tier are ranked based on their overall strength and viability in the current meta. The tier list is intended to be a general guide, and the best character for you may vary depending on your playstyle and preferences.",
+	"datePublished": "2024-05-28",
+	"dateModified": "2024-05-28",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Batman",
+					"itemDescription": "Exceptional mobility, versatile attacks, and strong zoning abilities make Batman a top-tier character"
+				},
+				{
+					"itemName": "Harley Quinn",
+					"itemDescription": "High damage output, tricky movement, and versatile combos make Harley Quinn a formidable opponent"
+				},
+				{
+					"itemName": "Superman",
+					"itemDescription": "Powerful attacks, excellent survivability, and versatile aerial moves place Superman in the"
+				}
+			]
+		},
+		{
+			"name": "S Tier",
+			"data": []
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Wonder Woman",
+					"itemDescription": "Balanced abilities, strong defense, and effective crowd control make Wonder Woman a solid choice"
+				},
+				{
+					"itemName": "Bugs Bunny",
+					"itemDescription": "Great zoning, creative attacks, and good escape options put Bugs Bunny in the"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Arya Stark",
+					"itemDescription": "High damage potential, fast movement, and stealth abilities make Arya Stark a strong contender"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Jerry",
+					"itemDescription": "Unique mechanics, strong ranged attacks, but requires high skill to master"
+				},
+				{
+					"itemName": "Shaggy",
+					"itemDescription": "Good survivability, decent damage output, but lacks the versatility of higher-tier characters"
+				},
+				{
+					"itemName": "Garnet",
+					"itemDescription": "Strong melee attacks, good durability, but limited range options keep Garnet in the"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": []
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Reindog",
+					"itemDescription": "Support abilities, decent defense, but lacks the offensive power of higher-tier characters"
+				},
+				{
+					"itemName": "Velma",
+					"itemDescription": "Good support and utility, but low damage output and survivability"
+				},
+				{
+					"itemName": "Steven Universe",
+					"itemDescription": "Useful support skills, but limited offensive capabilities and low durability"
+				}
+			]
+		}
+	]
+}

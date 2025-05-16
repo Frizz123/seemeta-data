@@ -1,0 +1,158 @@
+{
+	"fileName": "last-war-hero.json",
+	"title": "Last War: Survival Tier List",
+	"description": "Discover the ultimate tier list for Last War Hero characters. Find out which heroes belong in the S, A, B, and C tiers and learn about their strengths and abilities. Whether you're looking for the best tank, healer, or damage dealer, our comprehensive guide has you covered.",
+	"heading": "Last War: Survival List",
+	"introText": "Discover the ultimate tier list for Last War Hero characters. Find out which heroes belong in the S, A, B, and C tiers and learn about their strengths and abilities. Whether you're looking for the best tank, healer, or damage dealer, our comprehensive guide has you covered.",
+	"datePublished": "2024-06-16",
+	"dateModified": "2025-05-06",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Marshall",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kimberly",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "DVA",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Morrison",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tesla",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fiona",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Murphy",
+					"itemDescription": "This powerful Tank hero can actually tank.He is a Defense character that can be obtained quite easily, and fairly early on. I recommend using him if you have 2 other good Tank heroes, so you can at least get the deployment buff and boost his stats a little more"
+				},
+				{
+					"itemName": "Mason",
+					"itemDescription": "Even though he starts off as an SSR, he can be upgraded to UR, which is fairly simple. If you lack some damage on your Tank team, make sure you max him out because together with Murphy and Kimberly, you got yourself the best core"
+				},
+				{
+					"itemName": "Carlie",
+					"itemDescription": "With solid defensive stats, but even better attacks, Carlie is the core of her trait. She is an exceptional Aircraft hero, and if you have the means to upgrade her, it's definitely worth it"
+				},
+				{
+					"itemName": "Williams",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lucius",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Schuyler",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Adam",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Swift",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Stetmann",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Violet",
+					"itemDescription": "Violet can deal plenty of damage with her poisonous potionous skills, and she can be a pretty good front liner until you get something better"
+				},
+				{
+					"itemName": "Sarah",
+					"itemDescription": "With decent support skills, Sarah could be a good hero to use in your Aircraft team. You could upgrade her as a secondary option, or even switch her in from time to time when necessary"
+				},
+				{
+					"itemName": "McGregor",
+					"itemDescription": "The only reason McGregor is not higher up on the list is because unless he has crazy defensive stats, his Taunt could kill him. He can be a good decoy in some situations, but unless you're careful, that could also bring about his demise"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Monica",
+					"itemDescription": "Monica is a good, beginner support, but I wouldn't bother with her too much. You can use her until you get a decent alternative hero, and then just forget about her"
+				},
+				{
+					"itemName": "Scarlett",
+					"itemDescription": "She is not a great hero, but you can use her as a front liner until you can swap her out. You should swap her out right away, as soon as you got something better"
+				},
+				{
+					"itemName": "Richard",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cage",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Elsa",
+					"itemDescription": "Elsa has decent buffs, but she cannot tank for too long. You can use her in the early game until you get something better though"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Farhad",
+					"itemDescription": "Tank, Attack"
+				},
+				{
+					"itemName": "Gump",
+					"itemDescription": "Tank, Defense"
+				},
+				{
+					"itemName": "Loki",
+					"itemDescription": "Tank, Defense"
+				},
+				{
+					"itemName": "Maxwell",
+					"itemDescription": "Aircraft, Attack"
+				},
+				{
+					"itemName": "Ambolt",
+					"itemDescription": "Aircraft, Attack"
+				},
+				{
+					"itemName": "Venom",
+					"itemDescription": "Missile, Attack"
+				},
+				{
+					"itemName": "Blaz",
+					"itemDescription": "Missile, Attack"
+				},
+				{
+					"itemName": "Kane",
+					"itemDescription": "Missile, Attack"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,90 @@
+{
+  "fileName": "morimens.json",
+  "title": "Morimens Tier List",
+  "description": "Discover the latest Morimens character tier list, ranking the best and worst characters from S to C tier to optimize your gameplay strategy.",
+  "heading": "Morimens Tier List",
+  "introText": "Discover the latest Morimens character tier list, ranking the best and worst characters from S to C tier to optimize your gameplay strategy.",
+  "datePublished": "2025-04-07",
+  "dateModified": "2025-04-07",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Ramona Dexter",
+          "itemDescription": "Capable of temporarily reducing all enemies' strength, drawing additional cards, and generating Silver Key energy, effectively managing resources and supporting the team"
+        },
+        {
+          "itemName": "Caecus",
+          "itemDescription": "Specializes in retaliate mechanics, he offers solid duplicates across his abilities, allowing him to be integrated into diverse team compositions effectively"
+        },
+        {
+          "itemName": "Thais",
+          "itemDescription": "As a character of the \"Flesh\" archetype, she manages blood resources, allowing her to heal allies and enhance their abilities through the use of \"blood embryos\""
+        },
+        {
+          "itemName": "Sanga",
+          "itemDescription": "A character capable of regularly generating permanent tentacles through non-Rouse cards, and increasing the maximum tentacle limit with her Rouse card, thereby boosting team attacks"
+        },
+        {
+          "itemName": "Hameln",
+          "itemDescription": "A support unit from the Chaos faction, Hameln enhances team performance by providing power boosts, card draws, and the ability to double-cast any card. Each turn, he generates a special card that allows playing a card at reduced cost or double-casting it for increased cost. His versatility makes him a valuable asset in any team composition"
+        },
+        {
+          "itemName": "Horla",
+          "itemDescription": "Horla's abilities significantly contribute to the team's success"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "24",
+          "itemDescription": "A versatile character whose abilities adapt based on team composition. In the Chaos faction, 24's ultimate ability charges s-energy, enabling double use of posse and delivering substantial damage. In the Aequor faction, she inflicts significant poison damage. Her adaptability allows her to fit effectively into various team strategies"
+        },
+        {
+          "itemName": "Tulu",
+          "itemDescription": "A key figure in the Aequor faction, Tulu excels in generating and enhancing tentacles, which are central to Aequor's playstyle. His capabilities make him a strong choice for players focusing on this faction's mechanics"
+        },
+        {
+          "itemName": "Nautila",
+          "itemDescription": "With emotions like \"Fear\" and \"Sorrow\" that boost power, poison, retaliate stats, and enhance shielding and healing effects, Nautila is highly valuable in retaliate-focused teams"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Celeste",
+          "itemDescription": "A character from the Aequor faction, Celeste offers reliable performance and can be a valuable team member, though she may not reach the exceptional impact of higher-tier characters"
+        },
+        {
+          "itemName": "Goliath",
+          "itemDescription": "Also hailing from the Aequor faction, Goliath provides solid contributions to the team. While effective, he doesn't exhibit the standout qualities"
+        },
+        {
+          "itemName": "Miryam",
+          "itemDescription": "Renowned for her unique abilities related to tentacle mechanics. By using her Rouse card, Miryam increases the maximum tentacle limit by 1 and creates one permanent tentacle, making her valuable in teams focused on tentacle utilization"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Sorel",
+          "itemDescription": "While possessing unique abilities, Sorel often falls short in comparison to more dominant characters, making him a less favorable choice for competitive play"
+        },
+        {
+          "itemName": "Murphy",
+          "itemDescription": "After using her Rouse card, she generates a temporary tentacle with each card played, amplifying team attacks, especially when combined with Deep Sea mechanics"
+        }
+      ]
+    }
+  ]
+}

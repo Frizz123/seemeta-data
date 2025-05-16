@@ -1,0 +1,114 @@
+{
+	"fileName": "aut.json",
+	"title": "AUT Tier List",
+	"description": "Explore the latest AUT tier list for December 2024, categorizing Stands from S to C Tier with detailed descriptions to help you choose the best abilities in A Universal Time.",
+	"heading": "AUT Tier List",
+	"introText": "Explore the latest AUT tier list for December 2024, categorizing Stands from S to C Tier with detailed descriptions to help you choose the best abilities in A Universal Time.",
+	"datePublished": "2024-06-09",
+	"dateModified": "2024-12-23",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Star Platinum Requiem (SPR)",
+					"itemDescription": "An enhanced version of Star Platinum with superior strength and time-stopping capabilities"
+				},
+				{
+					"itemName": "Zenith",
+					"itemDescription": "A Stand known for its unparalleled power and rarity"
+				},
+				{
+					"itemName": "Shadow The World Requiem",
+					"itemDescription": "Combines the abilities of The World with Requiem, offering immense power and time manipulation"
+				},
+				{
+					"itemName": "Crazy Diamond",
+					"itemDescription": "Possesses the ability to heal and repair objects, along with formidable combat skills"
+				},
+				{
+					"itemName": "Whitesnake",
+					"itemDescription": "Capable of extracting and manipulating discs, allowing control over others' abilities"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "X-Chara",
+					"itemDescription": "A powerful entity with a range of attacks and high damage potential"
+				},
+				{
+					"itemName": "Tusk Act 4",
+					"itemDescription": "The final evolution of Tusk, offering enhanced speed and destructive capabilities"
+				},
+				{
+					"itemName": "Gold Experience Requiem",
+					"itemDescription": "Grants the ability to revert actions and nullify attacks, providing a strategic advantage"
+				},
+				{
+					"itemName": "Planet Shaper",
+					"itemDescription": "Allows manipulation of the environment, creating strategic opportunities in battles"
+				},
+				{
+					"itemName": "Snatcher",
+					"itemDescription": "Known for its ability to steal abilities or items from opponents, adding versatility to combat"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Tusk Act 3",
+					"itemDescription": "A mid-evolution of Tusk with moderate combat abilities and range"
+				},
+				{
+					"itemName": "Hermit Purple",
+					"itemDescription": "Provides utility with its ability to gather information and perform ranged attacks"
+				},
+				{
+					"itemName": "Purple Guy",
+					"itemDescription": "Features abilities that can confuse opponents, offering strategic advantages"
+				},
+				{
+					"itemName": "Sakuya",
+					"itemDescription": "Possesses time manipulation skills, though less potent compared to higher-tier Stands"
+				},
+				{
+					"itemName": "Super Shadow",
+					"itemDescription": "Offers increased speed and agility, suitable for hit-and-run tactics"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Tusk Act 2 or Tusk Act 1",
+					"itemDescription": "Early evolutions of Tusk with limited abilities and combat effectiveness"
+				},
+				{
+					"itemName": "Vampire",
+					"itemDescription": "Grants basic vampiric abilities but lacks the strength of higher-tier Stands"
+				},
+				{
+					"itemName": "Hamon",
+					"itemDescription": "Provides energy-based attacks but is generally outclassed by more powerful abilities"
+				},
+				{
+					"itemName": "Spin",
+					"itemDescription": "Offers rotational energy attacks with limited application in battles"
+				},
+				{
+					"itemName": "The Knight",
+					"itemDescription": "Features defensive capabilities but lacks offensive strength, making it less viable in combat"
+				}
+			]
+		}
+	]
+}

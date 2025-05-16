@@ -1,0 +1,82 @@
+{
+	"fileName": "valorant-character.json",
+	"title": "Valorant Character Tier List",
+	"description": "Discover the top Valorant agents ranked in S Tier, A Tier, B Tier, and C Tier. Find out which agents are dominating the meta and learn their strengths and weaknesses for competitive play.",
+	"heading": "Valorant Character Tier List",
+	"introText": "Discover the top Valorant agents ranked in S Tier, A Tier, B Tier, and C Tier. Find out which agents are dominating the meta and learn their strengths and weaknesses for competitive play.",
+	"datePublished": "2024-06-15",
+	"dateModified": "2024-06-15",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Jett",
+					"itemDescription": "Highly mobile and versatile agent with strong dueling abilities"
+				},
+				{
+					"itemName": "Reyna",
+					"itemDescription": "Excellent fragger with self-sustain and strong impact potential"
+				},
+				{
+					"itemName": "Killjoy",
+					"itemDescription": "Provides strong map control and utility denial, especially in defense"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Omen",
+					"itemDescription": "Great versatility with map control and strong team utility"
+				},
+				{
+					"itemName": "Phoenix",
+					"itemDescription": "Good fragging potential and self-sustain abilities"
+				},
+				{
+					"itemName": "Sage",
+					"itemDescription": "Essential support agent with healing and crowd control abilities"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Cypher",
+					"itemDescription": "Strong in gathering intel and providing map control, but lacks direct combat impact"
+				},
+				{
+					"itemName": "Raze",
+					"itemDescription": "Good at area denial and fragging, but relies heavily on explosives"
+				},
+				{
+					"itemName": "Breach",
+					"itemDescription": "Excellent utility for initiating fights and disrupting enemies, but requires coordination"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Viper",
+					"itemDescription": "Requires strong map knowledge and coordination to be effective, lacks direct impact in combat"
+				},
+				{
+					"itemName": "Brimstone",
+					"itemDescription": "Provides good area control and utility, but can be predictable and countered easily"
+				},
+				{
+					"itemName": "Skye",
+					"itemDescription": "Offers decent support and utility, but lacks standout strengths compared to other agents"
+				}
+			]
+		}
+	]
+}

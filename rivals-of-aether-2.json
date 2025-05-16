@@ -1,0 +1,74 @@
+{
+  "fileName": "rivals-of-aether-2.json",
+  "title": "Rivals of Aether 2 Tier List",
+  "description": "Explore the Rivals of Aether 2 character tier list, ranking fighters from S to C tier based on their performance and versatility in competitive play.",
+  "heading": "Rivals of Aether 2 Tier List",
+  "introText": "Explore the Rivals of Aether 2 character tier list, ranking fighters from S to C tier based on their performance and versatility in competitive play.",
+  "datePublished": "2024-11-12",
+  "dateModified": "2024-11-12",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Zetterburn",
+          "itemDescription": "A balanced fighter with powerful fire-based attacks, offering a mix of speed and strength"
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Clairen",
+          "itemDescription": "A swordfighter with swift attacks and strong zoning capabilities, excelling in both offense and defense"
+        },
+        {
+          "itemName": "Maypul",
+          "itemDescription": "A nimble fighter with quick attacks and the ability to trap opponents, requiring precise execution"
+        },
+        {
+          "itemName": "Forsburn",
+          "itemDescription": "A trickster character with deceptive moves and smoke-based abilities, requiring strategic play"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Ranno",
+          "itemDescription": "A balanced character with a mix of ranged and melee attacks, offering adaptability in various situations"
+        },
+        {
+          "itemName": "Wrastor",
+          "itemDescription": "An aerial specialist with high mobility and combo potential, excelling in air combat"
+        },
+        {
+          "itemName": "Kragg",
+          "itemDescription": "A heavyweight with strong defensive capabilities and powerful attacks, but slower movement"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Orcane",
+          "itemDescription": "A versatile fighter with water-based attacks and unique movement options, demanding tactical use"
+        },
+        {
+          "itemName": "Loxodont",
+          "itemDescription": "A heavy character with strong attacks but limited mobility, making positioning crucial"
+        },
+        {
+          "itemName": "Fleet",
+          "itemDescription": "A versatile character with effective zoning tools and mobility, allowing for strategic play"
+        }
+      ]
+    }
+  ]
+}

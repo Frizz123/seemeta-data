@@ -1,0 +1,371 @@
+{
+	"fileName": "five-nights-at-freddys-td.json",
+	"title": "Five Nights at Freddy's TD Tier List",
+	"description": "Discover the best and worst animatronics in Five Nights at Freddy's TD with our detailed tier list. From S-tier powerhouses like Golden Freddy to underperforming units like Shadow Freddy, find out which characters dominate the game.",
+	"heading": "Five Nights at Freddy's TD Tier List",
+	"introText": "Discover the best and worst animatronics in Five Nights at Freddy's TD with our detailed tier list. From S-tier powerhouses like Golden Freddy to underperforming units like Shadow Freddy, find out which characters dominate the game.",
+	"datePublished": "2024-09-15",
+	"dateModified": "2025-05-05",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Tarnished Fredbear",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dark Frostbear",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Zeus Fredeus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Fortified Endo 02",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Wet Floor Bot",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Vanny",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Moondrop",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gravelord Foxy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Overseer Foxy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bouncer",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Scrap Baby",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Frostbite Freddy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Old Man Consequences (OMC)",
+					"itemDescription": "A meta AoE tower with excellent range, extremely high DPS, and a 0.1-second cooldown; only one can be placed, balancing its low cost"
+				},
+				{
+					"itemName": "Icetrap",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Coffee",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eclipse Ballora",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "DJ Music Man",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kingtrap",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Frost Queen Ballora",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Music Man",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Master Puppeteer",
+					"itemDescription": "Its attacks include a DoT effect that significantly boosts DPS, presenting a solid overall choice"
+				},
+				{
+					"itemName": "Gaia Chica",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Apollo's Moon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dark Knight Puppet",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Titan Crusher Freddy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Old Man Krampus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "8-Bit OMC",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cosmic Foxy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dreadbear",
+					"itemDescription": "An AoE burn unit with stun capabilities; while its stats are lower and upgrades more costly than Scarecrow Foxy, the added utility compensates"
+				},
+				{
+					"itemName": "Astral Bonnie",
+					"itemDescription": "A continuous splash/slow unit with exceptional DPS and utility, though it's the only Apex rarity unit, making it very expensive"
+				},
+				{
+					"itemName": "Nightmare Mangle",
+					"itemDescription": "Features a large AoE attack, poison effect, solid DPS, and a 3-placement limit; its main limitation is very low range, which can be mitigated with supports and enchants"
+				},
+				{
+					"itemName": "Springtrap",
+					"itemDescription": "A strong Pierce unit with impressive DPS, firing five piercing projectiles per attack; however, it has a maximum placement of only two"
+				},
+				{
+					"itemName": "Valkyrie Chica",
+					"itemDescription": "Remains a viable single-target DPS option, notable for its affordability in placement and upgrades"
+				},
+				{
+					"itemName": "Endo 05",
+					"itemDescription": "Capable of stunning and dealing solid damage, but a high cooldown reduces the effectiveness of its stun ability"
+				},
+				{
+					"itemName": "Hydra Mangle",
+					"itemDescription": "Delivers napalm attacks at a rapid rate, providing high DPS with AoE and burn effects"
+				},
+				{
+					"itemName": "Gunslinger Endo",
+					"itemDescription": "Gunslinger Endo has one of the highest single-target DPSs in FNTD. Plus, its cheap upgrades make it viable even for the mid-game. The only downside is its low range"
+				},
+				{
+					"itemName": "Nightmare Bonnie",
+					"itemDescription": "Nightmare Bonnie has one of the highest single-target DPSs in FNTD. However, you’ll need something to increase her range and make her broken"
+				},
+				{
+					"itemName": "Circus Baby",
+					"itemDescription": "Circus Baby can stun enemies with her splash attacks, which can be extremely useful. However, her long cooldown is preventing her from being a really top-tier unit"
+				},
+				{
+					"itemName": "Winter Soldier Bonnie",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Shadow Bonnie",
+					"itemDescription": "Shadow Bonnie is an almost 50% stronger version of Blighted Endo Freddy, though with a shorter range. It also has a very high cost, but that won’t be a problem in Endless"
+				},
+				{
+					"itemName": "The Mimic",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "The Mimic",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Soulmate Puppet",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Apollo's Sun",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nautic Crusher Mangle",
+					"itemDescription": "An upgrade over Leviathan Mangle, offering higher DPS, increased placement, and longer range; however, crafting it requires extensive farming"
+				},
+				{
+					"itemName": "Scarecrow Foxy",
+					"itemDescription": "A splash unit with solid stats and burn damage, ranking among the highest in raw DPS"
+				},
+				{
+					"itemName": "Agonized Springtrap",
+					"itemDescription": "A top-tier evolution with a Pierce attack and impressive DPS, though outperformed by Fractured Bonnie against single targets"
+				},
+				{
+					"itemName": "Valkyrie Prime",
+					"itemDescription": "Offers significantly higher DPS than Valkyrie Chica, making it the top single-target DPS unit in the game"
+				},
+				{
+					"itemName": "Phantom Mangle",
+					"itemDescription": "Single-target DPS-wise, Phantom Mangle is pretty solid. But it’s still far from being as good as Valkyrie Chica and others"
+				},
+				{
+					"itemName": "Leviathan Mangle",
+					"itemDescription": "Leviathan Mangle is a pretty solid Pierce unit. It’s perfect for dealing with multiple enemies, and its single-target DPS isn’t too shabby, either"
+				},
+				{
+					"itemName": "RWQFSFASXC (Shadow Bonnie)",
+					"itemDescription": "Boasts broken-level damage, arguably the strongest unit currently available"
+				},
+				{
+					"itemName": "Wraith Freddy",
+					"itemDescription": "Wraith Freddy is an insanely good full AoE unit. His DPS matches that of Withered Endo Freddy, and you get one more placement. The only downside is its relatively short range"
+				},
+				{
+					"itemName": "Goliath Endo Freddy",
+					"itemDescription": "Features very good range, full AoE, and one of the highest base damage stats, justifying its high placement cost"
+				},
+				{
+					"itemName": "Tuned Mangle",
+					"itemDescription": "Tuned Mangle is better than regular Mangle but still far from being OP. The best thing about it is its big splash AoE"
+				},
+				{
+					"itemName": "Spectral Chica",
+					"itemDescription": "Spectral Chica is several times better than Phantom Chica and has a high DPS and range"
+				},
+				{
+					"itemName": "Clowntrap",
+					"itemDescription": "Clowntrap does have a splash stun, but its DPS and cooldown are fairly underwhelming. Consider it a worse version of Circus Baby"
+				},
+				{
+					"itemName": "Abyssal FoxyAbyssal",
+					"itemDescription": "Foxy’s slow is the only thing making it somewhat viable. Otherwise, there are better DPS units you can use"
+				},
+				{
+					"itemName": "Tangle",
+					"itemDescription": "Tangle got nerfed big time and it’s now a pretty mediocre end-game unit. Still, you can get it for free through the Battlepass"
+				},
+				{
+					"itemName": "Nightmarionne",
+					"itemDescription": "While having lower DPS than Goliath Endo Freddy, its exceptional range can lead to superior performance depending on the map"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Blighted Endo Freddy",
+					"itemDescription": "A full AoE unit with good range and solid DPS; its performance is slightly better than Marionette, making it a debatable investment. \nMarionette’s Puppeteer: A cost-effective option with high AoE DPS when fully upgraded, despite relatively low range"
+				},
+				{
+					"itemName": "Kronos Endo Freddy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Black Ice Freddy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jar of Pickles",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lolbit",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Overlord Scott",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Phone Guy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bounded Shadow",
+					"itemDescription": "Stats-wise, Bounded Shadow is one of the better Pierce towers in FNTD due to its DPS. However, the low range and only 2 maximum placements balance it out"
+				},
+				{
+					"itemName": "Limitless Shadow",
+					"itemDescription": "Possesses a cone AoE attack dealing 10K damage when fully upgraded, with a relatively short SPA; its only drawback is somewhat limited range"
+				},
+				{
+					"itemName": "Withered Bonnie",
+					"itemDescription": "Withered Bonnie is basically a single-target, long-range version of Shadow Freddy. Her stats are a bit worse than those of other end-game units. However, you can get her relatively cheaply, making her a solid overall investment"
+				},
+				{
+					"itemName": "Outlaw Freddy",
+					"itemDescription": "Combines continuous unit DPS with a splash attack and excellent range, currently one of the most overpowered units"
+				},
+				{
+					"itemName": "Plane Boy",
+					"itemDescription": "Plane Boy is one of the most expensive units to place in Five Nights TD. The range and DPS it has are good. However, the 2 placement count makes it straight-up worse than Phantom Mangle and the like"
+				},
+				{
+					"itemName": "Enforcer Bonnie",
+					"itemDescription": "Enforcer Bonnie is basically the same as Valkyrie Chica, though it has worse stats. However, you can also pull it with a 5x higher probability than Chica, bringing its price down"
+				},
+				{
+					"itemName": "Phantom Puppet",
+					"itemDescription": "Phantom Puppet is a worse and more expensive version of Leviathan Mangle"
+				},
+				{
+					"itemName": "Abyssal Foxy",
+					"itemDescription": "Abyssal Foxy’s slow is the only thing making it somewhat viable. Otherwise, there are better DPS units you can use"
+				},
+				{
+					"itemName": "Nightmare",
+					"itemDescription": "Nightmare has a big AoE and poison. However, its DPS is not high enough to make it a top-tier tower"
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Glitched Puppeteer",
+					"itemDescription": "A late-game version of Scott, featuring amazing range, high DPS, and a 3-placement limit, making it exceptionally strong"
+				},
+				{
+					"itemName": "Its Me",
+					"itemDescription": "A superior version of Rave Demon Bonnie, with a single placement making it cost-effective"
+				},
+				{
+					"itemName": "Fractured Bonnie",
+					"itemDescription": "Among the best evolutions, offering excellent DPS and range, though it comes with a relatively high cost"
+				},
+				{
+					"itemName": "Bomber Boy",
+					"itemDescription": "Despite a demanding crafting recipe, its DPS, range, and splash radius can justify the effort"
+				},
+				{
+					"itemName": "Jack O Endo",
+					"itemDescription": "Offers one of the highest DPS figures but is limited by single-target attacks, making it less versatile than units like Dreadbear or Scarecrow Foxy"
+				},
+				{
+					"itemName": "Ennard",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Reactor Freddy",
+					"itemDescription": "Similar to Astral Bonnie with slightly lower stats, yet remains among the top units available"
+				}
+			]
+		}
+	]
+}

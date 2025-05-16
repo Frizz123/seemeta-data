@@ -1,0 +1,62 @@
+{
+	"fileName": "elden-ring-boss.json",
+	"title": "Elden Ring Boss Tier List",
+	"description": "Creating a definitive Elden Ring boss tier list is a subjective endeavor, as individual experiences and playstyles greatly influence the perceived difficulty and enjoyment of each encounter. However, considering factors like overall challenge, moveset complexity, memorability, and thematic impact, here's a general tier list for Elden Ring bosses.",
+	"heading": "Elden Ring Boss Tier List",
+	"introText": "Creating a definitive Elden Ring boss tier list is a subjective endeavor, as individual experiences and playstyles greatly influence the perceived difficulty and enjoyment of each encounter. However, considering factors like overall challenge, moveset complexity, memorability, and thematic impact, here's a general tier list for Elden Ring bosses.",
+	"datePublished": "2024-06-14",
+	"dateModified": "2024-06-14",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Blade of Miquella",
+					"itemDescription": "A formidable demigod with an unrelenting flurry of attacks and a devastating Scarlet Aeonia rot mechanic, Malenia is widely regarded as one of the game's most challenging and rewarding bosses.\n\nMaliketh, the Black Blade: A fierce and agile shadow beast, Maliketh's relentless assault and devastating Destined Death attacks make for an exhilarating and intense battle"
+				},
+				{
+					"itemName": "Radagon of the Golden Order",
+					"itemDescription": "The final boss before Elden Beast, Radagon showcases a diverse moveset and relentless pressure, testing players' skills and reflexes to their limits"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Starscourge Radahn",
+					"itemDescription": "A colossal demi-god wielding gravity magic, Radahn's epic arena battle and unique moveset make for a memorable and challenging encounter.\n\nMorgott, the Omen King: The rightful heir to Leyndell's throne, Morgott's strategic swordsmanship and powerful incantations demand careful observation and precise dodging.\n\nGodfrey, First Elden Lord: A legendary warrior and the first Elden Lord, Godfrey's two-phase battle showcases his immense strength and adaptability, offering a thrilling test of combat prowess"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Lord of Blood",
+					"itemDescription": "A formidable demigod residing in the depths of Caelid, Mohg's nihilistic nihilistic and the Nihil effect in his second phase add a unique and challenging dynamic to the fight"
+				},
+				{
+					"itemName": "Fire Giant",
+					"itemDescription": "A colossal flame-wielding giant, the Fire Giant's unpredictable movements and devastating AoE attacks make for a chaotic and exhilarating battle"
+				},
+				{
+					"itemName": "Elden Beast",
+					"itemDescription": "The final boss of the game, Elden Beast's ethereal form and cosmic attacks present a unique challenge that demands both dodging prowess and strategic positioning"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Godrick the Grafted",
+					"itemDescription": "The first major boss in Limgrave, Godrick's imposing stature and grafted limbs hint at a greater threat than his actual moveset, which can be exploited with patience and observation.\n\nRenalla, Queen of the Full Moon: A formidable sorceress with a unique second phase, Renalla's fight can be challenging for those unfamiliar with magic-based attacks but offers an interesting thematic contrast.\n\nMarat, God-Devouring Elden Beast: A monstrous creature hidden deep within Caelid, Malenia's optional boss fight is a visually striking but relatively straightforward challenge"
+				}
+			]
+		}
+	]
+}

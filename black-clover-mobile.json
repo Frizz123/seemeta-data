@@ -1,0 +1,103 @@
+{
+    "fileName": "black-clover-mobile.json",
+    "title": "Black Clover Mobile Tier List",
+    "description": "This tier list for Black Clover: Mobile ranks characters based on their overall performance in the game. The list is divided into S, A, B, C, and D tiers, with S Tier being the highest and D Tier being the lowest.",
+    "heading": "Black Clover Mobile Tier List",
+    "introText": "This tier list for Black Clover: Mobile ranks characters based on their overall performance in the game. The list is divided into S, A, B, C, and D tiers, with S Tier being the highest and D Tier being the lowest. It's important to note that the tier list can vary depending on the current meta, team composition, and playstyle.",
+    "datePublished": "2024-05-16",
+    "dateModified": "2024-05-16",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Asta (Black)",
+                    "itemDescription": "An SSR Power-type character with exceptional damage output and tankiness"
+                },
+                {
+                    "itemName": "Noelle (Swimsuit S2 Variant)",
+                    "itemDescription": "An SSR Power-type character known for her AoE attacks and crowd control abilities"
+                },
+                {
+                    "itemName": "Finral Roulacase",
+                    "itemDescription": "An SSR Power-type support character who provides substantial buffs and utility to the team"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Leopold Vermillion",
+                    "itemDescription": "An SSR Power-type character with consistent damage and a powerful ultimate move"
+                },
+                {
+                    "itemName": "Shiren Tium",
+                    "itemDescription": "An SSR Water-type debuffer who can disrupt the enemy team's strategies"
+                },
+                {
+                    "itemName": "Neige",
+                    "itemDescription": "An SSR Dark-type debuffer with the ability to inflict various debuffs on enemies"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Yuno (Golden Dawn)",
+                    "itemDescription": "An SSR Light-type character with decent damage and support capabilities"
+                },
+                {
+                    "itemName": "Nozel Silva",
+                    "itemDescription": "An SSR Water-type debuffer who can weaken enemies"
+                },
+                {
+                    "itemName": "Magna Swing",
+                    "itemDescription": "An SSR Fire-type character with high damage potential but limited range"
+                },
+                {
+                    "itemName": "Heath Grice",
+                    "itemDescription": "An SSR Dark-type character with strong single-target attacks"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Rill Boismortier",
+                    "itemDescription": "An SSR Water-type support character who provides minor buffs and debuffs"
+                },
+                {
+                    "itemName": "Mimosa Vermillion",
+                    "itemDescription": "An SSR Water-type healer who can provide decent healing support"
+                },
+                {
+                    "itemName": "Lily",
+                    "itemDescription": "An SSR Light-type healer with limited healing capabilities"
+                }
+            ]
+        },
+        {
+            "name": "D Tier",
+            "data": [
+                {
+                    "itemName": "Gordon",
+                    "itemDescription": "An SSR Dark-type character with niche abilities that may not be widely applicable"
+                },
+                {
+                    "itemName": "Revchi Salik",
+                    "itemDescription": "An SSR Fire-type character with underwhelming damage and support capabilities"
+                },
+                {
+                    "itemName": "Catherine",
+                    "itemDescription": "An SSR Dark-type character with limited use cases"
+                }
+            ]
+        }
+    ]
+}

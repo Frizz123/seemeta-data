@@ -1,0 +1,163 @@
+{
+	"fileName": "anime-siege.json",
+	"title": "Anime Siege Tier List",
+	"description": "",
+	"heading": "Anime Siege Tier List",
+	"introText": "",
+	"datePublished": "2025-04-24",
+	"dateModified": "2025-04-24",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "GrandMarshal Bollion",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Boru (Ant King)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "KJ",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Song Jonwoo (Black Heart)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "SpoodWagon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Commander Erwon",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Song Jownoo (Awakened)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Brocoly (Enraged)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Brocoly (Rage)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Honomi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Totsumoki",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ulpuiorra (Awakened)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Noroto (One Tail)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Itodori-Yoji",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gujo (Insane)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jenos",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Brocoly",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Whotebeard",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kotaro",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Ulpuiorra",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ippon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gujo (Young)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Koku (Super)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Koku (Super)",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Ichogo (Bonkoi)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Ichogo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Noroto",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sonji",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sosuke",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Koku",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

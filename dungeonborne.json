@@ -1,0 +1,66 @@
+{
+	"fileName": "dungeonborne.json",
+	"title": "Dungeonborne Class Tier List",
+	"description": "This tier list provides a comprehensive ranking of all classes in Dungeonborne, from the powerful S-tier options to the more niche C-tier choices. Use this guide to determine which class best suits your playstyle and helps you conquer the dungeons.",
+	"heading": "Dungeonborne Class Tier List",
+	"introText": "This tier list provides a comprehensive ranking of all classes in Dungeonborne, from the powerful S-tier options to the more niche C-tier choices. Use this guide to determine which class best suits your playstyle and helps you conquer the dungeons.",
+	"datePublished": "2024-07-19",
+	"dateModified": "2024-07-19",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Berserker",
+					"itemDescription": "A damage-dealing powerhouse with high survivability"
+				},
+				{
+					"itemName": "Wizard",
+					"itemDescription": "Offers versatile spellcasting abilities and strong area-of-effect damage"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Rogue",
+					"itemDescription": "A nimble and stealthy class with excellent critical hit potential"
+				},
+				{
+					"itemName": "Paladin",
+					"itemDescription": "A balanced class with strong defensive and offensive capabilities"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Hunter",
+					"itemDescription": "A ranged class with various traps and abilities to control the battlefield"
+				},
+				{
+					"itemName": "Cleric",
+					"itemDescription": "A support class focused on healing and buffing allies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Bard",
+					"itemDescription": "A versatile class with a mix of offensive and support abilities"
+				},
+				{
+					"itemName": "Warlock",
+					"itemDescription": "A class that relies on summoning demons to aid in combat"
+				}
+			]
+		}
+	]
+}

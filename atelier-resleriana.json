@@ -1,0 +1,103 @@
+{
+	"fileName": "atelier-resleriana.json",
+	"title": "Atelier Resleriana Tier List",
+	"description": "Here’s a comprehensive tier list for Atelier Resleriana, ranking characters based on their overall performance, effectiveness, and impact within the game. This list is designed to aid players in making informed decisions when building their teams and navigating the game’s challenges.",
+	"heading": "Atelier Resleriana Tier List",
+	"introText": "Here’s a comprehensive tier list for Atelier Resleriana, ranking characters based on their overall performance, effectiveness, and impact within the game. This list is designed to aid players in making informed decisions when building their teams and navigating the game’s challenges.",
+	"datePublished": "2024-06-10",
+	"dateModified": "2024-06-10",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Firis (Crystal Master)",
+					"itemDescription": "Firis, the protagonist of Atelier Ryza, shines as an S-tier character due to her exceptional crystal crafting abilities, making her a valuable asset for any team"
+				},
+				{
+					"itemName": "Judie (Hero of Tempest)",
+					"itemDescription": "Judie's proficiency in storm magic grants her immense crowd control capabilities, making her a formidable force in combat"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Corneria (No Milk No Life)",
+					"itemDescription": "Corneria's unique ability to manipulate milk into powerful attacks sets her apart, making her a versatile and potent character"
+				},
+				{
+					"itemName": "Plachta (Mysterious Doll)",
+					"itemDescription": "Plachta's mastery of puppetry allows her to control and enhance the effectiveness of her allies, making her a valuable support unit"
+				},
+				{
+					"itemName": "Raze (Sword of Light)",
+					"itemDescription": "Raze excels as a physical attacker, wielding light-based sword strikes that deal significant damage to enemies"
+				},
+				{
+					"itemName": "Rorona (5-star Pie Meister)",
+					"itemDescription": "Rorona's expertise in pie baking grants her the ability to create powerful healing items, making her an essential support character"
+				},
+				{
+					"itemName": "Lilie (Birth of The Legend)",
+					"itemDescription": "Lilie's mastery of fire magic grants her immense damage output and area-of-effect attacks"
+				},
+				{
+					"itemName": "Klaudia (One Summer Melody)",
+					"itemDescription": "Klaudia's proficiency in water magic allows her to control the battlefield and provide consistent damage to enemies"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Sophie (Alchemist of the Mysterious Book)",
+					"itemDescription": "Sophie's ability to combine alchemy and magic makes her a versatile character with a diverse range of skills"
+				},
+				{
+					"itemName": "Tataka (Blazing Heart)",
+					"itemDescription": "Tataka's mastery of fire magic grants her impressive damage output and single-target attacks"
+				},
+				{
+					"itemName": "Logy (Ice Maiden)",
+					"itemDescription": "Logy's expertise in ice magic allows her to control the battlefield and slow down enemies"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Charlotta (Violet Symphony)",
+					"itemDescription": "Charlotta's proficiency in wind magic grants her crowd control capabilities and decent damage output"
+				},
+				{
+					"itemName": "Letty (Little Alchemist)",
+					"itemDescription": "Letty's ability to use alchemy makes her a versatile character with a variety of support skills"
+				},
+				{
+					"itemName": "Pierrette (Puppet Master)",
+					"itemDescription": "Pierrette's mastery of puppetry allows her to support allies and deal decent damage"
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Naomi (Gentle Breeze)",
+					"itemDescription": "Naomi's proficiency in wind magic provides decent crowd control and some damage output"
+				},
+				{
+					"itemName": "Pamela (Flower Fairy)",
+					"itemDescription": "Pamela's expertise in nature magic grants her some healing and support capabilities"
+				}
+			]
+		}
+	]
+}

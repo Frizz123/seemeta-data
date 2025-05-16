@@ -1,0 +1,82 @@
+{
+    "fileName": "top-troops.json",
+    "title": "Top Troops Tier List",
+    "description": "This is a tier list of the best troops in the mobile game Top Troops. The list is divided into S Tier, A Tier, B Tier, and C Tier.",
+    "heading": "Top Troops Tier List",
+    "introText": "This is a tier list of the best troops in the mobile game Top Troops. The list is divided into S Tier, A Tier, B Tier, and C Tier. S Tier troops are the best in the game, while C Tier troops are the worst. The tier list is based on my own opinion and experience, but I have tried to be as objective as possible. I hope this tier list helps you choose the best troops for your team!",
+    "datePublished": "2024-05-13",
+    "dateModified": "2024-05-13",
+    "langs": [
+        "en"
+    ],
+    "tiers": [
+        {
+            "name": "S Tier",
+            "data": [
+                {
+                    "itemName": "Oni",
+                    "itemDescription": "The Oni is a powerful melee unit that can deal massive damage. It also has a lot of health and can take a beating"
+                },
+                {
+                    "itemName": "Yeti",
+                    "itemDescription": "The Yeti is another powerful melee unit that is known for its crowd control abilities. It can stun multiple enemies at once, making it a great way to break up enemy formations"
+                },
+                {
+                    "itemName": "Griffin",
+                    "itemDescription": "The Griffin is a ranged unit that can deal a lot of damage from a safe distance. It also has a good amount of health and can survive in the heat of battle"
+                }
+            ]
+        },
+        {
+            "name": "A Tier",
+            "data": [
+                {
+                    "itemName": "Angel",
+                    "itemDescription": "The Angel is a healer that can keep your troops alive in battle. It is also a ranged unit, so it can heal from a safe distance"
+                },
+                {
+                    "itemName": "Skeleton",
+                    "itemDescription": "The Skeleton is a fast and agile melee unit that can deal a lot of damage. It is also good at dodging enemy attacks"
+                },
+                {
+                    "itemName": "Gargoyle",
+                    "itemDescription": "The Gargoyle is a flying unit that can deal damage to both ground and air units. It is also good at taking down enemy towers"
+                }
+            ]
+        },
+        {
+            "name": "B Tier",
+            "data": [
+                {
+                    "itemName": "Archer",
+                    "itemDescription": "The Archer is a ranged unit that can deal damage to enemies from a safe distance. However, it is not as powerful as some of the other ranged units in the game"
+                },
+                {
+                    "itemName": "Wizard",
+                    "itemDescription": "The Wizard is a ranged unit that can deal area of effect damage. However, it is not as powerful as some of the other area of effect damage units in the game"
+                },
+                {
+                    "itemName": "Giant",
+                    "itemDescription": "The Giant is a melee unit that has a lot of health. However, it is very slow and can easily be targeted by enemy units"
+                }
+            ]
+        },
+        {
+            "name": "C Tier",
+            "data": [
+                {
+                    "itemName": "Goblin",
+                    "itemDescription": "The Goblin is a weak melee unit that does not deal very much damage. It is also very slow and can easily be killed by enemy units"
+                },
+                {
+                    "itemName": "Bat",
+                    "itemDescription": "The Bat is a flying unit that does not deal very much damage. It is also very fragile and can easily be killed by enemy units"
+                },
+                {
+                    "itemName": "Wall",
+                    "itemDescription": "The Wall is a defensive unit that does not deal any damage. It can be useful for blocking enemy units, but it is not very effective"
+                }
+            ]
+        }
+    ]
+}

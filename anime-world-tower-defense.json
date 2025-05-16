@@ -1,0 +1,130 @@
+{
+  "fileName": "anime-world-tower-defense.json",
+  "title": "Anime World Tower Defense Tier List",
+  "description": "Discover the ultimate Anime World Tower Defense tier list. From S-tier powerhouses to solid C-tier characters, find out which characters dominate and which need improvement. Perfect for both new and seasoned players seeking an edge.",
+  "heading": "Anime World Tower Defense Tier List",
+  "introText": "Discover the ultimate Anime World Tower Defense tier list. From S-tier powerhouses to solid C-tier characters, find out which characters dominate and which need improvement. Perfect for both new and seasoned players seeking an edge.",
+  "datePublished": "2024-11-01",
+  "dateModified": "2024-11-01",
+  "langs": [
+    "en"
+  ],
+  "tiers": [
+    {
+      "name": "S Tier",
+      "data": [
+        {
+          "itemName": "Berserk Mecha",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dark Flame Lover",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "DarkBeard (Emperor)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Grand Reaper",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Lord Sombra",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Monako Osho",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "data": [
+        {
+          "itemName": "Chaos Symbol",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chaser Dracula",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Dark Hollow",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "King of Heroes",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "King of Knights",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Leder",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "data": [
+        {
+          "itemName": "Sorcerer King",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Kujaku Demon (Awaken)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Visionary (Imagine)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Witch Knight",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "ThornPrincess",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "The Demon Blade",
+          "itemDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "data": [
+        {
+          "itemName": "Arrogante",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Besto Friendo",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Boost",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Blood Demon",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Butterfly Pillar Shino",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Charuto (ChakraMode)",
+          "itemDescription": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+	"fileName": "overlord-lord-of-nazarick.json",
+	"title": "Overlord Lord of Nazarick Tier List",
+	"description": "Discover the ultimate Overlord: Lord of Nazarick tier list, ranking the best characters from S Tier to C Tier. Find out which characters dominate Nazarick and play a key role in this dark fantasy series.",
+	"heading": "Overlord Lord of Nazarick Tier List",
+	"introText": "Discover the ultimate Overlord: Lord of Nazarick tier list, ranking the best characters from S Tier to C Tier. Find out which characters dominate Nazarick and play a key role in this dark fantasy series.",
+	"datePublished": "2024-10-30",
+	"dateModified": "2025-02-11",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Shalltear (Valkyrie)",
+					"itemDescription": "Essential due to the absence of Platinum Dragon Lord’s Armor; excels in team protection and damage mitigation"
+				},
+				{
+					"itemName": "Evileye",
+					"itemDescription": "Top-tier mage with exceptional single-target and AoE power, viable in all game modes"
+				},
+				{
+					"itemName": "Renner",
+					"itemDescription": "Best healer, ensuring team survival in early and mid-game"
+				},
+				{
+					"itemName": "Albedo (Raven)",
+					"itemDescription": "Strong PvP unit with shields, counterattacks, and attack reduction.\nPlatinum Dragon Lord’s Armor: Strongest knight; prevents team deaths as long as his shield remains intact"
+				},
+				{
+					"itemName": "Shalltear Fictional Idol",
+					"itemDescription": "Highest AoE damage mage, capable of wiping enemy teams instantly"
+				},
+				{
+					"itemName": "Mare Ego Seeker",
+					"itemDescription": "Best dispeller; cleanses, heals, and provides defensive buffs"
+				},
+				{
+					"itemName": "Shalltear",
+					"itemDescription": "Weaker than her SS version but still a solid self-sustaining unit"
+				},
+				{
+					"itemName": "Aura",
+					"itemDescription": "Strong single-target unit with stat buffs and critical damage boosts"
+				},
+				{
+					"itemName": "Momon",
+					"itemDescription": "Core adventurer team unit; excels in chaining eliminations"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Cocytus",
+					"itemDescription": "Bleeding team’s tank and damage dealer with counterattacks"
+				},
+				{
+					"itemName": "Mare",
+					"itemDescription": "High burst damage mage but lacks defense.\nPandora’s Actor: Boosts team stats, increasing damage and healing efficiency"
+				},
+				{
+					"itemName": "Aura Ego (Seeker)",
+					"itemDescription": "Situational tank with team-wide stuns"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Gazef",
+					"itemDescription": "Balanced unit with counterattacks but lacks standout abilities"
+				},
+				{
+					"itemName": "Demiurge",
+					"itemDescription": "Burn-based mage with stuns but slow power ramp-up"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Sebas",
+					"itemDescription": "Strong single-target damage but heavily dependent on team synergy"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"fileName": "xdefiant-weapon.json",
+	"title": "XDefiant Weapon Tier List",
+	"description": "This is a tier list of the weapons in XDefiant as of May 2024. The weapons are ranked from S Tier to C Tier, with S Tier being the best and C Tier being the worst. The tier list is based on my own opinion and experience, and the best weapon for you will depend on your playstyle and preferences.",
+	"heading": "XDefiant Weapon Tier List",
+	"introText": "This is a tier list of the weapons in XDefiant as of May 2024. The weapons are ranked from S Tier to C Tier, with S Tier being the best and C Tier being the worst. The tier list is based on my own opinion and experience, and the best weapon for you will depend on your playstyle and preferences.",
+	"datePublished": "2024-05-18",
+	"dateModified": "2024-05-18",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "M4A1",
+					"itemDescription": "The M4A1 is a versatile and reliable assault rifle that is well-suited for all ranges. It has low recoil, good damage output, and a large magazine size"
+				},
+				{
+					"itemName": "ACR 6.8",
+					"itemDescription": "The ACR 6.8 is another excellent assault rifle that is known for its high damage output and fast fire rate. However, it has more recoil than the M4A1"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "MP7",
+					"itemDescription": "The MP7 is a powerful SMG that is perfect for close-quarters combat. It has a high rate of fire, low recoil, and a large magazine size"
+				},
+				{
+					"itemName": "RPK-74",
+					"itemDescription": "The RPK-74 is a LMG that is ideal for suppressing enemy fire. It has a high rate of fire, large magazine size, and good damage output"
+				},
+				{
+					"itemName": "686 Magnum",
+					"itemDescription": "The 686 Magnum is a powerful revolver that can kill an enemy in one shot with a headshot. However, it has a slow rate of fire and a small magazine size"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Vector .45 ACP",
+					"itemDescription": "The Vector .45 ACP is an SMG that is known for its high rate of fire and low recoil. However, it has low damage output and a small magazine size"
+				},
+				{
+					"itemName": "AK-47",
+					"itemDescription": "The AK-47 is a classic assault rifle that is known for its high damage output and reliability. However, it has high recoil and a small magazine size"
+				},
+				{
+					"itemName": "M16A4",
+					"itemDescription": "The M16A4 is an assault rifle that is similar to the M4A1, but it has a higher rate of fire and lower damage output"
+				},
+				{
+					"itemName": "93R",
+					"itemDescription": "The 93R is a pistol that can be used as a secondary weapon or as a primary weapon for aggressive players. It has a high rate of fire and good damage output, but it has high recoil and a small magazine size"
+				},
+				{
+					"itemName": "TAC-50",
+					"itemDescription": "The TAC-50 is a sniper rifle that is perfect for long-range engagements. It has a one-hit kill potential to the head and chest, but it has slow ADS time and a small magazine size"
+				},
+				{
+					"itemName": "SVD",
+					"itemDescription": "The SVD is a sniper rifle that is similar to the TAC-50, but it has lower damage output and a higher rate of fire"
+				},
+				{
+					"itemName": "P90",
+					"itemDescription": "The P90 is an SMG that is known for its high rate of fire and large magazine size. However, it has low damage output and high recoil"
+				},
+				{
+					"itemName": "M60",
+					"itemDescription": "The M60 is a LMG that is ideal for laying down suppressing fire. It has a very high rate of fire and a large magazine size, but it has very high recoil and low accuracy"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "PP-19 Bizon",
+					"itemDescription": "The PP-19 Bizon is an SMG that is known for its large magazine size. However, it has low damage output, high recoil, and low accuracy"
+				},
+				{
+					"itemName": "SPAS-12",
+					"itemDescription": "The SPAS-12 is a shotgun that is perfect for close-quarters combat. However, it has a slow rate of fire, small magazine size, and long reload time"
+				},
+				{
+					"itemName": "XM1014",
+					"itemDescription": "The XM1014 is a shotgun that is similar to the SPAS-12, but it has lower damage output and a higher rate of fire"
+				},
+				{
+					"itemName": "Desert Eagle",
+					"itemDescription": "The Desert Eagle is a pistol that can be used as a secondary weapon or as a primary weapon for aggressive players. It has high damage output, but it has extremely high recoil and a small magazine size"
+				}
+			]
+		}
+	]
+}

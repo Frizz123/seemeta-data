@@ -1,0 +1,302 @@
+{
+	"fileName": "omniheroes.json",
+	"title": "Omniheroes Tier List",
+	"description": "Discover the ultimate Omniheroes tier list. Find out which heroes are top-tier and which ones to avoid. Updated rankings for S, A, B and C tiers.",
+	"heading": "Omniheroes Tier List",
+	"introText": "Discover the ultimate Omniheroes tier list. Find out which heroes are top-tier and which ones to avoid. Updated rankings for S, A, B and C tiers.",
+	"datePublished": "2024-10-07",
+	"dateModified": "2024-10-07",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Valiantors",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Elli",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mastema",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nyx",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Salleine",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dorabella",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marlena",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Talanis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Arkdina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Atropos",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eudora",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mystifiers",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Avengers",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Karnak",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Catherine",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Albert",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Carola",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dullahan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Elude",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Osse",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Persephone",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Solomon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sylvan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Talos",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Emily",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Themis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Catrina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Janna",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Madeline",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hallios",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Mavis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Aiushtha",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bastet",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nawi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Macaria",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Anubia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Athena",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Evelynn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Felmyst",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Iranka",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lachesis",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lily and Lia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Merlin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Sadie-Illia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Victoria",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Brutus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Percival",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Atalanta",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Minotaur",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Guinn",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Ashlyn",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Doris",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Franz",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Haine-Stoneskin",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hallios",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Marina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Paragon",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Zapper",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Jerald",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Merida",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Seraphina",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Clotho",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Baal",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Yasuke",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Stannard",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Diana",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Bjorn",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

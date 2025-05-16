@@ -1,0 +1,82 @@
+{
+	"fileName": "x-samkok.json",
+	"title": "X-Samkok Tier List",
+	"description": "Discover the ultimate X-Samkok tier list for 2024, ranking the best characters from S Tier to C Tier based on their combat strength and utility in the game.",
+	"heading": "X-Samkok Tier List",
+	"introText": "Discover the ultimate X-Samkok tier list for 2024, ranking the best characters from S Tier to C Tier based on their combat strength and utility in the game.",
+	"datePublished": "2024-10-01",
+	"dateModified": "2024-12-20",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Debra",
+					"itemDescription": "A versatile thief ideal for exploration. Her ability to restore SP by defeating enemies makes her invaluable for sustaining resources during prolonged adventures"
+				},
+				{
+					"itemName": "Adam",
+					"itemDescription": "A powerful mage with consistent high damage output and excellent action speed. His effectiveness persists even against enemies with unfavorable attributes"
+				},
+				{
+					"itemName": "Wanderer Lanaville",
+					"itemDescription": "A human knight with superb defense and healing capabilities. She boosts allies of good and neutral alignments and excels in defensive setups thanks to her skill inheritance versatility"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Lulunarde",
+					"itemDescription": "A tanky knight who can heal allies slightly after victories, enhancing team survivability"
+				},
+				{
+					"itemName": "Alice",
+					"itemDescription": "A cleric who excels at extending the duration of buffs and debuffs, adding strategic depth to battles"
+				},
+				{
+					"itemName": "Ekaterina",
+					"itemDescription": "A mage with a large MP pool who can nullify ambushes, providing tactical advantages in random encounters"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Gerlf",
+					"itemDescription": "A high-damage attacker with a strong critical hit rate and effective fire-based attacks, suitable for countering specific enemies"
+				},
+				{
+					"itemName": "Gerard",
+					"itemDescription": "A durable frontline tank with evasion-based mechanics. While versatile, his lack of standout traits limits his specialization"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Barbara",
+					"itemDescription": "A knight who maintains low SP consumption, enabling continuous combat with sustained efficiency"
+				},
+				{
+					"itemName": "Gandolfo",
+					"itemDescription": "A warrior with similar low SP cost skills, allowing for multiple attacks in prolonged battles"
+				},
+				{
+					"itemName": "Marianne",
+					"itemDescription": "A monk focused on efficient MP usage for healing, making her a reliable choice for endurance-based encounters"
+				},
+				{
+					"itemName": "Valdor",
+					"itemDescription": "A healer with exceptional magical defense and resistance-enhancing passives, ideal for countering magic-heavy opponents while supporting the team"
+				}
+			]
+		}
+	]
+}

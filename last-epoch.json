@@ -1,0 +1,90 @@
+{
+	"fileName": "last-epoch.json",
+	"title": "Last Epoch Tier List",
+	"description": "This tier list ranks the best classes for leveling in Last Epoch, a hardcore action RPG with a Diablo-like feel. It is based on a variety of factors, including damage output, survivability, mobility, and crowd control. Whether you're a new player or a seasoned veteran, this tier list will help you choose the right class for your next playthrough.",
+	"heading": "Last Epoch Tier List",
+	"introText": "This tier list ranks the best classes for leveling in Last Epoch, a hardcore action RPG with a Diablo-like feel. It is based on a variety of factors, including damage output, survivability, mobility, and crowd control. Whether you're a new player or a seasoned veteran, this tier list will help you choose the right class for your next playthrough.",
+	"datePublished": "2024-07-09",
+	"dateModified": "2024-07-09",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Bladedancer",
+					"itemDescription": "Due to their high mobility, AoE damage, and ability to generate their own life leech, Bladedancers are one of the strongest leveling classes in the game. They can easily clear large packs of enemies and bosses with their Whirlwind and Blade Flurry skills"
+				},
+				{
+					"itemName": "Paladin",
+					"itemDescription": "Paladins are another great leveling class thanks to their tankiness, AoE damage, and self-healing. They can wade into large groups of enemies and use their Shield Charge, Righteous Strike, and Consecration skills to deal damage and stay alive"
+				},
+				{
+					"itemName": "Warlock",
+					"itemDescription": "Warlocks are a powerful leveling class with a focus on minion damage and DoTs. They can summon minions to tank for them while they deal damage from afar with their Void Bolt and Chaos Nova skills"
+				},
+				{
+					"itemName": "Runemaster",
+					"itemDescription": "Runemasters are a unique leveling class that utilizes runes to cast spells and buff themselves and their allies. They have good AoE damage, crowd control, and survivability, making them a well-rounded choice for leveling"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Falconer",
+					"itemDescription": "Falconers are a hybrid class that combines pet damage with ranged weapon damage. They have good AoE damage, single-target damage, and mobility, making them a versatile leveling class"
+				},
+				{
+					"itemName": "Void Knight",
+					"itemDescription": "Void Knights are a melee/caster hybrid class that deals chaos damage and has a focus on life leech and energy shield. They have good AoE damage, single-target damage, and survivability"
+				},
+				{
+					"itemName": "Sorcerer",
+					"itemDescription": "Sorcerers are a pure caster class that deals elemental damage and has a focus on crowd control and AoE damage. They can clear large packs of enemies quickly with their Blizzard, Fireball, and Lightning Bolt skills"
+				},
+				{
+					"itemName": "Shaman",
+					"itemDescription": "Shamans are a hybrid class that combines melee damage with totem summoning. They have good AoE damage, single-target damage, and crowd control"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Forge Guard",
+					"itemDescription": "Forge Guards are a tanky melee class that deals physical damage and has a focus on crowd control and AoE damage. They can take a lot of punishment and deal decent damage, but they can be a bit slow"
+				},
+				{
+					"itemName": "Druid",
+					"itemDescription": "Druids are a versatile class that can transform into different animal forms to gain different abilities. They have good AoE damage, single-target damage, and survivability, but they can be a bit squishy in their human form"
+				},
+				{
+					"itemName": "Necromancer",
+					"itemDescription": "Necromancers are a summoner class that raises the dead to fight for them. They have good AoE damage and crowd control, but their minions can be a bit fragile"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Lich",
+					"itemDescription": "Liches are a pure caster class that deals cold damage and has a focus on DoTs and crowd control. They can be effective in some situations, but they are generally outclassed by other casters"
+				},
+				{
+					"itemName": "Beastmaster",
+					"itemDescription": "Beastmasters are a hybrid class that combines pet damage with melee damage. They have good single-target damage, but their AoE damage is lacking"
+				},
+				{
+					"itemName": "Spellblade",
+					"itemDescription": "Spellblades are a hybrid class that combines melee damage with spellcasting. They have a unique playstyle, but they are generally not as effective as other melee or caster classes"
+				}
+			]
+		}
+	]
+}

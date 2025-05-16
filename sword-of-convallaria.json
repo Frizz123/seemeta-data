@@ -1,0 +1,190 @@
+{
+	"fileName": "sword-of-convallaria.json",
+	"title": "Sword of Convallaria Tier List",
+	"description": "Discover the best characters in Sword of Convallaria with our comprehensive tier list. See which characters rank as S Tier, A Tier, B Tier, and C Tier in this detailed guide.",
+	"heading": "Sword of Convallaria Tier List",
+	"introText": "Discover the best characters in Sword of Convallaria with our comprehensive tier list. See which characters rank as S Tier, A Tier, B Tier, and C Tier in this detailed guide.",
+	"datePublished": "2024-07-25",
+	"dateModified": "2025-04-19",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Auguste",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Cocoa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Safiyyah",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Taair",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gloria",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Col",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Dantalion",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Beryl",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Inanna",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Simona",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rawiyah-Summer Nostalgia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Layla",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Pamina",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Magnus",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "NonoWill",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "LilyWill",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Acambe",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Alexei",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nungal",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Edda",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Hasna",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Homa",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Caris",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kvare",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tristan",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Luvata",
+					"itemDescription": "B\tTier:"
+				},
+				{
+					"itemName": "Faycal",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Maitha",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Momo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Rawiyah",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Samantha",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Guzman",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Iggy",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Leonide",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Garcia",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Miguel",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Xavier",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nergal",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Teadron",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}

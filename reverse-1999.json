@@ -1,0 +1,222 @@
+{
+	"fileName": "reverse-1999.json",
+	"title": "Reverse 1999 Tier List",
+	"description": "This tier list ranks all of the Arcanists in the Reverse 1999. The list is divided into tiers from S to C, with S Tier being the best and C Tier being the worst. The tier list is based on the current meta and may change in the future.",
+	"heading": "Reverse 1999 Tier List",
+	"introText": "This tier list ranks all of the Arcanists in the Reverse 1999. The list is divided into tiers from S to C, with S Tier being the best and C Tier being the worst. The tier list is based on the current meta and may change in the future.",
+	"datePublished": "2024-05-30",
+	"dateModified": "2025-02-21",
+	"langs": [
+			"en"
+		],
+		"tiers": [
+			{
+				"name": "S Tier",
+				"data": [
+					{
+						"itemName": "Vila",
+						"itemDescription": "Vila is a Survival-class character dealing Mental damage. Her Ultimate purifies allies' negative statuses, and she heals passively when not acting. She also provides DMG Bonus, Sturdiness, and Critical buffs, making her strong in Mental DMG teams"
+					},
+					{
+						"itemName": "Windsong",
+						"itemDescription": "Windsong is a Damage-class character dealing Mental damage. She builds up \"Rehabilitation\" incantations through [Preparation—Windsong] stacks and casts them all at once with her Ultimate, which inflicts [Confusion] and converts excess Crit Rate into Crit DMG. She requires manual play and works best with Crit-focused supports, [Confusion] applicators, and high-rank incantation buffers"
+					},
+					{
+						"itemName": "Lucy",
+						"itemDescription": "Lucy is Damage-class character from the Intellect afflatus, dealing Reality damage. She gains universal afflatus advantage with her Ultimate's [Pragmatist] status and generates [Dynamo] through Moxie, Eureka, or enemy defeats. At 20 [Dynamo], she gains [Advancement], enhancing her incantations and Ultimate. Lucy works best with allies who generate Moxie or Eureka consistently"
+					},
+					{
+						"itemName": "Kakania",
+						"itemDescription": "Offers unique debuffs that weaken enemies, increasing the team's damage potential"
+					},
+					{
+						"itemName": "Anjo Nala",
+						"itemDescription": "Renowned for her crowd control abilities, making challenging content more manageable"
+					},
+					{
+						"itemName": "Lopera",
+						"itemDescription": "A support character offering healing and buffs, enhancing team survivability"
+					}
+				]
+			},
+			{
+				"name": "A Tier",
+				"data": [
+					{
+						"itemName": "Isolde",
+						"itemDescription": "Provides a balance of offense and support, offering debuffs and respectable damage"
+					},
+					{
+						"itemName": "Tooth Fairy",
+						"itemDescription": "A healer with additional utility, such as debuff removal and minor buffs"
+					},
+					{
+						"itemName": "Jiu Niangzi",
+						"itemDescription": "An exceptional DPS character known for her high damage output and versatility across various game modes"
+					},
+					{
+						"itemName": "6",
+						"itemDescription": "A support character known for enhancing ally damage and providing utility"
+					},
+					{
+						"itemName": "Marcus",
+						"itemDescription": "A tanky frontliner capable of absorbing damage and protecting allies"
+					},
+					{
+						"itemName": "Yenisei",
+						"itemDescription": "Provides buffs that enhance team damage and effectiveness"
+					},
+					{
+						"itemName": "Spathodea",
+						"itemDescription": "Provides crowd control and debuffs, disrupting enemy strategies"
+					},
+					{
+						"itemName": "Mercuria",
+						"itemDescription": "A versatile support with both healing and offensive capabilities"
+					},
+					{
+						"itemName": "Tuesday",
+						"itemDescription": "Offers unique buffs that enhance team synergy and performance"
+					},
+					{
+						"itemName": "Argus",
+						"itemDescription": "Specializes in area-of-effect attacks, effective against multiple enemies"
+					},
+					{
+						"itemName": "J",
+						"itemDescription": "Offers a mix of damage and support, adaptable to various team needs"
+					},
+					{
+						"itemName": "Willow",
+						"itemDescription": "Excels in debuffing enemies, reducing their effectiveness in battle"
+					}
+				]
+			},
+			{
+				"name": "B Tier",
+				"data": [
+					{
+						"itemName": "Necrologist",
+						"itemDescription": "Specializes in debuffs that hinder enemy performance"
+					},
+					{
+						"itemName": "An-an Lee",
+						"itemDescription": "Offers unique buffs but requires specific setups to maximize potential"
+					},
+					{
+						"itemName": "Getian",
+						"itemDescription": "A damage dealer with unique mechanics, offering strategic advantages"
+					},
+					{
+						"itemName": "Ezra Theodore",
+						"itemDescription": "Specializes in debuffs that cripple enemy capabilities"
+					},
+					{
+						"itemName": "Melania",
+						"itemDescription": "Offers crowd control abilities, useful for managing enemy waves"
+					},
+					{
+						"itemName": "Semmelweis",
+						"itemDescription": "Offers support through debuffs and crowd control, aiding in battlefield control"
+					},
+					{
+						"itemName": "Sonetto",
+						"itemDescription": "A support with basic buffs, outclassed by higher-tier characters"
+					},
+					{
+						"itemName": "Jessica",
+						"itemDescription": "A damage dealer with specific strengths, effective in particular scenarios"
+					},
+					{
+						"itemName": "Kaalaa Baunaa",
+						"itemDescription": "Provides niche support abilities, useful in specialized team compositions"
+					},
+					{
+						"itemName": "37",
+						"itemDescription": "A solid damage dealer with reliable performance, suitable for most team setups"
+					},
+					{
+						"itemName": "Bkornblume",
+						"itemDescription": "A support focusing on debuffs, effective against certain enemy types"
+					},
+					{
+						"itemName": "Charlie",
+						"itemDescription": "A damage dealer requiring significant investment to perform optimally"
+					},
+					{
+						"itemName": "Medicine Pocket",
+						"itemDescription": ""
+					},
+					{
+						"itemName": "A Knight",
+						"itemDescription": "A frontline unit with basic defensive capabilities"
+					},
+					{
+						"itemName": "Druvis III",
+						"itemDescription": "A damage dealer with high burst potential, effective in short battles"
+					},
+					{
+						"itemName": "Avgust",
+						"itemDescription": "A damage dealer with specific strengths, requiring precise setups"
+					},
+					{
+						"itemName": "Lorelei",
+						"itemDescription": "Excels in area-of-effect damage, clearing groups of enemies efficiently"
+					},
+					{
+						"itemName": "Barbara",
+						"itemDescription": "Provides healing and minor buffs, suitable for sustaining teams"
+					}
+				]
+			},
+			{
+				"name": "C Tier",
+				"data": [
+					{
+						"itemName": "Desert Flannel",
+						"itemDescription": "Provides situational support abilities, useful in certain scenarios"
+					},
+					{
+						"itemName": "Pickles",
+						"itemDescription": "A healer with situational utility, beneficial in specific encounters"
+					},
+					{
+						"itemName": "Balloon Party",
+						"itemDescription": "Offers crowd control with limited effectiveness"
+					},
+					{
+						"itemName": "Click",
+						"itemDescription": "A five-star Spirit-afflatus character, Click was a war reporter in his previous life. In the game, he serves as a mental damage dealer and debuffer, utilizing his unique abilities to weaken enemies and support his team"
+					},
+					{
+						"itemName": "Tennant",
+						"itemDescription": "Provides defensive buffs, enhancing team durability"
+					},
+					{
+						"itemName": "Satsuki",
+						"itemDescription": "Specializes in mental damage and control effects, though her effectiveness may be limited without specific setups"
+					},
+					{
+						"itemName": "Diggers",
+						"itemDescription": "A five-star Plant-afflatus character, Diggers is a versatile unit known for his control, shielding, and debuffing capabilities. He can reduce enemies' Reality and Mental defenses, inflict status effects like [Weakness] and [Nightmare], and provide shields to allies, enhancing both offensive and defensive team dynamics"
+					},
+					{
+						"itemName": "Regulus",
+						"itemDescription": "A balanced character with moderate damage and support capabilities"
+					},
+					{
+						"itemName": "Centurion",
+						"itemDescription": "Provides moderate damage but lacks versatility"
+					},
+					{
+						"itemName": "Shamane",
+						"itemDescription": "A support with unique mechanics, requiring strategic play to utilize effectively"
+					},
+					{
+						"itemName": "Voyager",
+						"itemDescription": "Offers a mix of damage and support, adaptable but not exceptional in either role"
+					}
+				]
+			}
+		]
+	}

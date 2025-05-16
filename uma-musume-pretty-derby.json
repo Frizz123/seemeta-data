@@ -1,0 +1,82 @@
+{
+	"fileName": "uma-musume-pretty-derby.json",
+	"title": "Uma Musume Pretty Derby Tier List",
+	"description": "Discover the ultimate Uma Musume Pretty Derby tier list! We've ranked the best horses from S Tier to C Tier, highlighting their strengths and weaknesses. Find out which Uma Musume characters excel on the track and dominate the races.",
+	"heading": "Uma Musume Pretty Derby Tier List",
+	"introText": "Discover the ultimate Uma Musume Pretty Derby tier list! We've ranked the best horses from S Tier to C Tier, highlighting their strengths and weaknesses. Find out which Uma Musume characters excel on the track and dominate the races.",
+	"datePublished": "2024-06-25",
+	"dateModified": "2024-06-25",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Tokai Teio",
+					"itemDescription": "Exceptional speed and stamina, making her a top contender in any race"
+				},
+				{
+					"itemName": "Mejiro McQueen",
+					"itemDescription": "Incredible endurance and powerful finishing sprints"
+				},
+				{
+					"itemName": "Rice Shower",
+					"itemDescription": "Superior acceleration and versatility on different track types"
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Symboli Rudolf",
+					"itemDescription": "Strong overall stats and consistent performance"
+				},
+				{
+					"itemName": "Grass Wonder",
+					"itemDescription": "High speed and agility, with a strong finishing kick"
+				},
+				{
+					"itemName": "Nice Nature",
+					"itemDescription": "Balanced attributes with a focus on resilience and adaptability"
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Silence Suzuka",
+					"itemDescription": "High-speed stats but weaker endurance"
+				},
+				{
+					"itemName": "Haru Urara",
+					"itemDescription": "Good speed and agility but lacks in stamina"
+				},
+				{
+					"itemName": "Daiwa Scarlet",
+					"itemDescription": "Solid performance with balanced speed and stamina but less specialized"
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Biwa Hayahide",
+					"itemDescription": "Decent speed but lacks in overall strength and endurance"
+				},
+				{
+					"itemName": "Manhattan Cafe",
+					"itemDescription": "Good stamina but slower speed and acceleration"
+				},
+				{
+					"itemName": "Mayano Top Gun",
+					"itemDescription": "Versatile but average in most attributes without standout strengths"
+				}
+			]
+		}
+	]
+}
