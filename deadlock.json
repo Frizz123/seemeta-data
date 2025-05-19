@@ -5,7 +5,7 @@
 	"heading": "Deadlock Tier List",
 	"introText": "Discover the most powerful heroes in Deadlock with our detailed tier list. Find out who dominates the meta in S, A, B, and C Tiers, and which heroes to avoid. Updated for the latest patch.",
 	"datePublished": "2024-10-03",
-	"dateModified": "2024-10-03",
+	"dateModified": "2025-05-19",
 	"langs": [
 		"en"
 	],
@@ -14,16 +14,34 @@
 			"name": "S Tier",
 			"data": [
 				{
-					"itemName": "Abrams",
-					"itemDescription": "A highly durable tank with strong crowd control abilities, making him a dominant force in skilled hands. His combination of heavy melee strikes, a powerful shotgun, and sustain through life drain and passive regeneration allows him to control fights and survive in extended engagements. He excels in both teamfights and the laning phase, where his resilience and ability to lock down key enemies shine"
+					"itemName": "Lash",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Dynamo",
-					"itemDescription": "A versatile teamfight hero in Deadlock, excelling at crowd control with his area knock-up and healing abilities. His ultimate can lock down entire teams, making him crucial for initiating or turning the tide in battles"
+					"itemName": "Mirage",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Haze",
-					"itemDescription": "One of the most powerful late-game hyper carries. She can emerge from stealth into a teamfight and use her ultimate to quite literally delete the entire enemy team. Haze can chase down fleeing enemies, 1v1 players who don’t have the crowd control to stop her, and then clean up in both skirmishes and teamfights with her ultimate. A Haze that gets ahead can scale until they're nearly unstoppable, so take care"
+					"itemName": "Holliday",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Grey Talon",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Vindicta",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -31,36 +49,40 @@
 			"name": "A Tier",
 			"data": [
 				{
-					"itemName": "Pocket",
-					"itemDescription": "A highly mobile and dangerous character who can quickly infiltrate enemy teams and deal massive damage with his ultimate, Affliction. His teleport ability allows him to engage and escape, but skilled players often use other mobility items to engage and save teleport for damage and escape"
+					"itemName": "Seven",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Bebop",
-					"itemDescription": "A versatile hero in the game who can be built in different ways. His hook ability is a powerful tool for pulling enemies out of position, and his other abilities allow him to deal significant damage"
-				},
-				{
-					"itemName": "Ivy",
-					"itemDescription": "A versatile support hero who can provide a variety of benefits to her team. Her ultimate ability allows her to carry allies across the map or set up powerful combos"
-				},
-				{
-					"itemName": "Infernus",
-					"itemDescription": "A powerful damage dealer with a strong laning phase. His ultimate ability can stun multiple enemies, and his lifesteal allows him to sustain in combat. However, he is often outperformed by Haze in his role"
-				},
-				{
-					"itemName": "Shiv",
-					"itemDescription": "A resilient hero who can turn damage dealt to him into damage over time. His ultimate ability is a powerful finisher that can instantly kill low-health enemies"
-				},
-				{
-					"itemName": "Kelvin",
-					"itemDescription": "A frustrating opponent who can use his abilities to poke at enemies from a distance and control the battlefield. His ultimate ability can protect allies or trap enemies"
+					"itemName": "Mo & Krill",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
 					"itemName": "Yamato",
-					"itemDescription": "A versatile hero with a powerful ultimate ability. Her shurikens and bombs are both effective, but her ultimate allows her to make big plays at crucial times"
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Mirage",
-					"itemDescription": "A powerful early and mid-game hero who can quickly clear waves and harass opponents. His ultimate ability allows him to quickly move around the map and gank enemies"
+					"itemName": "Lady Geist",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Paradox",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Bebop",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -68,32 +90,52 @@
 			"name": "B Tier",
 			"data": [
 				{
+					"itemName": "Kelvin",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ivy",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Calico",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
 					"itemName": "Viscous",
-					"itemDescription": "A versatile hero who excels at laning, using his abilities to harass enemies and protect allies. His ultimate, The Cube, makes him or an ally invulnerable and provides health regeneration, making him valuable throughout the game. However, his ultimate is less effective in open spaces, and his gun lacks power, limiting his effectiveness in certain situations"
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Vindicta",
-					"itemDescription": "Deadlock's sniper rifle remains a potent hybrid damage source, but recent changes have made her more vulnerable. She now needs to get closer to deal maximum damage, making her easier to target despite her mobility. Vindicta excels at dealing damage from a distance, using her automatic fire and Assassinates to secure kills in skirmishes and team fights"
+					"itemName": "Dynamo",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Lash",
-					"itemDescription": "Remains the most mobile character in Deadlock, despite recent nerfs, and requires high skill to master. While his gun isn't the strongest, he can sustain himself with Flog during laning. His Death Slam ultimate is crucial for controlling teamfights, and skilled players can use Ground Strike to deal significant damage to multiple enemies. However, he is less versatile than other top-tier heroes"
+					"itemName": "Abrams",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Wraith",
-					"itemDescription": "A mobile hero with a strong tommy gun and Teleport ability, excelling in 1v1 situations and split pushes. Her Telekinesis ultimate guarantees a stun and allows her to deal massive damage with Full Auto and Card Trick. However, she struggles to keep up with other high-damage carries in late-game team fights"
+					"itemName": "Sinclair",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Paradox",
-					"itemDescription": "A complex hero who can use Paradoxical Swap to pull enemies out of position and block damage with Time Wall. They deal hybrid damage, excelling with Kinetic Carbine when specced for Bullet. However, Paradox requires skill to land Paradoxical Swap and set up Time Walls effectively, limiting their overall performance"
-				},
-				{
-					"itemName": "Seven",
-					"itemDescription": "A versatile hero with impactful abilities, including the flashy Storm Cloud ultimate. While his damage can be mitigated, his Static Charge ability provides strong crowd control. However, Seven's damage output can sometimes be inconsistent, leading to situations where he uses Storm Cloud but fails to secure kills"
-				},
-				{
-					"itemName": "Warden",
-					"itemDescription": "A forgiving hero who can harass and chase enemies with Alchemical Flask and Willpower. His Binding Word ability roots enemies, and Last Stand provides massive healing and damage. Newer players often fall victim to his abilities, making him a dangerous opponent early and mid-game"
+					"itemName": "Pocket",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -101,16 +143,51 @@
 			"name": "C Tier",
 			"data": [
 				{
-					"itemName": "Grey Talon",
-					"itemDescription": "A versatile character with a strong skillset, especially his Charged Shot ability which is excellent for his Spirit build. However, he is vulnerable to being caught and killed before he can deal significant damage"
+					"itemName": "Wraith",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Lady Geist",
-					"itemDescription": "A powerful laning character with strong area damage and healing abilities. However, she struggles in teamfights and skirmishes against enemies with higher scaling potential, especially because her ultimate's short range limits its effectiveness"
+					"itemName": "Vyper",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
+				{
+					"itemName": "Warden",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Infernus",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Shiv",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
 				{
 					"itemName": "McGinnis",
-					"itemDescription": "A powerful split-pushing hero who can dominate uncoordinated teams by farming souls and destroying objectives. However, her impact in teamfights is limited unless she has a significant lead in souls"
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Haze",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		}
