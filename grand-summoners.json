@@ -5,95 +5,2033 @@
     "heading": "Grand Summoners Tier List",
     "introText": "This is a tier list for the mobile game Grand Summoners. The list is divided into tiers from S to D, with S Tier being the best and D Tier being the worst. The units are ranked based on their overall performance in the game, including their damage output, survivability, and support skills. Please note that this is just a sample tier list and there are many other viable units in the game. The best way to find the right units for you is to experiment and find what works best for your playstyle.",
     "datePublished": "2024-05-17",
-    "dateModified": "2024-05-17",
+    "dateModified": "2025-05-20",
     "langs": [
-        "en"
-    ],
+            "en"
+        ],
     "tiers": [
-        {
-            "name": "S Tier",
-            "data": [
-                {
-                    "itemName": "War Hero Fen",
-                    "itemDescription": "Fen is one of the most powerful units in the game, with a high damage output, great survivability, and a versatile skillset. She is a must-have for any team"
-                },
-                {
-                    "itemName": "Shirou Emiya",
-                    "itemDescription": "Shirou is another top-tier unit with a powerful nuke and a great support skill. He is a great choice for both physical and magic teams"
-                },
-                {
-                    "itemName": "Emperor Isliid",
-                    "itemDescription": "Isliid is a new unit who has quickly risen to the top of the tier list. He has a unique skillset that allows him to deal massive damage to both single targets and groups of enemies"
-                }
-            ]
-        },
-        {
-            "name": "A Tier",
-            "data": [
-                {
-                    "itemName": "Priscilla (Valentines)",
-                    "itemDescription": "Priscilla is a limited-time unit who is one of the best healers in the game. She also has a great support skill that can boost the attack and defense of her allies"
-                },
-                {
-                    "itemName": "Rin & Luvia (Fate)",
-                    "itemDescription": "Rin & Luvia are a powerful duo unit that can deal massive damage to both physical and magic enemies. They also have a great support skill that can reduce the defense of their enemies"
-                },
-                {
-                    "itemName": "Chloe (Fate)",
-                    "itemDescription": "Chloe is a new unit who is quickly becoming one of the most popular units in the game. She has a high damage output, a great support skill, and a unique ability that allows her to dodge attacks"
-                }
-            ]
-        },
-        {
-            "name": "B Tier",
-            "data": [
-                {
-                    "itemName": "Orvell (Fire)",
-                    "itemDescription": "Orvell is a powerful fire unit with a high damage output and a great support skill. He is a great choice for fire teams"
-                },
-                {
-                    "itemName": "Kirisame",
-                    "itemDescription": "Kirisame is a new unit who is quickly becoming one of the most popular units in the game. She has a high damage output, a great support skill, and a unique ability that allows her to ignore enemy defense"
-                },
-                {
-                    "itemName": "Demon Edge Berwick",
-                    "itemDescription": "Berwick is a powerful dark unit with a high damage output and a great support skill. He is a great choice for dark teams"
-                }
-            ]
-        },
-        {
-            "name": "C Tier",
-            "data": [
-                {
-                    "itemName": "Sanstone",
-                    "itemDescription": "Sanstone is a new unit who is a solid all-around unit with good damage output, survivability, and support skills. She is a great choice for teams that need a bit of everything"
-                },
-                {
-                    "itemName": "Charlotte",
-                    "itemDescription": "Charlotte is a powerful physical unit with a high damage output. However, she is somewhat lacking in survivability and support skills"
-                },
-                {
-                    "itemName": "Strength",
-                    "itemDescription": "Strength is a new unit who is a solid physical unit with good damage output and survivability. However, he is somewhat lacking in support skills"
-                }
-            ]
-        },
-        {
-            "name": "D Tier",
-            "data": [
-                {
-                    "itemName": "Gerald",
-                    "itemDescription": "Gerald is a new unit who is a bit underwhelming. He has decent damage output and survivability, but his support skills are lacking"
-                },
-                {
-                    "itemName": "Yoh Asakura",
-                    "itemDescription": "Yoh Asakura is a limited-time unit who is a bit outdated. He still has decent damage output, but his survivability and support skills are lacking"
-                },
-                {
-                    "itemName": "Combat Form Milim",
-                    "itemDescription": "Combat Form Milim is a new unit who is a bit underwhelming. She has decent damage output, but her survivability and support skills are lacking"
-                }
-            ]
-        }
-    ]
-}
+            {
+                "name": "S Tier",
+                "data": [
+                    {
+                        "itemName": "Ainz",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Chloe-Fate",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Demon Lord Rimuru",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Emperor Isliid",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Hart-Earth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Hazuki",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Houka Inumuta",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Illya",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Jay",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Priscilla",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rin and Luvia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Shirou Emiya",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sublime Supernova Liza",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sunraku",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "War Hero Fen",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    }
+                ]
+            },
+            {
+                "name": "A Tier",
+                "data": [
+                    {
+                        "itemName": "Light",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Chobe",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Demon Lord Vox",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Diablo",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Draken",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Evileye",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Fitoria",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Gabimaru",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Gray Fullbuster",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "High Elf Archer",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ira Gamagoori",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Kirisame",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Liza",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Long",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mako",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Miyu",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mizuki the Twelfth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Momon",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Narberal",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Noble Flare Mira",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Oikatzo",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Orvell-Fire",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Priestess",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Psyger-0",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rimuru-Human",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Saber Alter",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sagiri",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Summer Iris",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Thetis",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Uzu Sanageya Ma",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Yuzuriha",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    }
+                ]
+            },
+            {
+                "name": "B Tier",
+                "data": [
+                    {
+                        "itemName": "Albedo",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Anti-Herione Pola",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Aristela Orbis",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Aristela",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Asirpa",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Benimaru",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Cestina-Earth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Charlotte",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Combat Form Milim",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Demiurge",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Demon Edge Berwick",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Emilia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Erza Scarlet",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Fen-Dark",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Fen-Earth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Forte",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Gaia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Gerald",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Goblin Slayer",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Goddess Celia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Hao",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Hatsune Miku",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Hellish Blizzard",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Jill",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Juno",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Kokuri",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Luana",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Melty",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mikey",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Miranda",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mitsuya",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Naofumi",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Nonon Jakuzure",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Nui Harime",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Parlot",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Priscilla-Water",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ram",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rayas",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Riviera-Dark",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rosetta-Water",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ryuko",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sandstone",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Shalltear",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Shiki",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Simon",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Strength",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Summer Fen",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Summer Juno",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sylphiette",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Valerie",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Vox",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Vultee-Earth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Yoh Asakura",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    }
+                ]
+            },
+            {
+                "name": "C Tier",
+                "data": [
+                    {
+                        "itemName": "Angelas",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Anna Kyoyama",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Batiste",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Beatrice",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Beguiler Selia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Berwick-Magic",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Berwick–Physical",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Celia-Dark",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Celia-Light",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Cosmo",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Dead Master",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Duke",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Eagle",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Empress",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Erza Scarlet",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Favelle",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Feena",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Fosly",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Garou",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Hart-Dark",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "High Elf Archer",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Kazuma",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Kurama",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Liese-Dark",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Liese-Light",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Luahn",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Lucy Heartfilia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Lyla",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mako",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Marzex-Dark",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Melia-Water",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Milim",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Musse",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Natsu Dragneel",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Norn",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Orvell-Light",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Platina",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ragsherum",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rem-GS",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ren Tao",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rits",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Riviera-Earth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Roy-Fire",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rudeus",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Saitama",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Serah",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Shiru",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sonic",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sonije",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Tamae",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Terrible Tornado",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Toguro",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Vermilia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Victoire",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Vultee-Water",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Wargul",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Weaver",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Yusuke",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Zenon",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    }
+                ]
+            },
+            {
+                "name": "D Tier",
+                "data": [
+                    {
+                        "itemName": "Abaddon",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ache",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Adele",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Aesis",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Alma",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Altie",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Alulu",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Aluze",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Alvina",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Amane",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Anna",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Arcana",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Arosdea",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Arth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ashaleigh",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ashe",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ashe Toto",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Badoul",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Badoul",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Bakoo",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Barossa",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Belle",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Boros",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Cathemilla",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Catilou",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Chifuyu",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Chloe-GS",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Clyde",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Coco",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Corsair",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Courtney",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Cygnet",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Cynthia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Dahlia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Daisy",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Daki",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Dargeon",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Diaz",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Duran",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Eden",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Edram",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Edram",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Elfalla",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Elizabeth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Elmessio",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Emi",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "End",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Eternia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Est",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Feld",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Filo",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Freed",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ganan",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ganan",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Garlan",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Genos",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Genos",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Gilliam",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ginso-Battle Form",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ginzo",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Grad",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Grad",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Gran Brave",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Granith",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Groitze",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Grohl",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Hakuro",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Herck",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Hiei",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Hijikata",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Honoka",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Iris",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ifrit",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Jack",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Jill",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Kane-Dark",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Kane-Earth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Kayas",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Keiones",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Keit",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Kisaragi",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Lapleh",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Leon",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Leone",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Lian",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Lily",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Lione",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Louvet",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Luda",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Lozze",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Lygor",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mamoria",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Maquines",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Marika",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Marzex-Light",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Melissa",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Melissa-Dark",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Melody",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Millenia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mira-Earth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mira-Fire",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Miri-Nyan",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mixie",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mizuki",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Mizyna",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Naofumi",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Nerim",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Nier",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Nies",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Noel",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Nogia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Number 2",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Olgeth",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Onfuan",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Orgah",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Palamicia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Pheles",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Plentz",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Pola",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Quon",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Radak",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Ragna",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Raine",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Raki",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Raphtalia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rasaou",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Regulus",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rem",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Reyon",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rhiothis",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Riana",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rimuru-Slime",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rishley",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rodia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Rohst",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Roy-Water",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Saar",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Saku",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sakuya",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Salyssa",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Satsuki",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Selia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Shadie",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sharon",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Shasha",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sly",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Soleil",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sophie",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sophie",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Strife",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sugimoto",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Sumire",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Takemichi",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Tallis",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Teriodos",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Thetis-Light",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Vaid",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Valentia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Valhalla",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Veronica",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Vicious",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Virago",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Vitz",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Voghan",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Vogue",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Vultee-LR",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Yomi",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Zechsia",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Zecht",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Zeela",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Zeorg-Dark",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Zeorg-Light",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Zerkalo",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Zoldes",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    },
+                    {
+                        "itemName": "Zoroas",
+                        "itemDescription": "",
+                        "itemImage": "",
+                        "itemIcon": ""
+                    }
+                ]
+            }
+        ]
+    }

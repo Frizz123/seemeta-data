@@ -5,7 +5,7 @@
 	"heading": "Anime Royale Tier List",
 	"introText": "Comprehensive guide ranking Anime Royale units from S Tier to C Tier, providing detailed insights into each unit's performance and utility.",
 	"datePublished": "2024-09-18",
-	"dateModified": "2025-02-24",
+	"dateModified": "2025-05-20",
 	"langs": [
 		"en"
 	],
@@ -18,8 +18,81 @@
 					"itemDescription": "A secret unit with exceptional DPS, full AoE attacks, hybrid capabilities, and impressive range, making her one of the strongest units in the game"
 				},
 				{
-					"itemName": "Ulquioro (Second)",
-					"itemDescription": "A hybrid unit with high DPS, good attack speed, large AoE, and one of the highest ranges, making him a top-tier choice"
+					"itemName": "Yabo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nero",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Gen Z",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Urwu (Kwency)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Aura Farmer (Purple)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Origami",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Nemo",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Eyezen",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Aura King (Monarch)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Tochi",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Kaillou (Serious)",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Lawlight",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Reaper Child",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Almighty",
+					"itemDescription": ""
+				},
+				{
+					"itemName": "Keneki",
+					"itemDescription": "Excels at dealing with shields in early stages; when fully upgraded, becomes a top-tier DPS unit with high damage and low attack speed"
+				},
+				{
+					"itemName": "Goku Black",
+					"itemDescription": "A solid hill unit suitable until stronger units are obtained; lacks multi-hit or burn effects when fully upgraded, limiting effectiveness against shielded flying enemies"
+				},
+				{
+					"itemName": "Sosoke",
+					"itemDescription": "Considered one of the weaker legendary units; limited placements, lack of hybrid capability, and subpar range diminish effectiveness"
+				},
+				{
+					"itemName": "Netsu",
+					"itemDescription": "Applies burn damage with multiple ticks but lacks overall utility and effectiveness"
 				},
 				{
 					"itemName": "Freeze",
@@ -36,27 +109,6 @@
 				{
 					"itemName": "Stabs",
 					"itemDescription": "A full AoE mythic unit capable of targeting flying enemies, with multi-hit attacks that briefly stun enemies, providing both damage and utility"
-				}
-			]
-		},
-		{
-			"name": "A Tier",
-			"data": [
-				{
-					"itemName": "Keneki",
-					"itemDescription": "Excels at dealing with shields in early stages; when fully upgraded, becomes a top-tier DPS unit with high damage and low attack speed"
-				},
-				{
-					"itemName": "Goku Black",
-					"itemDescription": "A solid hill unit suitable until stronger units are obtained; lacks multi-hit or burn effects when fully upgraded, limiting effectiveness against shielded flying enemies"
-				},
-				{
-					"itemName": "Sosoke",
-					"itemDescription": "Considered one of the weaker legendary units; limited placements, lack of hybrid capability, and subpar range diminish effectiveness"
-				},
-				{
-					"itemName": "Netsu",
-					"itemDescription": "Applies burn damage with multiple ticks but lacks overall utility and effectiveness"
 				}
 			]
 		},
@@ -83,6 +135,10 @@
 				{
 					"itemName": "Vegetable",
 					"itemDescription": "Notable range for a rare unit with multi-hit attacks, serving as a competent shield-breaker"
+				},
+				{
+					"itemName": "Ulquioro (Second)",
+					"itemDescription": "A hybrid unit with high DPS, good attack speed, large AoE, and one of the highest ranges, making him a top-tier choice"
 				}
 			]
 		}
