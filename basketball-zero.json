@@ -26,12 +26,20 @@
           "itemDescription": "Boosts dunking abilities, increasing the likelihood of overcoming defenders and executing powerful dunks. Ideal for aggressive offensive plays"
         },
         {
+          "itemName": "Perfection (Style)",
+          "itemDescription": ""
+        },
+        {
           "itemName": "Ace (Style)",
           "itemDescription": "A legendary style, the most aggressive. Provides unblockable attacks, strong dribbling, and the ability to shoot from various distances"
         },
         {
           "itemName": "Giant (Style)",
           "itemDescription": "It is a Mythical-tier style that emphasizes raw strength and dominance, excelling in offensive power and dunking abilities"
+        },
+        {
+          "itemName": "Copycat (Style)",
+          "itemDescription": ""
         }
       ]
     },
@@ -43,8 +51,20 @@
           "itemDescription": "Extends shooting range, facilitating successful long-range shots and making it easier to score from a distance"
         },
         {
-          "itemName": "Hustle (Zone)",
-          "itemDescription": "Improves defensive capabilities by enhancing blocking and stealing, aiding in shutting down opponents and forcing turnovers"
+          "itemName": "777 (Zone)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Animalistic (Zone)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Perfectionist (Zone)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Unbreakable (Zone)",
+          "itemDescription": ""
         },
         {
           "itemName": "Star (Style)",
@@ -53,6 +73,10 @@
         {
           "itemName": "Playmaker (Style)",
           "itemDescription": "Enhances passing and assisting abilities, promoting effective teamwork. Its effectiveness is situational, as it doesn't directly contribute to scoring"
+        },
+        {
+          "itemName": "Lock (Style)",
+          "itemDescription": ""
         },
         {
           "itemName": "Sniper (Style)",
@@ -72,8 +96,20 @@
           "itemDescription": "Shortened steal cooldown and increased defense speed"
         },
         {
+          "itemName": "Speed Dribble (Zone)",
+          "itemDescription": ""
+        },
+        {
           "itemName": "Phantom (Style)",
           "itemDescription": "An epic style, versatile and reliable in offense. Possesses flashy moves, less powerful but easier to master"
+        },
+        {
+          "itemName": "Jackpot (Style)",
+          "itemDescription": ""
+        },
+        {
+          "itemName": "Chuck (Style)",
+          "itemDescription": ""
         }
       ]
     },
@@ -81,12 +117,25 @@
       "name": "C Tier",
       "data": [
         {
-          "itemName": "Sprinter (Zone)",
-          "itemDescription": "The zone slightly increases a player's speed with and without the ball, enhancing overall mobility on the court"
+          "itemName": "Hustle (Zone)",
+          "itemDescription": "Improves defensive capabilities by enhancing blocking and stealing, aiding in shutting down opponents and forcing turnovers"
         },
         {
           "itemName": "Clutch (Style)",
           "itemDescription": "A rare starting style. Provides basic skills but lacks power and range. Suitable for learning the fundamentals of the game"
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "data": [
+        {
+          "itemName": "Sprinter (Zone)",
+          "itemDescription": "The zone slightly increases a player's speed with and without the ball, enhancing overall mobility on the court"
+        },
+        {
+          "itemName": "Dime (Zone)",
+          "itemDescription": ""
         }
       ]
     }
