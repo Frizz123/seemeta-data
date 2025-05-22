@@ -14,11 +14,13 @@
       "name": "S Tier",
       "data": [
         {
-          "itemName": "Gustave",
-          "itemDescription": ""
+          "itemName": "Maelle",
+          "itemDescription": "",
+          "itemImage": "/games/images/clair-obscur-expedition-33/maelle.png",
+					"itemIcon": ""
         },
         {
-          "itemName": "Maelle",
+          "itemName": "Lune",
           "itemDescription": ""
         }
       ]
@@ -27,11 +29,11 @@
       "name": "A Tier",
       "data": [
         {
-          "itemName": "Lune",
+          "itemName": "Sciel",
           "itemDescription": ""
         },
         {
-          "itemName": "Sciel",
+          "itemName": "Verso",
           "itemDescription": ""
         }
       ]
@@ -40,14 +42,9 @@
       "name": "B Tier",
       "data": [
         {
-          "itemName": "Verso",
+          "itemName": "Gustave",
           "itemDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "C Tier",
-      "data": [
+        },
         {
           "itemName": "Monoco",
           "itemDescription": ""
