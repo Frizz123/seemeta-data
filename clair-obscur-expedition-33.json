@@ -21,7 +21,9 @@
         },
         {
           "itemName": "Lune",
-          "itemDescription": ""
+          "itemDescription": "",
+          "itemImage": "/games/images/clair-obscur-expedition-33/lune.webp",
+					"itemIcon": ""
         }
       ]
     },
@@ -30,11 +32,15 @@
       "data": [
         {
           "itemName": "Sciel",
-          "itemDescription": ""
+          "itemDescription": "",
+          "itemImage": "/games/images/clair-obscur-expedition-33/sciel.png",
+					"itemIcon": ""
         },
         {
           "itemName": "Verso",
-          "itemDescription": ""
+          "itemDescription": "",
+          "itemImage": "/games/images/clair-obscur-expedition-33/verso.png",
+					"itemIcon": ""
         }
       ]
     },
@@ -43,11 +49,15 @@
       "data": [
         {
           "itemName": "Gustave",
-          "itemDescription": ""
+          "itemDescription": "",
+          "itemImage": "/games/images/clair-obscur-expedition-33/gustave.png",
+					"itemIcon": ""
         },
         {
           "itemName": "Monoco",
-          "itemDescription": ""
+          "itemDescription": "",
+          "itemImage": "/games/images/clair-obscur-expedition-33/monoco.png",
+					"itemIcon": ""
         }
       ]
     }
