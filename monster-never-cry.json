@@ -5,7 +5,7 @@
 	"heading": "Monster Never Cry Tier List",
 	"introText": "Explore the definitive tier list for Monster Never Cry, featuring detailed descriptions and rankings of characters in S Tier, A Tier, B Tier, and C Tier. Discover the strengths and weaknesses of each character and gain insights into building the most formidable team for epic battles.",
 	"datePublished": "2024-06-15",
-	"dateModified": "2024-06-15",
+	"dateModified": "2025-05-23",
 	"langs": [
 		"en"
 	],
@@ -14,16 +14,70 @@
 			"name": "S Tier",
 			"data": [
 				{
-					"itemName": "The Immortal Warlord",
-					"itemDescription": "A formidable warrior known for his unmatched strength and indomitable will. His skills in combat are legendary, making him a top contender in any battle"
+					"itemName": "Vespa",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "The Arcane Sorceress",
-					"itemDescription": "Master of powerful magic spells, she can unleash devastating attacks on her enemies. Her ability to control the elements gives her a significant advantage"
+					"itemName": "Bastie",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "The Shadow Assassin",
-					"itemDescription": "A stealthy and agile fighter, capable of dealing lethal blows without being detected. His swift movements and deadly precision make him a deadly foe"
+					"itemName": "Avanzo",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Dracula",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Bertha",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Zenobia",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Octasia",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Elvana",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ashe",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lilith",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Venus",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -31,16 +85,52 @@
 			"name": "A Tier",
 			"data": [
 				{
-					"itemName": "The Divine Paladin",
-					"itemDescription": "A holy warrior blessed with divine powers, he can heal allies and smite enemies with righteous fury. His resilience in battle makes him a valuable asset"
+					"itemName": "Sylph",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "The Elemental Shaman",
-					"itemDescription": "Harnessing the forces of nature, he can summon elemental creatures and unleash elemental attacks. His versatility in combat makes him a versatile choice"
+					"itemName": "Tarani",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "The Mystic Enchanter",
-					"itemDescription": "Skilled in enchantments and illusions, she can confuse and manipulate enemies with her spells. Her cunning tactics make her a formidable opponent"
+					"itemName": "Medusa",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Dendrofest",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Coronis",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "SynderHelden",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Dullahan",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Undine",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -48,16 +138,46 @@
 			"name": "B Tier",
 			"data": [
 				{
-					"itemName": "The Savage Berserker",
-					"itemDescription": "Fueled by rage, he charges into battle with reckless abandon. While his strength is undeniable, his lack of control can be a liability"
+					"itemName": "Kukulkan",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "The Cunning Trickster",
-					"itemDescription": "Master of deception and trickery, he can outwit opponents with clever strategies and traps. His unpredictability makes him a tricky opponent to face"
+					"itemName": "Roosterai",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "The Swift Ranger",
-					"itemDescription": "A skilled archer and tracker, she excels at ranged combat and scouting. Her speed and agility give her an edge in maneuverability"
+					"itemName": "Sarcophagurl",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Sadora",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Micha",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Reddy",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "ShipShark",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -65,16 +185,165 @@
 			"name": "C Tier",
 			"data": [
 				{
-					"itemName": "The Plague Doctor",
-					"itemDescription": "Specializing in poisons and diseases, he can weaken enemies and disrupt their abilities. However, his frailty in direct combat puts him at a disadvantage"
+					"itemName": "Adlington",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "The Arcane Scholar",
-					"itemDescription": "Knowledgeable in arcane lore, he can cast powerful spells but lacks physical prowess. His reliance on magic makes him vulnerable in close-quarters combat"
+					"itemName": "Arachne",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "The Brutal Warlord",
-					"itemDescription": "A brutal and aggressive fighter, he relies on sheer force to overwhelm opponents. However, his lack of finesse and strategy can be exploited by more skilled adversaries"
+					"itemName": "Frogashi",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Gurnius",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Haborym",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Horace",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ivy",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Knightomaton",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Loki",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Mimir",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Oz",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Oul",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Jarm",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Barend",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Abagoen",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Bafomek",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Daisy",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Gargantelle",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Guardian I",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ina",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Klein",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kura",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Pania",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Pururu",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Rabby",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Yuno",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		}
