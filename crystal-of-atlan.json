@@ -16,19 +16,19 @@
 				{
 					"itemName": "Scytheguard",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/scytheguard.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Warlock",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/warlock.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Elementalist",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/elementalist.png",
 					"itemIcon": ""
 				}
 			]
@@ -39,31 +39,31 @@
 				{
 					"itemName": "Berserker",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/berserker.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Bounty Hunter",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/bounty-hunter.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Cloudstrider",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/cloudstrider.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Gunner",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/gunner.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Magiblade",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/magiblade.png",
 					"itemIcon": ""
 				}
 			]
@@ -74,19 +74,19 @@
 				{
 					"itemName": "Blademaiden",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/blademaiden.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Starbreaker",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/starbreaker.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Magician",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/magician.png",
 					"itemIcon": ""
 				}
 			]
@@ -97,31 +97,31 @@
 				{
 					"itemName": "Fighter",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/fighter.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Puppeteer",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/puppeteer.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Musketeer",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/musketeer.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Swordsman",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/swordsman.png",
 					"itemIcon": ""
 				},
 				{
 					"itemName": "Magister",
 					"itemDescription": "",
-					"itemImage": "",
+					"itemImage": "/games/images/crystal-of-atlan/magister.png",
 					"itemIcon": ""
 				}
 			]
