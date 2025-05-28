@@ -1,0 +1,195 @@
+{
+	"fileName": "summoners-war-rush.json",
+	"title": "Summoners War: Rush Tier List",
+	"description": "",
+	"heading": "Summoners War: Rush Tier List",
+	"introText": "",
+	"datePublished": "2025-05-28",
+	"dateModified": "2025-05-28",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Vanessa",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Alicia",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Delphoi",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Sabrina",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Cassandra",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ariel",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Charlotte",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Jeanne",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Verdehile",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Mei Hou Wang",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lapis",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Tetra",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Grogen",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Ophilia",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Chasun",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Feng Yan",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Shihwa",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Celestia",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Qitian Dasheng",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Rina",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Lushen",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Tesarion",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Galleon",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Allen",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Anne",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Shannon",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		}
+	]
+}
