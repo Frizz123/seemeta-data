@@ -1,0 +1,77 @@
+{
+	"fileName": "elden-ring-nightreign.json",
+	"title": "Elden Ring Nightreign Tier List",
+	"description": "",
+	"heading": "Elden Ring Nightreign Tier List",
+	"introText": "",
+	"datePublished": "2024-06-14",
+	"dateModified": "2025-05-31",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Ironeye",
+					"itemDescription": "",
+					"itemImage": "/games/images/elden-ring/ironeye.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Duchess",
+					"itemDescription": "",
+					"itemImage": "/games/images/elden-ring/duchess.png",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Raider",
+					"itemDescription": "",
+					"itemImage": "/games/images/elden-ring/raider.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Wylder",
+					"itemDescription": "",
+					"itemImage": "/games/images/elden-ring/wylder.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Guardian",
+					"itemDescription": "",
+					"itemImage": "/games/images/elden-ring/guardian.png",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Executor",
+					"itemDescription": "",
+					"itemImage": "/games/images/elden-ring/executor.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Recluse",
+					"itemDescription": "",
+					"itemImage": "/games/images/elden-ring/recluse.png",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Revenant",
+					"itemDescription": "",
+					"itemImage": "/games/images/elden-ring/revenant.png",
+					"itemIcon": ""
+				}
+			]
+		}
+	]
+}
