@@ -5,7 +5,7 @@
 	"heading": "Jujutsu Kaisen Phantom Parade Tier List",
 	"introText": "Explore the best characters in Jujutsu Kaisen Phantom Parade with our in-depth tier list, ranking each character from S to C tier based on their abilities, synergy, and impact on the game.",
 	"datePublished": "2024-10-28",
-	"dateModified": "2024-10-28",
+	"dateModified": "2025-06-02",
 	"langs": [
 		"en"
 	],
@@ -14,20 +14,124 @@
 			"name": "S Tier",
 			"data": [
 				{
-					"itemName": "Satoru Gojo",
-					"itemDescription": "With immense cursed energy and skills like Six Eyes and Limitless, Gojo is the strongest sorcerer. He can obliterate enemies in a single strike, making him invaluable in turn-based combat"
+					"itemName": "Ryomen Sukuna (Genuine Jujutsu)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Yuji Itadori",
-					"itemDescription": "The main character and vessel of the Curse King, Yuji combines superhuman strength, speed, and stamina, placing him among the game's top-tier characters"
+					"itemName": "Satoru Gojo (Within Infinity)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Aoi Todo",
-					"itemDescription": "Known for his destructive moves and Ultimate, which deals significant damage. He pairs well with Yuji, creating an unbeatable duo"
+					"itemName": "Yuta Okkotsu (Lend Me Your Power)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Kento Nanami",
-					"itemDescription": "A Grade 1 sorcerer and skilled swordsman; his precise strikes make him effective in eliminating enemies with swift cuts"
+					"itemName": "Megumi Fushiguro (Incomplete Domain)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Yuji Itadori (Zone)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Momo Nishimiya (Don't Look Down On Me)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Suguru Geto (This Is Justice)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Satoru Gojo (Hollow Purple)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Satoru Gojo Teen (The Strongest Blue)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Satoru Gojo (The Strongest)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Toji Fushiguro (The Sorcerer Killer)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Yoshinobu Gakuganji (Cursed Energy Melody)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Masamichi Yaga (Ariadne's Thread Educator)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Masamichi Yaga (Cursed Corpse Battle)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Suguru Geto Teen (To Protect Non-Sorcerers)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Toge Inumaki (Shatter To Pieces)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Toge Inumaki (Cursed Power of Words)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kaito Yuki (Cursed Technique Boost)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Megumi Fushiguro (Bond of Friendship)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Mahito (Inspiration From \"Death\")",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -35,20 +139,82 @@
 			"name": "A Tier",
 			"data": [
 				{
-					"itemName": "Megumi Fushiguro",
-					"itemDescription": "Despite his Grade 2 status, Megumi’s high stats and skillset make him formidable. He excels with shikigami summons and weapon skills, adding strong tactical options to the team"
+					"itemName": "Nobara Kugisaki (Girl Of Steel)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Maki Zenin",
-					"itemDescription": "Although she lacks sorcerer powers, Maki's exceptional combat skills and weapon mastery allow her to stand against powerful foes. Ideal for players who prioritize physical prowess over jujutsu"
+					"itemName": "Kento Nanami (Working Overtime)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Toge Inumaki",
-					"itemDescription": "With his unique cursed speech ability, Toge can control or damage enemies with his words. His powerful, dynamic skill animations make him a distinctive choice"
+					"itemName": "Nobara Kugisaki (Keep Hammering At Them)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Masamichi Yaga",
-					"itemDescription": "The school’s principal and skilled puppet master, Yaga brings versatility with his ability to control corpses, though his power level is limited in battle"
+					"itemName": "Mai Zen'in (The Final Bullet)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Junpei Yoshino (Young Fish And Reverse Punishment)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kaito Yuki (The Resolve Of Being A Sorcerer)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Hanami (The Thrill Of The Fight)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kento Nanami (Ex-Office Worker Turned Jujutsu Sorcerer)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Maki Zen'in (Team Up If They Are Weak)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Yuji Itadori (Nimble Body)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Nobara Kugisaki (A Bad Match)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Maki Zen'in (Longsword Battle)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Yuji Itadori (Cursed Energy Flashes Black)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -56,24 +222,70 @@
 			"name": "B Tier",
 			"data": [
 				{
-					"itemName": "Nobara Kugisaki",
-					"itemDescription": "A Grade 3 sorcerer whose abilities are largely copy-pasted from her anime counterpart, placing her in Tier B. Her weapon play is engaging, but she excels more in defense than offense"
+					"itemName": "Megumi Fushiguro (Inherited Cursed Technique)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Panda",
-					"itemDescription": "Created by Masamichi Yaga, Panda has two transformations and decent jujutsu skills. Despite his versatility, his damage output rarely surpasses triple digits"
+					"itemName": "Panda (Don't Underestimate A Puppet)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Noritoshi Kamo",
-					"itemDescription": "Considered one of the most well-rounded characters in Phantom Parade, though he lacks scale. Unlike his anime persona, this former Kamo Clan heir doesn’t display the same killer instinct"
+					"itemName": "Kasumi Miwa (Zanshin)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Mai Zenin",
-					"itemDescription": "Maki’s twin sister with limited jujutsu skills, but skilled with firearms. While she looks cool in battle, her moves lack significant impact"
+					"itemName": "Kaito Yuki (With That Will In Mind)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Ultimate Mechamaru",
-					"itemDescription": "A fusion of technology and sorcery, effective in early stages but struggles against stronger curses. Feels overpowered at first, but shows limits as enemies grow tougher.\nSaki Rindo & Kaito Yuki: Both exclusive to the game and first-year students at Fukuoka Jujutsu High. Their raw skills reflect their inexperience but hint at potential if you’re able to unlock it"
+					"itemName": "Momo Nishimiya (Aerial Reconnaissance)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kiyotaka Ijichi (Background Support)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Mai Zen'in (A Clever Bullet)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Aoi Todo (Blast From The Past)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kasumi Miwa (Determined Counter)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Jogo (Pride Of A Cursed Spirit)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kento Nanami (Ratio Technique)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -81,22 +293,156 @@
 			"name": "C Tier",
 			"data": [
 				{
-					"itemName": "Momo Nishimiya",
-					"itemDescription": "A current student with minimal jujutsu skills. Despite her training, her abilities are lackluster in combat"
+					"itemName": "Yuji Itadori (Infuse Your Cursed Energy)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Kasumi Miwa",
-					"itemDescription": "Another student with very limited jujutsu. Her skill set is below average, making her one of the weaker characters"
+					"itemName": "Toge Inumaki (Resolved Cursed Speech)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Kiyotaka Ijichi",
-					"itemDescription": "More suited to administrative work than combat, Ijichi struggles in the game’s turn-based RPG format"
+					"itemName": "Miguel (Delayed Quota)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Shoko Ieiri",
-					"itemDescription": "A healer who uses the Reversed Curse Technique to support teammates. Though not strong in combat, her healing abilities justify her place in the game"
+					"itemName": "Ultimate Mechamaru (Sword Option)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Saki Rindo (Heart's Resolve)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Panda (Need Some Help)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Toge Inumaki (The Baton Of Counterattack)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ultimate Mechamaru (Mode Albatross)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Saki Rindo (Just Bring It)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Shoko Ieiri (Reverse Cursed Technique)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Aoi Todo (With Takada-Chan)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Kento Nanami (First-Grade Sorcerer's Skill)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Maki Zen'in (Team Up If They Are Weak)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Noritoshi Kamo (Blood Borne Resolve)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "D Tier",
+			"data": [
+				{
+					"itemName": "Panda (Panda Is Not A Panda)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Megumi Fushiguro (Unfair Salvation)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Maki Ze’nin (Innate Talent)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Nobara Kugisaki (To Stay True To Myself)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Saki Rindo (Cursed Energy Catastrophe)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Panda (Take The Shortest Way)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Yuji Itadori (Sukuna’s Vessel)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Aoi Todo (Reckless Grade 1)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Junpei Yoshino (Value Of Life)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Noritoshi Kamo (Blood of the Big Three Families)",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		}
 	]
 }
+	
