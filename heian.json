@@ -1,0 +1,100 @@
+{
+	"fileName": "heian.json",
+	"title": "Heian Tier List",
+	"description": "",
+	"heading": "Heian Tier List",
+	"introText": "",
+	"datePublished": "2025-06-08",
+	"dateModified": "2025-06-08",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Shrine",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Limitless",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Cursed Energy Discharge",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Sword Saint",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Mythical Beast Amber",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Projection",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Blazing Courage",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Blood Manipulation",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Auspicious Beasts",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ratio",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Ice Formation",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		}
+	]
+}
