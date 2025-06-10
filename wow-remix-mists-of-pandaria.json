@@ -5,146 +5,270 @@
     "heading": "WoW Remix: Mists of Pandaria Class Tier List",
     "introText": "This is a tier list for the best classes to play in WoW Remix: Mists of Pandaria. The list is based on the performance of each class in various aspects of the game, such as raids, dungeons, and PvP. The classes are ranked into S Tier, A Tier, B Tier, and C Tier. S Tier classes are the best overall classes, while C Tier classes are the weakest. This tier list is based on the current state of WoW Remix: Mists of Pandaria. It is important to note that the meta may change over time, so it is always a good idea to experiment with different classes and specs to find what works best for you.",
     "datePublished": "2024-05-16",
-    "dateModified": "2025-02-11",
-    "langs": [
-        "en"
-    ],
-    "tiers": [
-        {
-            "name": "S Tier",
-            "data": [
-                {
-                    "itemName": "Subtlety Rogue",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Arcane Mage",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Arms Warrior",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Enhancement Shaman",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Demonology Warlock",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Havoc Demon Hunter",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Mistweaver Monk",
-                    "itemDescription": "Healer"
-                },
-                {
-                    "itemName": "Discipline Priest",
-                    "itemDescription": "Healer"
-                },
-                {
-                    "itemName": "Protection Paladin",
-                    "itemDescription": "Tank"
-                },
-                {
-                    "itemName": "Blood Death Knight",
-                    "itemDescription": "Tank"
-                },
-                {
-                    "itemName": "Guardian Druid",
-                    "itemDescription": "Tank"
-                }
-            ]
-        },
-        {
-            "name": "A Tier",
-            "data": [
-                {
-                    "itemName": "Marksmanship Hunter",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Windwalker Monk",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Fire Mage",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Fury Warrior",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Shadow Priest",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Holy Priest",
-                    "itemDescription": "Healer"
-                },
-                {
-                    "itemName": "Restoration Shaman",
-                    "itemDescription": "Healer"
-                },
-                {
-                    "itemName": "Brewmaster Monk",
-                    "itemDescription": "Tank"
-                },
-                {
-                    "itemName": "Vengeance Demon Hunter",
-                    "itemDescription": "Tank"
-                }
-            ]
-        },
-        {
-            "name": "B Tier",
-            "data": [
-                {
-                    "itemName": "Balance Druid",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Beast Mastery Hunter",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Survival Hunter",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Elemental Shaman",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Affliction Warlock",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Holy Paladin",
-                    "itemDescription": "Healer"
-                },
-                {
-                    "itemName": "Warrior Tank",
-                    "itemDescription": "Tank"
-                }
-            ]
-        },
-        {
-            "name": "C Tier",
-            "data": [
-                {
-                    "itemName": "Retribution Paladin",
-                    "itemDescription": "DPS"
-                },
-                {
-                    "itemName": "Feral Druid",
-                    "itemDescription": "DPS"
-                }
-            ]
-        }
-    ]
+   "dateModified": "2025-06-10",
+	"langs": [
+		"en"
+	],
+	"tiers": [
+		{
+			"name": "S Tier",
+			"data": [
+				{
+					"itemName": "Subtlety Rogue",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Arcane Mage",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Arms Warrior",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Enhancement Shaman",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Demonology Warlock",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Havoc Demon Hunter",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Mistweaver Monk",
+					"itemDescription": "Healer",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Discipline Priest",
+					"itemDescription": "Healer",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Vengeance Demon Hunter",
+					"itemDescription": "Tank",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Blood Death Knight",
+					"itemDescription": "Tank",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "A Tier",
+			"data": [
+				{
+					"itemName": "Frost Mage",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Devastation Evoker",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Marksmanship Hunter",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Windwalker Monk",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Shadow Priest",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Retribution Paladin",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Beast Mastery Hunter",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Balance Druid",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Unholy Death Knight",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Outlaw Rogue",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Restoration Shaman",
+					"itemDescription": "Healer",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Preservation Evoker",
+					"itemDescription": "Healer",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Protection Paladin",
+					"itemDescription": "Tank",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Protection Warrior",
+					"itemDescription": "Tank",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "B Tier",
+			"data": [
+				{
+					"itemName": "Survival Hunter",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Elemental Shaman",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Fire Mage",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Fury Warrior",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Frost Death Knight",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Affliction Warlock",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Destruction Warlock",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Feral Druid",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Holy Priest",
+					"itemDescription": "Healer",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Brewmaster Monk",
+					"itemDescription": "Tank",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Guardian Druid",
+					"itemDescription": "Tank",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		},
+		{
+			"name": "C Tier",
+			"data": [
+				{
+					"itemName": "Augmentation Evoker",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Assassination Rogue",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Affliction Warlock",
+					"itemDescription": "DPS",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Holy Paladin",
+					"itemDescription": "Healer",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Restoration Druid",
+					"itemDescription": "Healer",
+					"itemImage": "",
+					"itemIcon": ""
+				}
+			]
+		}
+	]
 }

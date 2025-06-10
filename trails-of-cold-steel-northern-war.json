@@ -5,7 +5,7 @@
 	"heading": "Trails of Cold Steel: Northern War Tier List",
 	"introText": "This is a tier list for the characters in the mobile game Trails of Cold Steel: Northern War. The characters are ranked from S Tier to C Tier, with S Tier being the best and C Tier being the worst. The tier list is based on my own personal opinion and experience, and your own tier list may vary depending on your playstyle and preferences.",
 	"datePublished": "2024-05-29",
-	"dateModified": "2024-05-29",
+	"dateModified": "2025-06-10",
 	"langs": [
 		"en"
 	],
@@ -15,15 +15,21 @@
 			"data": [
 				{
 					"itemName": "Rean Schwarzer",
-					"itemDescription": "The main protagonist of the Trails of Cold Steel series, Rean is a powerful swordsman with a wide range of arts and crafts. He is also a skilled strategist and leader, making him a valuable asset to any team"
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Laura S. Arseid",
-					"itemDescription": "A fellow Class VII student and Rean's love interest, Laura is a skilled archer with a strong sense of justice. She is also a powerful physical attacker, and her S-Craft, \"Valiant Strike,\" can deal massive damage to a single enemy"
+					"itemName": "Ennea",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Emma Millstein",
-					"itemDescription": "The healer of Class VII, Emma is a skilled apothecary with a wide range of healing and support arts. She is also a capable attacker, and her S-Craft, \"Divine Miracle,\" can heal the entire party and grant them a temporary stat boost"
+					"itemName": "Lavian Winslet",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -31,16 +37,46 @@
 			"name": "A Tier",
 			"data": [
 				{
-					"itemName": "Jusis Albarea",
-					"itemDescription": "A noble from the Erebonian Empire, Jusis is a skilled swordsman and mage. He is also a knowledgeable strategist, and his insights can be invaluable in battle"
+					"itemName": "Lloyd Bannings",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Alisa Reinford",
-					"itemDescription": "A tomboyish engineer from the Hexatheon family, Alisa is a skilled craftswoman with a knack for creating powerful gadgets. She is also a capable attacker, and her S-Craft, \"Tessa Drive,\" can deal massive damage to all enemies"
+					"itemName": "Elie MacDowell",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Machias Reimarck",
-					"itemDescription": "A commoner from the Republic of Jurai, Machias is a skilled swordsman with a strong sense of justice. He is also a capable attacker, and his S-Craft, \"Thunderclap,\" can deal massive damage to a single enemy"
+					"itemName": "Tita Russell",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Iseria Frost",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Fie Claussell",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Martin S. Robinson",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Claire Rieveldt",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -48,16 +84,46 @@
 			"name": "B Tier",
 			"data": [
 				{
+					"itemName": "Scherazard Harvey",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Agate Crosner",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Talion Drake",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Estelle Bright",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Rogan Mugart",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
+					"itemName": "Gilbert Stein",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
+				},
+				{
 					"itemName": "Tio Plato",
-					"itemDescription": "A mysterious girl with a hidden past, Tio is a skilled mage with a wide range of offensive and support arts. She is also a capable attacker, and her S-Craft, \"Pandora's Box,\" can deal massive damage to all enemies"
-				},
-				{
-					"itemName": "Milliam Vander",
-					"itemDescription": "A young boy with a powerful but unstable curse, Milliam is a skilled mage with a limited range of arts. However, his arts are all incredibly powerful, and his S-Craft, \"Abyssal Gate,\" can deal massive damage to all enemies"
-				},
-				{
-					"itemName": "Sara Valestein",
-					"itemDescription": "An instructor at Thors Military Academy, Sara is a skilled swordsman with a strong sense of duty. She is also a capable attacker, and her S-Craft, \"Crescent Blade,\" can deal massive damage to a single enemy"
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		},
@@ -65,12 +131,16 @@
 			"name": "C Tier",
 			"data": [
 				{
-					"itemName": "Kurt Vander",
-					"itemDescription": "Milliam's older brother and a skilled swordsman, Kurt is a playable character in Trails of Cold Steel III and IV, but he is not available in Trails of Cold Steel: Northern War"
+					"itemName": "Lechter Arundel",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				},
 				{
-					"itemName": "Olivier Reisear",
-					"itemDescription": "A renowned musician and spy, Olivier is a playable character in Trails of Cold Steel I and II, but he is not available in Trails of Cold Steel: Northern War"
+					"itemName": "Dubarry",
+					"itemDescription": "",
+					"itemImage": "",
+					"itemIcon": ""
 				}
 			]
 		}
